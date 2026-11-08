@@ -1,14 +1,20 @@
 {
- "pool": [
-  "TX",
-  "OH",
-  "KS",
-  "IA",
+ "mode": "all states",
+ "states": 50,
+ "full_states": [
   "AK",
+  "IA",
+  "IN",
+  "KS",
   "MS",
+  "OH",
   "SC",
-  "IN"
+  "TX"
  ],
- "missing_from_pool": [],
- "b_scope": ", estimated from the 1994\u20132022 midterms of Texas, Ohio, Kansas, Iowa, Alaska, Mississippi, South Carolina and Indiana together"
+ "extra_offices": [
+  "us_senate",
+  "governor"
+ ],
+ "b_scope": ", estimated from the 1994\u20132022 midterms of U.S. Senate races in all 50 states, governor races in the 37 states that elected governors in those years and every statewide office in Alaska, Iowa, Indiana, Kansas, Mississippi, Ohio, South Carolina and Texas, together",
+ "description": "U.S. Senate races in all 50 states, governor races in the 37 states that elected governors in those years and every statewide office in Alaska, Iowa, Indiana, Kansas, Mississippi, Ohio, South Carolina and Texas"
 }

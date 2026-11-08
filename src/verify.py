@@ -38,5 +38,12 @@ n += 1
 if not filecmp.cmp(os.path.join(B, "pool.json"), os.path.join(DD, "pool.json"), shallow=False):
     bad += 1
     print("DIFFERS pool.json")
+pc = os.path.join(os.path.dirname(os.path.abspath(B)), "pool_comparison")
+for f in ("b_by_pool.csv", "races_by_pool.csv", "comparison.csv"):
+    if os.path.exists(os.path.join(pc, f)):
+        n += 1
+        if not filecmp.cmp(os.path.join(pc, f), os.path.join(DD, "pool_comparison", f), shallow=False):
+            bad += 1
+            print("DIFFERS pool_comparison", f)
 print(f"verify: {n - bad} of {n} outputs match" + (" (tolerant)" if tol else ""))
 sys.exit(1 if bad else 0)

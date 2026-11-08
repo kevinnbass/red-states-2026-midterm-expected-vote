@@ -58,17 +58,16 @@ for i, st in enumerate(ORDER):
         f = lambda k: float(x[k])
         ra, da = f("rep"), f("dem")
         rec = {"race": re.sub(r"\s*\(.*\)$", "", race) + (f" ({len(seats)} seats, average)" if len(seats) > 1 else ""), "ra": ra, "da": da,
-               "plain": {"r": 100 * (ra / f("expected_rep") - 1), "d": 100 * (da / f("expected_dem") - 1), "re": f("expected_rep"), "de": f("expected_dem")},
                "inc": {"r": 100 * (ra / f("expected_inc_rep") - 1), "d": 100 * (da / f("expected_inc_dem") - 1),
                        "re": f("expected_inc_rep"), "de": f("expected_inc_dem")}}
         races.append(rec)
         who = "; ".join(f"{g26[r]['rep_nominee']} (R) · {g26[r]['dem_nominee']} (D)" for r in seats)
         rows.append(f"<tr><td class='l'><span class='rn'>{e(rec['race'])}</span><span class='who'>{e(who)}</span></td>"
-                    f"<td>{int(ra):,}</td><td>{int(f('expected_rep')):,}</td><td class='dv'>{kk(ra - f('expected_rep'))}</td><td class='dv'>{kk(ra - f('expected_inc_rep'))}</td>"
-                    f"<td class='sep'>{int(da):,}</td><td>{int(f('expected_dem')):,}</td><td class='dv'>{kk(da - f('expected_dem'))}</td><td class='dv'>{kk(da - f('expected_inc_dem'))}</td></tr>")
+                    f"<td>{int(ra):,}</td><td>{int(f('expected_inc_rep')):,}</td><td class='dv'>{kk(ra - f('expected_inc_rep'))}</td>"
+                    f"<td class='sep'>{int(da):,}</td><td>{int(f('expected_inc_dem')):,}</td><td class='dv'>{kk(da - f('expected_inc_dem'))}</td></tr>")
     DATA["overview"].append({"name": name, "races": races})
-    nd = sum(r["plain"]["d"] > 0 for r in races)
-    nr = sum(r["plain"]["r"] < 0 for r in races)
+    nd = sum(r["inc"]["d"] > 0 for r in races)
+    nr = sum(r["inc"]["r"] < 0 for r in races)
     tot_d, tot_r, tot_n = tot_d + nd, tot_r + nr, tot_n + len(races)
     summ.append((name, nd, nr, len(races)))
     # figures
@@ -81,7 +80,7 @@ for i, st in enumerate(ORDER):
         return f"figures/{s}/{rel}", w, h
 
     cards = []
-    for k, inc in ((1, False), (2, True)):
+    for k, inc in ((1, True),):  # only the expectation adjusted for the president's party
         t = "_incumbency" if inc else ""
         views = [("Whole figure", f"{s}{t}_history_and_expected.png" if inc else f"{s}_history_and_expected.png"),
                  ("Left: 1994–2026", f"panels/{s}_history{t}.png"),
@@ -97,23 +96,23 @@ for i, st in enumerate(ORDER):
             btns.append(f'<button type="button" aria-pressed="{"true" if j == 0 else "false"}" data-src="{src}" data-w="{w}" data-h="{h}" '
                         f'data-alt="{e(alt, quote=True)}" data-cap="{e(cap, quote=True)}">{e(lab)}</button>')
         src, w, h, alt, cap = first
-        cards.append(f'<figure class="figcard"><div class="fc-head"><p class="chart-title">Figure {k} · {"Adjusted for the president’s party" if inc else "Plain expectation"}</p>'
+        cards.append(f'<figure class="figcard"><div class="fc-head"><p class="chart-title">{name}: actual vs. expected votes, adjusted for the president’s party</p>'
                      f'<div class="views" role="group" aria-label="View">{"".join(btns)}</div></div>'
                      f'<img class="fig" src="{src}" width="{w}" height="{h}" alt="{e(alt, quote=True)}" loading="lazy">'
                      f'<button type="button" class="full" data-src="{src}" data-cap="{e(cap, quote=True)}">View full size</button></figure>')
     wr = LINKS.get("writeups", {}).get(st)
     nd_i = sum(r["inc"]["d"] > 0 for r in races)
     nr_i = sum(r["inc"]["r"] < 0 for r in races)
-    lead = (f"Democratic nominees ran above the plain expectation in {nd} of {len(races)} statewide race{'s' if len(races) > 1 else ''} and "
-            f"Republican nominees below it in {nr} of {len(races)}; adjusted for the president's party, {nd_i} and {nr_i}.")
+    lead = (f"Democratic nominees ran above the expected vote in {nd} of {len(races)} statewide race{'s' if len(races) > 1 else ''} and "
+            f"Republican nominees below it in {nr} of {len(races)}.")
     notes = "".join(f"<li>{e(n)}</li>" for n in c.get("notes", []))
     panels.append(f"""<div class="statepanel" id="p-{s}" role="tabpanel" aria-labelledby="t-{s}"{"" if i == 0 else " hidden"}>
     <div class="text"><h3>{name}</h3><p>{lead}{f' <a href="{wr}">What moved the {name} vote →</a>' if wr else ''}</p></div>
     {"".join(cards)}
     <div class="tblwrap wide"><table class="races">
       <caption class="sr">{name} 2026: actual and expected votes by race</caption>
-      <thead><tr class="grp"><th></th><th colspan="4"><span class="sw r"></span>Republican</th><th colspan="4" class="sep"><span class="sw d"></span>Democrat</th></tr>
-      <tr><th class="l">2026 race</th><th>Actual</th><th>Expected</th><th>Actual − expected</th><th>vs. adjusted</th><th class="sep">Actual</th><th>Expected</th><th>Actual − expected</th><th>vs. adjusted</th></tr></thead>
+      <thead><tr class="grp"><th></th><th colspan="3"><span class="sw r"></span>Republican</th><th colspan="3" class="sep"><span class="sw d"></span>Democrat</th></tr>
+      <tr><th class="l">2026 race</th><th>Actual</th><th>Expected</th><th>Actual − expected</th><th class="sep">Actual</th><th>Expected</th><th>Actual − expected</th></tr></thead>
       <tbody>{"".join(rows)}</tbody></table></div>
     <div class="text"><ul class="plain small"><li>{e(c['asof'][0].upper() + c['asof'][1:])}.</li>{notes}</ul></div>
   </div>""")
@@ -121,12 +120,38 @@ for i, st in enumerate(ORDER):
     srcs.append(f"<li><b>{name}:</b> {e(c['source'])}.</li>")
     asof_states.append(f"{name}: {e(c['asof'])}.")
 
-pool_names = ", ".join(NAMES[s] for s in POOL["pool"][:-1]) + " and " + NAMES[POOL["pool"][-1]]
+PLAB = [("own", "This state only"), ("published", "First version: 8 states, offices on the 2026 ballot"),
+        ("senate50", "Senate races in all 50 states, plus this state"), ("everything", "All states (used in the figures)"),
+        ("everything_byparty", "All states, one slope per party")]
+cmp_path = os.path.join(RUN, "..", "pool_comparison", "comparison.csv")
+CMP = {(r["state"], r["pool"]): r for r in csv.DictReader(open(cmp_path))} if os.path.exists(cmp_path) else {}
+OFFN = {"governor": "Governor", "us_senate": "Senate", "secretary_of_state": "Secretary of State"}
+if CMP:
+    head = "".join(f"<th>{e(l)}</th>" for _, l in PLAB)
+    body = []
+    for st in ORDER + ["TX"]:
+        cells = []
+        for k, _ in PLAB:
+            r = CMP[(st, k)]
+            bt = f"b {float(r['b2026']):+.1f}".replace("-", MINUS) + (f" R, {float(r['b2026_dem']):+.1f} D".replace("-", MINUS) if r["b2026_dem"] else "")
+            cells.append(f"<td><span class='g'>R {kk(int(r['main_dev_inc_rep']))} · D {kk(int(r['main_dev_inc_dem']))}</span>"
+                         f"<span class='bb'>{bt}; {r['dem_above']} D above, {r['rep_below']} R below, of {r['races']}</span></td>")
+        body.append(f"<tr><td class='l'><span class='rn'>{NAMES[st]}</span><span class='who'>{OFFN[r['main_office']]}</span></td>{''.join(cells)}</tr>")
+    V["pool_table"] = (f'<div class="tblwrap wide"><table class="pools"><caption class="sr">Main race gap against the adjusted expectation under '
+                       f'each pool</caption><thead><tr><th class="l">State, main race</th>{head}</tr></thead><tbody>{"".join(body)}</tbody></table></div>')
+    bp = [(float(r["b2026"]), float(r["b2026_dem"])) for (st, k), r in CMP.items() if k == "everything_byparty"]
+    lo = lambda xs: f"{min(xs):+.1f}".replace("-", MINUS)
+    hi = lambda xs: f"{max(xs):+.1f}".replace("-", MINUS)
+    V["pool_party_note"] = (f"Estimated separately for each party (last column), the effect is {lo([a for a, _ in bp])} to {hi([a for a, _ in bp])} points "
+                            f"for Republicans and {lo([b for _, b in bp])} to {hi([b for _, b in bp])} for Democrats, depending on the state's own offices.")
+else:
+    V["pool_table"] = V["pool_party_note"] = ""
+pool_names = POOL["description"]
 b26 = next(float(r["inc_b"]) for r in csv.DictReader(open(os.path.join(RUN, ORDER[0], "expected.csv"))) if r["year"] == "2026")
 V["style"] = open(os.path.join(HERE, "style.css.part"), encoding="utf-8").read().replace("</style>", open(os.path.join(HERE, "extra.css"), encoding="utf-8").read() + "</style>")
 V["kicker"] = " · ".join(NAMES[s] for s in ORDER) + " · Nov. 3, 2026"
 V["dek"] = (f"For each statewide race on the 2026 ballot, the vote each party would get if the office followed its own 1994–2022 midterm "
-            f"pattern, set against the unofficial count. Across {tot_n} races, the Democratic nominee ran above that expected vote in "
+            f"pattern, with the usual midterm loss for the party holding the White House, set against the unofficial count. Across {tot_n} races, the Democratic nominee ran above that expected vote in "
             f"<b>{tot_d}</b> and the Republican nominee below it in <b>{tot_r}</b>.")
 V["asof"] = "2026 counts are unofficial and differ by state in how complete they are; see each state and the method notes."
 V["ov_h2"] = (f"Democratic nominees ran above expectation in {tot_d} of {tot_n} races; Republican nominees ran below it in {tot_r}")

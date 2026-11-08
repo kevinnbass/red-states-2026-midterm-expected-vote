@@ -1,15 +1,4 @@
 {
- "pool": [
-  "TX",
-  "OH",
-  "KS",
-  "IA",
-  "AK",
-  "MS",
-  "SC",
-  "IN"
- ],
- "b_scope": ", estimated from the 1994–2022 midterms of {pool_names} together",
  "states": {
   "OH": {
    "name": "Ohio",
@@ -118,5 +107,6 @@
     ]
    }
   }
- }
+ },
+ "pool_dir": "pool50"
 }

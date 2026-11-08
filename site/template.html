@@ -22,11 +22,7 @@
     <h2>{{ov_h2}}</h2>
     <p>{{ov_p}}</p>
   </div>
-  <div class="seg" role="group" aria-label="Expectation">
-    <button type="button" data-exp="plain" aria-pressed="true">Plain expectation</button>
-    <button type="button" data-exp="inc" aria-pressed="false">Adjusted for the president's party</button>
-  </div>
-  <figure class="ch wide"><p class="chart-title">Actual vote as % above or below the expected vote, every 2026 statewide race</p><div id="ch-ov"></div>
+  <figure class="ch wide"><p class="chart-title">Actual vote as % above or below the expected vote (adjusted for the president's party), every 2026 statewide race</p><div id="ch-ov"></div>
     <figcaption>Each dot is one party's nominee in one race. 0 = exactly the expected vote. Hover or focus a dot for the race and votes.</figcaption></figure>
 </div></section>
 
@@ -34,8 +30,8 @@
   <div class="text">
     <p class="eyebrow">State by state</p>
     <h2>The figures</h2>
-    <p>Pick a state. Figure 1 compares each race with the office's plain 1994–2022 pattern; Figure 2 adds the usual midterm penalty for
-      the president's party. Each figure has a 1994–2026 history on the left and the 2018, 2022 and 2026 races on the right.</p>
+    <p>Pick a state. Each figure compares every race with the office's own 1994–2022 pattern, adjusted for the usual midterm loss of the
+      party holding the White House: a 1994–2026 history on the left, and the 2018, 2022 and 2026 races on the right.</p>
   </div>
   <div class="statebar" role="tablist" aria-label="State">{{state_tabs}}</div>
   {{state_panels}}
@@ -45,16 +41,23 @@
   <p class="eyebrow">Method</p>
   <h2>How the expected vote is computed</h2>
   <ul class="plain">
-    <li><b>Plain expectation.</b> For each office, the ratio of a party's midterm vote to its presidential vote in the state two years
-      earlier, averaged over the 1994–2022 midterms; the 2026 expectation is the 2024 presidential vote times that average. For 2018 and
-      2022 the year itself is left out of the average.</li>
-    <li><b>Adjusted for the president's party.</b> The ratio = an office-and-party baseline + an effect for holding the White House. The
-      effect is one number estimated from the 1994–2022 midterms of {{pool_names}} together (each office keeps its own state's baseline):
-      {{b26}} points of the presidential vote for 2026, leaving out the year shown.</li>
+    <li><b>Expected vote.</b> For each office and party, the ratio of the party's midterm vote to its presidential vote in the state two
+      years earlier = an office-and-party baseline + an effect for holding the White House. The baseline is the state's own 1994–2022
+      history for that office. The effect is one number estimated from the 1994–2022 midterms of {{pool_names}}: {{b26}} points of the presidential vote for 2026.
+      The 2026 expectation is the 2024 presidential vote times (baseline + effect for the party holding the White House). For 2018 and 2022
+      the year itself is left out.</li>
     <li><b>Votes</b> are the Republican and Democratic nominees' own party-line votes. Alaska since 2022 has no party nominees; there
       each party's vote is the combined first-choice vote of its candidates.</li>
     <li><b>2026 counts are unofficial.</b> {{asof_states}}</li>
   </ul>
+  <h3>How much the pool matters</h3>
+  <p>The president's-party effect can be estimated from one state's history or from many. One state alone gives unstable numbers
+    (Alaska's own history even gives the wrong sign), so the figures use every state with data. The table shows each state's main race
+    under five choices: the gap between the actual vote and the adjusted expected vote, the effect b used, and how many races land on each
+    side. {{pool_party_note}}</p>
+</div>
+  {{pool_table}}
+<div class="text">
   <h3>Sources by state</h3>
   <ul class="plain">{{sources}}</ul>
 </div></div>
@@ -115,9 +118,7 @@
       });
     });
   }
-  var segBtns = document.querySelectorAll('.seg button');
-  segBtns.forEach(function (b) { b.addEventListener('click', function () { segBtns.forEach(function (x) { x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); }); overview(b.getAttribute('data-exp')); }); });
-  overview('plain');
+  overview('inc');
 
   // state tabs
   var tabs = Array.prototype.slice.call(document.querySelectorAll('.statebar [role=tab]'));

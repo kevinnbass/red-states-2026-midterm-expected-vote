@@ -72,10 +72,7 @@ const lb = await c.ev(`[!document.getElementById('lb').hidden, document.getEleme
 check('full-size view opens with the selected image and focuses Close', lb[0] && lb[1] && lb[2] === 'lb-x', JSON.stringify(lb));
 await c.send('Input.dispatchKeyEvent', { type: 'keyDown', key: 'Escape', code: 'Escape', windowsVirtualKeyCode: 27 }); await sleep(300);
 check('Escape closes the full-size view', await c.ev(`document.getElementById('lb').hidden`));
-const before = await c.ev(`document.querySelector('#ch-ov svg').innerHTML.length`);
-await c.ev(`document.querySelector('.seg button[data-exp=inc]').click()`); await sleep(200);
-const after = await c.ev(`[document.querySelector('#ch-ov svg').innerHTML.length, document.querySelector('.seg button[data-exp=inc]').getAttribute('aria-pressed')]`);
-check('expectation toggle redraws the overview', after[1] === 'true' && after[0] > 0, JSON.stringify([before, after]));
+check('one figure per state, no plain-expectation leftovers', await c.ev(`[...document.querySelectorAll('.statepanel')].every(p => p.querySelectorAll('.figcard').length === 1) && !/plain expectation/i.test(document.body.innerText)`));
 for (const [i, u] of writeups.entries()) await common(c, u, `writeup ${i + 1}`);
 writeFileSync(`${out}/test_results.txt`, results.join('\n') + '\n');
 console.log(results.join('\n'));

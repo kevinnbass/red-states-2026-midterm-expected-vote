@@ -29,3 +29,7 @@ svg.chart circle.dotp:hover{stroke:var(--ink);stroke-width:1.5}
 .lb-bar button{font:600 14px var(--body);background:#f2f1ec;color:#121210;border:0;border-radius:999px;padding:6px 14px;cursor:pointer}
 .lb-body{flex:1;overflow:auto;padding-block:0 calc(16px + env(safe-area-inset-bottom, 0px));padding-left:max(16px, env(safe-area-inset-left, 0px));padding-right:max(16px, env(safe-area-inset-right, 0px))}
 .lb-body img{display:block;max-width:none;height:auto;background:#fcfcfb}
+table.pools td{vertical-align:top}
+table.pools td .g{display:block;font-weight:650;white-space:nowrap}
+table.pools td .bb{display:block;color:var(--muted);font-size:12.5px;line-height:1.35}
+table.pools th{min-width:120px}

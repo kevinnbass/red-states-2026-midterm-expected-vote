@@ -338,11 +338,9 @@ def main():
     P = lambda n: os.path.join(o.out_dir, "panels", n)
     op = os.path.join(os.path.dirname(o.expected_csv), "one_party_races.csv")
     one = {(r["office"], int(r["year"])): r["label"] for r in csv.DictReader(open(op))} if os.path.exists(op) else {}
-    fig_history(E, st, o.source, o.note, P(f"{s}_history.png"), one_party=one)
+    # only the version adjusted for the president's party is drawn (Kevin, 2026-11-08: "keep only adjusted for the president's party")
     fig_history(E, st, o.source, o.note, P(f"{s}_history_incumbency.png"), inc=True, one_party=one)
-    fig_expected(E, races, st, o.asof, o.source, o.note, P(f"{s}_expected_2018_2026.png"))
     fig_expected(E, races, st, o.asof, o.source, o.note, P(f"{s}_expected_incumbency_2018_2026.png"), inc=True)
-    splice(E, st, o.source, o.note, P(f"{s}_history.png"), P(f"{s}_expected_2018_2026.png"), os.path.join(o.out_dir, f"{s}_history_and_expected.png"), False, one_party=one)
     splice(E, st, o.source, o.note, P(f"{s}_history_incumbency.png"), P(f"{s}_expected_incumbency_2018_2026.png"),
            os.path.join(o.out_dir, f"{s}_incumbency_history_and_expected.png"), True, one_party=one)
     print("figures written for", st)

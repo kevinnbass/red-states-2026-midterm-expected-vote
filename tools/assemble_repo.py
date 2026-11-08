@@ -68,6 +68,14 @@ for d, tag in ((f"{E}/raw/ap_npr_20261108T0505Z/states", "ap_npr_20261108T0505Z"
         if f.endswith(".json"):
             put(os.path.join(d, f), f"data/raw/shared/{tag}/{f}", f"https://apps.npr.org/2026-election-results/data/states/{f}", "",
                 "AP results via NPR's election feed (unofficial)")
+# governor races 1994-2022 (Wikipedia pages as fetched, for the 50-state pool)
+gd = f"{E}/raw/gov50_wikipedia_20261108"
+gprov = {r["file"]: r for r in csv.DictReader(open(f"{gd}/provenance.csv"))}
+for f in sorted(os.listdir(gd)):
+    pr = gprov.get(f, {})
+    if f == "provenance.csv" or (pr.get("http") and pr["http"] != "200"):
+        continue
+    put(os.path.join(gd, f), f"data/raw/shared/gov50_wikipedia/{f}", pr.get("url", ""), pr.get("utc", ""), "Wikipedia governor election page (wikitext)")
 with open(os.path.join(ROOT, "data", "SOURCES.csv"), "w", newline="") as fh:
     w = csv.DictWriter(fh, fieldnames=["file", "name", "url", "fetched_utc", "bytes", "sha256", "what"])
     w.writeheader()

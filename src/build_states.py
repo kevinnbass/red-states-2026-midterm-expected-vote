@@ -18,19 +18,24 @@ def main():
     inputs, out = sys.argv[1], sys.argv[2]
     sys.path.insert(0, HERE)
     import expected
-    # a state counts in the pool only when it has 2026 offices with history (expected.build makes rows only for those)
-    pool = [s for s in CFG["pool"] if os.path.exists(os.path.join(inputs, s, "statewide_results.csv"))
-            and any(r["year"] <= 2022 for r in expected.build(*expected.load(inputs, s)))]
-    missing = [s for s in CFG["pool"] if s not in pool]
+    pooldir = os.path.join(inputs, CFG["pool_dir"])
     states = sys.argv[3:] or list(CFG["states"])
-    names = [NAMES[s] for s in pool]
-    pool_names = ", ".join(names[:-1]) + " and " + names[-1] if len(names) > 1 else names[0]
-    b_scope = CFG["b_scope"].format(pool_names=pool_names)
-    print("pool:", ",".join(pool), "| not yet available:", ",".join(missing) or "none", flush=True)
+    _, info = expected.pool_all(inputs, states[0], pooldir)
+    names = [NAMES[s] for s in info["full_states"]]
+    parts = ["U.S. Senate races in all 50 states"]
+    if "governor" in info["extra_offices"]:
+        gst = {r["state"] for r in csv.DictReader(open(os.path.join(pooldir, "governors50.csv")))}
+        parts.append(f"governor races in the {len(gst)} states that elected governors in those years")
+    parts.append("every statewide office in " + ", ".join(names[:-1]) + " and " + names[-1])
+    description = ", ".join(parts[:-1]) + " and " + parts[-1] if len(parts) > 2 else " and ".join(parts)
+    offices = description
+    b_scope = ", estimated from the 1994–2022 midterms of " + description + ", together"
+    pool, missing = info["full_states"], []
+    print("pool:", info["states"], "states:", description, flush=True)
     for st in states:
         c = CFG["states"][st]
         d = os.path.join(out, st)
-        subprocess.run([sys.executable, "-I", os.path.join(HERE, "expected.py"), inputs, st, d, "--pool", ",".join(pool)], check=True)
+        subprocess.run([sys.executable, "-I", os.path.join(HERE, "expected.py"), inputs, st, d, "--pool-all", pooldir], check=True)
         # office-years that had a race but whose results could not be obtained: labeled "no data", not "no race"
         # an office-year counts as "no data" only while the input file still has no row for it
         have = {(r["office_key"], int(r["year"])) for r in csv.DictReader(open(os.path.join(inputs, st, "statewide_results.csv")))}
@@ -45,7 +50,9 @@ def main():
         for n in c.get("notes", []):
             cmd += ["--note", n]
         subprocess.run(cmd, check=True)
-    json.dump({"pool": pool, "missing_from_pool": missing, "b_scope": b_scope}, open(os.path.join(out, "pool.json"), "w"), indent=1)
+    json.dump({"mode": "all states", "states": info["states"], "full_states": pool, "extra_offices": info["extra_offices"],
+               "b_scope": b_scope, "description": description},
+              open(os.path.join(out, "pool.json"), "w"), indent=1)
 
 
 if __name__ == "__main__":

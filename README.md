@@ -1,8 +1,8 @@
 # Ohio, Kansas, Iowa, Alaska, Mississippi, South Carolina and Indiana: 2026 statewide votes vs. a typical midterm
 
 For every statewide race on these states' 2026 ballots, the vote each party would get if the office followed its own 1994–2022
-midterm pattern, set against the unofficial 2026 count, with the full 1994–2026 history behind it. Same method as
-[texas-2026-midterm-expected-vote](https://github.com/kevinnbass/texas-2026-midterm-expected-vote).
+midterm pattern, adjusted for the usual midterm loss of the party holding the White House, set against the unofficial 2026 count,
+with the full 1994–2026 history behind it. Same method as[texas-2026-midterm-expected-vote](https://github.com/kevinnbass/texas-2026-midterm-expected-vote).
 
 Web page with all figures: https://claude.ai/artifact/P9vUFZhAxmd5hYCTHubMUd
 
@@ -11,32 +11,45 @@ Web page with all figures: https://claude.ai/artifact/P9vUFZhAxmd5hYCTHubMUd
 
 ## Summary
 
-| State | Races | Democratic nominee above expected | Republican nominee below expected | Same, adjusted for the president's party |
-|---|---|---|---|---|
-| [Ohio](#ohio) | 6 | 6 | 6 | 6 D above, 5 R below |
-| [Kansas](#kansas) | 4 | 3 | 3 | 3 D above, 3 R below |
-| [Iowa](#iowa) | 7 | 7 | 5 | 7 D above, 4 R below |
-| [Alaska](#alaska) | 3 | 1 | 3 | 1 D above, 3 R below |
-| [Mississippi](#mississippi) | 1 | 1 | 1 | 1 D above, 1 R below |
-| [South Carolina](#south-carolina) | 8 | 8 | 7 | 8 D above, 4 R below |
-| [Indiana](#indiana) | 3 | 3 | 3 | 3 D above, 3 R below |
+| State | Races | Democratic nominee above expected | Republican nominee below expected |
+|---|---|---|---|
+| [Ohio](#ohio) | 6 | 6 | 5 |
+| [Kansas](#kansas) | 4 | 3 | 3 |
+| [Iowa](#iowa) | 7 | 7 | 3 |
+| [Alaska](#alaska) | 3 | 1 | 3 |
+| [Mississippi](#mississippi) | 1 | 1 | 1 |
+| [South Carolina](#south-carolina) | 8 | 8 | 4 |
+| [Indiana](#indiana) | 3 | 3 | 3 |
 
-Adjusted = the expectation including the usual midterm effect of holding the White House, −10.4 points of the presidential vote for 2026, estimated from the midterms of Texas, Ohio, Kansas, Iowa, Alaska, Mississippi, South Carolina, Indiana together (see [METHODOLOGY.md](METHODOLOGY.md)).
+Expected = the office's own 1994–2022 baseline in the state plus the usual midterm effect of holding the White House, −11.0 points of the presidential vote for 2026, estimated from the 1994–2022 midterms of U.S. Senate races in all 50 states, governor races in the 37 states that elected governors in those years and every statewide office in Alaska, Iowa, Indiana, Kansas, Mississippi, Ohio, South Carolina and Texas (see [METHODOLOGY.md](METHODOLOGY.md)).
+
+### How much the pool for the president's-party effect matters
+
+Main race, actual minus adjusted expected votes (R / D), and the effect b used for 2026 (points of the presidential vote):
+
+| State | This state only | First version (8 states) | Senate, all 50 states | All states (used) | All states, slope per party |
+|---|---|---|---|---|---|
+| Ohio (governor) | −251K / +584K (b −15.2) | −345K / +659K (b −10.4) | −289K / +614K (b −13.2) | −335K / +651K (b −11.0) | −416K / +586K (b −6.8 R / −15.1 D) |
+| Kansas (governor) | +95K / −41K (b −11.1) | +92K / −39K (b −10.4) | +102K / −46K (b −13.0) | +94K / −41K (b −11.0) | +79K / −52K (b −6.8 R / −15.1 D) |
+| Iowa (governor) | −77K / +166K (b −17.3) | −116K / +196K (b −10.4) | −98K / +183K (b −13.6) | −113K / +194K (b −11.0) | −137K / +176K (b −6.8 R / −15.1 D) |
+| Alaska (governor) | −26K / −32K (b +2.5) | −13K / −42K (b −10.4) | −11K / −43K (b −12.4) | −12K / −42K (b −11.0) | −17K / −46K (b −6.8 R / −15.1 D) |
+| Mississippi (us_senate) | −15K / +199K (b −9.0) | −10K / +196K (b −10.4) | +0K / +189K (b −13.1) | −8K / +194K (b −11.0) | −23K / +185K (b −6.8 R / −15.1 D) |
+| South Carolina (governor) | +44K / +67K (b −8.8) | +60K / +56K (b −10.4) | +77K / +44K (b −12.3) | +64K / +53K (b −11.0) | +26K / +27K (b −6.8 R / −15.1 D) |
+| Indiana (secretary_of_state) | −238K / +148K (b −12.9) | −264K / +166K (b −10.4) | −236K / +147K (b −13.1) | −258K / +162K (b −11.0) | −302K / +132K (b −6.8 R / −15.1 D) |
+| Texas (governor) | +95K / +1,795K (b −7.5) | +213K / +1,706K (b −10.4) | +260K / +1,671K (b −11.6) | +234K / +1,690K (b −11.0) | +70K / +1,566K (b −6.8 R / −15.1 D) |
 
 ## Ohio
 
-![Ohio: history and 2018–2026 races vs. expected](figures/oh/oh_history_and_expected.png)
+![Ohio: history and 2018–2026 races vs. expected, adjusted for the president's party](figures/oh/oh_incumbency_history_and_expected.png)
 
-![Ohio: the same, adjusted for the president's party](figures/oh/oh_incumbency_history_and_expected.png)
-
-| 2026 race | Republican | vs. expected | vs. adjusted | Democrat | vs. expected | vs. adjusted |
+| 2026 race | Republican | Expected | Actual − expected | Democrat | Expected | Actual − expected |
 |---|---|---|---|---|---|---|
-| Governor and Lieutenant Governor | Vivek Ramaswamy / Rob McColley 2,039,730 | −552K | −345K | Amy Acton / David Pepper 2,404,178 | +824K | +659K |
-| Attorney General | Keith Faber 2,256,710 | −317K | −109K | John Kulewicz 2,285,117 | +651K | +486K |
-| Secretary of State | Robert Sprague 2,129,981 | −408K | −201K | Allison Russo 2,287,160 | +718K | +553K |
-| Auditor of State | Frank LaRose 2,310,105 | −256K | −49K | Annette Blackwell 2,237,955 | +694K | +529K |
-| U.S. Senate | Jon Husted 2,077,748 | −492K | −271K | Sherrod Brown 2,301,042 | +438K | +261K |
-| Ohio Supreme Court | Dan Hawkins (incumbent) 2,207,874 | −125K | +206K | Marilyn Zayas 2,315,779 | +626K | +362K |
+| Governor and Lieutenant Governor | Vivek Ramaswamy / Rob McColley 2,039,730 | 2,374,232 | −335K | Amy Acton / David Pepper 2,404,178 | 1,753,469 | +651K |
+| Attorney General | Keith Faber 2,256,710 | 2,355,464 | −99K | John Kulewicz 2,285,117 | 1,807,586 | +478K |
+| Secretary of State | Robert Sprague 2,129,981 | 2,320,052 | −190K | Allison Russo 2,287,160 | 1,742,203 | +545K |
+| Auditor of State | Frank LaRose 2,310,105 | 2,348,415 | −38K | Annette Blackwell 2,237,955 | 1,717,575 | +520K |
+| U.S. Senate | Jon Husted 2,077,748 | 2,337,085 | −259K | Sherrod Brown 2,301,042 | 2,048,630 | +252K |
+| Ohio Supreme Court | Dan Hawkins (incumbent) 2,207,874 | 1,984,887 | +223K | Marilyn Zayas 2,315,779 | 1,967,725 | +348K |
 
 - 2026 count: AP count fetched Nov. 8, 2026, about 98% of the expected vote (Auditor and Supreme Court: Wikipedia, at about 98% counted).
 - Sources: Ohio Secretary of State (results pages 1994–2002 and 2010, workbooks 2014–2022, from Internet Archive captures); OpenElections (2006, the Secretary of State's precinct file); AP via NPR (2026); Wikipedia (2026 Auditor and Supreme Court).
@@ -46,16 +59,14 @@ Adjusted = the expectation including the usual midterm effect of holding the Whi
 
 ## Kansas
 
-![Kansas: history and 2018–2026 races vs. expected](figures/ks/ks_history_and_expected.png)
+![Kansas: history and 2018–2026 races vs. expected, adjusted for the president's party](figures/ks/ks_incumbency_history_and_expected.png)
 
-![Kansas: the same, adjusted for the president's party](figures/ks/ks_incumbency_history_and_expected.png)
-
-| 2026 race | Republican | vs. expected | vs. adjusted | Democrat | vs. expected | vs. adjusted |
+| 2026 race | Republican | Expected | Actual − expected | Democrat | Expected | Actual − expected |
 |---|---|---|---|---|---|---|
-| Attorney General | Kris Kobach 539,297 | −64K | −12K | Chris Mann 552,753 | +99K | +61K |
-| Governor | Ty Masterson 543,612 | +53K | +92K | Cindy Holscher 551,250 | −11K | −39K |
-| Secretary of State | Pat Proctor 524,555 | −59K | −6K | Jennifer Day 515,738 | +53K | +15K |
-| U.S. Senate | Roger Marshall 505,558 | −110K | −31K | Adam Hamilton 561,143 | +257K | +200K |
+| Attorney General | Kris Kobach 539,297 | 548,292 | −9K | Chris Mann 552,753 | 493,662 | +59K |
+| Governor | Ty Masterson 543,612 | 449,466 | +94K | Cindy Holscher 551,250 | 591,763 | −41K |
+| Secretary of State | Pat Proctor 524,555 | 527,717 | −3K | Jennifer Day 515,738 | 502,228 | +14K |
+| U.S. Senate | Roger Marshall 505,558 | 532,667 | −27K | Adam Hamilton 561,143 | 363,819 | +197K |
 
 - 2026 count: AP count fetched Nov. 8, 2026, about 99% of the expected vote.
 - Sources: MIT Election Data and Science Lab (U.S. Senate; 2022 state offices); OpenElections (2014 and 2018 state offices); AP via NPR (2026).
@@ -65,19 +76,17 @@ Adjusted = the expectation including the usual midterm effect of holding the Whi
 
 ## Iowa
 
-![Iowa: history and 2018–2026 races vs. expected](figures/ia/ia_history_and_expected.png)
+![Iowa: history and 2018–2026 races vs. expected, adjusted for the president's party](figures/ia/ia_incumbency_history_and_expected.png)
 
-![Iowa: the same, adjusted for the president's party](figures/ia/ia_incumbency_history_and_expected.png)
-
-| 2026 race | Republican | vs. expected | vs. adjusted | Democrat | vs. expected | vs. adjusted |
+| 2026 race | Republican | Expected | Actual − expected | Democrat | Expected | Actual − expected |
 |---|---|---|---|---|---|---|
-| Governor and Lieutenant Governor | Zach Lahn 607,591 | −177K | −116K | Rob Sand 757,506 | +243K | +196K |
-| Secretary of State | Paul Pate 711,986 | −3K | +53K | Ryan Peterman 625,997 | +116K | +74K |
-| Auditor of State | Chris Cournoyer 660,159 | −101K | −36K | Taylor Wettach 666,632 | +168K | +119K |
-| Treasurer of State | Roby Smith 664,948 | +11K | +75K | John Norwood 655,763 | +75K | +26K |
-| Secretary of Agriculture | Mike Naig 701,882 | −57K | −2K | Chris Jones 629,249 | +150K | +108K |
-| Attorney General | Brenna Bird 657,607 | +12K | +89K | Nate Willems 681,255 | +103K | +44K |
-| U.S. Senate | Ashley Hinson 630,808 | −229K | −152K | Josh Turek 686,641 | +250K | +191K |
+| Governor and Lieutenant Governor | Zach Lahn 607,591 | 720,893 | −113K | Rob Sand 757,506 | 563,396 | +194K |
+| Secretary of State | Paul Pate 711,986 | 656,586 | +55K | Ryan Peterman 625,997 | 553,865 | +72K |
+| Auditor of State | Chris Cournoyer 660,159 | 693,210 | −33K | Taylor Wettach 666,632 | 550,452 | +116K |
+| Treasurer of State | Roby Smith 664,948 | 586,494 | +78K | John Norwood 655,763 | 632,301 | +23K |
+| Secretary of Agriculture | Mike Naig 701,882 | 701,001 | +1K | Chris Jones 629,249 | 523,067 | +106K |
+| Attorney General | Brenna Bird 657,607 | 564,314 | +93K | Nate Willems 681,255 | 640,314 | +41K |
+| U.S. Senate | Ashley Hinson 630,808 | 778,945 | −148K | Josh Turek 686,641 | 498,550 | +188K |
 
 - 2026 count: AP count fetched Nov. 8, 2026, about 99% of the expected vote (Auditor, Treasurer and Agriculture from the state results site of Nov. 4, 95 of 99 counties).
 - Sources: Iowa Secretary of State canvass (1994, 2014, 2022); OpenElections (1998 Senate, 2002–2018, secondary); Wikipedia (some Governor rows, secondary); AP via NPR and the state's results site (2026).
@@ -87,15 +96,13 @@ Adjusted = the expectation including the usual midterm effect of holding the Whi
 
 ## Alaska
 
-![Alaska: history and 2018–2026 races vs. expected](figures/ak/ak_history_and_expected.png)
+![Alaska: history and 2018–2026 races vs. expected, adjusted for the president's party](figures/ak/ak_incumbency_history_and_expected.png)
 
-![Alaska: the same, adjusted for the president's party](figures/ak/ak_incumbency_history_and_expected.png)
-
-| 2026 race | Republican | vs. expected | vs. adjusted | Democrat | vs. expected | vs. adjusted |
+| 2026 race | Republican | Expected | Actual − expected | Democrat | Expected | Actual − expected |
 |---|---|---|---|---|---|---|
-| Governor (joint ticket with Lieutenant Governor) | Wilson/Shower (R) and other Republicans (first choice) 107,500 | −24K | −13K | Kreiss-Tomkins/Johnson (DEM/NON) 103,837 | −34K | −42K |
-| U.S. House (at-large) | Begich, Nick 105,647 | −58K | −47K | Hafner, Eric 15,550 | −101K | −109K |
-| U.S. Senate | Sullivan, Dan S. and other Republicans (first choice) 107,171 | −75K | −59K | Peltola, Mary 102,962 | +31K | +19K |
+| Governor (joint ticket with Lieutenant Governor) | Wilson/Shower (R) and other Republicans (first choice) 107,500 | 119,691 | −12K | Kreiss-Tomkins/Johnson (DEM/NON) 103,837 | 146,166 | −42K |
+| U.S. House (at-large) | Begich, Nick 105,647 | 152,232 | −47K | Hafner, Eric 15,550 | 125,380 | −110K |
+| U.S. Senate | Sullivan, Dan S. and other Republicans (first choice) 107,171 | 165,827 | −59K | Peltola, Mary 102,962 | 84,175 | +19K |
 
 - 2026 count: Division report of Nov. 4, 2026, 1:09 pm; about 74% of the expected vote counted (AP), absentee ballots still being counted.
 - Sources: Alaska Division of Elections.
@@ -106,13 +113,11 @@ Adjusted = the expectation including the usual midterm effect of holding the Whi
 
 ## Mississippi
 
-![Mississippi: history and 2018–2026 races vs. expected](figures/ms/ms_history_and_expected.png)
+![Mississippi: history and 2018–2026 races vs. expected, adjusted for the president's party](figures/ms/ms_incumbency_history_and_expected.png)
 
-![Mississippi: the same, adjusted for the president's party](figures/ms/ms_incumbency_history_and_expected.png)
-
-| 2026 race | Republican | vs. expected | vs. adjusted | Democrat | vs. expected | vs. adjusted |
+| 2026 race | Republican | Expected | Actual − expected | Democrat | Expected | Actual − expected |
 |---|---|---|---|---|---|---|
-| U.S. Senate | Cindy Hyde-Smith 465,356 | −49K | −10K | Scott Colom 467,930 | +220K | +196K |
+| U.S. Senate | Cindy Hyde-Smith 465,356 | 472,926 | −8K | Scott Colom 467,930 | 273,660 | +194K |
 
 - 2026 count: AP count fetched Nov. 8, 2026, about 97% of the expected vote.
 - Sources: MIT Election Data and Science Lab (U.S. Senate 1994–2022); AP via NPR (2026).
@@ -122,20 +127,18 @@ Adjusted = the expectation including the usual midterm effect of holding the Whi
 
 ## South Carolina
 
-![South Carolina: history and 2018–2026 races vs. expected](figures/sc/sc_history_and_expected.png)
+![South Carolina: history and 2018–2026 races vs. expected, adjusted for the president's party](figures/sc/sc_incumbency_history_and_expected.png)
 
-![South Carolina: the same, adjusted for the president's party](figures/sc/sc_incumbency_history_and_expected.png)
-
-| 2026 race | Republican | vs. expected | vs. adjusted | Democrat | vs. expected | vs. adjusted |
+| 2026 race | Republican | Expected | Actual − expected | Democrat | Expected | Actual − expected |
 |---|---|---|---|---|---|---|
-| Governor | Alan Wilson / Mike Reichenbach 1,051,010 | −37K | +60K | Jermaine Johnson / Sam Skardon 960,269 | +123K | +56K |
-| Secretary of State | Mark Hammond 1,073,652 | −141K | −45K | Jason Belton 952,186 | +246K | +179K |
-| State Treasurer | Curtis Loftis 1,062,666 | −51K | +11K | Vincent Coe 959,539 | +47K | +4K |
-| Attorney General | David Stumbo 1,059,358 | −130K | −27K | Richard Hricik 964,921 | +164K | +92K |
-| Comptroller General | Mike Burkhold 1,048,553 | −28K | +76K | Tiffany Boozer 965,075 | +150K | +79K |
-| State Superintendent of Education | Ellen Weaver 1,032,516 | +36K | +146K | Sylvia Wright 976,406 | +150K | +73K |
-| Commissioner of Agriculture | Cody Simpson 1,042,601 | −95K | −18K | DeShawn Blanding 922,961 | +197K | +143K |
-| U.S. Senate | Darline Graham 951,896 | −184K | −60K | Annie Andrews 1,043,712 | +325K | +239K |
+| Governor | Alan Wilson / Mike Reichenbach 1,051,010 | 986,568 | +64K | Jermaine Johnson / Sam Skardon 960,269 | 907,366 | +53K |
+| Secretary of State | Mark Hammond 1,073,652 | 1,113,516 | −40K | Jason Belton 952,186 | 777,040 | +175K |
+| State Treasurer | Curtis Loftis 1,062,666 | 1,048,553 | +14K | Vincent Coe 959,539 | 957,277 | +2K |
+| Attorney General | David Stumbo 1,059,358 | 1,080,844 | −21K | Richard Hricik 964,921 | 876,162 | +89K |
+| Comptroller General | Mike Burkhold 1,048,553 | 967,746 | +81K | Tiffany Boozer 965,075 | 889,785 | +75K |
+| State Superintendent of Education | Ellen Weaver 1,032,516 | 880,774 | +152K | Sylvia Wright 976,406 | 907,111 | +69K |
+| Commissioner of Agriculture | Cody Simpson 1,042,601 | 1,056,425 | −14K | DeShawn Blanding 922,961 | 782,799 | +140K |
+| U.S. Senate | Darline Graham 951,896 | 1,005,983 | −54K | Annie Andrews 1,043,712 | 808,947 | +235K |
 
 - 2026 count: state results file of Nov. 6, 2026, 6:25 pm EST, all precincts reporting.
 - Sources: South Carolina State Election Commission (Election Reports 1994–2006, election-night reporting files 2010–2026).
@@ -145,15 +148,13 @@ Adjusted = the expectation including the usual midterm effect of holding the Whi
 
 ## Indiana
 
-![Indiana: history and 2018–2026 races vs. expected](figures/in/in_history_and_expected.png)
+![Indiana: history and 2018–2026 races vs. expected, adjusted for the president's party](figures/in/in_incumbency_history_and_expected.png)
 
-![Indiana: the same, adjusted for the president's party](figures/in/in_incumbency_history_and_expected.png)
-
-| 2026 race | Republican | vs. expected | vs. adjusted | Democrat | vs. expected | vs. adjusted |
+| 2026 race | Republican | Expected | Actual − expected | Democrat | Expected | Actual − expected |
 |---|---|---|---|---|---|---|
-| Secretary of State | Max Engling 826,017 | −376K | −264K | Beau Bayh 1,004,067 | +242K | +166K |
-| Auditor of State | Elise Nieshalla 906,914 | −305K | −193K | Jessica Bailey 956,408 | +209K | +133K |
-| Treasurer of State | Daniel Elliott 977,791 | −250K | −138K | Coumba Kebe 938,209 | +181K | +105K |
+| Secretary of State | Max Engling 826,017 | 1,084,369 | −258K | Beau Bayh 1,004,067 | 842,016 | +162K |
+| Auditor of State | Elise Nieshalla 906,914 | 1,094,055 | −187K | Jessica Bailey 956,408 | 827,032 | +129K |
+| Treasurer of State | Daniel Elliott 977,791 | 1,110,030 | −132K | Coumba Kebe 938,209 | 836,672 | +102K |
 
 - 2026 count: state results file of Nov. 7, 2026, 11:05 pm, 4,831 of 5,067 precincts reporting.
 - Sources: Indiana Election Division (2002–2022 and 2026); Capitol & Washington (state offices 1994–1998, secondary); MIT Election Data and Science Lab (U.S. Senate 1994–1998).

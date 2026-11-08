@@ -9,9 +9,9 @@ Several races of one office in one year (court seats, a regular and a special Se
 a Republican and a Democratic nominee count.
 
 Inputs: <inputs>/<ST>/statewide_results.csv (contract in README) and <inputs>/presidential_1992_2024.csv.
-Usage: python3 expected.py <inputs_dir> <ST> <out_dir>  -> expected.csv, races_2018_2022_2026.csv
+Usage: python3 expected.py <inputs_dir> <ST> <out_dir> [--pool ST,ST | --pool-all <pool_dir>]  -> expected.csv, races_2018_2022_2026.csv
 """
-import csv, os, re, statistics as st, sys
+import csv, json, os, re, statistics as st, sys
 
 MIDTERMS = [1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022, 2026]
 PRES_PARTY = {1994: "D", 1998: "D", 2002: "R", 2006: "R", 2010: "D", 2014: "D", 2018: "R", 2022: "D", 2026: "R"}
@@ -159,12 +159,55 @@ def fmt(k, v):
     return v
 
 
+def history_rows(state, office, races, pres):
+    """office-year ratio rows for the slope pool from races [(year, rep, dem)], both parties present, several races averaged."""
+    by = {}
+    for y, rv, dv in races:
+        if y in MIDTERMS and y <= 2022 and rv and dv:
+            by.setdefault(y, []).append((rv, dv))
+    return [{"office": f"{state}:{office}", "year": y, "ratio_rep": st.mean(a for a, _ in v) / pres[(state, y - 2)][0],
+             "ratio_dem": st.mean(b for _, b in v) / pres[(state, y - 2)][1]} for y, v in sorted(by.items())]
+
+
+def pool_all(inputs, target, pooldir):
+    """The 50-state pool for the slope b: every statewide office in the 1994-2022 history of each state with a full input file
+    (<inputs>/<ST>/statewide_results.csv; for the target state only offices not on its 2026 ballot, since those come from its
+    own rows), plus every other state's U.S. Senate races (<pooldir>/senate50.csv) and, if present, governor races
+    (<pooldir>/governors50.csv). Returns (rows, description of what went in)."""
+    pres = {(r["state"], int(r["year"])): (int(r["rep_votes"]), int(r["dem_votes"])) for r in csv.DictReader(open(os.path.join(pooldir, "pres50.csv")))}
+    full = sorted(d for d in os.listdir(inputs) if os.path.exists(os.path.join(inputs, d, "statewide_results.csv")))
+    out = []
+    for s in full:
+        rows, _ = load(inputs, s)
+        skip = {k for k, _ in offices_2026(rows)} if s == target else set()
+        by = {}
+        for r in rows:
+            if r["office_key"] not in skip:
+                by.setdefault(r["office_key"], []).append((r["year"], r["rep_votes"], r["dem_votes"]))
+        for off, races in by.items():
+            out += history_rows(s, off, races, pres)
+    extra = [("senate50.csv", "us_senate")] + ([("governors50.csv", "governor")] if os.path.exists(os.path.join(pooldir, "governors50.csv")) else [])
+    for fn, off in extra:
+        by = {}
+        for r in csv.DictReader(open(os.path.join(pooldir, fn))):
+            if r["state"] in full or not r["rep_votes"].strip() or not r["dem_votes"].strip():
+                continue  # states with a full input file use that file
+            by.setdefault(r["state"], []).append((int(r["year"]), int(r["rep_votes"]), int(r["dem_votes"])))
+        for s, races in by.items():
+            out += history_rows(s, off, races, pres)
+    states = sorted({r["office"].split(":")[0] for r in out} | {target})
+    return out, {"states": len(states), "full_states": full, "extra_offices": [o for _, o in extra], "office_groups": len({r["office"] for r in out})}
+
+
 def main():
     inputs, state, out = sys.argv[1], sys.argv[2], sys.argv[3]
     pool = sys.argv[sys.argv.index("--pool") + 1].split(",") if "--pool" in sys.argv else []
     os.makedirs(out, exist_ok=True)
     rows, pres = load(inputs, state)
     pool_hist = []
+    if "--pool-all" in sys.argv:
+        pool_hist, info = pool_all(inputs, state, sys.argv[sys.argv.index("--pool-all") + 1])
+        json.dump(info, open(os.path.join(out, "pool_info.json"), "w"), indent=1)
     for other in pool:
         if other == state:
             continue
