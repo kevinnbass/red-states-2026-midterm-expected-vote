@@ -1,0 +1,1061 @@
+{{Short description|none}}
+{{Use American English|date=February 2026}}
+<!-- "none" is preferred when the title is already sufficiently detailed; see [[WP:SDNONE]] -->
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name     = 2006 South Carolina elections
+| country           = South Carolina
+| type              = presidential
+| ongoing           = no
+| previous_election = 2004 South Carolina elections
+| previous_year     = 2004
+| election_date     = {{Start date|2006|11|07}}
+| next_election     = 2008 South Carolina elections
+| next_year         = 2008
+| registered        = 
+| turnout           = 
+}}
+{{ElectionsSC}}
+
+The '''2006 [[South Carolina]] elections''' took place on November 7, 2006, and included the [[2006 South Carolina gubernatorial election|gubernatorial election]]. All nine popularly elected [[constitutional officer]]s were up for reelection, and all races except the [[South Carolina Attorney General|attorney general]]'s were contested. The entire [[South Carolina House of Representatives]], one [[South Carolina State Senate|state senator]], and six state [[judicial circuit|circuit]] [[solicitor]]s were also up for election. Several constitutional amendments were also on the ballot.
+
+Filing for the major parties closed on March 28, 2006, and filing for minor parties closed on August 15. The primaries for both parties were held on June 13, and run-offs were held on June 27. All results are taken from the [[South Carolina Election Commission]]'s official results. Percentages may not add up to 100 because of rounding.
+
+==Governor==
+'''Republican primary'''
+*[[Oscar Lovelace]] - physician
+*[[Mark Sanford]] - incumbent governor, former [[realtor]] and [[United States House of Representatives|U.S. representative]]
+
+Lovelace's candidacy was largely quixotic, although it did garner some interest from disaffected Republicans and Democrats. The Prosperity doctor emphasized working across party lines, [[health care reform]], opposition to [[school vouchers]] and job creation. Sanford largely ignored Lovelace's campaign, even refusing to attend a [[South Carolina Educational Television]] (SCETV) debate with his opponent. Although Lovelace made a stronger than expected showing in the primary, his loss was not surprising.
+
+{{Election box begin no change
+| title = Republican gubernatorial primary results<ref name="South Carolina Republican Primary Results">{{cite web|url=http://www.scvotes.org/files/06primaryOfficial/RepublicanStatewide.pdf|title=South Carolina Republican Primary Results|work=South Carolina Board of Elections|date=June 16, 2006|access-date=December 20, 2012|archive-date=October 21, 2012|archive-url=https://web.archive.org/web/20121021192745/http://www.scvotes.org/files/06primaryOfficial/RepublicanStatewide.pdf|url-status=dead}}</ref>
+}}
+{{Election box candidate with party link no change
+| candidate = '''Mark Sanford (incumbent)'''
+| party = Republican Party (United States)
+| votes ='''160,238'''
+| percentage = '''64.8'''
+}}
+{{Election box candidate with party link no change
+| candidate = Oscar Lovelace
+| party = Republican Party (United States)
+| votes = 87,043
+| percentage = 35.2
+}}
+{{Election box total no change
+| votes = 247,281
+| percentage = 100
+}}
+{{Election box end}}
+{{clear}}
+
+'''Democratic primary'''
+*C. Dennis Aughtry - attorney
+*[[Kenneth Lamar Holland]] (withdrew) - former U.S. representative
+*[[Tommy Moore (politician)|Tommy Moore]] - state senator from [[Aiken County, South Carolina|Aiken County]] and businessman
+*Frank Willis - mayor of [[Florence, South Carolina|Florence]]
+
+Moore obtained the support of much of the state party months in advance, having declared his candidacy early.  He ran on a platform that stressed his experience in state government and support for consensus-building politics. Willis largely self-financed his campaign, highlighting his history fighting crime in Florence and bringing economic development to the [[Pee Dee]]. Aughtry was a late entrant in the race, and based almost his entire campaign on the idea of legalizing [[casino gambling]] in the state to boost revenues. Holland briefly entered the race, but left when it became apparent he could not raise enough money to be an effective candidate. His name was not on the primary ballot. Moore won with an absolute majority, avoiding a run-off.
+
+{{Election box begin no change
+| title = Democratic gubernatorial primary results, 2006<ref name="South Carolina Democratic Primary Results">{{cite web|url=http://www.scvotes.org/files/06primaryOfficial/DemocratStatewide.pdf|title=South Carolina Democratic Primary Results|work=South Carolina Board of Elections|date=June 16, 2006|access-date=December 20, 2012|archive-date=March 30, 2015|archive-url=https://web.archive.org/web/20150330064118/http://www.scvotes.org/files/06primaryOfficial/DemocratStatewide.pdf|url-status=dead}}</ref>
+}}
+{{Election box candidate with party link no change
+| candidate = '''Tommy Moore'''
+| party = Democratic Party (United States)
+| votes ='''88,092'''
+| percentage = '''63.7'''
+}}
+{{Election box candidate with party link no change
+| candidate = Frank Willis
+| party = Democratic Party (United States)
+| votes = 42,317
+| percentage = 30.6
+}}
+{{Election box candidate with party link no change
+| candidate = C. Dennis Aughtry
+|party = Democratic Party (United States)
+| votes = 7,934
+| percentage = 5.7
+}}
+{{Election box total no change
+| votes = 138,343
+| percentage = 100
+}}
+{{Election box end}}
+{{clear}}
+
+'''General election'''
+
+Before the general election campaign, major issues in the race were expected to likely be South Carolina's [[property tax]], [[cigarette tax]], and [[school vouchers]]. However, the race had surprisingly low visibility, with the only major issue being the governor's combative relationship with the legislature. Job creation and public school investment were minor issues in the campaign.  Despite being named one of the worst governors in the country by ''Time'' magazine<ref>[https://web.archive.org/web/20060615184305/http://www.time.com/time/press_releases/article/0,8599,1129509,00.html]</ref> a year before the election and generally being seen as ineffective, Sanford defeated Moore in the general election by ten points.
+
+State Senator [[Jake Knotts]] considered mounting an [[Independent (politician)|independent]] candidacy for governor, and collected enough petition signatures to theoretically qualify for the ballot, but decided not to run.
+
+{{Election box begin | title=South Carolina gubernatorial election, 2006}}
+{{Election box winning candidate with party link|
+  |party = Republican Party (US)
+  |candidate = [[Mark Sanford]] ([[incumbent]])
+  |votes = 601,868
+  |percentage = 55.1%
+  |change = +2.2%
+}}
+{{Election box candidate with party link|
+  |party = Democratic Party (US)
+  |candidate = [[Tommy Moore (politician)|Tommy Moore]]
+  |votes = 489,076
+  |percentage = 44.8%
+  |change = -2.2%
+}}
+{{Election box candidate|
+  |party = ''No party''
+  |candidate = [[Write-in candidate|Write-ins]]
+  |votes = 1,008
+  |percentage = 0.1%
+  |change = 
+}}
+{{Election box majority|
+  |votes = 112,792
+  |percentage = 10.3%
+  |change = +4.4%
+}}
+{{Election box turnout|
+  |votes = 1,091,952
+  |percentage = 44.5% <!--2,454,963 registered voters-->
+  |change = -9.6%
+}}
+{{Election box end}}
+
+==Lieutenant governor==
+{{Infobox election
+| election_name = 2006 South Carolina lieutenant gubernatorial election
+| country = South Carolina
+| type = presidential
+| ongoing = no
+| previous_election = 2002 South Carolina elections#Lieutenant governor
+| previous_year = 2002
+| next_election = 2010 South Carolina elections#Lieutenant governor 
+| next_year = 2010
+| image1 = File:André Bauer (cropped).jpg
+| image_size = 150x150px
+| nominee1 = '''[[André Bauer]]'''
+| party1 = South Carolina Republican Party
+| popular_vote1 = '''543,414'''
+| percentage1 = '''50.1%'''
+| image2 = 3x4.svg 
+| nominee2 = Robert Barber
+| party2 = South Carolina Democratic Party
+| popular_vote2 = 540,306
+| percentage2 = 49.8%
+| map_image = 2006 South Carolina lieutenant gubernatorial election results map by county.svg
+| map_size = 230px
+| map_caption = County results<br/>'''Bauer:''' {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}}<br />'''Barber:''' {{legend0|#A5B0FF|40–50%}} {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584cde|70–80%}}
+| title = Lieutenant Governor
+| before_election = [[André Bauer]]
+| before_party = South Carolina Republican Party
+| after_election = [[André Bauer]]
+| after_party = South Carolina Republican Party
+| turnout = 
+}}
+
+===Republican primary===
+*[[André Bauer]] (incumbent) - former [[South Carolina House of Representatives|state representative]] from [[Lexington County, South Carolina|Lexington County]] and businessman
+*Mike Campbell - son of former Governor [[Carroll A. Campbell Jr.|Carroll Campbell]], businessman
+*Henry Jordan - perennial candidate
+
+The Republican primary was expected to be messy and close between Bauer and Campbell, but the former's plane crash and resulting public sympathy late in the race stymied negative campaigning. Campbell relied on a base of support in [[Upstate South Carolina|the Upstate]], where support for his father was strong, while Bauer made stops all across the state in a traditional face-to-face campaign. Campbell received an endorsement from former president [[George H. W. Bush]], support that was the basis of one of his television ads. Jordan, a late entrant, went negative against both camps in radio and internet ads, but never gained traction outside of [[Anderson County, South Carolina|Anderson]]. No candidate received 50% of the votes in the primary, and thus Campbell and Bauer faced each other in a run-off, which Bauer won.
+
+{{Election box begin no change
+| title = Republican lieutenant governor primary results<ref name="South Carolina Republican Primary Results"/>
+}}
+{{Election box candidate with party link no change
+| candidate = '''Mike Campbell'''
+| party = Republican Party (United States)
+| votes ='''111,065'''
+| percentage = '''45.4'''
+}}
+{{Election box candidate with party link no change
+| candidate = '''André Bauer (incumbent)'''
+| party = Republican Party (United States)
+| votes = '''89,938'''
+| percentage = '''36.8'''
+}}
+{{Election box candidate with party link no change
+|candidate = Henry Jordan
+|party = Republican Party (United States)
+| votes = 43,503
+| percentage = 17.8}}
+{{Election box total no change
+| votes = 244,506
+| percentage = 100
+}}
+{{Election box end}}
+
+{{Election box begin no change
+| title = Republican lieutenant governor primary run-off results<ref name="South Carolina Republican Primary Run-off Results">{{cite web|url=http://www.scvotes.org/files/06runoffOfficial/RepublicanStatewide.pdf|title=South Carolina Republican Primary Run-off Results |work=South Carolina Board of Elections|date=June 30, 2006 |access-date=December 20, 2012}}</ref>
+}}
+{{Election box candidate with party link no change
+| candidate = '''André Bauer (incumbent)'''
+| party = Republican Party (United States)
+| votes ='''81,591'''
+| percentage = '''51.3'''
+}}
+{{Election box candidate with party link no change
+| candidate = Mike Campbell
+| party = Republican Party (United States)
+| votes = 77,567
+| percentage = 48.7
+}}
+{{Election box total no change
+| votes = 159,158
+| percentage = 100
+}}
+{{Election box end}}
+{{clear}}
+
+===General election===
+
+The lieutenant governor's race was dominated by the missteps of Bauer, the incumbent. Bauer came under criticism for multiple citations for speeding and his flamboyant personality. His controversial public image, and the fundraising prowess of his opponent, Robert Barber, who did not face a primary, kept the race close in public polling throughout the campaign. In late May, a two-passenger plane which Bauer was piloting crashed in [[Upstate South Carolina|the Upstate]]. Bauer's ankle was shattered, but otherwise he and the passenger in the plane survived with minimal injuries. The plane crash was later determined to have been caused by faulty bolts in the plane's construction. Barber suffered from his own personal problems when his [[James Beard Award]]-winning restaurant, Bowen's Island, burned late in the campaign. Bauer eventually won the general election with less than one percent over the vote after a recount.
+
+{{Election box begin | title=South Carolina lieutenant gubernatorial election, 2006}}
+{{Election box winning candidate with party link|
+  |party = Republican Party (US)
+  |candidate = Andre Bauer (incumbent)
+  |votes = 543,414
+  |percentage = 50.1%
+  |change = -2.6%
+}}
+{{Election box candidate with party link|
+  |party = Democratic Party (US)
+  |candidate = Robert Barber
+  |votes = 540,306
+  |percentage = 49.8%
+  |change = +4.0%
+}}
+{{Election box candidate|
+  |party = ''No party''
+  |candidate = Write-ins
+  |votes = 1,367
+  |percentage = 0.1%
+  |change = 
+}}
+{{Election box majority|
+  |votes = 3,108
+  |percentage = 0.3%
+  |change = -10.0%
+}}
+{{Election box turnout|
+  |votes = 1,085,087
+  |percentage = 44.2% <!--2,454,963 registered voters-->
+  |change = -8.9%
+}}
+{{Election box end}}
+{{clear}}
+
+==Secretary of state==
+{{Infobox election
+| election_name = 2006 South Carolina Secretary of State election
+| country = South Carolina
+| type = presidential
+| ongoing = no
+| previous_election = 2002 South Carolina Secretary of State election
+| previous_year = 2002
+| next_election = 2010 South Carolina Secretary of State election
+| next_year = 2010
+| image1 = File:Mark Hammond cropped.jpg
+| image_size = 150x150px
+| nominee1 = '''[[Mark Hammond (American politician)|Mark Hammond]]'''
+| party1 = South Carolina Republican Party
+| popular_vote1 = '''656,661'''
+| percentage1 = '''61.2%'''
+| image2 = 3x4.svg 
+| nominee2 = Cheryl Footman
+| party2 = South Carolina Democratic Party
+| popular_vote2 = 415,211
+| percentage2 = 38.7%
+| map_image = 2006 South Carolina secretary of state election results map by county.svg
+| map_size = 230px
+| map_caption = County results<br/>'''Hammond:''' {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#d72f30|70–80%}}<br />'''Footman:''' {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}}
+| title = Secretary of State
+| before_election = [[Mark Hammond (American politician)|Mark Hammond]]
+| before_party = South Carolina Republican Party
+| after_election = [[Mark Hammond (American politician)|Mark Hammond]]
+| after_party = South Carolina Republican Party
+| turnout = 
+}}
+
+===Republican primary===
+*L. W. Flynn (withdrew) - 2004 candidate for the State House of Representatives
+*[[Mark Hammond (American politician)|Mark Hammond]] (incumbent)
+*Bill McKown - [[Surfside Beach, South Carolina|Surfside Beach]] town councilman
+
+Hammond initially faced little opposition from Flynn and McKown, and far out-fundraised both. However, Flynn withdrew from the race and endorsed McKown, whose campaign picked up traction based on questioning Hammond's conservatism and support for the governor. Hammond eventually defeated McKown. Although Flynn received 6.5% of the vote in the primary, his votes were not officially tallied.
+
+{{Election box begin no change
+| title = Republican secretary of state primary results<ref name="South Carolina Republican Primary Results"/>
+}}
+{{Election box candidate with party link no change
+| candidate = '''Mark Hammond (incumbent)'''
+| party = Republican Party (United States)
+| votes ='''125,016'''
+| percentage = '''58.8'''
+}}
+{{Election box candidate with party link no change
+| candidate = Bill McKown
+| party = Republican Party (United States)
+| votes = 87,744
+| percentage = 41.2
+}}
+{{Election box total no change
+| votes = 212,760
+| percentage = 100
+}}
+{{Election box end}}
+{{clear}}
+
+===General election===
+
+Mark Hammond faced Democratic challenger Cheryl Footman, who did not face a primary. In a rather bizarre moment in the race, Footman attempted to burst into patriotic song at the end of her SCETV debate with Hammond, but was quickly cut off by the moderator. Hammond easily won re-election.
+
+{{Election box begin | title=South Carolina secretary of state election, 2006}}
+{{Election box winning candidate with party link|
+  |party = Republican Party (US)
+  |candidate = Mark Hammond (incumbent)
+  |votes = 656,661
+  |percentage = 61.2%
+  |change = +4.4%
+}}
+{{Election box candidate with party link|
+  |party = Democratic Party (US)
+  |candidate = Cheryl Footman
+  |votes = 415,211
+  |percentage = 38.7%
+  |change = -4.4%
+}}
+{{Election box candidate|
+  |party = ''No party''
+  |candidate = Write-ins
+  |votes = 473
+  |percentage = <0.1%
+  |change = 
+}}
+{{Election box majority|
+  |votes = 241,450
+  |percentage = 22.5%
+  |change = +8.8%
+}}
+{{Election box turnout|
+  |votes = 1,072,345
+  |percentage = 43.7% <!--2,454,963 registered voters-->
+  |change = -8.8%
+}}
+{{Election box end}}
+{{clear}}
+
+==State treasurer==
+{{Infobox election
+| election_name = 2006 South Carolina State Treasurer election
+| country = South Carolina
+| type = presidential
+| ongoing = no
+| previous_election = 2002 South Carolina elections#State Treasurer
+| previous_year = 2002
+| next_election = 2010 South Carolina elections#Treasurer
+| next_year = 2010
+| image1 = 
+| image_size = 150x150px
+| nominee1 = '''[[Thomas Ravenel]]'''
+| party1 = South Carolina Republican Party
+| popular_vote1 = '''566,540'''
+| percentage1 = '''52.2%'''
+| image2 = 
+| nominee2 = [[Grady Patterson]]
+| party2 = South Carolina Democratic Party
+| popular_vote2 = 518,966
+| percentage2 = 47.8%
+| map_image = 2006 South Carolina state treasurer election results map by county.svg
+| map_size = 230px
+| map_caption = County results<br/>'''Ravenel''':  {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}}<br />'''Patterson''': {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584cde|70–80%}} 
+| title = State Treasurer
+| before_election = [[Grady Patterson]]
+| before_party = South Carolina Democratic Party
+| after_election = [[Thomas Ravenel]]
+| after_party = South Carolina Republican Party
+| turnout = 
+}}
+
+===Republican primary===
+*Rick Quinn - former SC House majority leader
+*[[Thomas Ravenel]] - 2004 Senate Republican primary candidate and businessman
+*Greg Ryberg - 2002 treasurer candidate, state senator from Aiken
+*Jeff Willis - real estate developer
+
+The Republican treasurer's race was hotly contested.  Ryberg and Quinn were initially seen to be the front-runners, and Ryberg, the 2002 Republican nominee, made an early $2 million loan to his campaign. Ultimately, Ravenel defeated his opponents in the primary just short of the necessary 50 percent total to prevent a run-off. Ryberg and Quinn both withdrew from the run-off, citing the need for party unity behind Ravenel. Ravenel easily defeated Willis in the run-off.
+
+{{Election box begin no change
+| title = Republican treasurer primary results<ref name="South Carolina Republican Primary Results"/>
+}}
+{{Election box candidate with party link no change
+| candidate = '''Thomas Ravenel'''
+| party = Republican Party (United States)
+| votes ='''115,976'''
+| percentage = '''48.2'''
+}}
+{{Election box candidate with party link no change
+| candidate = Greg Ryberg
+| party = Republican Party (United States)
+| votes = 62,617
+| percentage = 26
+}}
+{{Election box candidate with party link no change
+| candidate = Rick Quinn
+| party = Republican Party (United States)
+| votes = 45,737
+| percentage = 19
+}}
+{{Election box candidate with party link no change
+| candidate = '''Jeff Willis'''
+| party = Republican Party (United States)
+| votes = '''16,117'''
+| percentage = '''6.7'''
+}}
+{{Election box total no change
+| votes = 240,447
+| percentage = 100
+}}
+{{Election box end}}
+
+{{clear}}
+{{Election box begin no change
+| title = Republican treasurer primary run-off results<ref name="South Carolina Republican Primary Run-off Results"/>
+}}
+{{Election box candidate with party link no change
+| candidate = '''Thomas Ravenel'''
+| party = Republican Party (United States)
+| votes ='''120,124'''
+| percentage = '''76.6'''
+}}
+{{Election box candidate with party link no change
+| candidate = Jeff Willis
+| party = Republican Party (United States)
+| votes = 36,785
+| percentage = 23.4
+}}
+{{Election box total no change
+| votes = 156,909
+| percentage = 100
+}}
+{{Election box end}}
+{{clear}}
+
+===General election===
+
+The treasurer's race pitted [[Thomas Ravenel]], a young millionaire and emerging politician, against [[Grady Patterson]], a nine-term incumbent who did not face primary opposition. The race was largely fought over the state of South Carolina's employee pension fund, with Ravenel taking issue with the state's projected unfunded [[Liability (financial accounting)|liability]] and its failure to invest the fund in [[Stock|equity]] funds, which he claimed would boost returns. Patterson retorted by pointing out Ravenel's inexperience and accusing Ravenel of using the race as a platform to run against incumbent Senator [[Lindsey Graham]], which Ravenel denied was his intention. Ravenel won the election, but was indicted on June 19, 2007 on [[cocaine]] charges and suspended as treasurer.
+
+{{Election box begin | title=South Carolina treasurer election, 2006}}
+{{Election box winning candidate with party link|
+  |party = Republican Party (US)
+  |candidate = Thomas Ravenel
+  |votes = 566,540
+  |percentage = 52.2%
+  |change = +4.5%
+}}
+{{Election box candidate with party link|
+  |party = Democratic Party (US)
+  |candidate = Grady Patterson (incumbent)
+  |votes = 518,966
+  |percentage = 47.8%
+  |change = -4.4%
+}}
+{{Election box candidate|
+  |party = ''No party''
+  |candidate = Write-ins
+  |votes = 422
+  |percentage = <0.1%
+  |change = 
+}}
+{{Election box majority|
+  |votes = 47,574
+  |percentage = 4.4%
+  |change = +0.1%
+}}
+{{Election box turnout|
+  |votes = 1,085,928
+  |percentage = 44.2% <!--2,454,963 registered voters-->
+  |change = -8.5%
+}}
+{{Election box end}}
+{{clear}}
+
+==Attorney general==
+
+The incumbent, [[Henry McMaster]], did not face a primary and ran unopposed in the general election.
+
+{{Election box begin | title=South Carolina attorney election, 2006}}
+{{Election box winning candidate with party link|
+  |party = Republican Party (US)
+  |candidate = Henry McMaster
+  |votes = 779,453
+  |percentage = 99.2%
+  |change = +43.7
+}}
+{{Election box candidate|
+  |party = ''No party''
+  |candidate = Write-ins
+  |votes = 6,107
+  |percentage = 0.8%
+  |change = +0.7%
+}}
+{{Election box majority|
+  |votes = 773,346
+  |percentage = 98.4%
+  |change = +42.9%
+}}
+{{Election box turnout|
+  |votes = 785,560
+  |percentage = 32% <!--2,454,963 registered voters-->
+  |change = -21%
+}}
+{{Election box end}}
+[[File:2010 South Carolina state treasurer election results map by county.svg|230px|thumb|Results by county
+{{collapsible list
+|title=McMaster:
+|{{legend|#A80000|90–100%}}
+}}
+]]
+{{Clear}}
+
+==Comptroller general==
+{{Infobox election
+| election_name = 2006 South Carolina Comptroller General election
+| country = South Carolina
+| type = presidential
+| ongoing = no
+| previous_election = 2002 South Carolina elections#Comptroller General
+| previous_year = 2002
+| next_election = 2010 South Carolina elections#Comptroller General
+| next_year = 2010
+| image1 = Richard and Mrs. Eckstrom and Pamela Evette (cropped).png
+| nominee1 = '''[[Richard Eckstrom]]'''
+| party1 = South Carolina Republican Party
+| popular_vote1 = '''571,454'''
+| percentage1 = '''53.2%'''
+| image2 = 3x4.svg
+| nominee2 = Drew Theodore
+| party2 = South Carolina Democratic Party
+| popular_vote2 = 501,122
+| percentage2 = 46.7%
+| map_image = 2006 South Carolina Comptroller General election results.svg
+| map_size = 230px
+| map_caption = County results<br/>'''Eckstrom''': {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}}<br />'''Theodore''': {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} 
+| title = Comptroller General
+| before_election = [[Richard Eckstrom]]
+| before_party = South Carolina Republican Party
+| after_election = [[Richard Eckstrom]]
+| after_party = South Carolina Republican Party
+| turnout = 
+}}
+Neither party held a primary for the race. The incumbent, [[Richard Eckstrom]], was challenged by Drew Theodore, businessman and son of former Lieutenant Governor [[Nick Theodore]]. The only public issue in the race was incumbent Richard Eckstrom's use of a state-owned car to drive himself to Minnesota a year earlier, and also his use of state funds to refurbish his state offices upon taking office in 2003. The race got some national attention when ''[[Saturday Night Live]]'' aired a sketch on September 30, lampooning [[George W. Bush|President Bush's]] low popularity by portraying Eckstrom as the only Republican running for office who was willing to be seen campaigning with the president. Eckstrom eventually won reelection.
+
+{{Election box begin | title=South Carolina comptroller general election, 2006}}
+{{Election box winning candidate with party link|
+  |party = Republican Party (US)
+  |candidate = Richard Eckstrom (incumbent)
+  |votes = 571,454
+  |percentage = 53.2%
+  |change = -1.3%
+}}
+{{Election box candidate with party link|
+  |party = Democratic Party (US)
+  |candidate = Drew Theodore
+  |votes = 501,122
+  |percentage = 46.7%
+  |change = +0.1%
+}}
+{{Election box candidate|
+  |party = ''No party''
+  |candidate = Write-ins
+  |votes = 373
+  |percentage = <0.1%
+  |change = 
+}}
+{{Election box majority|
+  |votes = 70,332
+  |percentage = 6.6%
+  |change = -2.5%
+}}
+{{Election box turnout|
+  |votes = 1,072,949
+  |percentage = 43.7% <!--2,454,963 registered voters-->
+  |change = -8.5%
+}}
+{{Election box end}}
+{{Clear}}
+
+==Superintendent of education==
+{{Infobox election
+| election_name = 2006 South Carolina Superintendent of Education election
+| country = South Carolina
+| type = presidential
+| ongoing = no
+| turnout = 
+| previous_election = 2002 South Carolina Superintendent of Education election
+| previous_year = 2002
+| next_election = 2010 South Carolina elections#Superintendent of Education
+| next_year = 2010
+| election_date = November 7, 2006
+| image1 = 3x4.svg
+| nominee1 = '''[[Jim Rex]]'''
+| party1 = Democratic Party (United States)
+| popular_vote1 = '''513,912'''
+| percentage1 = '''47.50%'''
+| image2 = File:Karen Floyd - Fall 2016.jpg
+| image_size = 150x150px
+| nominee2 = [[Karen Floyd]]
+| party2 = Republican Party (United States)
+| popular_vote2 = 513,457
+| percentage2 = 47.45%
+| map_caption = '''Rex:''' {{legend0|#a5b0ff|40–50%}} {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}}<br/>'''Floyd:''' {{legend0|#ffb2b2|40–50%}} {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}}
+| title = [[South Carolina Superintendent of Education|Superintendent of Education]]
+| before_election = [[Inez Tenenbaum]]
+| before_party = Democratic Party (United States)
+| after_election = [[Jim Rex]]
+| after_party = Democratic Party (United States)|
+| map = {{switcher
+|[[File:2006 South Carolina Superintendent of Education results map by county.svg|230px]]
+|County results
+|[[File:2006 South Carolina superintendent of education election results map by precinct.svg|230px]]
+|Precinct results
+}}
+}}
+'''Republican primary'''
+*Karen Floyd - former [[Spartanburg County, South Carolina|Spartanburg County]] [[County Council]] chair, attorney
+*Elizabeth Moffly - businesswoman
+*Mike Ryan - teacher
+*[[Bob Staton]] - businessman, former chair of the SC Education Oversight Committee
+*Kerry Wood (withdrew) - computer programmer
+
+The crowded Republican primary was dominated by Floyd's campaign from the start. Floyd was able to gain the endorsements of the governor, both senators, Republican congressmen and state legislators early in the race, when it was presumed that she would be running against incumbent [[Inez Tenenbaum]]. When Tenenbaum announced she would not be running, more serious candidates began eyeing the race, and Bob Staton eventually became the viable alternative to Floyd. His race emphasized an opposition to school vouchers and support for existing aspects of public education. The other, more minor candidates, were largely united in an anti-voucher position. Ryan distinguished himself by straying from attacks on the state's standardized test regime, the PACT, instead supporting the idea of standardized testing as a way to create standards in education. Just before the election, Wood withdrew from the race and endorsed Staton, but despite this, his votes were officially tallied after the race. Floyd won the primary, barely surpassing the 50 percent threshold to avoid a run-off.
+
+{{Election box begin no change
+| title = Republican superintendent of education primary results<ref name="South Carolina Republican Primary Results"/>
+}}
+{{Election box candidate with party link no change
+| candidate = '''Karen Floyd'''
+| party = Republican Party (United States)
+| votes ='''120,684'''
+| percentage = '''50.5'''
+}}
+{{Election box candidate with party link no change
+| candidate = Bob Staton
+| party = Republican Party (United States)
+| votes = 82,777
+| percentage = 34.6
+}}
+{{Election box candidate with party link no change
+| candidate = Mike Ryan
+| party = Republican Party (United States)
+| votes = 17,332
+| percentage = 7.3
+}}
+{{Election box candidate with party link no change
+| candidate = Elizabeth Moffly
+| party = Republican Party (United States)
+| votes = 10,995
+| percentage = 4.6
+}}
+{{Election box candidate with party link no change
+| candidate = Kerry Wood
+| party = Republican Party (United States)
+| votes = 7,156
+| percentage = 3
+}}
+{{Election box total no change
+| votes = 238,944
+| percentage = 100
+}}
+{{Election box end}}
+
+'''Democrats'''
+*Ed Murray (withdrew) - teacher
+*Jim Rex - former [[Columbia College (Columbia, South Carolina)|Columbia College]] president, former teacher
+*Cecil Taliaferro (withdrew) - former [[Chief Operating Officer|COO]] of [[Allen University]]
+
+Although Tenenbaum began preparing for a campaign in 2005, she eventually decided against running, and withdrew from the race. Democrats Cecil Taliaferro and Ed Murray then entered the race. [[Frank Holleman]], Tenenbaum's campaign manager in her 2004 Senate run and former [[deputy secretary of education]], considered a run but did not enter the race. When Rex announced his candidacy, he received wide acclaim from the party, and Taliaferro and Murray withdrew before filing. Tenenbaum, Holleman, Murray and Elizabeth Moffly subsequently endorsed Rex's candidacy.
+
+'''Third parties'''
+*Arnold E. Karr ([[Green Party (United States)|Green Party]]) - correctional educator and union activist
+*Tim Moultrie ([[Libertarian Party (United States)|Libertarian Party]]) - teacher, 1998 Libertarian gubernatorial candidate
+*Ralph Linblad ([[Constitution Party (United States)|Constitution Party]]) - machinist, briefly 2006 Constitution gubernatorial candidate
+*Tony Fayyazi (independent) - educator
+
+Tim Moultrie won the nomination of the Libertarian Party at their [[Lowcountry]] convention, fending off Rebekah Sutherland, the Libertarian Party's 2004 candidate for US Senate. Karr received the endorsement of the South Carolina AFL-CIO and affiliated unions. His campaign stressed the independence of the superintendent's office from that of the governor, empowerment of public educators, and funding equity for all school districts in the state. He proposed using SC lottery proceeds to subsidize poorer districts until the General Assembly enacted a permanent funding plan. Lindblad pledged to dissolve the SC Department of Education if elected, and eliminate the office of superintendent entirely, claiming that bureaucracy is the biggest impediment to effective education. Fayyazi believed that the state superintendent should be an educator with knowledge of how public education works on the ground.
+
+'''General election'''
+
+The superintendent race was one of the more high-profile and competitive races. The incumbent, [[Inez Tenenbaum]], opted not to run for re-election after her defeat in the 2004 Senate election against [[Jim Demint]]. Republican Karen Floyd declared her candidacy early and posted strong fundraising numbers, avoiding a run-off in her primary against three opponents. The Democrat, college president [[Jim Rex]], also showed himself to be an apt fundraiser, and gained the financial support of large segments of the education community.  Rex eventually won, and Floyd conceded, in a close election that was decided after a recount.<ref>{{Cite web |last=Writer |first=Staff |title=Floyd concedes to Rex |url=https://www.augustachronicle.com/story/news/2006/11/22/met-105445-shtml/14742286007/ |access-date=2026-04-04 |website=The Augusta Chronicle |language=en-US}}</ref> Until 2026, this is the last time Democrats won a statewide election in South Carolina.
+
+{{Election box begin | title=South Carolina superintendent of education election, 2006}}
+{{Election box winning candidate with party link|
+  |party = Democratic Party (US)
+  |candidate = Jim Rex
+  |votes = 513,912
+  |percentage = 47.5%
+  |change = -12.2%
+}}
+{{Election box candidate with party link|
+  |party = Republican Party (US)
+  |candidate = Karen Floyd
+  |votes = 513,457
+  |percentage = 47.4%
+  |change = +10.1%
+}}
+{{Election box candidate with party link|
+  |party = Libertarian Party (US)
+  |candidate = Tim Moultrie
+  |votes = 19,704
+  |percentage = 1.8%
+  |change = -0.3%
+}}
+{{Election box candidate|
+  |party = [[Independence Party of America|Independence Party]]
+  |candidate = Tony Fayyazi
+  |votes = 18,905
+  |percentage = 1.7%
+  |change = +1.7%
+}}
+{{Election box candidate with party link|
+  |party = Green Party (US)
+  |candidate = Arnold Karr
+  |votes = 8,995
+  |percentage = 0.8%
+  |change = +0.8%
+}}
+{{Election box candidate with party link|
+  |party = Constitution Party (US)
+  |candidate = Ralph Lindblad
+  |votes = 6,543
+  |percentage = 0.6%
+  |change = -0.5%
+}}
+{{Election box candidate|
+  |party = ''No party''
+  |candidate = Write-ins
+  |votes = 494
+  |percentage = <0.1%
+  |change = 
+}}
+{{Election box majority|
+  |votes = 455
+  |percentage = <0.1%
+  |change = -21.9%
+}}
+{{Election box turnout|
+  |votes = 1,082,504
+  |percentage = 44.1% <!--2,454,963 registered voters-->
+  |change = -7.0%
+}}
+{{Election box end}}
+
+==Adjutant general==
+
+The [[South Carolina Adjutant General|adjutant general]] campaign, the only one of its kind in the nation, was interesting not only for its novelty but also because of the entrance of an Iraq War veteran as a Democratic challenger to the incumbent, Stan Spears, a former businessman. The Democrat, Glenn Lindmann, was critical of the decreasing size of the state's national guard contingent over Spears' time in office, and also wanted to make the position an appointed one instead of an elected one. Spears countered that the size decrease was due to a national policy decision, not a state one, and said the position should remain elected. Spears won re-election.
+
+{{Election box begin | title=South Carolina adjutant general election, 2006}}
+ {{Election box winning candidate with party link|
+   |party      = Republican Party (United States)
+   |candidate  = Stan Spears (incumbent)
+   |votes      = 617,871
+   |percentage = 58.1%
+   |change     = -41.2%
+ }}
+ {{Election box candidate with party link|
+   |party      = Democratic Party (United States)
+   |candidate  = Glenn Lindmann
+   |votes      = 445,078
+   |percentage = 41.9%
+   |change     = +41.9%
+ }}
+{{Election box candidate|
+  |party      = ''No party''
+  |candidate  = Write-ins
+  |votes      = 343
+  |percentage = <0.1%
+  |change     = -0.6%
+}}
+{{Election box majority|
+  |votes      = 172,793
+  |percentage = 16.3%
+  |change     = -82.3%
+}}
+{{Election box turnout|
+  |votes      = 1,063,292
+  |percentage = 43.3% <!--2,454,963 registered voters-->
+  |change     = +7.0%
+}}
+{{Election box end}}
+[[File:2006 South Carolina adjutant general election results map by county.svg|230px|thumb|Results by county
+{{collapsible list
+|title=Spears:
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+}}
+{{collapsible list
+|title=Lindmann:
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+}}
+]]
+{{Clear}}
+
+==Commissioner of agriculture==
+{{Infobox election
+| election_name = 2006 South Carolina Commissioner of Agriculture election
+| country = South Carolina
+| type = presidential
+| ongoing = no
+| previous_election = 2002 South Carolina elections#Commissioner of Agriculture
+| previous_year = 2002
+| next_election = 2010 South Carolina Commissioner of Agriculture election
+| next_year = 2010
+| image1 = File:Hugh Weathers.png
+| image_size = 150x150px
+| nominee1 = '''[[Hugh Weathers]]'''
+| party1 = South Carolina Republican Party
+| popular_vote1 = '''635,903'''
+| percentage1 = '''59.7%'''
+| image2 = 3x4.svg 
+| nominee2 = Emile DeFelice
+| party2 = South Carolina Democratic Party
+| popular_vote2 = 429,255
+| percentage2 = 40.3%
+| map_image = 2006 South Carolina Agricultural Commissioner election results.svg
+| map_size = 230px
+| map_caption = County results<br/>'''Weathers:'''  {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#d72f30|70–80%}}<br />'''DeFelice:''' {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} 
+| title = Agricultural Commissioner
+| before_election = [[Hugh Weathers]]
+| before_party = South Carolina Republican Party
+| after_election = [[Hugh Weathers]]
+| after_party = South Carolina Republican Party
+| turnout = 
+}}
+
+===Republican primary===
+*William Bell - farmer, 1994 candidate
+*Hugh Weathers (incumbent)
+
+One of the major issues in the Republican primary was whether the commissioner should be elected or appointed.  Bell was an advocate for election, while Weathers supported appointment.
+
+{{Election box begin no change
+| title = Republican commissioner of agriculture primary results<ref name="South Carolina Republican Primary Results"/>
+}}
+{{Election box candidate with party link no change
+| candidate = '''Hugh Weathers'''
+| party = Republican Party (United States)
+| votes ='''131,061'''
+| percentage = '''57.4'''
+}}
+{{Election box candidate with party link no change
+| candidate = Bill Bell
+| party = Republican Party (United States)
+| votes = 97,326
+| percentage = 42.6
+}}
+{{Election box total no change
+| votes = 228,387
+| percentage = 100
+}}
+{{Election box end}}
+
+'''General election'''
+
+The commissioner elected in 2002, Charles Sharp, was convicted in 2004 for accepting bribes from a cockfighting ring to help them avoid prosecution. He lost his office and was replaced by Weathers, the interim commissioner. Weathers was challenged by Democrat Emile DeFelice, an organic hog farmer and State Food Policy Council chairman. DeFelice did not face a primary. DeFelice promoted raising consumption of locally grown foods over food from other states or countries, and adopted an anti-subsidy platform that would limit direct [[agricultural subsidies|subsidies]] to South Carolina farmers. Weathers won the general election.
+
+{{Election box begin | title=South Carolina commissioner of agriculture election, 2006}}
+ {{Election box winning candidate with party link|
+   |party      = Republican Party (United States)
+   |candidate  = Hugh Weathers (incumbent)
+   |votes      = 635,903
+   |percentage = 59.7%
+   |change     = +9.2%
+ }}
+ {{Election box candidate with party link|
+   |party      = Democratic Party (United States)
+   |candidate  = Emile DeFelice
+   |votes      = 429,255
+   |percentage = 40.3%
+   |change     = -9.1%
+ }}
+{{Election box candidate|
+  |party      = ''No party''
+  |candidate  = Write-ins
+  |votes      = 319
+  |percentage = <0.1%
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 206,648
+  |percentage = 19.4%
+  |change     = +8.5%
+}}
+{{Election box turnout|
+  |votes      = 1,065,477
+  |percentage = 43.4% <!--2,454,963 registered voters-->
+  |change     = -8.5%
+}}
+{{Election box end}}
+
+==Constitutional amendments==
+'''Amendment 1'''
+
+Amendment 1 added Section 15 Article XVII of the state constitution, denying recognition of any domestic union other than a marriage between one man and one woman in South Carolina and all its political subdivisions. This also abolished common-law marriages and civil unions in the state. The amendment easily passed, although state statute already defined marriage as only between a man and a woman.
+
+{{referendum results
+| caption = Amendment 1
+| for = 829360
+| against = 234316
+| turnout        = 43.3 
+| source         = [http://www.scvotes.org/statistics/election_returns_from_primaries_and_general_elections_statewide - Official results]
+}}
+[[File:South Carolina Marriage Referendum by county.svg|230px|thumb|Amendment 1 results by county
+{{collapsible list
+|title=Yes:
+|{{legend|#2B2457|90–100%}}
+|{{legend|#28497C|80–90%}}
+|{{legend|#47729E|70–80%}}
+}}
+]]
+{{Clear}}
+
+'''Amendments 2A and 2B'''
+
+These amendments modified Article III. 2A amended Section 9 to allow the State Senate to, at any point, recess for up to 30 days with a simple majority vote, or recess for more than 30 days with a 2/3 majority vote. This basically extended to the Senate the same powers of recess already possessed by the House. 2B deleted a legal prohibition from Section 21 that prevented either legislative body from adjourning for more than three days without the consent of the other. Both easily passed.
+
+{{referendum results
+| caption = Amendment 2A
+| for = 797252
+| against = 215402
+| turnout        = 41.2 
+| source         = [http://www.scvotes.org/statistics/election_returns_from_primaries_and_general_elections_statewide - Official results]
+}}
+[[File:2006 South Carolina Amendment 2A results map by county.svg|230px|thumb|Amendment 2A results by county
+{{collapsible list
+|title=Yes:
+|{{legend|#28497C|80–90%}}
+|{{legend|#47729E|70–80%}}
+|{{legend|#7D9CBB|60–70%}}
+}}
+]]
+{{Clear}}
+
+{{referendum results
+| caption = Amendment 2B
+| for = 762299
+| against = 241141
+| turnout        = 40.9 
+| source         = [http://www.scvotes.org/statistics/election_returns_from_primaries_and_general_elections_statewide - Official results]
+}}
+[[File:2006 South Carolina Amendment 2B results map by county.svg|230px|thumb|Amendment 2B results by county
+{{collapsible list
+|title=Yes:
+|{{legend|#28497C|80–90%}}
+|{{legend|#47729E|70–80%}}
+|{{legend|#7D9CBB|60–70%}}
+|{{legend|#B6C8D9|50–60%}}
+}}
+]]
+{{Clear}}
+
+'''Amendments 3A and 3B'''
+
+3A modified Article X, Section 16 to allow state retirement funds to be invested in equity securities. 3B modified the same section, deleting language providing for a State Retirement Systems Investment Panel, an advisory body that oversees the investment of state retirement funds. Both easily passed
+
+{{referendum results
+| caption = Amendment 3A
+| for = 725648
+| against = 295398
+| turnout        = 41.6 
+| source         = [http://www.scvotes.org/statistics/election_returns_from_primaries_and_general_elections_statewide - Official results]
+}}
+[[File:2006 South Carolina Amendment 3A results map by county.svg|230px|thumb|Amendment 3A results by county
+{{collapsible list
+|title=Yes:
+|{{legend|#47729E|70–80%}}
+|{{legend|#7D9CBB|60–70%}}
+|{{legend|#B6C8D9|50–60%}}
+}}
+]]
+{{Clear}}
+
+{{referendum results
+| caption = Amendment 3B
+| for = 660037
+| against = 331872
+| turnout        = 40.4 
+| source         = [http://www.scvotes.org/statistics/election_returns_from_primaries_and_general_elections_statewide - Official results]
+}}
+[[File:2006 South Carolina Amendment 3B results map by county.svg|230px|thumb|Amendment 3B results by county
+{{collapsible list
+|title=Yes:
+|{{legend|#47729E|70–80%}}
+|{{legend|#7D9CBB|60–70%}}
+|{{legend|#B6C8D9|50–60%}}
+}}
+]]
+{{Clear}}
+
+'''Amendment 4'''
+
+This amended Articles III and X of the constitution, allowing the General Assembly to cap changes in reassessment of property values for tax purposes at 15% over a five-year period. This amendment was part of a tax reform plan introduced by state Republicans during the summer of 2006, that centered around cutting property taxes and replacing them with an increased sales tax. Essentially, this amendment limited increases or decreases in [[millage]] to 15% of the property's pre-assessment value.
+
+{{referendum results
+| caption = Amendment 4
+| for = 707270
+| against = 318026
+| turnout        = 41.8 
+| source         = [http://www.scvotes.org/statistics/election_returns_from_primaries_and_general_elections_statewide - Official results]
+}}
+[[File:2006 South Carolina Amendment 4 results map by county.svg|230px|thumb|Amendment 4 results by county
+{{collapsible list
+|title=Yes:
+|{{legend|#47729E|70–80%}}
+|{{legend|#7D9CBB|60–70%}}
+|{{legend|#B6C8D9|50–60%}}
+}}
+]]
+{{Clear}}
+
+'''Amendment 5'''
+
+Amendment 5 amended Article I, Sections 13 and 17, and Article XIV, Section 5, to limit the circumstances in which local governments can use eminent domain to seize private property.  This amendment was part of a national political movement to limit the powers of eminent domain following the famous 2005 [[Kelo v. City of New London]] [[United States Supreme Court|Supreme Court]] case, in which the Supreme Court backed the power of governments to seize land for the use of private development projects.  The amendment prevented governments in South Carolina from doing so, as well as eliminating constitutional clauses that give certain counties slum-clearing and redevelopment power.
+
+{{referendum results
+| caption = Amendment 5
+| for = 885683
+| against = 144169
+| turnout        = 41.9 
+| source         = [http://www.scvotes.org/statistics/election_returns_from_primaries_and_general_elections_statewide - Official results]
+}}
+[[File:2006 South Carolina Amendment 5 results map by county.svg|230px|thumb|Amendment 5 results by county
+{{collapsible list
+|title=Yes:
+|{{legend|#2B2457|90–100%}}
+|{{legend|#28497C|80–90%}}
+|{{legend|#47729E|70–80%}}
+|{{legend|#7D9CBB|60–70%}}
+}}
+]]
+{{Clear}}
+
+==See also==
+* [[2006 South Carolina gubernatorial election]]
+
+==References==
+{{reflist|colwidth=40em}}
+
+{{Elections in South Carolina footer}}
+{{2006 U.S. midterm elections}}
+
+[[Category:2006 elections in South Carolina| ]]
+[[Category:2006 elections in the United States by state or territory|South Carolina]]

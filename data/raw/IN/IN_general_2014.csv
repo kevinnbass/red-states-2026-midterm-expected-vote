@@ -1,0 +1,535 @@
+County,Office,Candidate,Party,District,Votes
+,Secretary of State,Elizabeth "Beth" White,Democratic,Statewide,527379
+,Secretary of State,Karl Tatgenhorst,Libertarian,Statewide,45393
+,Secretary of State,Connie Lawson,Republican,Statewide,762223
+,Auditor of State,Michael A. Claytor,Democratic,Statewide,479109
+,Auditor of State,John Schick,Libertarian,Statewide,58332
+,Auditor of State,Suzanne Crouch,Republican,Statewide,793633
+,Treasurer of State,Mike Boland,Democratic,Statewide,490965
+,Treasurer of State,Michael L. (Mike) Jasper,Libertarian,Statewide,63780
+,Treasurer of State,Kelly Mitchell,Republican,Statewide,772422
+,United States Representative,Peter J.  Visclosky,Democratic,District 1,86579
+,United States Representative,Donna T. Dunn,Libertarian,District 1,4714
+,United States Representative,Mark Leyva,Republican,District 1,51000
+,United States Representative,James L. Johnson Junior,Write-in,District 1,0
+,United States Representative,Joe Bock,Democratic,District 2,55590
+,United States Representative,Jeff Petermann,Libertarian,District 2,4027
+,United States Representative,Jackie Walorski,Republican,District 2,85583
+,United States Representative,Justin Kuhnle,Democratic,District 3,39771
+,United States Representative,Scott Wise,Libertarian,District 3,6133
+,United States Representative,Marlin A. Stutzman,Republican,District 3,102889
+,United States Representative,John Dale,Democratic,District 4,47056
+,United States Representative,Todd Rokita,Republican,District 4,94998
+,United States Representative,Shawn A. Denney,Democratic,District 5,49756
+,United States Representative,John Krom,Libertarian,District 5,6407
+,United States Representative,Susan Brooks,Republican,District 5,105277
+,United States Representative,Susan Hall Heitzman,Democratic,District 6,45509
+,United States Representative,Eric Miller,Libertarian,District 6,7375
+,United States Representative,Luke Messer,Republican,District 6,102187
+,United States Representative,André Carson,Democratic,District 7,61443
+,United States Representative,Chris Mayo,Libertarian,District 7,3931
+,United States Representative,Catherine (Cat) Ping,Republican,District 7,46887
+,United States Representative,Tom Spangler,Democratic,District 8,61384
+,United States Representative,Andrew Horning,Libertarian,District 8,6587
+,United States Representative,Larry D. Bucshon,Republican,District 8,103344
+,United States Representative,Bill Bailey,Democratic,District 9,55016
+,United States Representative,R. Mike Frey,Libertarian,District 9,5777
+,United States Representative,Todd Young,Republican,District 9,101594
+,State Senator,Frank Mrvan Jr.,Democratic,District 1,15538
+,State Senator,Ken Stevenson,Republican,District 1,10506
+,State Senator,Karen Tallian,Democratic,District 4,18511
+,State Senator,Roxanna Hanford,Democratic,District 6,9579
+,State Senator,Rick Niemeyer,Republican,District 6,19969
+,State Senator,Joe Zakas,Republican,District 11,19924
+,State Senator,Dennis K. Kruse,Republican,District 14,21792
+,State Senator,Jack E. Morris,Democratic,District 15,10482
+,State Senator,Liz Brown,Republican,District 15,15101
+,State Senator,Jim Banks,Republican,District 17,20013
+,State Senator,Travis Holdman,Republican,District 19,23367
+,State Senator,James R. Buck,Republican,District 21,22782
+,State Senator,Ron J. Alting,Republican,District 22,16051
+,State Senator,Bob Burkett,Democratic,District 23,9835
+,State Senator,Philip L. (Phil) Boots,Republican,District 23,20413
+,State Senator,Tim Lanane,Democratic,District 25,15560
+,State Senator,Robert Jozwiak,Libertarian,District 25,5458
+,State Senator,Doug Eckerty,Republican,District 26,22329
+,State Senator,Jerome (Jake) Hoog,Democratic,District 27,6250
+,State Senator,Rex Bell,Libertarian,District 27,2552
+,State Senator,Jeff Raatz,Republican,District 27,16030
+,State Senator,J.D. Ford,Democratic,District 29,12744
+,State Senator,Mike Delph,Republican,District 29,15140
+,State Senator,"James W. Merritt, Jr",Republican,District 31,18414
+,State Senator,Timothy Dale (Tim) Skinner,Democratic,District 38,12580
+,State Senator,Jon Ford,Republican,District 38,13585
+,State Senator,Steve Lindsey,Democratic,District 39,12786
+,State Senator,Eric Bassler,Republican,District 39,20074
+,State Senator,Andy Talarzyk,Democratic,District 41,5349
+,State Senator,Damian Stanziano,Libertarian,District 41,855
+,State Senator,Greggory F. Walker,Republican,District 41,15940
+,State Senator,Rudy Howard,Democratic,District 43,8988
+,State Senator,Chip Perfect,Republican,District 43,22737
+,State Senator,Julie Berry,Democratic,District 45,16994
+,State Senator,Jim Smith,Republican,District 45,19827
+,State Senator,Charles "Chuck" Freiberger,Democratic,District 46,13168
+,State Senator,Ron Grooms,Republican,District 46,16950
+,State Senator,"Richard D. Young, Jr.",Democratic,District 47,15419
+,State Senator,Erin Houchin,Republican,District 47,21395
+,State Senator,Larry Vollmer,Democratic,District 48,12489
+,State Senator,Mark Messmer,Republican,District 48,23859
+,State Senator,Jim Tomes,Republican,District 49,23127
+,State Representative,Linda C. Lawson,Democratic,District 1,6548
+,State Representative,Earl L. Harris,Democratic,District 2,8659
+,State Representative,Jayson Reeves,Republican,District 2,942
+,State Representative,Charlie Brown,Democratic,District 3,8898
+,State Representative,Debora (Deb) Porter,Democratic,District 4,7934
+,State Representative,Ed Soliday,Republican,District 4,9885
+,State Representative,Dale DeVon,Republican,District 5,9379
+,State Representative,B. Patrick Bauer,Democratic,District 6,8163
+,State Representative,David L. Niezgodski,Democratic,District 7,8234
+,State Representative,Mark Vogel,Libertarian,District 7,2635
+,State Representative,Ryan M. Dvorak,Democratic,District 8,9785
+,State Representative,Scott D. Pelath,Democratic,District 9,9861
+,State Representative,Charles "Chuck" Moseley,Democratic,District 10,7758
+,State Representative,John W. Johnston,Republican,District 10,5819
+,State Representative,James Metro,Democratic,District 11,6511
+,State Representative,Michael J. Aylesworth,Republican,District 11,8526
+,State Representative,Mara Candelaria Reardon,Democratic,District 12,6920
+,State Representative,William I. (Bill) Fine,Republican,District 12,7341
+,State Representative,Sharon Negele,Republican,District 13,11229
+,State Representative,Vernon G. Smith,Democratic,District 14,8511
+,State Representative,Jim Wieser,Democratic,District 15,5860
+,State Representative,Hal Slager,Republican,District 15,8315
+,State Representative,Richard W. (Rich) Ludington,Democratic,District 16,5137
+,State Representative,Douglas L. Gutwein,Republican,District 16,9313
+,State Representative,Timothy P. Harman,Republican,District 17,10536
+,State Representative,David A. Wolkins,Republican,District 18,10787
+,State Representative,Shelli VanDenburgh,Democratic,District 19,6834
+,State Representative,Julie Olthoff,Republican,District 19,7146
+,State Representative,Tom Dermody,Republican,District 20,12292
+,State Representative,Jodi L. Buoscio,Democratic,District 21,3689
+,State Representative,Timothy Wesco,Republican,District 21,7481
+,State Representative,David C.  Kolbe,Democratic,District 22,3235
+,State Representative,Michael L. Stinfer,Independent,District 22,681
+,State Representative,Curt Nisly,Republican,District 22,9473
+,State Representative,William C. Friend,Republican,District 23,8414
+,State Representative,Steve Braun,Republican,District 24,12264
+,State Representative,Maurice O. Fuller,Democratic,District 25,3978
+,State Representative,Donald J. Lehe,Republican,District 25,9775
+,State Representative,Randy Truitt,Republican,District 26,6911
+,State Representative,Sheila Klinker,Democratic,District 27,5551
+,State Representative,Chuck Hockema,Republican,District 27,5169
+,State Representative,Sean Shanley,Democratic,District 28,2390
+,State Representative,Jeffrey A. Thompson,Republican,District 28,11430
+,State Representative,Joe Marcum,Democratic,District 29,3270
+,State Representative,Kathy Kreag Richardson,Republican,District 29,9317
+,State Representative,Chuck Sosbe ,Democratic,District 30,5964
+,State Representative,Mike Karickhoff,Republican,District 30,8166
+,State Representative,Kevin A. Mahan,Republican,District 31,9677
+,State Representative,Bob Ashley,Democratic,District 32,5260
+,State Representative,P. Eric Turner,Republican,District 32,8981
+,State Representative,Shon Byrum,Democratic,District 33,5567
+,State Representative,Zeb Sutton,Libertarian,District 33,642
+,State Representative,Greg Beumer,Republican,District 33,9161
+,State Representative,Sue E. Errington,Democratic,District 34,6357
+,State Representative,Stuart A. Keenan,Republican,District 34,3317
+,State Representative,Melanie Wright,Democratic,District 35,8581
+,State Representative,L. Jack Lutz,Republican,District 35,8375
+,State Representative,Terri Jo Austin,Democratic,District 36,8544
+,State Representative,"James D. (Jim) Shelton, Jr.",Republican,District 36,5459
+,State Representative,Todd Huston,Republican,District 37,9346
+,State Representative,Heath R. VanNatter,Republican,District 38,11435
+,State Representative,David Russ,Democratic,District 39,4012
+,State Representative,Jerry Torr,Republican,District 39,10978
+,State Representative,Gregory E. Steuerwald,Republican,District 40,9605
+,State Representative,Tim Brown,Republican,District 41,11862
+,State Representative,Mark C. Spelbring,Democratic,District 42,7193
+,State Representative,Alan Morrison,Republican,District 42,9224
+,State Representative,Clyde Kersey,Democratic,District 43,7856
+,State Representative,Jim Baird,Republican,District 44,14563
+,State Representative,Bionca D. Gambill,Democratic,District 45,7274
+,State Representative,Bruce Borders,Republican,District 45,9534
+,State Representative,James R. (Jim)  Mann II,Democratic,District 46,5543
+,State Representative,Bob Heaton,Republican,District 46,9152
+,State Representative,Michael L. (Mike) Reddick,Democratic,District 47,2561
+,State Representative,John Price,Republican,District 47,8500
+,State Representative,Doug Miller,Republican,District 48,8857
+,State Representative,Joshua O'Brien,Libertarian,District 49,1703
+,State Representative,Wesley Culver,Republican,District 49,8357
+,State Representative,Daniel (Dan) J. Leonard,Republican,District 50,10655
+,State Representative,Dennis J. Zent,Republican,District 51,9471
+,State Representative,Charlie Odier,Democratic,District 52,3163
+,State Representative,Ben Smaltz,Republican,District 52,9687
+,State Representative,Ben Parker,Libertarian,District 53,2113
+,State Representative,Robert W. Cherry,Republican,District 53,9124
+,State Representative,Brad Owens,Libertarian,District 54,3452
+,State Representative,Thomas E. (Tom) Saunders,Republican,District 54,9444
+,State Representative,Glenn E. Bailey,Democratic,District 55,4483
+,State Representative,Cindy Meyer Ziemke,Republican,District 55,10909
+,State Representative,Phillip Pflum,Democratic,District 56,3266
+,State Representative,Mark Brim,Libertarian,District 56,705
+,State Representative,Richard (Dick) Hamm,Republican,District 56,5782
+,State Representative,Sean R. Eberhart,Republican,District 57,11025
+,State Representative,Woody Burton,Republican,District 58,7664
+,State Representative,Zack Ellison,Democratic,District 59,5450
+,State Representative,Milo Smith,Republican,District 59,8034
+,State Representative,Daymon L. Brodhacker,Democratic,District 60,5444
+,State Representative,Peggy Mayfield,Republican,District 60,9613
+,State Representative,Matt Pierce,Democratic,District 61,6725
+,State Representative,Jeff Sparks,Democratic,District 62,7038
+,State Representative,Ashley A. Keith Qualkenbush,Libertarian,District 62,685
+,State Representative,Matt Ubelhor,Republican,District 62,9429
+,State Representative,Mike Braun,Republican,District 63,13329
+,State Representative,Thomas W. Washburne,Republican,District 64,14133
+,State Representative,Eric A. Koch,Republican,District 65,12791
+,State Representative,Terry Goodin,Democratic,District 66,10882
+,State Representative,Lisa Seng Shadday,Republican,District 66,7566
+,State Representative,Randy Frye,Republican,District 67,13308
+,State Representative,Rick L. Gill,Democratic,District 68,4512
+,State Representative,Jud McMillin,Republican,District 68,10442
+,State Representative,Jim Lucas,Republican,District 69,12200
+,State Representative,Heidi Sellers,Democratic,District 70,8022
+,State Representative,Rhonda J. Rhoads,Republican,District 70,11462
+,State Representative,Steven R. Stemler,Democratic,District 71,11370
+,State Representative,Russell Brooksbank,Libertarian,District 71,2182
+,State Representative,Kevin Sue Bailey,Democratic,District 72,6964
+,State Representative,Edward D. (Ed) Clere,Republican,District 72,9076
+,State Representative,Douglas C. Leatherbury,Democratic,District 73,4679
+,State Representative,Steven Davisson,Republican,District 73,11027
+,State Representative,Christopher J. Coyle,Democratic,District 74,6993
+,State Representative,Lloyd Arnold,Republican,District 74,11077
+,State Representative,Steve Spinks,Democratic,District 75,6019
+,State Representative,Ron Bacon,Republican,District 75,12003
+,State Representative,Tony Goben,Democratic,District 76,5488
+,State Representative,Wendy (Mac) McNamara,Republican,District 76,9341
+,State Representative,Gail Riecken,Democratic,District 77,6183
+,State Representative,Jeremy Heath,Republican,District 77,3804
+,State Representative,Stephen R. Melcher,Democratic,District 78,5482
+,State Representative,Holli Sullivan,Republican,District 78,9676
+,State Representative,Matthew S. Lehman,Republican,District 79,12953
+,State Representative,Phil GiaQuinta,Democratic,District 80,6723
+,State Representative,Thad Gerardot,Democratic,District 81,4708
+,State Representative,Martin Carbaugh,Republican,District 81,6926
+,State Representative,Mike Wilber,Democratic,District 82,2898
+,State Representative,David L. Ober,Republican,District 82,9654
+,State Representative,Christopher N. Judy,Republican,District 83,13748
+,State Representative,Fred Haigh,Democratic,District 84,5399
+,State Representative,Bob Morris,Republican,District 84,10811
+,State Representative,Casey Cox,Republican,District 85,11222
+,State Representative,Edward O. DeLaney,Democratic,District 86,10897
+,State Representative,Christina Hale,Democratic,District 87,8236
+,State Representative,Mike Friedman,Republican,District 87,7747
+,State Representative,Brian C. Bosma,Republican,District 88,11791
+,State Representative,Debra S. Jenkins,Democratic,District 89,4669
+,State Representative,Cindy Kirchhofer,Republican,District 89,6770
+,State Representative,Mike Speedy,Republican,District 90,9169
+,State Representative,Patrick Lockhart,Democratic,District 91,3022
+,State Representative,Robert W. Behning,Republican,District 91,5981
+,State Representative,Karlee D. Macer,Democratic,District 92,5374
+,State Representative,John L. Couch,Independent,District 92,299
+,State Representative,Bradford Moulton,Republican,District 92,4814
+,State Representative,Ryan Guillory,Democratic,District 93,3235
+,State Representative,Dave Frizzell,Republican,District 93,8355
+,State Representative,Cherrish S. Pryor,Democratic,District 94,8859
+,State Representative,John Bartlett,Democratic,District 95,7970
+,State Representative,Gregory W. Porter,Democratic,District 96,11767
+,State Representative,Margaret Peggy Jones,Republican,District 96,2248
+,State Representative,Justin Moed,Democratic,District 97,3689
+,State Representative,Robin Shackleford,Democratic,District 98,6520
+,State Representative,Bill Levin,Libertarian,District 98,788
+,State Representative,Vanessa J. Summers,Democratic,District 99,8095
+,State Representative,Dan Forestal,Democratic,District 100,5906
+,Judge of the Circuit Court,Thomas J. Felts,Republican,Allen (38th District),55714
+,Judge of the Circuit Court,Rex W. Kepner,Republican,Benton (76th Circuit) ,1991
+,Judge of the Circuit Court,Andrew (Drew) Adams,Democratic,"Clark (4th Circt), No. 1",18872
+,Judge of the Circuit Court,Laura A. Harbison,Democratic,"Clark (4th Circt), No. 2",10896
+,Judge of the Circuit Court,Brad Jacobs,Republican,"Clark (4th Circt), No. 2",18532
+,Judge of the Superior Court,Patrick R. Miller,Republican,Adams County ,5939
+,Judge of the Circuit Court,Joe P. Weber,Democratic,"Clark (4th Circt), No. 3",15086
+,Judge of the Circuit Court,Kyle P. Williams,Republican,"Clark (4th Circt), No. 3",14092
+,Judge of the Superior Court,Craig J. Bobay,Non-Partisan,Allen Civil Div.(Bobay),47842
+,Judge of the Superior Court,Dan Heath,Non-Partisan,Allen Fam.Rel. (Heath),53215
+,Judge of the Superior Court,Daniel J. Borgmann,Non-Partisan,Allen Civil (Levine),14349
+,Judge of the Superior Court,James P. Posey,Non-Partisan,Allen Civil (Levine),17431
+,Judge of the Superior Court,Stanley A. Levine,Non-Partisan,Allen Civil (Levine),25861
+,Judge of the Superior Court,Fran C. Gull,Non-Partisan,Allen Criminal (Gull),54209
+,Judge of the Superior Court,John F. Surbeck Jr,Non-Partisan,Allen Criminal (Surbeck),53238
+,Judge of the Superior Court,Kathleen (Kitty) Tighe Coriden,Republican,"Bartholomew County, No. 2",13313
+,Judge of the Circuit Court,Gregory A. Smith,Republican,Daviess (49th Circuit),5560
+,Judge of the Superior Court,Matt Kincaid,Republican,"Boone County, No. 1",11962
+,Judge of the Superior Court,Bruce Petit,Republican,"Boone County, No. 2",11731
+,Judge of the Circuit Court,Linda Ralu Wolf,Democratic,Delaware Ct. 3(46th Cir.),15434
+,Judge of the Circuit Court,John M. Feick,Republican,Delaware Ct. 4(46th Cir.),15834
+,Judge of the Circuit Court,Thomas A. Cannon Jr.,Democratic,Delaware Ct. 5(46th Cir.),15329
+,Judge of the Superior Court,Kurtis Glenn Fouts,Republican,Carroll County,3314
+,Judge of the Circuit Court,Nathan A.  Verkamp,Democratic,Dubois (57th Circuit),6729
+,Judge of the Circuit Court,Kevin D. Crouse,Republican,Dubois (57th Circuit),4820
+,Judge of the Superior Court,Justin H. Hunter,Republican,Clinton County,4980
+,Judge of the Circuit Court,Clay M. Kellerman,Republican,Franklin #2 (37th Cir),4695
+,Judge of the Superior Court,Dean A. Sobecki,Republican,Daviess County,5569
+,Judge of the Circuit Court,A. Christopher Lee,Democratic,Fulton (41st Circuit),3413
+,Judge of the Superior Court,Jonathan N. Cleary,Republican,Dearborn County No. 1,9027
+,Judge of the Superior Court,Matthew D. Bailey,Republican,Decatur County,5753
+,Judge of the Superior Court,Kevin P. Wallace,Democratic,"DeKalb County, Court 1",4359
+,Judge of the Circuit Court,Paul A. Felix,Republican,Hamilton (24th Circuit),45656
+,Judge of the Superior Court,Evan S. Roberts,Republican,"Elkhart County, No. 1",25494
+,Prosecuting Attorney,Christopher E. Harvey,Democratic,Adams (26th Circuit),2782
+,Prosecuting Attorney,Jeremy W. Brown,Republican,Adams (26th Circuit),4865
+,Prosecuting Attorney,Karen Richards,Republican,Allen (38th Circuit),56507
+,Judge of the Superior Court,Teresa L. Cataldo,Republican,"Elkhart County, No. 3",25908
+,Judge of the Superior Court,Gretchen S. Lund,Republican,"Elkhart County, No. 4",25516
+,Prosecuting Attorney,William M. (Bill) Nash,Republican,Bartholomew (9th Circuit),13097
+,Judge of the Superior Court,Charles Carter Wicks,Republican,"Elkhart County, No. 5",25209
+,Prosecuting Attorney,John C. Wright,Republican,Benton (76th Circuit),1863
+,Prosecuting Attorney,Kevin N. Basey,Republican,Blackford (71st Circuit),2128
+,Prosecuting Attorney,Todd J. Meyer,Republican,Boone (20th Circuit),11645
+,Prosecuting Attorney,James R. Oliver,Democratic,Brown (88th Circuit),2472
+,Prosecuting Attorney,Ted Adams,Republican,Brown (88th Circuit),2860
+,Prosecuting Attorney,Robert T. (Rob) Ives,Republican,Carroll (74th Circuit),3180
+,Prosecuting Attorney,Mark Kelly Leeman,Democratic,Cass (29th Circuit),3184
+,Prosecuting Attorney,Lisa L. Swaim,Republican,Cass (29th Circuit),4803
+,Judge of the Superior Court,James M. Fraley,Democratic,Fayette County,2374
+,Prosecuting Attorney,Robert G. Bottorff II,Democratic,Clark (4th Circuit),12279
+,Prosecuting Attorney,Jeremy Mull,Republican,Clark (4th Circuit),17374
+,Judge of the Superior Court,Paul L. Freed,Republican,Fayette County,3300
+,Prosecuting Attorney,Robert Alex Pell,Republican,Clay (13th Circuit),5944
+,Prosecuting Attorney,Anthony J. Sommer,Republican,Clinton (45th Circuit),4956
+,Prosecuting Attorney,Cheryl J. Hillenburg,Democratic,Crawford (77th Circuit),1738
+,Prosecuting Attorney,Nicholas W. Haverstock,Republican,Crawford (77th Circuit),1999
+,Prosecuting Attorney,Dan Murrie,Republican,Daviess (49th Circuit),5369
+,Prosecuting Attorney,Aaron Negangard,Republican,Dearborn & Ohio(7th Cir.),10106
+,Prosecuting Attorney,Christopher M. Tebbe,Democratic,Decatur (69th Circuit),3019
+,Prosecuting Attorney,Nathan W. Harter IV,Republican,Decatur (69th Circuit),3604
+,Prosecuting Attorney,ClaraMary Winebrenner,Republican,DeKalb (75th Circuit),5959
+,Prosecuting Attorney,Jeffrey L. Arnold,Republican,Delaware (46th Circuit),16155
+,Prosecuting Attorney,Anthony D. Quinn,Democratic,Dubois (57th Circuit),7298
+,Judge of the Superior Court,Susan Orth,Democratic,"Floyd County, No. 1",11655
+,Prosecuting Attorney,"Curtis T. Hill, Jr.",Republican,Elkhart (34th Circuit),26307
+,Judge of the Circuit Court,Dan Zielinski,Republican,Hendricks (55th Circuit),23974
+,Prosecuting Attorney,John  W.  Bodwell,Democratic,Fayette (73rd Circuit),2311
+,Prosecuting Attorney,Bette Jo Jones,Republican,Fayette (73rd Circuit),3373
+,Judge of the Superior Court,Matthew W. Lorch,Democratic,"Floyd County, No. 2",7859
+,Judge of the Superior Court,James B. (Jim) Hancock,Republican,"Floyd County, No. 2",10677
+,Prosecuting Attorney,Keith Henderson,Republican,Floyd (52nd Circuit),13054
+,Judge of the Superior Court,Maria Granger,Democratic,"Floyd County, No. 3",11105
+,Prosecuting Attorney,Teryl D. (Terry) Martin,Republican,Fountain (61st Circuit),3175
+,Prosecuting Attorney,Mel Wilhelm,Democratic,Franklin (37th Circuit),3881
+,Prosecuting Attorney,Richard A. Brown,Republican,Fulton (41st Circuit),3896
+,Prosecuting Attorney,Robert Krieg,Republican,Gibson (66th Circuit),6936
+,Prosecuting Attorney,David M. Payne,Democratic,Grant (48th Circuit),4127
+,Prosecuting Attorney,James D. Luttrull Jr.,Republican,Grant (48th Circuit),9039
+,Prosecuting Attorney,Jarrod D. Holtsclaw,Republican,Greene (63rd Circuit),7480
+,Prosecuting Attorney,D. Lee Buckingham II,Republican,Hamilton (24th Circuit),45855
+,Judge of the Circuit Court,Mary G. Willis,Republican,Henry No. 1 (53rd Circuit,8371
+,Prosecuting Attorney,Brent E. Eaton,Republican,Hancock (18th Circuit),11671
+,Prosecuting Attorney,Rachael Armstrong,Democratic,Harrison (3rd Circuit),4375
+,Judge of the Circuit Court,Bob A. Witham,Republican,Henry No. 3 (53rd Circuit,8565
+,Prosecuting Attorney,J. Otto Schalk,Republican,Harrison (3rd Circuit),7569
+,Prosecuting Attorney,Patricia Ann Baldwin,Republican,Hendricks (55th Circuit),23977
+,Prosecuting Attorney,Joseph (Joe) Bergacs,Republican,Henry (53rd Circuit),8414
+,Prosecuting Attorney,Mark A. McCann,Republican,Howard (62nd Circuit),14556
+,Prosecuting Attorney,Amy C. Richison,Republican,Huntington (56th Circuit),6091
+,Prosecuting Attorney,AmyMarie Travis,Republican,Jackson (40th Circuit),8023
+,Prosecuting Attorney,Christine M. Haskell,Republican,Jasper (30th Circuit),5290
+,Prosecuting Attorney,Wesley A. Schemenaur,Democratic,Jay (58th Circuit),2558
+,Prosecuting Attorney,Gregory W. LeMaster,Republican,Jay (58th Circuit),2438
+,Prosecuting Attorney,Chad T. Lewis,Democratic,Jefferson (5th Cir.),6623
+,Prosecuting Attorney,Alan L. Marshall,Democratic,Jennings (86th Circuit),3470
+,Judge of the Circuit Court,Lynn Murray,Democratic,Howard (62nd Circuit),10865
+,Prosecuting Attorney,Brian J. Belding,Republican,Jennings (86th Circuit),4341
+,Judge of the Circuit Court,Richard L. Russell,Republican,Howard (62nd Circuit),9122
+,Prosecuting Attorney,Bradley D. Cooper,Republican,Johnson (8th Circuit),18852
+,Prosecuting Attorney,Hal Johnston,Democratic,Knox (12th Circuit),3537
+,Prosecuting Attorney,J. Dirk Carnahan,Republican,Knox (12th Circuit),7122
+,Prosecuting Attorney,Daniel H. Hampton,Republican,Kosciusko (54th Circuit),14330
+,Prosecuting Attorney,Greg Kenner,Independent,LaGrange (35th Circuit),2813
+,Prosecuting Attorney,Timothy (Tim) J. Cain,Republican,LaGrange (35th Circuit),2544
+,Prosecuting Attorney,Bernard A. Carter,Democratic,Lake (31st Circuit),64814
+,Prosecuting Attorney,John M. Espar,Democratic,LaPorte (32nd Circuit),16881
+,Prosecuting Attorney,Michelle L. Woodward,Republican,Lawrence (81st Circuit),7659
+,Prosecuting Attorney,Rodney Cummings,Republican,Madison (50th Circuit),19914
+,Prosecuting Attorney,Terry R. Curry,Democratic,Marion (19th Circuit),95856
+,Prosecuting Attorney,Duane Merchant,Republican,Marion (19th Circuit),60907
+,Prosecuting Attorney,Nelson Chipman,Republican,Marshall (72nd Circuit),7307
+,Prosecuting Attorney,C.  Michael Steiner,Democratic,Martin (90th Circuit),2193
+,Prosecuting Attorney,Bruce Embrey,Republican,Miami (51st Circuit),4535
+,Prosecuting Attorney,Chris Gaal,Democratic,Monroe (10th Circuit),15270
+,Prosecuting Attorney,Jacob (Jake) Moore,Republican,Monroe (10th Circuit),11066
+,Prosecuting Attorney,Joseph R. Buser,Republican,Montgomery (22nd Circuit),7079
+,Prosecuting Attorney,Steven P. Sonnega,Republican,Morgan (15th Circuit),11551
+,Prosecuting Attorney,Jeffrey D. Drinski,Republican,Newton (79th Circuit),2733
+,Prosecuting Attorney,Eric D. Blackman,Republican,Noble (33rd Circuit),7334
+,Prosecuting Attorney,Kelly C. Minton,Republican,Orange (87th Circuit),4207
+,Prosecuting Attorney,Donald R. VanDerMoere II,Republican,Owen (78th Circuit),4002
+,Prosecuting Attorney,Steven Cvengros,Republican,Parke (68th Circuit),3818
+,Prosecuting Attorney,Jason R.  Hoch,Democratic,Perry (70th Circuit),4257
+,Prosecuting Attorney,S. Rod Acchiardo,Republican,Perry (70th Circuit),1540
+,Prosecuting Attorney,Kerry Aldridge,Democratic,Pike (83rd Circuit),1952
+,Prosecuting Attorney,Darrin E. McDonald,Independent,Pike (83rd Circuit),2120
+,Prosecuting Attorney,Stacey E. Whitten,Democratic,Porter (67th Circuit),18389
+,Prosecuting Attorney,Brian T. Gensel,Republican,Porter (67th Circuit),21960
+,Prosecuting Attorney,Travis Clowers,Republican,Posey (11th Circuit),6059
+,Prosecuting Attorney,Daniel P. Murphy,Republican,Pulaski (59th Circuit),2859
+,Prosecuting Attorney,Tim Bookwalter,Republican,Putnam (64th Circuit),5028
+,Prosecuting Attorney,David M. Daly,Republican,Randolph (25th Circuit),4729
+,Judge of the Superior Court,Jeff Todd,Republican,"Grant County, No. 1",10541
+,Prosecuting Attorney,Richard J. (Ric) Hertel,Republican,Ripley (80th Circuit),5851
+,Prosecuting Attorney,Philip J. Caviness,Republican,Rush (65th Circuit),3747
+,Judge of the Superior Court,Warren Haas,Republican,"Grant County, No. 3",10259
+,Prosecuting Attorney,Kenneth "Ken" Cotter,Democratic,St. Joseph (60th Circuit),31119
+,Prosecuting Attorney,Jeffrey L. Sanford,Republican,St. Joseph (60th Circuit),26196
+,Prosecuting Attorney,Jason M. Mount,Democratic,Scott (6th Circuit),4916
+,Prosecuting Attorney,James B. "Brad" Landwerlen,Republican,Shelby (16th Circuit),7423
+,Prosecuting Attorney,Dan Wilkinson,Democratic,Spencer (84th Circuit),3894
+,Prosecuting Attorney,Kelly (Dunsworth) Corne,Republican,Spencer (84th Circuit),3374
+,Prosecuting Attorney,Nicholas Allen Bourff,Democratic,Starke (44th Circuit),3162
+,Prosecuting Attorney,Timothy (Tim) Lemon,Republican,Starke (44th Circuit),2595
+,Prosecuting Attorney,Jeremy T. Musser,Republican,Steuben (85th Circuit),6348
+,Prosecuting Attorney,John R. Springer,Democratic,Sullivan (14th Circuit),3163
+,Prosecuting Attorney,Jeffrey R. Johnson,Republican,Sullivan (14th Circuit),2836
+,Prosecuting Attorney,Monica L. Hensley,Democratic,Switzerland (91st Circuit,1702
+,Prosecuting Attorney,Patrick Harrington,Republican,Tippecanoe (23rd Circuit),22272
+,Judge of the Superior Court,Dena Benham Martin,Republican,Greene County,7764
+,Prosecuting Attorney,Jay D. Rich,Republican,Tipton (36th Circuit),3898
+,Prosecuting Attorney,Andrew "A.J." Bryson,Democratic,Union (89th Circuit),1296
+,Prosecuting Attorney,Michael Harry Duckett,Republican,Union (89th Circuit),990
+,Prosecuting Attorney,Nicholas Hermann,Republican,Vanderburgh (1st Circuit),28341
+,Prosecuting Attorney,Bruce D.  Aukerman,Democratic,Vermillion (47th Circuit),3130
+,Prosecuting Attorney,Terry Modesitt,Republican,Vigo (43rd Circuit),15453
+,Prosecuting Attorney,"William C. Hartley, Jr.",Republican,Wabash (27th Circuit),5108
+,Prosecuting Attorney,John A. Larson,Republican,Warren (21st Circuit),2150
+,Prosecuting Attorney,Michael J. (Mike) Perry,Republican,Warrick (2nd Circuit),12441
+,Prosecuting Attorney,Dustin Houchin,Republican,Washington (42nd Circuit),5694
+,Prosecuting Attorney,Michael (Mike) Shipman,Republican,Wayne (17th Circuit),8440
+,Prosecuting Attorney,Andrew J. Carnall,Democratic,Wells (28th Circuit),5013
+,Judge of the Superior Court,William J. Hughes,Republican,"Hamilton County, No. 3",45715
+,Judge of the Superior Court,J. Richard Campbell,Republican,"Hamilton County, No. 4",45755
+,Prosecuting Attorney,Robert J. Guy,Republican,White (39th Circuit),4020
+,Prosecuting Attorney,Matthew J. Rentschler,Republican,Whitley (82nd Circuit),6396
+,Judge of the Superior Court,Wayne A. Sturtevant,Republican,"Hamilton County, No. 5",45718
+,Judge of the Circuit Court,Jonathan Wayne Webster,Republican,Jennings (86th Circuit),6352
+,Judge of the Superior Court,Terry K. Snow,Republican,"Hancock County, No. 1",11743
+,Judge of the Superior Court,Dan E. Marshall,Republican,"Hancock County, No. 2",11638
+,Small Claims Court Judge,Brenda A. Roper,Democratic,"Center Twp., Marion Co.",14523
+,Judge of the Superior Court,Dennis Byrd,Democratic,Harrison County,5766
+,Judge of the Superior Court,Joseph L. (Joe) Claypool,Republican,Harrison County,6175
+,Small Claims Court Judge,Kevin Green,Republican,"Center Twp., Marion Co.",4803
+,Small Claims Court Judge,Myron Hockman,Republican,"Decatur Twp., Marion Co.",2910
+,Judge of the Superior Court,Rhett M. Stuard,Republican,"Hendricks County, No. 2",23902
+,Small Claims Court Judge,"John A. Kitley, Jr.",Republican,"Franklin Twp., Marion Co.",7542
+,Small Claims Court Judge,Kimberly "Kim" Bacon,Democratic,"Lawrence Twp., Marion Co.",12886
+,Small Claims Court Judge,Clark G. Rehme,Republican,"Lawrence Twp., Marion Co.",10878
+,Small Claims Court Judge,Amanda R. Whipple,Democratic,"Perry Twp., Marion Co.",5877
+,Small Claims Court Judge,Robert S. Spear,Republican,"Perry Twp., Marion Co.",11097
+,Small Claims Court Judge,Doug Stephens,Democratic,"Pike Twp., Marion Co.",9923
+,Judge of the Circuit Court,James "Scott" VanDerbeck,Republican,La Grange (35th Circuit),4403
+,Small Claims Court Judge,Sarah Glasser,Republican,"Pike Twp., Marion Co.",5834
+,Judge of the Superior Court,Doug Tate,Republican,"Howard County, No. 3",14756
+,Small Claims Court Judge,Garland E. Graves,Democratic,"Warren Twp., Marion Co.",9325
+,Small Claims Court Judge,Dirk Bentley,Republican,"Warren Twp., Marion Co.",7188
+,Judge of the Superior Court,Jeffrey R. Heffelfinger,Republican,Huntington County,5806
+,Small Claims Court Judge,Steven G. Poore,Democratic,"Washington Twp.,Marion Co",19038
+,Small Claims Court Judge,Kerry W. Mann,Republican,"Washington Twp.,Marion Co",12052
+,Small Claims Court Judge,Gerald B. Coleman,Democratic,"Wayne Twp., Marion Co.",9000
+,Small Claims Court Judge,Danny Vaughn,Republican,"Wayne Twp., Marion Co.",8346
+,Judge of the Superior Court,Susan D. Bevers,Democratic,"Jackson County, No. 2",5012
+,Judge of the Superior Court,Bruce Markel III,Republican,"Jackson County, No. 2",5480
+,Judge of the Circuit Court,Andrea McCord,Republican,Lawrence (81st Circuit),7686
+,Judge of the Superior Court,James R. (Jamie) Ahler,Republican,"Jasper County, No. 1",5422
+,Judge of the Circuit Court,Angela Warner Sims,Republican,"Madison(50th Circ), No. 1",20186
+,Judge of the Superior Court,"Max C. Ludy, Jr.",Republican,Jay County,3942
+,Judge of the Circuit Court,G. George Pancol,Democratic,"Madison(50th Circ), No. 2",19493
+,Judge of the Circuit Court,David Happe,Republican,"Madison(50th Circ), No. 4",20133
+,Judge of the Circuit Court,Thomas L. Clem,Democratic,"Madison(50th Circ), No. 5",19294
+,Judge of the Superior Court,Mike Hensley,Democratic,Jefferson County,5439
+,Judge of the Circuit Court,Sheryl Lynch,Democratic,Marion (19th Circuit),85076
+,Judge of the Superior Court,Alison T. Frazier,Republican,Jefferson County,3827
+,Judge of the Circuit Court,Therese Hannah,Republican,Marion (19th Circuit),68963
+,Judge of the Superior Court,John "Jack" Gay,Democratic,Jennings County,2683
+,Judge of the Circuit Court,Curtis D. Palmer,Republican,Marshall (72nd Circuit),7229
+,Judge of the Superior Court,Gary L. Smith,Republican,Jennings County,5126
+,Judge of the Superior Court,Cynthia S. Emkes,Republican,"Johnson County, No. 2",19289
+,Judge of the Superior Court,Lance D. Hamner,Republican,"Johnson County, No. 3",19202
+,Judge of the Superior Court,Marla Clark,Republican,"Johnson County, No. 4",19258
+,Judge of the Superior Court,Bryan A. Jewel,Democratic,"Knox County, No. 1",4962
+,Judge of the Superior Court,Gara U. Lee,Republican,"Knox County, No. 1",5597
+,Judge of the Circuit Court,Timothy P. (Tim) Spahr,Republican,Miami (51st Circuit),4657
+,Judge of the Superior Court,John F. Sievers,Democratic,"Knox County, No. 2",4620
+,Judge of the Superior Court,Ryan D. Johanningsmeier,Republican,"Knox County, No. 2",6061
+,Judge of the Superior Court,David C. Cates,Republican,"Kosciusko County, No. 1",14190
+,Judge of the Superior Court,Torrey J. Bauer,Republican,"Kosciusko County, No. 2",14209
+,Judge of the Circuit Court,Alphonso (Al) Manns,Democratic,"Monroe, Seat 5 (10th Cir.",9796
+,Judge of the Circuit Court,Kenneth G. Todd,Republican,"Monroe, Seat 5 (10th Cir.",16537
+,Judge of the Circuit Court,Valeri Haughton,Democratic,"Monroe, Seat 6 (10th Cir.",14753
+,Judge of the Circuit Court,Karen A. Wyle,Republican,"Monroe, Seat 6 (10th Cir.",11311
+,Judge of the Superior Court,Joe V. Sutton,Republican,"Kosciusko County, No. 3",14247
+,Judge of the Circuit Court,Elizabeth Ann Cure,Democratic,"Monroe, Seat 9 (10th Cir.",16739
+,Judge of the Superior Court,Lisa M. Bowen-Slaven,Republican,LaGrange County,44566
+,Judge of the Superior Court,Michael S. Bergerson,Democratic,"LaPorte County, No. 1",17432
+,Judge of the Superior Court,"Richard R. Stalbrink, Jr.",Democratic,"LaPorte County, No. 2",17292
+,Judge of the Superior Court,Jennifer L. Koethe,Democratic,"LaPorte County, No. 3",10507
+,Judge of the Superior Court,Jeffrey L. Thorne,Republican,"LaPorte County, No. 3",13437
+,Judge of the Superior Court,Greta S. Friedman,Democratic,"LaPorte County, No. 4",17110
+,Judge of the Superior Court,William G. Sleva,Republican,"Lawrence County, No. 2",7830
+,Judge of the Superior Court,Angela Davis,Democratic,Marion Superior,83184
+,Judge of the Superior Court,Annie Christ-Garcia,Democratic,Marion Superior,83494
+,Judge of the Superior Court,Barbara Cook Crawford,Democratic,Marion Superior,82452
+,Judge of the Superior Court,Christina R. Klineman,Democratic,Marion Superior,81044
+,Judge of the Superior Court,David J. Dreyer,Democratic,Marion Superior,81420
+,Judge of the Superior Court,James B. Osborn,Democratic,Marion Superior,80252
+,Judge of the Superior Court,"Marcel  A.  Pratt, Jr.",Democratic,Marion Superior,80180
+,Judge of the Superior Court,Shatrese M. Flowers,Democratic,Marion Superior,79994
+,Judge of the Superior Court,Cynthia Ayers,Republican,Marion Superior,69238
+,Judge of the Superior Court,David Certo,Republican,Marion Superior,65747
+,Judge of the Superior Court,Gary L. Miller,Republican,Marion Superior,66465
+,Judge of the Superior Court,Kurt Eisgruber,Republican,Marion Superior,64642
+,Judge of the Superior Court,Marc Rothenberg,Republican,Marion Superior,66330
+,Judge of the Superior Court,Marilyn Moores,Republican,Marion Superior,67737
+,Judge of the Superior Court,PJ Dietrick,Republican,Marion Superior,64534
+,Judge of the Superior Court,Tim Oakes,Republican,Marion Superior,66089
+,Judge of the Superior Court,Dean A. Colvin,Republican,"Marshall County, No. 2",7428
+,Judge of the Circuit Court,Kelsey B. Hanlon,Republican,"Owen (78th Circt), No. 2",4158
+,Judge of the Superior Court,J. David Grund,Republican,"Miami County, No. 1",4595
+,Judge of the Superior Court,Raymond M. Kirtley,Democratic,"Montgomery Co, No. 1",2969
+,Judge of the Superior Court,John Keith Baird,Independent,"Montgomery Co, No. 1",1884
+,Judge of the Superior Court,Heather Perkins Dennison,Republican,"Montgomery Co, No. 1",3857
+,Judge of the Circuit Court,Mary R. Harper,Republican,Porter (67th Circuit),28558
+,Judge of the Superior Court,Peggy Quint Lohorn,Republican,"Montgomery Co, No. 2",7073
+,Judge of the Superior Court,Peter R. (Pete) Foley,Republican,Morgan County No. 1,11491
+,Judge of the Superior Court,Jane Craney,Republican,"Morgan County, No. 3",11342
+,Judge of the Superior Court,Michael J. Kramer,Republican,"Noble County, No. 2",7405
+,Judge of the Superior Court,Robert Michael Cloud,Republican,Orange County,4299
+,Judge of the Circuit Court,Ryan King,Republican,Ripley (80th Circuit),5804
+,Judge of the Superior Court,Roger V. Bradford,Republican,"Porter County, No. 1",28026
+,Judge of the Superior Court,David L. Chidester,Democratic,"Porter County, No. 4",25427
+,Judge of the Circuit Court,Jon A. Dartt,Democratic,Spencer (84th Circuit),5476
+,Judge of the Superior Court,Brent Almon,Democratic,Posey County,5415
+,Judge of the Circuit Court,Robert (Bob) E. Hunley II,Democratic,Sullivan (14th Circuit),4440
+,Judge of the Superior Court,Denny Bridges,Republican,Putnam County,5163
+,Judge of the Superior Court,Peter D. Haviza,Democratic,Randolph County,4268
+,Judge of the Circuit Court,W. Gregory Coy,Democratic,Switzerland (91st Circuit,1887
+,Judge of the Superior Court,John L. Kellerman II,Democratic,Ripley County,3638
+,Judge of the Circuit Court,Thomas H. Busch,Democratic,Tippecanoe (23rd Circuit),15292
+,Judge of the Superior Court,Jeff Sharp,Republican,Ripley County,3657
+,Judge of the Circuit Court,Les A. Meade,Republican,Tippecanoe (23rd Circuit),14581
+,Judge of the Superior Court,Brian D. Hill,Republican,Rush County,3797
+,Judge of the Circuit Court,Thomas R. Lett,Republican,Tipton (36th Circuit),4077
+,Judge of the Superior Court,R. Kent Apsley,Republican,"Shelby County, No. 1",7437
+,Judge of the Superior Court,David N. Riggins,Republican,"Shelby County, No. 2",7316
+,Judge of the Superior Court,William Fee,Republican,Steuben County,6405
+,Judge of the Superior Court,Hugh R. (H.R.) Hunt,Democratic,Sullivan County,4553
+,Judge of the Circuit Court,Sherry D. Smith,Democratic,Warrick (2nd Circuit),6316
+,Judge of the Circuit Court,Greg A. Granger,Republican,Warrick (2nd Circuit),9332
+,Judge of the Superior Court,Randy J. Williams,Republican,"Tippecanoe County, No. 1",21756
+,Judge of the Superior Court,Steven P. Meyer,Democratic,"Tippecanoe County, No. 2",15316
+,Judge of the Superior Court,Rebecca A. Trent,Republican,"Tippecanoe County, No. 2",14420
+,Judge of the Superior Court,Laura Zeman,Republican,"Tippecanoe County, No. 4",21852
+,Judge of the Superior Court,Sean M. Persin,Republican,"Tippecanoe County, No. 5",21453
+,Judge of the Superior Court,Leslie (Les) C. Shively,Non-Partisan,Vanderburgh Co. (Shively),23135
+,Judge of the Superior Court,Lakshmi (Lucky) Reddy,Democratic,"Vigo County, No. 2",10945
+,Judge of the Superior Court,Christopher J. Dailey,Republican,"Vigo County, No. 2",10444
+,Judge of the Superior Court,Michael R. (Mike)  Rader,Democratic,"Vigo County, No. 5",14870
+,Judge of the Superior Court,Christopher M. Goff,Republican,Wabash County,5236
+,Judge of the Superior Court,Gregory A. "Greg" Horn,Republican,"Wayne County, No. 2",8565
+,Judge of the Superior Court,Darrin M. Dolehanty,Republican,"Wayne County, No. 3",8459
+,Judge of the Superior Court,Andrew K. Antrim,Republican,Wells County,6789
+,Judge of the Superior Court,Robert B. Mrzlack,Republican,White County,4091

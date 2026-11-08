@@ -1,0 +1,139 @@
+{{Short description|none}}
+{{Use mdy dates|date=February 2026}}
+{{Use American English|date=February 2026}}
+{{infobox election
+| election_name      = 2002 Ohio State Treasurer election
+| country            = Ohio
+| type               = presidential
+| ongoing            = no
+| turnout            =
+| previous_election  = 1998 Ohio State Treasurer election
+| previous_year      = 1998
+| next_election      = 2006 Ohio State Treasurer election
+| next_year          = 2006
+| election_date      = November 5, 2002
+| image1             = 3x4.svg
+| image_size = 150x150px
+| nominee1           = '''[[Joe Deters]]'''
+| party1             = Republican Party (United States)
+| popular_vote1      = '''1,666,844'''
+| percentage1        = '''53.32%'''
+| image2             = 3x4.svg
+| nominee2           = [[Mary O. Boyle]]
+| party2             = Democratic Party (United States)
+| popular_vote2      = 1,459,113
+| percentage2        = 46.68%
+| map_image          = 2002 Ohio State Treasurer election results map by county.svg
+| map_size           = 210px
+| map_caption = County results<br />'''Deters:''' {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#d72f30|70–80%}}<br />'''Boyle:''' {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}}
+| title              = [[Ohio State Treasurer|State Treasurer]]
+| before_election    = [[Joe Deters]]
+| before_party       = Republican Party (United States)
+| after_election     = [[Joe Deters]]
+| after_party        = Republican Party (United States)
+|}}
+{{ElectionsOH}}
+The '''2002 Ohio State Treasurer election''' was held on November 5, 2002, to elect the [[Ohio State Treasurer]]. Republican incumbent Treasurer [[Joe Deters]] defeated his Democratic opponent, former [[Ohio House of Representatives|Ohio House Representative]] [[Mary O. Boyle]], with 53.32% of the vote.
+
+Deters would not serve a full second term as Treasurer as he would go on to resign in 2005 after winning election to [[Hamilton County, Ohio|Hamilton County]] Prosecuting Attorney.
+
+== Republican primary ==
+=== Candidates ===
+*[[Joe Deters]], incumbent [[Ohio State Treasurer]] (1999–2005)
+=== Campaign ===
+The Republican primary was held on May 7, 2002. Deters won renomination without opposition.
+=== Results ===
+{{Election box begin no change
+|title      = Republican primary results<ref>{{Cite web |title=Republican Statewide Offices: Treasurer of State, Justices of the Ohio Supreme Court - Ohio Secretary of State |url=https://www.ohiosos.gov/elections/election-results-and-data/2002-elections-results/republican-statewide-offices-treasurer-of-state-justices-of-the-ohio-supreme-court/ |access-date=October 18, 2025 |website=Ohio Secretary of State}}</ref>
+}}
+{{Election box winning candidate with party link no change
+|party = Ohio Republican Party
+|candidate = [[Joe Deters]]
+|votes = 504,334
+|percentage = 100%
+}}
+{{Election box total no change
+|votes = 504,334
+|percentage = 100.0%
+}}{{Election box end}}
+
+== Democratic primary ==
+=== Candidates ===
+*[[Mary O. Boyle]], former [[Ohio House of Representatives|Ohio House Representative]] (1979–1984)
+*Willis Blackshear, [[Montgomery County, Ohio|Montgomery County]] Recorder
+=== Campaign ===
+The Democratic primary was held on May 7, 2002. Boyle easily defeated Blackshear, her only opponent, in a landslide, winning 81.45% of the vote.
+=== Results ===
+{{Election box begin no change
+|title = Democratic primary results<ref>{{Cite web |title=Democratic Statewide Offices: Treasurer of State, Justices of the Ohio Supreme Court - Ohio Secretary of State|url=https://www.ohiosos.gov/elections/election-results-and-data/2002-elections-results/democratic-statewide-offices-treasurer-of-state-justices-of-the-ohio-supreme-court/ |access-date=October 16, 2025 |website=Ohio Secretary of State}}</ref>
+}}
+{{Election box winning candidate with party link no change
+|party = Ohio Democratic Party
+|candidate = [[Mary O. Boyle]]
+|votes = 386,029
+|percentage = 81.45%
+}}
+{{Election box candidate with party link no change
+|party = Ohio Democratic Party
+|candidate = Willis Blackshear
+|votes = 87,928
+|percentage = 18.55%
+}}
+{{Election box total no change
+|votes = 473,957
+|percentage = 100.0%
+}}{{Election box end}}
+
+== General election ==
+=== Candidates ===
+*[[Joe Deters]], incumbent [[Ohio State Treasurer]] (1999–2005) (Republican)
+*[[Mary O. Boyle]], former [[Ohio House of Representatives|Ohio House Representative]] (1979–1984) (Democratic)
+*Robert Martin (Write-in)
+=== Results ===
+{{Election box begin | title=2002 State Treasurer election results<ref>{{Cite web |title=Secretary of State/Treasurer of State - Ohio Secretary of State|url=https://www.ohiosos.gov/elections/election-results-and-data/2002-elections-results/secretary-of-statetreasurer-of-state/ |access-date=October 18, 2025 |website=Ohio Secretary of State}}</ref>
+}}
+{{Election box winning candidate with party link|
+|party = Ohio Republican Party
+|candidate = [[Joe Deters]]
+|votes = 1,666,844
+|percentage = 53.32%
+|change = -0.54%
+}}
+{{Election box candidate with party link|
+|party= Ohio Democratic Party
+|candidate= [[Mary O. Boyle]]
+|votes= 1,459,113
+|percentage= 46.68%
+|change = +0.54%
+}}
+{{Election box candidate with party link|
+|party=Write-in
+|candidate= Robert Martin
+|votes= 108
+|percentage= 0.00%
+|change= N/A
+}}
+{{Election box total no change
+|votes = 3,126,065
+|percentage = 100.0%
+}}
+{{Election box hold with party link|
+  |winner     = Republican Party (United States)
+  |loser      = Democratic Party (United States)
+  |swing      =
+}}
+{{Election box end}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+'''Official campaign websites (archived)'''
+*[https://web.archive.org/web/20021030103939/http://deters2002.com/ Joe Deters (R) for Ohio State Treasurer]
+*[https://web.archive.org/web/20020918111431/http://boyle2002.com/ Mary O. Boyle (D) for Ohio State Treasurer]
+
+{{United States elections, 2002}}
+
+[[Category:2002 elections in Ohio|State Treasurer]]
+[[Category:2002 United States state treasurer elections|Ohio]]
+[[Category:Ohio State Treasurer elections]]

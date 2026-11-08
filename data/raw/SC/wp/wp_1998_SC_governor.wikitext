@@ -1,0 +1,189 @@
+{{Short description|none}}
+{{Use American English|date=January 2025}}
+<!-- "none" is preferred when the title is sufficiently descriptive; see [[WP:SDNONE]] -->
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name      = 1998 South Carolina gubernatorial election
+| country            = South Carolina
+| type               = presidential
+| ongoing            = no 
+| previous_election  = 1994 South Carolina gubernatorial election 
+| previous_year      = 1994
+| next_election      = 2002 South Carolina gubernatorial election
+| next_year          = 2002
+| election_date      = November 3, 1998
+| image1             = Image:Portrait of Jim Hodges.jpg
+| image_size = 150x150px
+| nominee1           = '''[[Jim Hodges]]'''
+| party1             = Democratic Party (United States)
+| popular_vote1      = '''570,070'''
+| percentage1        = '''53.23%'''
+| image2             = Image:GovernorBeasley.JPG
+| nominee2           = [[David Beasley]]
+| map_image          = 1998 South Carolina gubernatorial election results map by county.svg
+| map_size = 230px
+| map_caption        = County results<br/>'''Hodges''': {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584cde|70–80%}}<br/>'''Beasley''': {{legend0|#ffb2b2|40–50%}} {{legend0|#e27f7f|50–60%}}
+| party2             = Republican Party (United States)
+| popular_vote2      = 484,088
+| percentage2        = 45.21%
+| title              = Governor
+| before_election    = [[David Beasley]]
+| before_party       = Republican Party (United States)
+| after_election     = [[Jim Hodges]]
+| after_party        = Democratic Party (United States)
+}}
+{{ElectionsSC}}
+The '''1998 South Carolina gubernatorial election''' was held on November 3, 1998 to select the [[governor of South Carolina]]. [[Republican Party (United States)|Republican]] incumbent [[David Beasley]] ran for re-election to a second term in office but was defeated by [[Democratic Party (United States)|Democratic]] [[South Carolina House of Representatives|state representative]] [[Jim Hodges]].
+
+Primary elections were held on June 9. Beasley faced a nominal challenge from Columbia attorney Bill Able, who won over a quarter of the vote. Hodges was unopposed for the Democratic nomination.<ref>{{Cite web |title=South Carolina Governor - James Hovis Hodges - 1999-2003 |url=https://www.sciway.net/hist/governors/hodges.html |access-date=2026-11-05 |website=www.sciway.net}}</ref>
+
+Beasley was the first incumbent governor to lose an election since [[Daniel Henry Chamberlain]] in the [[1876 South Carolina gubernatorial election|disputed election of 1876]]. As of {{CURRENTYEAR}}, this was the most recent time that a Democrat was elected governor of South Carolina and the only time since 1982. Beasley later [[2004 United States Senate election in South Carolina|ran for U.S. Senate in 2004]] but lost the Republican primary.
+
+== Republican primary ==
+=== Candidates ===
+* Bill Able, [[Columbia, South Carolina|Columbia]] attorney
+* David Beasley, incumbent governor of South Carolina since 1995
+
+=== Results ===
+{{Election box begin no change|title=1998 Republican gubernatorial primary{{citation needed|date=October 2026}}}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=David Beasley (incumbent)|percentage=72.2%|votes=114,082}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Bill Able|percentage=27.8%|votes=43,967}}
+{{Election box end}}
+
+==General election==
+
+=== Candidates ===
+
+* [[David Beasley]], incumbent [[governor of South Carolina]] since 1995 (Republican)
+* [[Jim Hodges]], [[South Carolina House of Representatives|state representative]] from [[Lancaster, South Carolina|Lancaster]] (Democratic)
+* Timothy Moultrie (Libertarian)
+
+=== Campaign ===
+{{Unreferenced section|date=October 2026}}
+Hodges started the campaign with a low name recognition, but he waged an aggressive campaign focused on education. Hodges blamed Beasley for the poor recent [[SAT]] scores and low academic achievement by South Carolina students, citing Beasley's opposition to all-day [[kindergarten]]. Hodges proposed a [[South Carolina Education Lottery|state lottery]] to fund public preschool and [[Scholarships in the United States|college scholarships]]. The lottery proved to be enormously popular with lower income South Carolinians who could not afford to send their children to preschool and [[soccer mom]]s worried by the rapidly increasing cost of [[higher education]].
+
+Beasley responded by trying to shift the focus of the campaign to Hodges's ties to the gambling industry. As much as 70 percent of the money supplied to Hodges campaign was given by [[video poker]]<nowiki> operators.{{ In addition, the Palmetto League was being financed by video poker to attack Beasley's </nowiki>[[Flip-flop (politics)|flip-flopping]] on the [[Flags of the Confederate States of America|Confederate flag]] issue. Hodges keenly avoided discussing the Confederate flag issue to enable him to keep the support of blacks while also attracting disaffected whites.
+
+To tie in South Carolinians' dissatisfaction with education of the state and the Confederate flag issue, Kevin Geddings of the Hodges campaign created a series of ads featuring a character called "[[Bubba]]." Portrayed by Kerry Maher, Bubba was a [[Georgia (U.S. state)|Georgia]] convenience store clerk dressed in [[Georgia Bulldogs]] garb who spoke with a thick [[Southern American English|Southern accent]]. The 30 second ads featured Bubba talking about how the Georgia lottery money was being used to improve schools there and the commercials would always end by Bubba saying, "Here in Georgia, we love David Beasley." Bubba was quickly elevated to celebrity status in South Carolina and was even adored by [[South Carolina Gamecocks|Gamecock]] fans when he made appearances at [[Williams-Brice Stadium]] for [[University of South Carolina|USC]] football games.
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|Key:<br>A – all adults<br>RV – registered voters<br>LV – likely voters<br>V – unclear}}
+! Margin<br>of error
+! style="width:100px;"| David<br>Beasley (R)
+! style="width:100px;"| Jim<br>Hodges (D)
+! Other /<br>undecided{{efn|Calculated by taking the difference of 100% and all other candidates combined.|group=polling}}
+|-
+|style="text-align:left;"|Mason-Dixon Polling & Strategy<ref name="FTE">{{cite web |title=FiveThirtyEight's Pollster Ratings Raw Polls File |url=https://raw.githubusercontent.com/fivethirtyeight/data/refs/heads/master/pollster-ratings/2023/raw-polls.csv |access-date=October 15, 2026 |website=GitHub |publisher=FiveThirtyEight}}</ref><ref name=polls>{{cite web |title=CNN AllPolitics Election '98 - South Carolina 1998 Polls |url=https://www.cnn.com/ELECTION/1998/states/SC/polls/SC98G.html |publisher=[[CNN]] |access-date=29 June 2025 |archive-url=https://archive.today/20250629195749/https://www.cnn.com/ELECTION/1998/states/SC/polls/SC98G.html |archive-date=29 June 2025 |url-status=live}}</ref>
+|October 26–28, 1998
+|806 (LV)
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''46%'''
+|44%
+|10%
+|-
+|style="text-align:left;"|Mason-Dixon Polling & Strategy<ref name=polls/>
+|September 28–30, 1998
+|813 (LV)
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''46%'''
+|37%
+|17%
+|-
+|style="text-align:left;"|Mason-Dixon Polling & Strategy<ref name=polls/>
+|August 29 – September 1, 1998
+|806 (LV)
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''51%'''
+|36%
+|13%
+|-
+|style="text-align:left;"|Mason-Dixon Polling & Strategy<ref name=polls/>
+|June 1–3, 1998
+|811 (RV)
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''55%'''
+|34%
+|11%
+|}
+
+===Results===
+Despite trailing in most polling, Jim Hodges was decisively elected. Unsurprisingly, Hodges performed extremely well in the rural counties, but it was the unexpectedly strong vote of the [[South Carolina Low Country|Lowcountry]] in his favor that enabled Hodges to defeat Beasley. [[Voter turnout]] decreased dramatically versus the [[South Carolina gubernatorial election, 1994|previous election]] because approximately 500 thousand new voters were added to the rolls, but many of those chose not to vote in the election.
+
+{{Election box begin | title=1998 South Carolina gubernatorial election}}
+ {{Election box winning candidate with party link|
+   |party      = Democratic Party (United States)
+   |candidate  = [[Jim Hodges]]
+   |votes      = 570,070
+   |percentage = 53.23%
+   |change     = {{increase}} 5.3
+ }}
+ {{Election box candidate with party link|
+   |party      = Republican Party (United States)
+   |candidate  = [[David Beasley]] (incumbent)
+   |votes      = 484,088
+   |percentage = 45.21%
+   |change     = {{decrease}} 5.2
+ }}
+{{Election box candidate with party link|
+  |party      = Libertarian Party (US)
+  |candidate  = Timothy Moultrie
+  |votes      = 14,894
+  |percentage = 1.4%
+  |change     = N/A
+}}
+{{Election box write-in with party link|
+  |votes      = 1,553
+  |percentage = 0.2%
+  |change     = {{no change}}
+}}
+{{Election box candidate|
+  |party      = Independent
+  |candidate  = Bobby Eubanks (write-in)
+  |votes      = 264
+  |percentage = 0.0%
+  |change     = N/A
+}}
+{{Election box total no change|
+  |votes      = 1,070,869
+  |percentage = 100.00%
+}}
+{{Election box gain no swing
+| winner = Democratic Party (United States)
+| loser = Republican Party (United States)
+}}
+{{Election box end}}
+
+==See also==
+*[[Governor of South Carolina]]
+*[[List of governors of South Carolina]]
+*[[South Carolina gubernatorial elections]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.sciway.net/hist/governors/hodges.html SCIway Biography of Governor James Hovis Hodges]
+'''Official campaign websites (archived)'''
+*[https://web.archive.org/web/19990129063600/http://www.hodges98.com/jh-bio.html Jim Hodges] (D)
+*[https://web.archive.org/web/19981205185052/http://www.beasley98.com/ David Beasley] (R)
+
+{{sequence|
+ prev=[[South Carolina gubernatorial election, 1994|1994]]|
+ list=[[South Carolina gubernatorial elections]]|
+ next=[[South Carolina gubernatorial election, 2002|2002]]
+}}
+
+{{United States elections, 1998}}
+{{SCGovElections}}
+
+{{DEFAULTSORT:South Carolina Gubernatorial Election, 1998}}
+[[Category:1998 elections in South Carolina|Gubernatorial]]
+[[Category:South Carolina gubernatorial elections|1998]]
+[[Category:1998 United States gubernatorial elections]]

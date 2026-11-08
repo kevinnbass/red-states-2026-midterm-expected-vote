@@ -1,0 +1,199 @@
+{
+  "results": [
+    {
+      "test": false,
+      "id": "28447",
+      "office": "H",
+      "officeName": "U.S. House",
+      "resultsType": "live",
+      "tabulationStatus": "Gathering Certified Results",
+      "eevp": 0.9772,
+      "type": "General",
+      "seatNumber": "1",
+      "seat": "District 1",
+      "flippedSeat": true,
+      "raceCallStatus": "Called",
+      "level": "state",
+      "state": "MT",
+      "updated": 1794001485770,
+      "reporting": 338,
+      "precincts": 346,
+      "reportingunitID": "27",
+      "reportingPercent": 0.976878612716763,
+      "stateName": "Montana",
+      "stateAP": "Mont.",
+      "rating": "toss-up",
+      "previousParty": "GOP",
+      "keyRace": "yes",
+      "name_override": "",
+      "called": true,
+      "winnerParty": "Dem",
+      "candidates": [
+        {
+          "first": "Sam",
+          "last": "Forstag",
+          "party": "Dem",
+          "id": "171715",
+          "votes": 132003,
+          "winner": "X",
+          "winnerDateTime": "2026-11-05T17:02:04.546Z",
+          "percent": 0.5034
+        },
+        {
+          "first": "Aaron",
+          "last": "Flint",
+          "party": "GOP",
+          "id": "171717",
+          "votes": 122694,
+          "percent": 0.4679
+        },
+        {
+          "first": "",
+          "last": "Other",
+          "party": "Other",
+          "id": "other-28447",
+          "votes": 7522,
+          "avotes": 0,
+          "electoral": 0,
+          "count": 1,
+          "percent": 0.0287
+        }
+      ]
+    },
+    {
+      "test": false,
+      "id": "27607",
+      "office": "S",
+      "officeName": "U.S. Senate",
+      "resultsType": "live",
+      "tabulationStatus": "Gathering Certified Results",
+      "eevp": 0.9765,
+      "type": "General",
+      "seatNumber": "2",
+      "seat": "Class II",
+      "flippedSeat": false,
+      "raceCallStatus": "Called",
+      "level": "state",
+      "state": "MT",
+      "updated": 1794004005118,
+      "reporting": 714,
+      "precincts": 732,
+      "reportingunitID": "27",
+      "reportingPercent": 0.9754098360655737,
+      "stateName": "Montana",
+      "stateAP": "Mont.",
+      "rating": "solid-r",
+      "previousParty": "GOP",
+      "keyRace": "yes",
+      "called": true,
+      "winnerParty": "GOP",
+      "candidates": [
+        {
+          "first": "Kurt",
+          "last": "Alme",
+          "party": "GOP",
+          "id": "171710",
+          "votes": 232916,
+          "winner": "X",
+          "winnerDateTime": "2026-11-04T07:54:25.875Z",
+          "percent": 0.4832
+        },
+        {
+          "first": "Seth",
+          "last": "Bodnar",
+          "party": "Ind",
+          "id": "177955",
+          "votes": 181674,
+          "percent": 0.3769
+        },
+        {
+          "first": "Alani",
+          "last": "Bankhead",
+          "party": "Dem",
+          "id": "171696",
+          "votes": 58555,
+          "percent": 0.1215
+        },
+        {
+          "first": "",
+          "last": "Other",
+          "party": "Other",
+          "id": "other-27607",
+          "votes": 0,
+          "avotes": 0,
+          "electoral": 0,
+          "count": 0,
+          "percent": 0
+        }
+      ]
+    },
+    {
+      "test": false,
+      "id": "28576",
+      "office": "H",
+      "officeName": "U.S. House",
+      "resultsType": "live",
+      "tabulationStatus": "Gathering Certified Results",
+      "eevp": 0.9762000000000001,
+      "type": "General",
+      "seatNumber": "2",
+      "seat": "District 2",
+      "flippedSeat": false,
+      "raceCallStatus": "Called",
+      "level": "state",
+      "state": "MT",
+      "updated": 1794004017266,
+      "reporting": 377,
+      "precincts": 387,
+      "reportingunitID": "27",
+      "reportingPercent": 0.9741602067183462,
+      "stateName": "Montana",
+      "stateAP": "Mont.",
+      "rating": "solid-r",
+      "previousParty": "GOP",
+      "keyRace": "",
+      "called": true,
+      "winnerParty": "GOP",
+      "candidates": [
+        {
+          "first": "Troy",
+          "last": "Downing",
+          "party": "GOP",
+          "id": "66818",
+          "votes": 127346,
+          "winner": "X",
+          "winnerDateTime": "2026-11-04T04:18:51.791Z",
+          "incumbent": true,
+          "percent": 0.5819
+        },
+        {
+          "first": "Brian",
+          "last": "Miller",
+          "party": "Dem",
+          "id": "171720",
+          "votes": 70431,
+          "percent": 0.3218
+        },
+        {
+          "first": "Michael",
+          "last": "Eisenhauer",
+          "party": "Ind",
+          "id": "177956",
+          "votes": 17079,
+          "percent": 0.078
+        },
+        {
+          "first": "",
+          "last": "Other",
+          "party": "Other",
+          "id": "other-28576",
+          "votes": 4003,
+          "avotes": 0,
+          "electoral": 0,
+          "count": 2,
+          "percent": 0.0183
+        }
+      ]
+    }
+  ]
+}

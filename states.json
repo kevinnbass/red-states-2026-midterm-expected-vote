@@ -1,0 +1,122 @@
+{
+ "pool": [
+  "TX",
+  "OH",
+  "KS",
+  "IA",
+  "AK",
+  "MS",
+  "SC",
+  "IN"
+ ],
+ "b_scope": ", estimated from the 1994–2022 midterms of {pool_names} together",
+ "states": {
+  "OH": {
+   "name": "Ohio",
+   "source": "Ohio Secretary of State (results pages 1994–2002 and 2010, workbooks 2014–2022, from Internet Archive captures); OpenElections (2006, the Secretary of State's precinct file); AP via NPR (2026); Wikipedia (2026 Auditor and Supreme Court)",
+   "asof": "AP count fetched Nov. 8, 2026, about 98% of the expected vote (Auditor and Supreme Court: Wikipedia, at about 98% counted)",
+   "notes": [
+    "The 2026 Treasurer race has no published vote count yet and is left out. Supreme Court races had no party labels on the ballot before 2022, so that office's baseline is 2022 only; the two 2026 seats are averaged. The 2026 U.S. Senate race is a special election for the rest of the term."
+   ]
+  },
+  "MS": {
+   "name": "Mississippi",
+   "source": "MIT Election Data and Science Lab (U.S. Senate 1994–2022); AP via NPR (2026)",
+   "asof": "AP count fetched Nov. 8, 2026, about 97% of the expected vote",
+   "notes": [
+    "Only the U.S. Senate is on Mississippi's 2026 statewide ballot. The 2018 special Senate election (decided in a Nov. 27 runoff) is left out; 2002 had no Democratic nominee."
+   ]
+  },
+  "SC": {
+   "name": "South Carolina",
+   "source": "South Carolina State Election Commission (Election Reports 1994–2006, election-night reporting files 2010–2026)",
+   "asof": "state results file of Nov. 6, 2026, 6:25 pm EST, all precincts reporting",
+   "notes": [
+    "Governor and Lieutenant Governor run as one ticket from 2018. Some offices had no Democratic nominee in some years; those years are left out of that office's baseline."
+   ]
+  },
+  "IN": {
+   "name": "Indiana",
+   "source": "Indiana Election Division (2002–2022 and 2026); Capitol & Washington (state offices 1994–1998, secondary); MIT Election Data and Science Lab (U.S. Senate 1994–1998)",
+   "asof": "state results file of Nov. 7, 2026, 11:05 pm, 4,831 of 5,067 precincts reporting",
+   "notes": [
+    "The Auditor of State is titled State Comptroller from 2026."
+   ]
+  },
+  "AK": {
+   "name": "Alaska",
+   "source": "Alaska Division of Elections",
+   "asof": "Division report of Nov. 4, 2026, 1:09 pm; about 74% of the expected vote counted (AP), absentee ballots still being counted",
+   "notes": [
+    "From 2022 Alaska uses a top-four primary and a ranked-choice general election, with no party nominees: each party's vote for 2022 and 2026 is the combined first-choice vote of its candidates (ranked-choice tabulation for 2026 is set for Nov. 18). A + after a name marks that combined vote.",
+    "2026 U.S. House: independent Bill Hill (86,023) is not counted as Democratic. 2010 U.S. Senate: Lisa Murkowski's write-in votes (101,091) are not counted as Republican. 2014 Governor: no Democratic nominee (the Walker/Mallott independent ticket is not counted). 2022 Governor: independent Bill Walker (54,668) is not counted as Democratic. 2026 U.S. Senate: Daniel J. Sullivan Jr. (no party, 3,600) is not counted as Republican."
+   ],
+   "no_data": {
+    "us_house": [
+     1994
+    ]
+   },
+   "count_note": "About a quarter of the expected vote (AP: 74% counted) had not been counted when these figures were taken, so the 2026 totals here are far from final.",
+   "count_short": "Count about 74% complete.",
+   "note_22": "Much of that move reflects the 2022 field: independent Bill Walker drew 54,668 votes (20.7%) for governor that year, and they are not counted as Democratic.",
+   "note_22_short": "in 2022 independent Bill Walker drew 54,668 votes that are not counted as Democratic"
+  },
+  "KS": {
+   "name": "Kansas",
+   "source": "MIT Election Data and Science Lab (U.S. Senate; 2022 state offices); OpenElections (2014 and 2018 state offices); AP via NPR (2026)",
+   "asof": "AP count fetched Nov. 8, 2026, about 99% of the expected vote",
+   "notes": [
+    "The Kansas Secretary of State's canvass files could not be fetched automatically, so the state offices rest on secondary sources and have only 2014–2022 history (Governor: 2018 and 2022). Treasurer and Insurance Commissioner are left out (no 2026 count in the AP feed). U.S. Senate 2002 and 2014: no Democratic nominee."
+   ],
+   "no_data": {
+    "governor": [
+     1994,
+     1998,
+     2002,
+     2006,
+     2010,
+     2014
+    ],
+    "attorney_general": [
+     1994,
+     1998,
+     2002,
+     2006,
+     2010
+    ],
+    "secretary_of_state": [
+     1994,
+     1998,
+     2002,
+     2006,
+     2010
+    ]
+   }
+  },
+  "IA": {
+   "name": "Iowa",
+   "source": "Iowa Secretary of State canvass (1994, 2014, 2022); OpenElections (1998 Senate, 2002–2018, secondary); Wikipedia (some Governor rows, secondary); AP via NPR and the state's results site (2026)",
+   "asof": "AP count fetched Nov. 8, 2026, about 99% of the expected vote (Auditor, Treasurer and Agriculture from the state results site of Nov. 4, 95 of 99 counties)",
+   "notes": [
+    "The Iowa Secretary of State's site refuses automated requests, so some years rest on secondary sources until archived copies of the canvass arrive; 1998 down-ballot offices are not yet filled."
+   ],
+   "no_data": {
+    "secretary_of_state": [
+     1998
+    ],
+    "auditor": [
+     1998
+    ],
+    "treasurer": [
+     1998
+    ],
+    "agriculture_secretary": [
+     1998
+    ],
+    "attorney_general": [
+     1998
+    ]
+   }
+  }
+ }
+}

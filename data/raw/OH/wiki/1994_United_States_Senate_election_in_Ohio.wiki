@@ -1,0 +1,158 @@
+{{Short description|none}}
+{{Use American English|date=March 2026}}
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 1994 United States Senate election in Ohio
+| country = Ohio
+| type = presidential
+| ongoing = no
+| previous_election = 1988 United States Senate election in Ohio
+| previous_year = 1988
+| next_election = 2000 United States Senate election in Ohio
+| next_year = 2000
+| election_date = November 8, 1994
+| image1 = File:Mike DeWine 105th Congress 1997.jpg
+| nominee1 = '''[[Mike DeWine]]'''
+| party1 = Republican Party (United States)
+| popular_vote1 = '''1,836,556'''
+| percentage1 = '''53.44%'''
+| image2 = File:Joel Hyatt (cropped).jpg
+| nominee2 = [[Joel Hyatt]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 1,348,213
+| percentage2 = 39.23%
+| image3 = 3x4.svg 
+| image_size = x150px
+| nominee3 = Joe Slovenec
+| party3 = Independent
+| popular_vote3 = 252,031
+| percentage3 = 7.33%
+| map_image = {{Switcher
+| [[File:1994 United States Senate election in Ohio results map by county.svg|210px]]
+| County results
+| [[File:Ohio 1994 Senate Election By Township.svg|210px]]
+| Township results
+}}
+| map_size = 210px
+| map_caption = '''DeWine:''' {{legend0|#FFB2B2|40–50%}} {{legend0|#E27F7F|50–60%}} {{legend0|#D75D5D|60–70%}} {{legend0|#D72F30|70–80%}} {{legend0|#C21B18|80–90%}}<br />'''Hyatt:''' {{legend0|#A5B0FF|40–50%}} {{legend0|#7996E2|50–60%}} {{legend0|#6674DE|60–70%}} {{legend0|#584CDE|70–80%}} {{legend0|#3933E5|80–90%}}<br />'''Tie:''' {{legend0|#D2B1D9|40–50%}} {{legend0|#808080|No votes}}
+| title = U.S. Senator
+| before_election = [[Howard Metzenbaum]]
+| before_party = Democratic Party (United States)
+| after_election = [[Mike DeWine]]
+| after_party = Republican Party (United States)
+}}
+{{ElectionsOH}}
+The '''1994 United States Senate election in Ohio''' took place on November 8, 1994. Incumbent Democratic U.S. Senator [[Howard Metzenbaum]] decided to retire after 19 years in the [[United States Senate]]. Republican nominee [[Mike DeWine]] won the open seat against Democratic nominee Joel Hyatt, Metzenbaum's son-in-law. Independent candidate, conservative [[anti-abortion]] activist Joe Slovenec performed very well, getting over 7% of the vote. DeWine was the first Republican to win a U.S. Senate race in Ohio since [[1970 United States Senate election in Ohio|1970]].
+
+== Democratic primary ==
+=== Candidates ===
+* Ralph A. Applegate, Columbus businessman<ref name=latimes>{{cite news|title=Race to Succeed Metzenbaum Is Down to Wire|date=May 4, 1994|newspaper=[[Los Angeles Times]]|location=Columbus, Ohio|url=https://www.latimes.com/archives/la-xpm-1994-05-04-mn-53586-story.html}}</ref>
+* [[Mary O. Boyle]], Cuyahoga County Commissioner and former State Representative from [[Cleveland Heights, Ohio|Cleveland Heights]]<ref name=latimes/>
+* [[Joel Hyatt]], attorney, businessman and son-in-law of incumbent U.S. Senator [[Howard Metzenbaum]]
+
+=== Results ===
+{{Election box begin no change
+ | title=1994 Democratic U.S. Senate primary<ref>{{Cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/1990-1999-official-election-results/democratic-primary-may-3-1994/|title=Democratic Primary: May 3, 1994 |access-date=October 30, 2024 }}</ref>}}
+{{Election box winning candidate with party link no change
+ | party = Democratic Party (United States)
+ | candidate = Joel Hyatt
+ | votes = 432,361
+ | percentage = 46.25%
+}}
+{{Election box candidate with party link no change
+ | party = Democratic Party (United States)
+ | candidate = Mary O. Boyle
+ | votes = 415,853
+ | percentage = 44.48%
+}}
+{{Election box candidate with party link no change
+ | party = Democratic Party (United States)
+ | candidate = Ralph A. Applegate
+ | votes = 86,677
+ | percentage = 9.27%
+}}
+{{Election box total no change
+ | votes = 934,891
+ | percentage = 100.00%
+}}
+{{Election box end}}
+
+== Republican primary ==
+=== Candidates ===
+* [[Mike DeWine]], [[Lieutenant Governor of Ohio|Lieutenant Governor]] and nominee in [[1992 United States Senate election in Ohio|1992]]<ref name=latimes/>
+* [[Bernadine Healy]], former Director of the [[National Institutes of Health]]<ref name=latimes/>
+* George H. Rhodes, [[Mentor, Ohio|Mentor]] firefighter and aviation consultant<ref name=latimes/>
+* [[Eugene J. Watts]], State Senator from [[Columbus, Ohio|Columbus]]<ref name=latimes/>
+
+=== Results ===
+{{Election box begin no change
+ | title=1994 Republican U.S. Senate primary<ref>{{Cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/1990-1999-official-election-results/republican-primary-may-3-1994/|title=Republican Primary: May 3, 1994 |access-date=October 30, 2024 }}</ref>}}
+{{Election box winning candidate with party link no change
+ | party = Republican Party (United States)
+ | candidate = Mike DeWine
+ | votes = 422,367
+ | percentage = 52.04%
+}}
+{{Election box candidate with party link no change
+ | party = Republican Party (United States)
+ | candidate = Bernadine Healy
+ | votes = 263,560
+ | percentage = 32.47%
+}}
+{{Election box candidate with party link no change
+ | party = Republican Party (United States)
+ | candidate = Gene J. Watts
+ | votes = 83,103
+ | percentage = 10.24%
+}}
+{{Election box candidate with party link no change
+ | party = Republican Party (United States)
+ | candidate = George H. Rhodes
+ | votes = 42,633
+ | percentage = 5.25%
+}}
+{{Election box total no change
+ | votes = 811,663
+ | percentage = 100.00%
+}}
+{{Election box end}}
+
+== General election ==
+=== Candidates ===
+* [[Mike DeWine]], [[Lieutenant Governor of Ohio|Lieutenant Governor]] and nominee for Senate in [[1992 United States Senate election in Ohio|1992]] (Republican)
+* [[Joel Hyatt]], businessman and son-in-law of incumbent U.S. Senator [[Howard Metzenbaum]] (Democratic)
+* Joe Slovenec, [[anti-abortion]] activist<ref>{{Cite news |last1=Apple |first1=R. W. Jr. |date=15 September 1994 |title=THE 1994 CAMPAIGN: OHIO; TV Makes Ohio Candidate, then Turns and Hurts Him |url=https://www.nytimes.com/1994/09/15/us/the-1994-campaign-ohio-tv-makes-ohio-candidate-then-turns-and-hurts-him.html?pagewanted=2 |newspaper=The New York Times}}</ref> (Independent)
+
+=== Results ===
+{{Election box begin
+ | title=1994 U.S. Senate election in Ohio<ref>{{Cite web |url=http://www.sos.state.oh.us/SOS/elections/electResultsMain/1990-1999OfficialElectionResults/GenElect110894.aspx |title=General Election: November 8, 1994 |access-date=2010-03-14 |archive-url=https://web.archive.org/web/20100203153653/http://www.sos.state.oh.us/SOS/elections/electResultsMain/1990-1999OfficialElectionResults/GenElect110894.aspx |archive-date=2010-02-03 |url-status=dead }}</ref>}}
+{{Election box winning candidate with party link
+ | party = Republican Party (United States)
+ | candidate = Mike DeWine
+ | votes = 1,836,556
+ | percentage = 53.44%
+ | change = +11.13%
+}}
+{{Election box candidate with party link|party=Democratic Party (United States)|candidate=[[Joel Hyatt]]|votes=1,348,213|percentage=39.23%|change=-17.74%}}
+{{Election box candidate with party link|party=Independent|candidate=Joe Slovenec|votes=252,031|percentage=7.33%|change=N/A}}
+{{Election box majority|votes=488,343|percentage=14.21%|change=-0.45%}}
+{{Election box turnout|votes=3,436,800|percentage=|change=}}
+{{Election box gain with party link without swing
+ | winner     = Republican Party (United States)
+ | loser      = Democratic Party (United States)
+}}
+{{Election box end}}
+
+== See also ==
+* [[1994 United States Senate elections]]
+
+== References ==
+{{Reflist|30em}}
+
+{{United States elections, 1994}}
+{{US Third Party Election}}
+{{Portal bar|Ohio|Politics}}
+
+[[Category:United States Senate elections in Ohio|1994]]
+[[Category:1994 United States Senate elections|Ohio]]
+[[Category:1994 elections in Ohio]]

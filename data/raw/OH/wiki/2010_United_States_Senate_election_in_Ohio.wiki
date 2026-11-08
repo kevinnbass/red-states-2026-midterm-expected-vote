@@ -1,0 +1,1069 @@
+{{Short description|none}}
+{{Use American English|date=March 2026}}
+{{Use mdy dates|date=December 2017}}
+{{Infobox election
+| election_name = 2010 United States Senate election in Ohio
+| country = Ohio
+| type = presidential
+| ongoing = no
+| previous_election = 2004 United States Senate election in Ohio
+| previous_year = 2004
+| next_election = 2016 United States Senate election in Ohio
+| next_year = 2016
+| election_date = November 2, 2010
+| image1 = Rob Portman portrait (1).jpg
+| nominee1 = '''[[Rob Portman]]'''
+| party1 = Republican Party (United States)
+| popular_vote1 = '''2,168,742'''
+| percentage1 = '''56.85%'''
+| image2 = Lee Fisher (4542051920) (1).jpg
+| nominee2 = [[Lee Fisher]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 1,503,297
+| percentage2 = 39.40%
+| map_image = {{switcher
+|[[file:2010 United States Senate election in Ohio results map by county.svg|210px]]
+|County results 
+|[[file:2010 United States Senate election in Ohio results map by congressional District.svg|210px]]
+|Congressional district results
+|default=1
+}}
+| map_size = 210px
+| map_caption = '''Portman:''' {{legend0|#ffb2b2|40–50%}} {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#d72f30|70–80%}}<br />
+'''Fisher:'''  {{legend0|#a5b0ff|40–50%}} {{legend0|#7996e2|50–60%}} {{legend0|#584cde|70–80%}}
+| title = U.S. Senator
+| before_election = [[George Voinovich]]
+| before_party = Republican Party (United States)
+| after_election = [[Rob Portman]]<ref>{{Cite web |url=http://elections.msnbc.msn.com/ns/politics/2010/ohio/senate |title=Ohio Senate election results – Politics – Decision 2010 – msnbc.com<!-- Bot generated title --> |access-date=November 2, 2010 |archive-url=https://web.archive.org/web/20120929084536/http://elections.msnbc.msn.com/ns/politics/2010/ohio/senate/ |archive-date=September 29, 2012 |url-status=dead |df=mdy-all }}</ref>
+| after_party = Republican Party (United States)
+| turnout = 49.22% (registered voters) {{decrease}}22.55pp
+}}
+{{ElectionsOH}}
+The '''2010 United States Senate election in Ohio''' was held on November 2, 2010, as one of many [[2010 Ohio elections|Ohio elections in 2010]]. Incumbent two-term [[Republican Party (United States)|Republican]] U.S. Senator [[George Voinovich]] decided to retire instead of seeking a third term.<ref name="retire">{{cite web | url=http://blog.cleveland.com/openers/2009/01/its_official_voinovich_to_reti.html | title=It's official: Voinovich to retire from Senate after 2010 | author=Dubail, Jean | date=January 12, 2009 | work=Cleveland Plain Dealer | access-date=November 10, 2009 }}</ref> Former Representative Republican [[Rob Portman]] won the open seat.
+
+This was one of the five Republican-held Senate seats up for election in a state that [[Barack Obama]] won in the [[2008 United States presidential election|2008 presidential election]].
+
+== Republican primary ==
+
+=== Background ===
+With rumors circulating about Voinovich's possible retirement, former [[Director of the Office of Management and Budget]], [[United States Trade Representative]], and [[Ohio's 2nd congressional district|Congressman]] [[Rob Portman]] and [[Ohio State Auditor|State Auditor]] [[Mary Taylor (Ohio politician)|Mary Taylor]] were considered the main contenders for the Republican nomination.<ref name=cpdr>{{cite web | url=http://blog.cleveland.com/pdopinion/2009/01/voinovich_in_2010_well_see_1.html | title=Voinovich in 2010? We'll see | author=Larkin, Brent | date=January 9, 2009 | work=Cleveland Plain Dealer | access-date=November 11, 2009 }}</ref> Former [[Ohio Secretary of State]] [[Ken Blackwell]] was also considered a potential candidate, but declined in order to run for chairman of the [[Republican National Committee]].<ref name=cd>{{cite web | url=http://www.dispatchpolitics.com/live/content/local_news/stories/2009/01/13/copy/aport.html?sid=101 | title=Portman says he's leaning toward Senate run | date=January 13, 2009 | work=Columbus Dispatch | access-date=November 11, 2009 | archive-url=https://web.archive.org/web/20110721164920/http://www.dispatchpolitics.com/live/content/local_news/stories/2009/01/13/copy/aport.html?sid=101 | archive-date=July 21, 2011 | url-status=dead }}</ref>
+
+=== Candidate ===
+* [[Rob Portman]], former director of the [[Office of Management and Budget]] (2006–2007), former [[United States trade representative]] (2005–2006) and former U.S. representative of [[Ohio's 2nd congressional district]] (1993–2005)
+
+=== Campaign ===
+After Voinovich made his retirement official, Portman declared his candidacy the next day.<ref name=ddn>{{cite web | url=http://www.daytondailynews.com/o/content/shared-gen/blogs/dayton/ohiopolitics/entries/2009/01/13/portman_to_launch_senate_campa.html | title=Portman announces for U.S. Senate, to start statewide campaign tour | author=Hershey, William | date=January 13, 2009 | work=Dayton Daily News | access-date=November 11, 2009 | archive-url=https://web.archive.org/web/20110622062523/http://www.daytondailynews.com/o/content/shared-gen/blogs/dayton/ohiopolitics/entries/2009/01/13/portman_to_launch_senate_campa.html | archive-date=June 22, 2011 | url-status=dead }}</ref> Thomas Ganley, a Cleveland car dealer, launched his campaign for the nomination in April, after Portman had collected support from most of the Ohio Republican establishment.<ref name=wkyc>{{cite web | url=http://www.wkyc.com/news/local/news_article.aspx?storyid=110769&catid=3 | title=Auto dealer Ganley expected to announce run for Voinovich's Senate seat | author=Wendel, Kim | date=April 4, 2009 | work=WKYC | access-date=November 11, 2009}}</ref> Taylor officially declined to run in May and was announced as [[Ohio gubernatorial election, 2010|gubernatorial]] candidate [[John Kasich]]'s running mate on January 12, 2010.<ref>{{cite web | url=http://www.cleveland.com/open/index.ssf/2010/01/ohio_auditor_mary_taylor_to_se.html | title=Ohio Auditor Mary Taylor won't seek re-election, instead will run for lieutenant governor. | date=January 13, 2010 | publisher=cleveland.com | access-date=August 21, 2010}}</ref>
+
+Ganley was the only other declared candidate, but on February 17, 2010, he announced that he would switch races and run against [[Betty Sutton]] in [[Ohio's 13th congressional district]] instead,<ref>{{cite web | url=http://blogs.cqpolitics.com/eyeon2010/2010/02/ganley-switching-races-in-ohio.html | title=Ganley Switching Races in Ohio, Will Challenge Sutton | author=Gonzales, Nathan | date=February 17, 2010 | work=CQ Politics | access-date=February 17, 2010 | archive-url=https://web.archive.org/web/20100406101136/http://blogs.cqpolitics.com/eyeon2010/2010/02/ganley-switching-races-in-ohio.html | archive-date=April 6, 2010 | url-status=dead }}</ref> leaving Portman as the only Republican candidate. He had over $7 million in campaign funds.<ref>{{cite web | first=Eric | last=Kleefeld | url=http://tpmdc.talkingpointsmemo.com/tom-ganley/2010/02 | title=Tom Ganley: February 2010 {{!}} TPMDC | publisher=Tpmdc.talkingpointsmemo.com | date=February 17, 2010 | access-date=August 21, 2010 | archive-url=https://web.archive.org/web/20100219054510/http://tpmdc.talkingpointsmemo.com/tom-ganley/2010/02/ | archive-date=February 19, 2010 | url-status=dead }}</ref>
+
+=== Results ===
+{{Election box begin no change
+ | title      = Republican primary results<ref>{{cite web|url=https://www.sos.state.oh.us/elections/election-results-and-data/2010-elections-results/u.-s.-senator---republican-may-4-2010/|website=Ohio Secretary of State|title=U. S. SENATOR - REPUBLICAN: MAY 4, 2010|accessdate=22 March 2021|archive-date=May 22, 2021|archive-url=https://web.archive.org/web/20210522122842/https://www.sos.state.oh.us/elections/election-results-and-data/2010-elections-results/u.-s.-senator---republican-may-4-2010/|url-status=dead}}</ref>
+}}
+{{Election box winning candidate with party link no change
+ | candidate  = [[Rob Portman]]
+ | party      = Republican Party (United States)
+ | votes      = 667,369
+ | percentage = 100.00%
+}}
+{{Election box total no change
+ | votes      = 667,369
+ | percentage = 100.00%
+}}
+{{Election box end}}
+
+== Democratic primary ==
+
+=== Background ===
+Congressman [[Tim Ryan (Ohio politician)|Tim Ryan]], [[Ohio Secretary of State|Secretary of State]] [[Jennifer Brunner]], and [[Lieutenant Governor of Ohio|Lieutenant Governor]] [[Lee Fisher]] were considered leading contenders to run against George Voinovich.<ref name=vindryan>{{cite web | url=http://www.vindy.com/news/2009/jan/13/will-ryan-make-a-run-for-senate | title=Will Ryan make a run for Senate? | author=Skolnick, David | date=January 13, 2009 | work=The Vindicator | access-date=November 11, 2009 | archive-date=January 14, 2012 | archive-url=https://web.archive.org/web/20120114221410/http://www.vindy.com/news/2009/jan/13/will-ryan-make-a-run-for-senate/ | url-status=dead }}</ref> [[Ohio Governor]] [[Ted Strickland]] urged Jennifer Brunner to [[Ohio Secretary of State election, 2010|run for re-election]] rather than run for the Senate.<ref name=cpd>{{cite web | url=http://www.cleveland.com/news/naymik/index.ssf?/base/opinion-0/1233653547210721.xml&coll=2 | title=Ohio Democrats brace for collision over open Senate seat | author=Naymik, Mark | date=February 3, 2009 | work=Cleveland Plain Dealer | access-date=November 11, 2009 | archive-url=https://web.archive.org/web/20090412163427/http://www.cleveland.com/news/naymik/index.ssf?%2Fbase%2Fopinion-0%2F1233653547210721.xml&coll=2 | archive-date=April 12, 2009 | url-status=dead }}</ref> [[Cuyahoga County]] Commissioner [[Peter Lawson Jones]] and [[Ohio House of Representatives|Ohio State Representative]] [[Tyrone Yates]] considered running, but both withdrew from consideration.<ref name=cpdminor>{{cite web | url=http://blog.cleveland.com/openers/2009/02/race_for_voinovichs_seat_toss.html | title=3rd Democratic candidate emerges for Voinovich's Senate seat; analyst calls it a toss-up | author=Koff, Stephen | date=February 26, 2009 | work=Cleveland Plain Dealer | access-date=November 11, 2009 }}</ref><ref name=ceyates>{{cite web | url=http://cincinnati.com/blogs/politics/2009/08/25/yates-endorses-fisher | title=Yates endorses Fisher | author=Wilkinson, H | date=August 25, 2009 | work=Cincinnati Enquirer | access-date=November 11, 2009 | archive-date=July 24, 2011 | archive-url=https://web.archive.org/web/20110724020806/http://cincinnati.com/blogs/politics/2009/08/25/yates-endorses-fisher/ | url-status=dead }}</ref>
+
+=== Candidates ===
+* [[Jennifer Brunner]], [[Ohio Secretary of State|secretary of state]] (2007–2011)
+* [[Lee Fisher]], [[lieutenant governor of Ohio]] (2007–2011), former [[Ohio Attorney General|attorney general of Ohio]] (1991–1995) and nominee for governor in [[1998 Ohio gubernatorial election|1998]]
+
+=== Campaign ===
+On February 17, 2009, Brunner and Fisher both officially announced their candidacies for the now-open seat election, with Strickland officially endorsing Fisher.<ref name=cpd/><ref name=cpdbrunner>{{cite web | url=http://blog.cleveland.com/openers/2009/02/brunner_to_announce_us_senate.html | title=Jennifer Brunner announces candidacy for U.S. Senate | author=Naymik, Mark | date=February 17, 2009 | work=Cleveland Plain Dealer | access-date=November 11, 2009 }}</ref><ref name=cpdfisher>{{cite web | url=http://blog.cleveland.com/openers/2009/02/wait_a_minute_fisher_says_hes.html | title=Lt. Gov. Lee Fisher joins the race for U.S. Senate seat | author=Naymik, Mark | date=February 17, 2009 | work=Cleveland Plain Dealer | access-date=November 11, 2009 }}</ref> Ryan declined to run and endorsed Fisher in July.<ref name=vindy>{{cite web | url=http://www.vindy.com/news/2009/jul/27/us-rep-tim-ryan-endorses-ohio-lt-gov-fisher | title=U.S. Rep. Tim Ryan endorses Ohio Lt. Gov. Fisher for Senate seat | date=July 27, 2009 | work=The Vindicator | access-date=November 11, 2009 | archive-date=March 6, 2012 | archive-url=https://web.archive.org/web/20120306051143/http://www.vindy.com/news/2009/jul/27/us-rep-tim-ryan-endorses-ohio-lt-gov-fisher/ | url-status=dead }}</ref>
+
+Fisher was endorsed by Governor [[Ted Strickland]] and U.S. Representatives [[John Boccieri]], [[Tim Ryan (Ohio politician)|Tim Ryan]], [[Zack Space]], and [[Charlie Wilson (Ohio politician)|Charlie Wilson]].<ref>{{cite web | url=http://www.fisherforohio.com/endorsements/elected_officials | title=Elected Officials / Endorsements / Lee Fisher for Ohio | publisher=Fisherforohio.com | access-date=August 21, 2010 | archive-url=https://web.archive.org/web/20100817075354/http://www.fisherforohio.com/endorsements/elected_officials | archive-date=August 17, 2010 | url-status=dead }}</ref>
+
+Polling in late 2009 and January 2010 showed Brunner to be more competitive than Fisher in a general election matchup against Portman, while Fisher and Brunner were deadlocked in Democratic primary polling.<ref>{{cite web | author=Chuck Crow, The Plain Dealer | url=http://www.cleveland.com/naymik/index.ssf/2010/01/real_test_of_us_senate_candida.html | title=Real test of U.S. Senate candidate Jennifer Brunner coming soon | date=January 19, 2010 | publisher=Cleveland.com | access-date=August 21, 2010}}</ref>
+
+Charlene Renee Bradley and Traci Johnson also filed to run in the Democratic primary.<ref name=file>{{cite web | url=http://www.sos.state.oh.us/SOS/PressReleases/2010/2010-02-18.aspx | title=Candidates File for the May 4 State Primary | date=February 18, 2010 | work=Ohio Secretary of State | access-date=February 24, 2010 | archive-url=https://web.archive.org/web/20100509035535/http://www.sos.state.oh.us/SOS/PressReleases/2010/2010-02-18.aspx | archive-date=May 9, 2010 | url-status=dead | df=mdy-all }}</ref>
+
+=== Polling ===
+{| class="wikitable" style="text-align:center"
+
+|- valign=bottom
+! Poll source
+! {{Small|Date(s)<br />administered}}
+! {{Small|Sample<br />size}}
+! {{Small|Margin<br />of error}}
+! Jennifer Brunner
+! Lee Fisher
+! Other
+! Undecided
+
+|-
+|[[Quinnipiac University]]<ref>[https://web.archive.org/web/20090205172521/http://www.quinnipiac.edu/x1284.xml?ReleaseID=1255&What=&strArea=;&strTime=0 Quinnipiac University]</ref>
+| January 29 – February 2, 2009
+| 492
+| ± 4.4%
+| 16%
+| {{Party shading/Democratic}} | '''18%'''
+| 14%
+| 53%
+
+|-
+|[[Quinnipiac University]]<ref name="Quinnipiac University">[https://web.archive.org/web/20110605003639/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1295&What=&strArea=;&strTime=0 Quinnipiac University]</ref>
+| March 10–15, 2009
+| 506
+| ± 4.4%
+| 14%
+| {{Party shading/Democratic}} | '''18%'''
+| 1%
+| 46%
+
+|-
+|[[Quinnipiac University]]<ref name="Quinnipiac University"/>
+| April 28 – May 4, 2009
+| 437
+| ± 4.7%
+| 16%
+| {{Party shading/Democratic}} | '''20%'''
+| 1%
+| 59%
+
+|-
+|[[Quinnipiac University]]<ref>[https://web.archive.org/web/20091119192428/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1347 Quinnipiac University]</ref>
+| June 26 – July 1, 2009
+| 483
+| ± 4.5%
+| 21%
+| {{Party shading/Democratic}} | '''24%'''
+| 2%
+| 51%
+
+|-
+|[[Research 2000]]<ref>[https://web.archive.org/web/20090713055655/http://www.dailykos.com/statepoll/2009/7/8/OH/313 Research 2000]</ref>
+| July 6–8, 2009
+| 400
+| ± 5.0%
+| 17%
+| {{Party shading/Democratic}} | '''22%'''
+| —
+| 61%
+
+|-
+|[[Quinnipiac University]]<ref>[https://web.archive.org/web/20090926222836/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1372 Quinnipiac University]</ref>
+| September 10–13, 2009
+| 421
+| ± 4.8%
+| 17%
+| {{Party shading/Democratic}} | '''26%'''
+| 2%
+| 55%
+
+|-
+|[[Quinnipiac University]]<ref>[https://web.archive.org/web/20091115063605/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1396 Quinnipiac University]</ref>
+| November 5–9, 2009
+| 394
+| ± 4.9%
+| 22%
+| {{Party shading/Democratic}} | '''24%'''
+| 1%
+| 51%
+
+|-
+|[[Quinnipiac University]]<ref>[https://web.archive.org/web/20100228175154/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1427 Quinnipiac University]</ref>
+| February 16–21, 2010
+| 604
+| ± 4.0%
+| 20%
+| {{Party shading/Democratic}} | '''29%'''
+| 2%
+| 48%
+
+|-
+|[[Quinnipiac University]]<ref>[https://web.archive.org/web/20100404130425/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1439 Quinnipiac University]</ref>
+| March 25–28, 2010
+| 978
+| ± 3.1%
+| 26%
+| {{Party shading/Democratic}} | '''33%'''
+| 1%
+| 40%
+
+|-
+|[[Research 2000]]<ref>[http://www.dailykos.com/statepoll/2010/4/7/OH/469 Research 2000]</ref>
+| April 5–7, 2010
+| 400
+| ± 4.0%
+| 26%
+| {{Party shading/Democratic}} | '''35%'''
+| —
+| 39%
+
+|-
+|[[Quinnipiac University]]<ref>[https://web.archive.org/web/20100501161537/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1449 Quinnipiac University]</ref>
+| April 22–26, 2010
+| 987
+| ± 3.1%
+| 24%
+| {{Party shading/Democratic}} | '''41%'''
+| 1%
+| 34%
+
+|-
+|[[Suffolk University]]<ref>[http://www.suffolk.edu/41762.html Suffolk University] {{Webarchive|url=https://web.archive.org/web/20100527140621/http://www.suffolk.edu/41762.html |date=May 27, 2010 }}</ref>
+| April 27–29, 2010
+| 400
+| ± 4.9%
+| 27%
+| {{Party shading/Democratic}} | '''55%'''
+| —
+| 18%
+
+|-
+|[[Quinnipiac University]]<ref>[https://web.archive.org/web/20100505201702/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1451 Quinnipiac University]</ref>
+| April 29 – May 2, 2010
+| 980
+| ± 3.1%
+| 23%
+| {{Party shading/Democratic}} | '''43%'''
+| 1%
+| 32%
+
+|}
+
+=== Results ===
+[[File:Ohio Senate Democratic primary, 2010.svg|210px|thumb|Results by county
+ {{legend|#6674de|Fisher}}
+{{legend|#7996e2|50–60%}}
+{{legend|#6674de|60–70%}}
+ {{legend|#37c837|Brunner}}
+{{legend|#5fd35f|50–60%}}
+{{legend|#37c837|60–70%}}
+]]
+{{Election box begin no change
+ | title      = Democratic primary results<ref>{{cite web | url=https://www.politico.com/2010/maps/#/Senate/2010/OH | title=The 2010 Results Maps | publisher=Politico.Com | access-date=August 21, 2010 | archive-date=August 23, 2010 | archive-url=https://web.archive.org/web/20100823031212/http://www.politico.com/2010/maps/#/Senate/2010/OH | url-status=dead }}</ref>
+}}
+{{Election box winning candidate with party link no change
+ | candidate  = [[Lee Fisher]]
+ | party      = Democratic Party (United States)
+ | votes      = 380,189
+ | percentage = 55.6%
+}}
+{{Election box candidate with party link no change
+ | candidate  = [[Jennifer Brunner]]
+ | party      = Democratic Party (United States)
+ | votes      = 304,026
+ | percentage = 44.4%
+}}
+{{Election box total no change
+ | votes      = 684,206
+ | percentage = 100.0%
+}}
+{{Election box end}}
+
+== General election ==
+
+=== Candidates ===
+* Eric Deaton ([[Constitution Party (United States)|Constitution Party]])
+* [[Lee Fisher]] (D), [[Lieutenant Governor of Ohio|lieutenant governor]], former Ohio attorney general, former state senator, and former state representative
+* [[Dan La Botz]] ([[Socialist Party USA|Socialist Party]]), [[Trade union|labor union]] activist, academic, [[journalist]], and author
+* [[Rob Portman]] (R), former U.S. congressman and cabinet member for [[George W. Bush]]
+* Michael Pryce ([[Political independent|Independent]])
+
+=== Campaign ===
+When the incumbent announced he would retire, Portman jumped into the race in early 2009. During the two-year time period, Portman raised over $9 million.<ref>{{Cite web |url=http://www.cqpolitics.com/wmspage.cfm?docID=senate-2010-OH |title=Race Detail Display Page : Roll Call<!-- Bot generated title --> |access-date=March 29, 2010 |archive-url=https://web.archive.org/web/20100504105042/http://www.cqpolitics.com/wmspage.cfm?docID=senate-2010-OH |archive-date=May 4, 2010 |url-status=dead |df=mdy-all }}</ref> Originally, the election was seen as a toss-up, as Portman's experience in the [[George W. Bush|Bush]] administration was considered a liability for him.<ref>{{Cite web |url=http://blogs.cqpolitics.com/polltracker/2009/12/ohio-senate-portman-even-with.html |title=CQ Politics {{!}} Poll Tracker - Ohio Senate: Portman Even With Fisher, Leads Brunner<!-- Bot generated title --> |access-date=September 29, 2010 |archive-url=https://web.archive.org/web/20091214174652/http://blogs.cqpolitics.com/polltracker/2009/12/ohio-senate-portman-even-with.html |archive-date=December 14, 2009 |url-status=dead |df=mdy-all }}</ref> Both President [[Barack Obama]] and Vice President [[Joseph Biden|Joe Biden]] campaigned for Fisher.<ref>{{Cite web |url=http://www.cqpolitics.com/wmspage.cfm?docID=news-000003728902 |title=Prospects in Ohio Looking Better for Senate GOP : Roll Call<!-- Bot generated title --> |access-date=September 29, 2010 |archive-url=https://web.archive.org/web/20100907075814/http://www.cqpolitics.com/wmspage.cfm?docid=news-000003728902 |archive-date=September 7, 2010 |url-status=dead |df=mdy-all }}</ref> However, Portman consistently led in fundraising and polling, particularly as Portman was unopposed in the Republican primary, while the Democratic primary between Fisher and Brunner was highly divisive.
+
+Television advertisements were very negative. Fisher attacked Portman for helping to ship jobs overseas during his entire political career, backing deals that shipped jobs overseas, and the trade deficit with China, which grew by over $41 billion.<ref>[http://www.politifact.com/truth-o-meter/statements/2010/sep/09/lee-fisher/lee-fisher-hammers-rob-portman-record-bush-adminis PolitiFact {{!}} Lee Fisher hammers Rob Portman on record in Bush administration<!-- Bot generated title -->]</ref> Portman claimed in response that most jobs were being lost to other states, not other countries.<ref>[http://www.cleveland.com/open/index.ssf/2010/09/portman_targets_fisher_with_cl.html Portman targets Fisher with claim that most jobs Ohio lost went to other states: PolitiFact Ohio {{!}} cleveland.com<!-- Bot generated title -->]</ref> Portman attacked Fisher for supporting Obama's [[American Reinvestment and Recovery Act|stimulus]] and [[Emissions trading|cap and trade]].<ref>{{Cite web |url=http://blogs.cqpolitics.com/eyeon2010/2010/07/senate-portman-cap-and-trade-a.html |title=Democrats Use Portman Ad As Opening To Attack - The Eye (CQ Politics)<!-- Bot generated title --> |access-date=September 29, 2010 |archive-url=https://web.archive.org/web/20100716232121/http://blogs.cqpolitics.com/eyeon2010/2010/07/senate-portman-cap-and-trade-a.html |archive-date=July 16, 2010 |url-status=dead |df=mdy-all }}</ref><ref>[http://www.realclearpolitics.com/articles/2010/09/29/portman_hits_fisher_on_jobs_in_new_ad_107361.html RealClearPolitics - Portman Hits Fisher on Jobs in New Ad<!-- Bot generated title -->]</ref>
+
+=== Debates ===
+Three debates were held in [[Cleveland]], [[Columbus, Ohio|Columbus]], and [[Toledo, Ohio|Toledo]].<ref>[http://www.cleveland.com/open/index.ssf/2010/09/us_senate_candidates_rob_portm.html U.S. Senate candidates Rob Portman and Lee Fisher agree to debates in Cleveland, Columbus and Toledo {{!}} cleveland.com<!-- Bot generated title -->]</ref> The first one was in Toledo on October 5. The second one was in Cleveland on October 8, while the third was in Columbus on October 12.
+
+=== Predictions ===
+{| class="wikitable" style="text-align:center"
+|-
+! Source
+! Ranking
+! As of
+|-
+| [[Cook Political Report]]<ref>{{Cite web | url=http://cookpolitical.com/senate | title=Senate | publisher=[[Cook Political Report]] | access-date=October 26, 2010}}</ref>
+| {{USRaceRating|Solid|R}}
+| October 26, 2010
+|-
+| [[Stuart Rothenberg|Rothenberg]]<ref>{{Cite web | url=http://rothenbergpoliticalreport.com/ratings/senate | title=Senate Ratings | publisher=[[Rothenberg Political Report]] | access-date=October 26, 2010}}</ref>
+| {{USRaceRating|Safe|R}}
+| October 22, 2010
+|-
+| [[RealClearPolitics]]<ref>{{Cite web | url=http://www.realclearpolitics.com/epolls/2010/senate/2010_elections_senate_map.html | title=Battle for the Senate | publisher=[[RealClearPolitics]] | access-date=October 26, 2010}}</ref>
+| {{USRaceRating|Safe|R}}
+| October 26, 2010
+|-
+| [[Sabato's Crystal Ball]]<ref>{{Cite web | url=http://www.centerforpolitics.org/crystalball/articles/category/2010-senate | title=2010 Senate Ratings | publisher=[[Sabato's Crystal Ball]] | access-date=October 26, 2010 | archive-date=October 28, 2010 | archive-url=https://web.archive.org/web/20101028092918/http://www.centerforpolitics.org/crystalball/articles/category/2010-senate/ | url-status=dead }}</ref>
+| {{USRaceRating|Likely|R}}
+| October 21, 2010
+
+|-
+| [[Congressional Quarterly|CQ Politics]]<ref>{{Cite web | url=http://www.cqpolitics.com/wmspage.cfm?docID=ratings-senate | title=Race Ratings Chart: Senate | publisher=[[CQ Politics]] | access-date=October 26, 2010 | url-status=dead | archive-url=https://web.archive.org/web/20101028234525/http://www.cqpolitics.com/wmspage.cfm?docID=ratings-senate | archive-date=October 28, 2010 }}</ref>
+| {{USRaceRating|Safe|R}}
+| October 26, 2010
+|}
+
+=== Polling ===
+{| class="wikitable" style="text-align:center"
+
+|- valign=bottom
+! Poll source
+! {{Small|Date(s)<br />administered}}
+! {{Small|Sample<br />size}}
+! {{Small|Margin<br />of error}}
+! Lee Fisher (D)
+! Rob Portman (R)
+! Other
+! Undecided
+
+|-
+| Public Policy Polling ([http://www.publicpolicypolling.com/pdf/surveys/2009_Archives/PPP_Release_Ohio_119.pdf report]{{Dead link|date=August 2019 |bot=InternetArchiveBot |fix-attempted=yes }})
+| January 17–18, 2009
+| 578
+| ± 4.1%
+| 39%
+| {{Party shading/Republican}} | '''41%'''
+| —
+| 20%
+
+|-
+| Quinnipiac University ([https://web.archive.org/web/20090205172521/http://www.quinnipiac.edu/x1284.xml?ReleaseID=1255&What=&strArea=;&strTime=0 report])
+| January 29 – February 2, 2009
+| 1,127
+| ± 2.9%
+| {{Party shading/Democratic}} | '''42%'''
+| 27%
+| 1%
+| 29%
+
+|-
+| Quinnipiac University ([https://web.archive.org/web/20090405201608/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1277 report])
+| March 10–15, 2009
+| 1,299
+| ± 2.7%
+| {{Party shading/Democratic}} | '''41%'''
+| 33%
+| 1%
+| 24%
+
+|-
+| Quinnipiac University ([https://web.archive.org/web/20090512143044/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1295 report])
+| April 28 – May 4, 2009
+| 1,079
+| ± 3.0%
+| {{Party shading/Democratic}} | '''42%'''
+| 31%
+| 1%
+| 26%
+
+|-
+| Public Policy Polling ([http://www.publicpolicypolling.com/pdf/surveys/2009_Archives/PPP_Release_Ohio_623.pdf report]{{Dead link|date=August 2019 |bot=InternetArchiveBot |fix-attempted=yes }})
+| June 17–19, 2009
+| 619
+| ± 3.9%
+| {{Party shading/Democratic}} | '''41%'''
+| 32%
+| —
+| 27%
+
+|-
+| Quinnipiac University ([https://web.archive.org/web/20091119192428/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1347 report])
+| June 26 – July 1, 2009
+| 1,259
+| ± 2.8%
+| {{Party shading/Democratic}} | '''37%'''
+| 33%
+| 2%
+| 26%
+
+|-
+| Research 2000 ([https://web.archive.org/web/20090713055655/http://www.dailykos.com/statepoll/2009/7/8/OH/313 report])
+| July 6–8, 2009
+| 400
+| ± 5.0%
+| {{Party shading/Democratic}} | '''42%'''
+| 35%
+| —
+| 23%
+
+|-
+| Quinnipiac University ([https://web.archive.org/web/20091127051734/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1372 report])
+| September 10–13, 2009
+| 1,074
+| ± 3.0%
+| {{Party shading/Democratic}} | '''42%'''
+| 31%
+| 1%
+| 26%
+
+|-
+| Rasmussen Reports ([http://www.rasmussenreports.com/public_content/politics/elections2/election_2010/election_2010_senate_elections/ohio/toplines/toplines_2010_ohio_senate_race_september_25_2009 report])
+| September 23, 2009
+| 500
+| ± 4.5%
+| 40%
+| {{Party shading/Republican}} | '''41%'''
+| 6%
+| 14%
+
+|-
+| Quinnipiac University ([https://web.archive.org/web/20091115063605/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1396 report])
+| November 5–9, 2009
+| 1,123
+| ± 2.9%
+| 36%
+| {{Party shading/Republican}} | '''39%'''
+| —
+| 24%
+
+|-
+| Rasmussen Reports ([http://www.rasmussenreports.com/public_content/politics/elections/election_2010/election_2010_senate_elections/ohio/toplines/toplines_2010_ohio_senate_race_december_7_2009 report])
+| December 7, 2009
+| 500
+| ± 4.5%
+| 36%
+| {{Party shading/Republican}} | '''38%'''
+| 8%
+| 18%
+
+|-
+| Rasmussen Reports ([http://www.rasmussenreports.com/public_content/politics/elections/election_2010/election_2010_senate_elections/ohio/toplines/toplines_2010_ohio_senate_race_january_12_2010 report])
+| January 12, 2010
+| 500
+| ± 4.5%
+| 37%
+| {{Party shading/Republican}} | '''44%'''
+| 4%
+| 14%
+
+|-
+| Rasmussen Reports ([http://www.rasmussenreports.com/public_content/politics/elections/election_2010/election_2010_senate_elections/ohio/toplines/toplines_ohio_senate_february_5_6_2010 report])
+| February 5–6, 2010
+| 500
+| ± 4.5%
+| 39%
+| {{Party shading/Republican}} | '''43%'''
+| 5%
+| 13%
+
+|-
+| Quinnipiac University ([https://web.archive.org/web/20100228175154/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1427 report])
+| February 16–21, 2010
+| 1,662
+| ± 2.4%
+| 37%
+| {{Party shading/Republican}} | '''40%'''
+| 2%
+| 21%
+
+|-
+| Rasmussen Reports ([http://www.rasmussenreports.com/public_content/politics/elections/election_2010/election_2010_senate_elections/ohio/toplines/toplines_ohio_senate_march_4_2010 report])
+| March 4, 2010
+| 500
+| ± 4.5%
+| 39%
+| {{Party shading/Republican}} | '''44%'''
+| 5%
+| 12%
+
+|-
+| Public Policy Polling ([https://web.archive.org/web/20110504101710/http://www.publicpolicypolling.com/pdf/PPP_Release_OH_324.pdf report])
+| March 20–21, 2010
+| 630
+| ± 3.9%
+| 36%
+| {{Party shading/Republican}} | '''41%'''
+| —
+| 23%
+
+|-
+| Quinnipiac ([https://web.archive.org/web/20100405073822/http://www.quinnipiac.edu/x1284.xml?ReleaseID=1440&What=&strArea=;&strTime=0 report])
+| March 23–29, 2010
+| 1,526
+| ± 2.5%
+| {{Party shading/Democratic}} | '''41%'''
+| 37%
+| 1%
+| 21%
+
+|-
+| Rasmussen Reports ([http://www.rasmussenreports.com/public_content/politics/elections/election_2010/election_2010_senate_elections/ohio/toplines/toplines_2010_ohio_senate_race_march_30_2010 report])
+| March 30, 2010
+| 500
+| ± 4.5%
+| 38%
+| {{Party shading/Republican}} | '''43%'''
+| 4%
+| 14%
+
+|-
+| Research 2000 ([http://www.dailykos.com/statepoll/2010/4/7/OH/469 report])
+| April 5–7, 2010
+| 600
+| ± 4.0%
+| {{Party shading/Democratic}} | '''43%'''
+| 39%
+| —
+| 18%
+
+|-
+| Quinnipiac Polling ([https://web.archive.org/web/20100501153224/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1450 report])
+| April 21–26, 2010
+| 1,568
+| ± 2.5%
+| {{Party shading/Democratic}} | '''40%'''
+| 37%
+| 1%
+| 21%
+
+|-
+| Rasmussen Reports ([http://www.rasmussenreports.com/public_content/politics/elections/election_2010/election_2010_senate_elections/ohio/toplines/toplines_ohio_senate_may_5_2010 report])
+| May 7, 2010
+| 500
+| ± 4.5%
+| {{Party shading/Democratic}} | '''43%'''
+| 42%
+| 4%
+| 14%
+
+|-
+| UC/The Ohio Poll ([http://www.ipr.uc.edu/documents/op052810.pdf report])
+| May 11–20, 2010
+| 668
+| ± 3.8%
+| {{Party shading/Democratic}} | '''47%'''
+| 46%
+| —
+| 6%
+
+|-
+| Rasmussen Reports ([http://www.rasmussenreports.com/public_content/politics/elections/election_2010/election_2010_senate_elections/ohio/toplines/toplines_ohio_senate_june_3_2010 report])
+| June 3, 2010
+| 500
+| ± 4.5%
+| '''43%'''
+| '''43%'''
+| 4%
+| 10%
+
+|-
+| Quinnipiac Polling ([https://web.archive.org/web/20100701182716/http://www.quinnipiac.edu/x1284.xml?ReleaseID=1471&What=&strArea=;&strTime=0 report])
+| June 22–27, 2010
+| 1,107
+| ± 3.0%
+| {{Party shading/Democratic}} | '''42%'''
+| 40%
+| 1%
+| 17%
+
+|-
+| Public Policy Polling ([https://web.archive.org/web/20110504101654/http://www.publicpolicypolling.com/pdf/PPP_Release_Ohio_630.pdf report])
+| June 26–27, 2010
+| 482
+| ± 4.5%
+| {{Party shading/Democratic}} | '''40%'''
+| 38%
+| ––
+| 22%
+
+|-
+| Rasmussen Reports ([http://www.rasmussenreports.com/public_content/politics/elections/election_2010/election_2010_senate_elections/ohio/toplines/toplines_ohio_senate_june_29_2010 report])
+| June 29, 2010
+| 500
+| ± 4.5%
+| 39%
+| {{Party shading/Republican}} | '''43%'''
+| 4%
+| 13%
+
+|-
+| Rasmussen Reports ([http://www.rasmussenreports.com/public_content/politics/elections/election_2010/election_2010_senate_elections/ohio/toplines/toplines_ohio_senate_i_july_19_2010 report])
+| July 19, 2010
+| 750
+| ± 4.0%
+| 39%
+| {{Party shading/Republican}} | '''45%'''
+| 5%
+| 11%
+
+|-
+| Rasmussen Reports ([http://www.rasmussenreports.com/public_content/politics/elections/election_2010/election_2010_senate_elections/ohio/election_2010_ohio_senate report])
+| August 2, 2010
+| 750
+| ± 4.0%
+| 40%
+| {{Party shading/Republican}} | '''44%'''
+| 5%
+| 11%
+
+|-
+| Reuters/Ipsos ([https://www.reuters.com/article/idUSTRE67957M20100810 report])
+| August 6–8, 2010
+| 600
+| ± 4.0%
+| 36%
+| {{Party shading/Republican}} | '''43%'''
+| —
+| 21%
+
+|-
+| Rasmussen Reports ([http://www.rasmussenreports.com/public_content/politics/elections/election_2010/election_2010_senate_elections/ohio/toplines/toplines_ohio_senate_august_16_2010 report])
+| August 16, 2010
+| 750
+| ± 4.0%
+| 37%
+| {{Party shading/Republican}} | '''45%'''
+| 5%
+| 13%
+
+|-
+| Public Policy Polling ([https://web.archive.org/web/20110504101640/http://www.publicpolicypolling.com/pdf/PPP_Release_OH_902.pdf report])
+| August 27–29, 2010
+| 475
+| ± 4.5%
+| 38%
+| {{Party shading/Republican}} | '''45%'''
+| —
+| 18%
+
+|-
+| Rasmussen Reports ([http://www.rasmussenreports.com/public_content/politics/elections/election_2010/election_2010_senate_elections/ohio/toplines/toplines_ohio_senate_august_30_2010 report])
+| August 30, 2010
+| 750
+| ± 4.0%
+| 39%
+| {{Party shading/Republican}} | '''44%'''
+| 7%
+| 11%
+
+|-
+| The Columbus Dispatch ([https://web.archive.org/web/20100909132250/http://www.dispatchpolitics.com/live/content/local_news/stories/2010/09/05/copy/gop-resurgent.html?adsec=politics&sid=101 report])
+| August 25 – September 3, 2010
+| 1,622
+| ± 2.2%
+| 37%
+| {{Party shading/Republican}} | '''50%'''
+| 3%
+| 9%
+
+|-
+| Fox News/Pulse Opinion Research ([http://www.foxnews.com/projects/pdf/091410_OHpoll1.pdf report])
+| September 11, 2010
+| 1,000
+| ± 3.0%
+| 41%
+| {{Party shading/Republican}} | '''48%'''
+| 3%
+| 8%
+
+|-
+| Rasmussen Reports ([http://www.rasmussenreports.com/public_content/politics/elections/election_2010/election_2010_state_toplines/ohio/toplines_ohio_senate_i_september_13_2010 report])
+| September 13, 2010
+| 750
+| ± 4.0%
+| 41%
+| {{Party shading/Republican}} | '''49%'''
+| 2%
+| 8%
+
+|-
+| CNN/Time Magazine ([http://i2.cdn.turner.com/cnn/2010/images/09/15/nv-oh-wa-poll2.pdf report])
+| September 10–14, 2010
+| 820
+| ± 3.5%
+| 41%
+| {{Party shading/Republican}} | '''52%'''
+| 4%
+| 2%
+
+|-
+| SurveyUSA ([http://www.surveyusa.com/client/PollReport.aspx?g=63f7766d-2465-4015-ab25-e62ddc7e6722 report])
+| September 14, 2010
+| 1000
+| ± 4.0%
+| 40%
+| {{Party shading/Republican}} | '''49%'''
+| 7%
+| 4%
+
+|-
+| Quinnipiac University ([https://web.archive.org/web/20101001214144/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1501 report])
+| September 17, 2010
+| 730
+| ± 3.6%
+| 35%
+| {{Party shading/Republican}} | '''55%'''
+| —
+| 1%
+
+|-
+| Ohio Newspapers Poll/UC ([https://web.archive.org/web/20101001214144/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1501 report])
+| September 24, 2010
+| 850
+| ± 4.0%
+| 40%
+| {{Party shading/Republican}} | '''55%'''
+| —
+| 5%
+
+|-
+| Fox News/Pulse Opinion Research ([http://www.foxnews.com/projects/pdf/0925_OH_topline.pdf report])
+| September 25, 2010
+| 1,000
+| ± 3.0%
+| 37%
+| {{Party shading/Republican}} | '''50%'''
+| 3%
+| 11%
+
+|-
+| CBS/NY Times {{Deprecated archive|url=https://archive.today/20130119015023/http://www.cbsnews.com/8301-503544_162-20017954-503544.html?tag=contentMain;contentBody|title=report}})
+| September 23–27, 2010
+| 941
+| ± 3.0%
+| 34%
+| {{Party shading/Republican}} | '''45%'''
+| —
+| 18%
+
+|-
+| Reuters/Ipsos [https://www.reuters.com/article/idUSTRE68D3VQ20100928 report])
+| September 23–25, 2010
+| 440
+| ± 3.0%
+| 37%
+| {{Party shading/Republican}} | '''50%'''
+| —
+| 13%
+
+|-
+| Rasmussen Reports ([http://www.rasmussenreports.com/public_content/politics/elections/election_2010/election_2010_senate_elections/ohio/questions/questions_ohio_senate_september_27_2010 report])
+| September 27, 2010
+| 500
+| ± 4.5%
+| 42%
+| {{Party shading/Republican}} | '''51%'''
+| 1%
+| 6%
+
+|-
+| Fox News/Pulse Opinion Research ([https://www.foxnews.com/politics/fox-news-polls-gop-poised-to-gain-or-hold-senate-seats-in-key-states report])
+| October 2, 2010
+| 1,000
+| ± 3.0%
+| 37%
+| {{Party shading/Republican}} | '''53%'''
+| 2%
+| 8%
+
+|-
+| Quinnipiac University ([https://web.archive.org/web/20121003202659/http://www.quinnipiac.edu/images/polling/oh/oh10062010.doc report])
+| September 29 – October 3, 2010
+| 1,025
+| ± 3.1%
+| 36%
+| {{Party shading/Republican}} | '''55%'''
+| —
+| —
+
+|-
+| Angus Reid Public Opinion ({{usurped|1=[https://web.archive.org/web/20110617031940/http://www.angus-reid.com/wp-content/uploads/2010/10/2010.10.10_Ohio_USA.pdf report]}})
+| Oct. 5–8, 2010
+| 500
+| ± 4.5%
+| 43%
+| {{Party shading/Republican}} | '''52%'''
+| 6%
+| —
+
+|-
+| Rasmussen Reports ([http://www.rasmussenreports.com/public_content/politics/elections/election_2010/election_2010_senate_elections/ohio/election_2010_ohio_senate report])
+| October 11, 2010
+| 750
+| ± 4.0%
+| 34%
+| {{Party shading/Republican}} | '''57%'''
+| 2%
+| 7%
+
+|-
+| University of Cincinnati ([http://www.ipr.uc.edu/documents/op101510.pdf report])
+| October 8–13, 2010
+| 705
+| ± 3.7%
+| 36%
+| {{Party shading/Republican}} | '''58%'''
+| 1%
+| 6%
+
+|-
+| Quinnipiac University ([https://web.archive.org/web/20101024040251/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1521 report])
+| October 12–17, 2010
+| 1,183
+| ± 2.8%
+| 34%
+| {{Party shading/Republican}} | '''55%'''
+| 1%
+| 10%
+
+|-
+| University of Cincinnati ([http://www.cleveland.com/open/index.ssf/2010/10/ohio_governors_race_tight_ohio.html report])
+| October 14–18, 2010
+| 839
+| ± 3.3%
+| 39%
+| {{Party shading/Republican}} | '''58%'''
+| 0%
+| 3%
+
+|-
+| CNN/Time/Opinion Research ([http://i2.cdn.turner.com/cnn/2010/images/10/20/topstate7.pdf report])
+| October 15–19, 2010
+| 1,502
+| ± 2.5%
+| 40%
+| {{Party shading/Republican}} | '''55%'''
+| 2%
+| 3%
+
+|-
+| Quinnipiac University ([https://web.archive.org/web/20101027032915/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1525 report])
+| October 20, 2010
+| 686
+| ± 2.5%
+| 34%
+| {{Party shading/Republican}} | '''55%'''
+| —
+| 2%
+
+|-
+| Wilson Research Strategies ([https://thehill.com/blogs/ballot-box/senate-races/73543-gop-pollster-ohios-senate-race-all-but-over/ report])
+| October 20–21, 2010
+| 500
+| ± 3.0%
+| 38%
+| {{Party shading/Republican}} | '''49%'''
+| —
+| 8%
+
+|-
+| SurveyUSA ([http://www.surveyusa.com/client/PollReport.aspx?g=1f22648b-c2e7-4289-adc9-a634146d92c4 report])
+| October 22–26, 2010
+| 950
+| ± 4.0%
+| 37%
+| {{Party shading/Republican}} | '''52%'''
+| —
+| 4%
+
+|-
+| Rasmussen Reports ([http://www.rasmussenreports.com/public_content/politics/elections/election_2010/election_2010_senate_elections/ohio/questions/questions_ohio_senate_october_26_2010 report])
+| October 26, 2010
+| 750
+| ± 4.0%
+| 33%
+| {{Party shading/Republican}} | '''57%'''
+| 3%
+| 7%
+
+|-
+| Columbus Dispatch ([http://www.dispatch.com/live/content/local_news/stories/2010/10/31/1031-poll-at-a-glance.html report])
+| October 20–29, 2010
+| 1,445
+| ± 2.3%
+| 40%
+| {{Party shading/Republican}} | '''56%'''
+| 0%
+| 4%
+
+|-
+| Quinnipiac University ([https://web.archive.org/web/20101104015149/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1530 report])
+| October 25–30, 2010
+| 848
+| ± 3.4%
+| 37%
+| {{Party shading/Republican}} | '''56%'''
+| 1%
+| 8%
+
+|-
+| Angus Reid Public Opinion ({{usurped|1=[https://web.archive.org/web/20101207020806/http://www.angus-reid.com/wp-content/uploads/2010/10/2010.10.31_Ohio_USA.pdf report]}})
+| October 27–29, 2010
+| 460
+| ± 4.6%
+| 40%
+| {{Party shading/Republican}} | '''57%'''
+| 3%
+| —
+
+|-
+| Public Policy Polling ([http://www.publicpolicypolling.com/pdf/PPP_Release_OH_1030513.pdf report])
+| October 28–30, 2010
+| 1,356
+| ± 2.7%
+| 39%
+| {{Party shading/Republican}} | '''57%'''
+| 0%
+| 4%
+
+|-
+| University of Cincinnati ([http://www.ipr.uc.edu/documents/op110110.pdf report])
+| October 27–31, 2010
+| 930
+| ± 3.2%
+| 39%
+| {{Party shading/Republican}} | '''60%'''
+| 0%
+| 1%
+
+|-
+| University of Cincinnati ([http://www.ipr.uc.edu/documents/op110110.pdf report])
+| November 1, 2010
+| 930
+| ± 3.2%
+| 39%
+| {{Party shading/Republican}} | '''61%'''
+| 0%
+| 0%
+
+|}
+
+=== Fundraising ===
+{| class="wikitable sortable"
+
+|-
+! Candidate (party)
+! Receipts
+! Disbursements
+! Cash on hand
+! Debt
+
+|-
+| {{Party shading/Republican}} | Rob Portman (R)
+| $15,998,398
+| $10,493,211
+| $5,505,186
+| $0
+
+|-
+| {{Party shading/Democratic}} | Lee Fisher (D)
+| $6,191,361
+| $5,882,729
+| $308,631
+| $0
+
+|-
+| colspan=5 | Source: Federal Election Commission<ref>{{cite web | url=http://www.fec.gov:80/DisclosureSearch/HSRefreshCandList.do?category=stateS_all&stateName=OH&election_yr=2010 | title=2010 House and Senate Campaign Finance for Ohio | publisher=fec.gov | access-date=July 21, 2010 }}{{Dead link|date=August 2019 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+|}
+
+=== Results ===
+Winning the election, Portman received 57% of the votes. He received the majority of votes in 82 of 88 counties and in 15 of 18 Congressional districts, including the district of liberal U.S. Congressman [[Dennis Kucinich]].<ref>{{Cite web |url=http://www.rollcall.com/issues/56_97/-204148-1.html |title=Portman is GOP's Point Man in Ohio : Roll Call |access-date=March 16, 2011 |archive-date=March 18, 2011 |archive-url=https://web.archive.org/web/20110318113724/http://www.rollcall.com/issues/56_97/-204148-1.html |url-status=dead }}</ref>
+
+{{Election box begin
+ | title      = United States Senate election in Ohio, 2010<ref name="General">{{cite web | url=http://vote.sos.state.oh.us/pls/enrpublic/f?p=130:6:0 | title=State of Ohio 2010 General Election November 2, 2010 Unofficial Results | work=Ohio Secretary of State | date=November 2, 2010 | access-date=November 6, 2010 | url-status=dead | archive-url=http://webarchive.loc.gov/all/20111109051100/http%3A//vote%2Esos%2Estate%2Eoh%2Eus/pls/enrpublic/f?p%3D130%3A6%3A0 | archive-date= November 9, 2011 }}</ref>
+ }}
+{{Election box winning candidate with party link
+ | candidate  = [[Rob Portman|Robert Jones Portman]]
+ | party      = Republican Party (United States)
+ | votes      = 2,168,742
+ | percentage = 56.85%
+ | change     = -6.61%
+}}
+{{Election box candidate with party link
+ | candidate  = [[Lee Fisher|Lee Irwin Fisher]]
+ | party      = Democratic Party (United States)
+ | votes      = 1,503,297
+ | percentage = 39.40%
+ | change     = +2.85%
+}}
+{{Election box candidate with party link
+ | candidate  = Eric Deaton
+ | party      = Constitution Party (United States)
+ | votes      = 65,856
+ | percentage = 1.72%
+ | change     = N/A
+}}
+{{Election box candidate with party link
+ | candidate  = Michael Pryce
+ | party      = Independent
+ | votes      = 50,101
+ | percentage = 1.31%
+ | change     = N/A
+}}
+{{Election box candidate with party link
+ | candidate  = [[Dan La Botz|Daniel LaBotz]]
+ | party      = Socialist Party USA
+ | votes      = 26,454
+ | percentage = 0.69%
+ | change     = N/A
+}}
+{{Election box candidate with party link
+ | candidate  = Arthur Sullivan (write-in)
+ | party      = N/A
+ | votes      = 648
+ | percentage = 0.02%
+ | change     = N/A
+}}
+{{Election box majority
+ | votes      = 665,445
+ | percentage = 17.44%
+ | change     =
+}}
+{{Election box total
+ | votes      = 3,815,098
+ | percentage = 100.00%
+ | change     =
+}}
+{{Election box hold with party link
+ | winner     = Republican Party (United States)
+ | loser      = Democratic Party (United States)
+ | swing      = NA
+}}
+{{Election box end}}
+
+==== Counties that flipped from Republican to Democratic ====
+* [[Monroe County, Ohio|Monroe]] (largest city: [[Woodsfield, Ohio|Woodsfield]])
+* [[Cuyahoga County, Ohio|Cuyahoga]] (largest city: [[Cleveland]])
+* [[Lucas County, Ohio|Lucas]] (largest city: [[Toledo, Ohio|Toledo]])
+* [[Mahoning County, Ohio|Mahoning]] (largest city: [[Youngstown, Ohio|Youngstown]])
+* [[Trumbull County, Ohio|Trumbull]] (largest city: [[Warren, Ohio|Warren]])
+* [[Athens County, Ohio|Athens]] (largest city: [[Athens, Ohio|Athens]])
+
+== See also ==
+* [[Ohio elections, 2010]]
+* [[United States House of Representatives elections in Ohio, 2010]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://www.sos.state.oh.us/SOS/elections.aspx Ohio Secretary of State - Elections] {{Webarchive|url=https://web.archive.org/web/20170726165015/http://www.sos.state.oh.us/SOS/elections.aspx |date=July 26, 2017 }}
+* [http://www.votesmart.org/election_congress_state.php?state_id=OH U.S. Congress candidates for Ohio] {{Webarchive|url=https://web.archive.org/web/20100930122703/http://www.votesmart.org/election_congress_state.php?state_id=OH |date=September 30, 2010 }} at [[Project Vote Smart]]
+* [http://www.ourcampaigns.com/RaceDetail.html?RaceID=346507 Ohio U.S. Senate 2010] from OurCampaigns.com
+* [http://www.opensecrets.org/races/summary.php?id=OHS2&cycle=2010 Campaign contributions] from [[OpenSecrets|Open Secrets]]
+* {{Deprecated archive|url=https://archive.today/20130131135506/http://www.pollster.com/polls/oh/-10-oh-sen-ge-pvf.php|title=2010 Ohio Senate General Election: Rob Portman (R) vs Lee Fisher (D)|sec=el}} graph of multiple polls from ''Pollster.com''
+* [http://www.rasmussenreports.com/public_content/politics/elections2/election_2010/election_2010_senate_elections/ohio/election_2010_ohio_senate Election 2010: Ohio Senate] from [[Rasmussen Reports]]
+* [http://www.realclearpolitics.com/epolls/2010/senate/2010_ohio_senate_race.html 2010 Ohio Senate Race] from [[Real Clear Politics]]
+* [https://web.archive.org/web/20100504105042/http://www.cqpolitics.com/wmspage.cfm?docID=senate-2010-OH 2010 Ohio Senate Race] from [[Congressional Quarterly|CQ Politics]]
+* [http://elections.nytimes.com/2010/senate/ohio Race profile] from [[The New York Times]]
+'''Official campaign websites (archived)'''
+* [https://web.archive.org/web/20100410113159/http://www.jenniferbrunner.com/ Jennifer Brunner]
+* [https://web.archive.org/web/20100316175413/http://www.deatonforsenate.com/ Eric Deaton]
+* [https://web.archive.org/web/20100329211658/http://www.fisherforohio.com/home Lee Fisher]
+* [https://web.archive.org/web/20100303143848/http://www.robportman.com/ Rob Portman]
+* [https://web.archive.org/web/20100326213055/http://danlabotz.com/ Dan La Botz]
+
+{{United States elections, 2010}}
+
+[[Category:United States Senate elections in Ohio|2010]]
+[[Category:2010 United States Senate elections|Ohio]]
+[[Category:2010 elections in Ohio|Senate]]

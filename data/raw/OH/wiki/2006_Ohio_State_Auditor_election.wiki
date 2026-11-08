@@ -1,0 +1,143 @@
+{{Short description|none}}
+{{infobox election
+| election_name      = 2006 Ohio State Auditor election
+| country            = Ohio
+| type               = presidential
+| ongoing            = no
+| turnout            =
+| previous_election  = 2002 Ohio State Auditor election
+| previous_year      = 2002
+| next_election      = 2010 Ohio State Auditor election
+| next_year          = 2010
+| election_date      = November 7, 2006
+| image1             = File:Mary Taylor by Gage Skidmore (cropped).jpg
+| image_size = 150x150px
+| nominee1           = '''[[Mary Taylor (Ohio politician)|Mary Taylor]]'''
+| party1             = Republican Party (United States)
+| popular_vote1      = '''1,940,665'''
+| percentage1        = '''50.64%'''
+| image2             = File:Barbara Sykes.jpg
+| nominee2           = [[Barbara Sykes (politician)|Barbara Sykes]]
+| party2             = Democratic Party (United States)
+| popular_vote2      = 1,891,874
+| percentage2        = 49.36%
+| map_image          = 2006 Ohio State Auditor election results map by county.svg
+| map_size           = 210px
+| map_caption = County results<br />'''Taylor:''' {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}}<br />'''Sykes:''' {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584cde|70–80%}}
+| title              = [[Ohio State Auditor|State Auditor]]
+| before_election    = [[Betty Montgomery]]
+| before_party       = Republican Party (United States)
+| after_election     = [[Mary Taylor (Ohio politician)|Mary Taylor]]
+| after_party        = Republican Party (United States)
+|}}
+{{ElectionsOH}}
+The '''2006 Ohio State Auditor election''' was held on November 7, 2006. The Republican nominee, [[Ohio House of Representatives|Ohio House Representative]] [[Mary Taylor (Ohio politician)|Mary Taylor]], very narrowly defeated her Democratic opponent, fellow Ohio House Representative [[Barbara Sykes (politician)|Barbara Sykes]], by less than two percentage points.
+
+== Background ==
+Incumbent Republican Ohio State Auditor [[Betty Montgomery]] had previously won the 2002 Ohio State Auditor election by a landslide margin of 28.64 percentage points against Democratic nominee Helen Smith.<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/2002-elections-results/attorney-generalauditor-of-state/ |title=Attorney General/Auditor of State - Ohio Secretary of State|website=Ohio Secretary of State |archive-url=https://web.archive.org/web/20211203163806/https://www.ohiosos.gov/elections/election-results-and-data/2002-elections-results/attorney-generalauditor-of-state/ |archive-date=2021-12-03}}</ref> She chose not to seek re-election in order to run for [[List of governors of Ohio|Governor of Ohio]], later switching to [[Ohio Attorney General]], a race she would ultimately lose.
+
+== Republican primary ==
+
+=== Candidates ===
+*[[Mary Taylor (Ohio politician)|Mary Taylor]], [[Ohio House of Representatives|Ohio House Representative]] from the 43rd district (2003–2006)
+
+=== Campaign ===
+The Republican primary was held on May 2, 2006. Mary Taylor won the Republican nomination unopposed.
+
+=== Results ===
+{{Election box begin no change
+| title = Republican primary results<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/2006-elections-results/republican-auditor-of-state-may-2-2006/ |title=Republican Auditor of State: May 2, 2006 - Ohio Secretary of State |website=Ohio Secretary of State |archive-url=https://web.archive.org/web/20210802063810/https://www.ohiosos.gov/elections/election-results-and-data/2006-elections-results/republican-auditor-of-state-may-2-2006/ |archive-date=2021-08-02}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Mary Taylor
+| party = Republican Party (United States)
+| votes = 585,679
+| percentage = 100
+}}
+{{Election box total no change
+| votes = 585,679
+| percentage= 100
+}}
+{{Election box end}}
+
+
+== Democratic primary ==
+
+=== Candidates ===
+*[[Barbara Sykes (politician)|Barbara Sykes]], [[Ohio House of Representatives|Ohio House Representative]] from the 44th district (2001–2006)
+
+=== Campaign ===
+The Democratic primary was held on May 2, 2006. Sykes was initially challenged for the Democratic nomination by [[Mahoning County, Ohio|Mahoning County]] Treasurer John Reardon, but he withdrew from the race prior to the primary election.<ref>{{cite web |url=https://vindyarchives.com/news/2012/may/17/complaint-reardon-got-k-for-bogus-debt/ |last=Skolnick |first=David |title=Complaint: Reardon got $115K for bogus debt <nowiki>|</nowiki> Vindy Archives|date=17 May 2012 |website=The Vindicator|access-date=8 October 2025}}</ref>
+
+=== Results ===
+{{Election box begin no change
+| title = Democratic primary results<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/2006-elections-results/Democratic-auditor-of-state-may-2-2006/ |title=Democratic Auditor of State: May 2, 2006 - Ohio Secretary of State |website=Ohio Secretary of State |archive-url=https://web.archive.org/web/20210802064144/https://www.ohiosos.gov/elections/election-results-and-data/2006-elections-results/Democratic-auditor-of-state-may-2-2006/ |archive-date=2021-08-02}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Barbara Sykes
+| party = Democratic Party (United States)
+| votes = 614,308
+| percentage = 100
+}}
+{{Election box total no change
+| votes = 614,308
+| percentage= 100
+}}
+{{Election box end}}
+
+== General election ==
+=== Candidates ===
+*[[Mary Taylor (Ohio politician)|Mary Taylor]], [[Ohio House of Representatives|Ohio House Representative]] from the 43rd district (2003–2006) (Republican)
+*[[Barbara Sykes (politician)|Barbara Sykes]], [[Ohio House of Representatives|Ohio House Representative]] from the 44th district (2001–2006) (Democratic)
+=== Campaign ===
+The campaign was filled with [[Negative campaigning|mudslinging]] and controversy. Sykes filed a lawsuit against Taylor for conspiracy to incite racism after her campaign polled voters on whether Sykes's presidency of the Ohio Legislative Black Caucus would affect their vote. Taylor was additionally attacked for allegedly supporting a building project at the [[University of Akron]] that would have rewarded her husband with $331,000 as construction manager.<ref>{{cite web |url=https://kentstater.com/72225/uncategorized/lawsuit-and-accusations-spice-up-ohio-auditor-race/ |last=Ulrich |first=Nate |title=Lawsuit and accusations spice up Ohio auditor race - KentStater|date=31 October 2006 |website=The KentStater |access-date=8 October 2025}}</ref>
+
+=== Results ===
+The race was extremely close, but in the end, Taylor defeated Sykes by a razor-thin margin of 1.28 percentage points. She did this despite a national Democratic wave in 2006, with Democrats sweeping most of Ohio's top offices. Thus, with her victory, she became the only non-judicial statewide elected Republican official in Ohio.
+{{Election box begin | title=2006 Ohio State Auditor election<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/2006-elections-results/auditor-of-state-november-7-2006/ |title=Auditor of State: November 7, 2006 - Ohio Secretary of State |date= |website=Ohio Secretary of State |access-date=October 8, 2025 |archive-date=2021-09-25 |archive-url=https://web.archive.org/web/20210925031215/https://www.ohiosos.gov/elections/election-results-and-data/2006-elections-results/auditor-of-state-november-7-2006/ |url-status=live}}</ref>
+}}
+{{Election box winning candidate with party link|
+ |party = Republican Party (United States)
+ |candidate = [[Mary Taylor (Ohio politician)|Mary Taylor]]
+ |votes = 1,940,665
+ |percentage = 50.64%
+ |change = -13.68
+}}
+{{Election box candidate with party link|
+ |party = Democratic Party (United States)
+ |candidate = [[Barbara Sykes (politician)|Barbara Sykes]]
+ |votes = 1,891,874
+ |percentage = 49.36%
+ |change = +13.68
+}}
+{{Election box majority|
+ |votes = '''48,791'''
+ |percentage = '''1.28%'''
+ |change = -27.36%
+}}
+{{Election box turnout|
+ |votes = '''3,832,539'''
+ |percentage =
+ |change =
+}}
+{{Election box hold with party link|
+  |winner     = Republican Party (United States)
+  |loser      = Democratic Party (United States)
+  |swing      =
+}}
+{{Election box end}}
+
+
+== References ==
+{{reflist}}
+
+== External links ==
+'''Official campaign websites (archived)'''
+*[https://web.archive.org/web/20061024113002/http://citizensformarytaylor.com/ Mary Taylor (R) for Ohio State Auditor]
+*[https://web.archive.org/web/20061026005112/http://sykesforauditor.com/ Barbara Sykes (D) for Ohio State Auditor]
+*[https://web.archive.org/web/20060209082100/http://www.reardonforauditor.com:80/ John Reardon (D) for Ohio State Auditor]
+
+{{2006 United States elections}}
+
+[[Category:2006 elections in Ohio|State Auditor]]
+[[Category:2006 United States state auditor elections]]

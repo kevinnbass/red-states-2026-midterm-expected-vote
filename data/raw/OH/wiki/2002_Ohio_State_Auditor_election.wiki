@@ -1,0 +1,122 @@
+{{Short description|none}}
+{{infobox election
+| election_name      = 2002 Ohio State Auditor election
+| country            = Ohio
+| type               = presidential
+| ongoing            = no
+| turnout            =
+| previous_election  = 1998 Ohio State Auditor election
+| previous_year      = 1998
+| next_election      = 2006 Ohio State Auditor election
+| next_year          = 2006
+| election_date      = November 5, 2002
+| image1             = File:Betty Montgomery.jpg
+| image_size = 150x150px
+| nominee1           = '''[[Betty Montgomery]]'''
+| party1             = Republican Party (United States)
+| popular_vote1      = '''2,010,022'''
+| percentage1        = '''64.32%'''
+| image2             = File:3x4.svg
+| nominee2           = Helen Knipe Smith
+| party2             = Democratic Party (United States)
+| popular_vote2      = 1,114,957
+| percentage2        = 35.68%
+| map_image          = 2002 Ohio State Auditor election results map by county.svg
+| map_size           = 210px
+| map_caption = County results<br />'''Montgomery:''' {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#d72f30|70–80%}}<br />'''Smith:''' {{legend0|#7996e2|50–60%}}
+| title              = [[Ohio State Auditor|State Auditor]]
+| before_election    = [[Jim Petro]]
+| before_party       = Republican Party (United States)
+| after_election     = [[Betty Montgomery]]
+| after_party        = Republican Party (United States)
+|}}
+{{ElectionsOH}}
+The '''2002 Ohio State Auditor election''' was held on November 5, 2002. Republican incumbent [[Jim Petro]] was term-limited and could not run for a third consecutive term. Republican[[Ohio Attorney General|Attorney General]] [[Betty Montgomery]] won the election in a landslide, defeating Democratic former [[Cleveland City Council]] member Helen Knipe Smith with 64.32% of the vote.
+
+== Republican primary ==
+The Republican primary was held on May 7, 2002. Montgomery won the Republican nomination unopposed.
+=== Candidates ===
+*[[Betty Montgomery]], [[Ohio Attorney General]] (1995–2003)
+=== Results ===
+{{Election box begin no change
+|title      = Republican primary results<ref>{{Cite web |title=Republican Statewide Offices: Governor, Attorney General, Auditor of State and Secretary of State |url=https://www.ohiosos.gov/elections/election-results-and-data/2002-elections-results/republican-statewide-offices-governor-attorney-general-auditor-of-state-and-secretary-of-state/ |access-date=October 22, 2025 |website=Ohio Secretary of State}}</ref>
+}}
+{{Election box winning candidate with party link no change
+|party = Ohio Republican Party
+|candidate = [[Betty Montgomery]]
+|votes = 536,873
+|percentage = 100.00%
+}}
+{{Election box total no change
+|votes = 536,873
+|percentage = 100.00%
+}}{{Election box end}}
+
+== Democratic primary ==
+The Democratic primary was held on May 7, 2002. Smith won the Democratic nomination without opposition.
+=== Candidates ===
+*Helen Knipe Smith, former [[Cleveland City Council]] Member
+=== Results ===
+{{Election box begin no change
+|title      = Democratic primary results<ref>{{Cite web |title=Democratic Statewide Offices: Governor, Attorney General, Auditor of State and Secretary of State |url=https://www.ohiosos.gov/elections/election-results-and-data/2002-elections-results/democratic-statewide-offices-governor-attorney-general-auditor-of-state-and-secretary-of-state/ |access-date=October 22, 2025 |website=Ohio Secretary of State}}</ref>
+}}
+{{Election box winning candidate with party link no change
+|party = Ohio Democratic Party
+|candidate = Helen Knipe Smith
+|votes = 403,934
+|percentage = 100.00%
+}}
+{{Election box total no change
+|votes = 403,934
+|percentage = 100.00%
+}}{{Election box end}}
+
+== General election ==
+===Endorsements===
+{{Endorsements box
+|title=Betty Montgomery
+|list=
+;Newspapers
+*''[[The Vindicator (Ohio newspaper)|The Vindicator]]''<ref>{{cite web |title=Montgomery for auditor |url=https://vindyarchives.com/news/2002/oct/17/montgomery-for-auditor/?print |website=Vindicator Archives |access-date=22 October 2025}}</ref>
+}}
+
+=== Results ===
+{{Election box begin | title=2002 State Treasurer election results<ref>{{Cite web |title=Secretary of State/Treasurer of State - Ohio Secretary of State|url=https://www.ohiosos.gov/elections/election-results-and-data/2002-elections-results/secretary-of-statetreasurer-of-state/ |access-date=October 22, 2025 |website=Ohio Secretary of State}}</ref>
+}}
+{{Election box winning candidate with party link|
+|party = Ohio Republican Party
+|candidate = [[Betty Montgomery]]
+|votes = 2,010,022
+|percentage = 64.32%
+|change = +1.93%
+}}
+{{Election box candidate with party link|
+|party = Ohio Democratic Party
+|candidate = Helen Knipe Smith
+|votes = 1,114,957
+|percentage = 35.68%
+|change = -1.93%
+}}
+{{Election box total no change
+|votes = 3,124,979
+|percentage = 100.00%
+}}
+{{Election box hold with party link|
+  |winner     = Republican Party (United States)
+  |loser      = Democratic Party (United States)
+  |swing      =
+}}
+{{Election box end}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+'''Official campaign websites (archived)'''
+*[https://web.archive.org/web/20021025234626/http://bettymontgomery.com/ Betty Montgomery (R) for Ohio State Auditor]
+*[https://web.archive.org/web/20021031121745/http://smith4auditor.org/ Helen Knipe Smith (D) for Ohio State Auditor]
+
+{{2006 United States elections}}
+
+[[Category:2002 elections in Ohio|State Auditor]]
+[[Category:2002 United States state auditor elections]]

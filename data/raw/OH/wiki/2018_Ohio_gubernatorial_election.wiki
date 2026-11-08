@@ -1,0 +1,2748 @@
+{{Short description|none}}
+{{see also|2018 United States gubernatorial elections}}
+{{Use American English|date=January 2025}}
+<!-- "none" is preferred when the title is already sufficiently detailed; see [[WP:SDNONE]] -->
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 2018 Ohio gubernatorial election<ref name = 2018Results/>
+| country = Ohio
+| type = presidential
+| ongoing = no
+| turnout = 55.79% (registered voters) {{increase}}15.14pp
+| previous_election = 2014 Ohio gubernatorial election
+| previous_year = 2014
+| next_election = 2022 Ohio gubernatorial election
+| next_year = 2022
+| election_date = November 6, 2018
+| image_upright = 0.5
+| image_size = 150x150px
+| image1 = File:RMD-Official-Headshot (cropped).jpg
+| nominee1 = '''[[Mike DeWine]]'''
+| party1 = Republican Party (United States)
+| running_mate1 = '''[[Jon Husted]]'''
+| popular_vote1 = '''2,235,825'''
+| percentage1 = '''50.40%'''
+| image2 = File:Richard Cordray official portrait (cropped 2).jpg
+| nominee2 = [[Richard Cordray]]
+| party2 = Democratic Party (United States)
+| running_mate2 = [[Betty Sutton]]
+| popular_vote2 = 2,070,046
+| percentage2 = 46.67%
+| map_image = {{switcher
+|[[File:2018 Ohio gubernatorial election results map by county.svg|210px]]
+|County results
+|[[File:2018 Ohio gubernatorial election results map by congressional district.svg|210px]]
+|Congressional district results
+|[[File:OH Governor 2018.svg|210px]]
+|Precinct results
+|default=1
+}}
+| map_size = 210px
+| map_caption = '''DeWine:''' {{legend0|#FFC8CD|30–40%}} {{legend0|#FFB2B2|40–50%}} {{legend0|#E27F7F|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#D72F30|70–80%}} {{legend0|#C21B18|80–90%}} {{legend0|#A80000|>90%}} <br />'''Cordray:''' {{legend0|#A5B0FF|40–50%}} {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584cde|70–80%}} {{legend0|#3933e5|80–90%}} {{legend0|#0D0596|>90%}}<br />'''Tie:''' {{legend0|#d2b1d9|40–50%}} {{legend0|#808080|No votes}}
+| title = [[Governor of Ohio|Governor]]
+| before_election = [[John Kasich]]
+| before_party = Republican Party (United States)
+| after_election = [[Mike DeWine]]
+| after_party = Republican Party (United States)
+}}
+{{ElectionsOH}}
+The '''2018 Ohio gubernatorial election''' took place on November 6, 2018, to elect the next [[governor of Ohio]], concurrently with the [[2018 United States Senate election in Ohio|election]] of [[Ohio]]'s [[Classes of United States senators|Class I U.S. Senate seat]], as well as [[2018 United States Senate elections|other elections]] to the United States Senate in other states, [[2018 United States House of Representatives elections|elections]] to the [[United States House of Representatives]], and various [[2018 United States elections#State elections|Ohio]] and [[2018 United States elections#Local elections|local elections]]. Incumbent [[Republican Party (United States)|Republican]] Governor [[John Kasich]] was term-limited and could not seek a third consecutive term.
+
+Republicans nominated [[Ohio Attorney General]] and former U.S. senator [[Mike DeWine]], while [[Democratic Party (United States)|Democrats]] nominated former [[Consumer Financial Protection Bureau]] director and former Ohio attorney general [[Richard Cordray]]. This was the second contest between DeWine and Cordray, following the [[2010 Ohio Attorney General election|2010 attorney general election]], which DeWine won, 47.5% to 46.3%.
+
+In 2018, DeWine defeated Cordray 50.4% to 46.7%, in what was considered a minor upset. Despite Cordray's loss, he became the first Democratic gubernatorial candidate to win [[Cincinnati]]'s [[Hamilton County, Ohio|Hamilton County]] since [[Dick Celeste]] in [[1982 Ohio gubernatorial election|1982]]. Likewise, DeWine became the first Republican to win in the historically Democratic [[Monroe County, Ohio|Monroe County]] in a gubernatorial election since [[2002 Ohio gubernatorial election|2002]] as the county took a sharp turn to the right. With Democratic Senator [[Sherrod Brown]] winning re-election in the [[2018 United States Senate election in Ohio|same year]], this was the first election since [[1974 Ohio gubernatorial election|1974]] in which Ohio simultaneously voted for a gubernatorial nominee and a U.S. Senate nominee of opposite parties.
+
+DeWine and Husted took office on January 14, 2019.
+
+==Republican primary==
+===Candidates===
+====Nominated====
+* [[Mike DeWine]], [[Ohio attorney general]], former [[U.S. senator]], former [[lieutenant governor of Ohio]], and  former [[U.S. representative]]<ref>{{cite web|url=http://www.daytondailynews.com/news/news/breaking-news/dewine-confirms-run-for-governor-in-2018/nrTbf/|title=DeWine confirms run for governor in 2018|work=[[Dayton Daily News]]|last=Garbe|first=Will|date=May 26, 2016|access-date=May 26, 2016}}</ref><ref>{{cite web|url=http://www.cleveland.com/politics/index.ssf/2017/06/mike_dewine_enters_gop_race_fo.html|title=Mike DeWine enters GOP race for Ohio governor|work=[[The Plain Dealer]]|last=Pelzer|first=Jeremy|date=June 25, 2017|access-date=June 28, 2017}}</ref>
+** Running mate: [[Jon Husted]], [[Ohio secretary of state]] and former [[speaker of the Ohio House of Representatives]]<ref name=hustedends>{{cite web|url=http://www.cleveland.com/open/index.ssf/2017/11/jon_husted_ends_campaign_for_o.html|title=Jon Husted officially ends campaign for Ohio governor, becomes Mike DeWine's running mate|work=[[The Plain Dealer]]|last=Pelzer|first=Jeremy|date=November 30, 2017|access-date=December 1, 2017}}</ref>
+
+====Eliminated in primary====
+* [[Mary Taylor (Ohio politician)|Mary Taylor]], [[lieutenant governor of Ohio]]<ref>{{cite web|url=http://www.cleveland.com/politics/index.ssf/2017/02/mary_taylor_for_governor_launc.html|title=Mary Taylor for Governor launches|work=[[The Plain Dealer]]|last=Gomez|first=Henry J.|date=February 23, 2017|access-date=February 25, 2017}}</ref>
+** Running mate: Nathan Estruth, businessman<ref>{{cite web|url=https://www.cincinnati.com/story/news/politics/2018/01/09/ohio-governors-race-mary-taylor-pick-former-p-g-executive-her-running-mate/1013140001/|title=Ohio governor's race: Mary Taylor to pick former P&G executive as her running mate|date=January 9, 2018|website=Cincinnati.com|access-date=January 10, 2018}}</ref>
+
+====Withdrew====
+* [[Jon Husted]], [[Ohio secretary of state]] ''(ran for [[Lieutenant governor of Ohio|lieutenant governor]] with DeWine)''<ref>{{cite web|url=http://www.cleveland.com/open/index.ssf/2017/05/jon_husted_becomes_latest_repu.html|title=Jon Husted becomes latest Republican to enter Ohio governor's race|work=[[The Plain Dealer]]|last=Tobias|first=Andrew J.|date=May 7, 2017|access-date=May 7, 2017}}</ref><ref name=hustedends/>
+* [[Jim Renacci]], U.S. representative from {{ushr|OH|16}} ''([[2018 United States Senate election in Ohio|ran for U.S. Senate]])''<ref>{{Cite news|url=https://thehill.com/homenews/campaign/368416-gop-rep-jim-renacci-announces-ohio-senate-bid/|title=GOP Rep. Jim Renacci announces Ohio Senate bid|last=Seipel|first=Brooke|date=2018-01-11|work=The Hill|access-date=2018-01-11}}</ref>
+** Running mate: Amy Murray, Cincinnati councilwoman
+
+===Endorsements===
+{{Endorsements box
+| title = Mike DeWine
+| list =
+'''Notable individuals'''
+* Zachary Hall, chairman of the Lucas County Teenage Republicans<ref name="gibbonsforohio.com">{{cite web|url=https://www.gibbonsforohio.com/single-post/2017/11/30/ICYMI-Lucas-County-Teenage-Republicans-Endorse-Mike-Gibbons/|title=Gibbons For Ohio – United States Senate|website=Gibbons For Ohio – United States Senate|access-date=21 May 2018|archive-date=8 December 2017|archive-url=https://web.archive.org/web/20171208070716/https://www.gibbonsforohio.com/single-post/2017/11/30/ICYMI-Lucas-County-Teenage-Republicans-Endorse-Mike-Gibbons/|url-status=dead}}</ref>
+* Julie Jakmides, [[Alliance, Ohio|Alliance]] councilwoman<ref name="twitter.com">{{cite web|url=https://twitter.com/DeWineHustedOH/status/974363447197659136|title=Twitter|website=twitter.com|access-date=21 May 2018}}</ref>
+* [[David Johnson (Ohio politician)|David Johnson]], chair of the [[Columbiana County, Ohio|Columbiana County]] Republican Party<ref name=keyohio>{{cite news|url=http://www.cleveland.com/politics/index.ssf/2017/02/key_ohio_republican_activist_c.html|title=Key Ohio Republican activist calls for party to rally around Mike DeWine for governor in 2018|work=[[The Plain Dealer]]|last=Gomez|first=Henry J.|date=February 9, 2017|access-date=May 12, 2017}}</ref>
+* Richard K. Jones, [[Butler County, Ohio|Butler County]] sheriff<ref name="auto1">{{cite news|url=http://www.journal-news.com/news/butler-county-sheriff-endorses-dewine-for-governor/TTQnrh55tPrBdj9zIfg1PL/|title=Butler County sheriff endorses DeWine for governor, and they talked about ... something|last=Pitman|first=Michael|work=[[Toledo Blade]]|date=January 8, 2018|access-date=January 21, 2018}}</ref>
+* Dave Levacy, [[Fairfield County, Ohio|Fairfield County]] commissioner<ref name="twitter.com1">{{cite web|url=https://twitter.com/DeWineHustedOH/status/978280117884645376|title=Twitter|website=twitter.com|access-date=21 May 2018}}</ref>
+* Amy Murray, [[Cincinnati City Council]] member<ref name="auto2">{{cite news|url=http://www.toledoblade.com/Politics/2018/01/16/Former-Renacci-running-mate-endorses-DeWine.html|title=Former Renacci running mate endorses DeWine|work=[[Toledo Blade]]|date=January 16, 2018|access-date=January 21, 2018}}</ref>
+* Gerard Neugebauer, [[Green, Ohio|Green]] mayor<ref name="auto3">{{cite news|url=https://twitter.com/DeWineHustedOH/status/943585270745661443|title=Very pleased to receive the endorsement of Green Mayor Gerard Neugebauer. @JonHusted and I are happy to have such strong support in NE Ohio!|work=Twitter|author=@DeWineHustedOH}}</ref>
+* [[Rick Santorum]], former [[United States Senate|United States senator]] from [[Pennsylvania]] and candidate for [[president of the United States]] in [[2012 United States presidential election|2012]] and [[2016 United States presidential election|2016]]<ref name="auto4">{{cite web|url=http://www.dailycall.com/news/29816/santorum-endorses-ag-dewine-for-governor|title=Daily Call, Piqua OH - www.dailycall.com|website=www.DailyCall.com|access-date=December 4, 2017|date=2017-10-19|archive-date=2017-10-21|archive-url=https://web.archive.org/web/20171021111830/http://www.dailycall.com/news/29816/santorum-endorses-ag-dewine-for-governor|url-status=dead}}</ref>
+
+'''U.S. representatives'''
+* [[Steve Stivers]] (OH-15)<ref name="auto5">{{cite news|url=http://myemail.constantcontact.com/RELEASE--Reps--Stivers-and-Turner-endorse-Mike-DeWine-for-Governor.html?soid=1128216639900&aid=a9LJ9IxujSE|title=Congressman Steve Stivers and Congressman Mike Turner endorse Mike DeWine for Governor|work=DeWine Husted for Ohio|date=February 8, 2018|access-date=February 8, 2018}}</ref>
+* [[Mike Turner]] (OH-10)<ref name="auto5"/>
+
+'''State senators'''
+* [[Kevin Bacon (politician)|Kevin Bacon]]<ref name=ohsendw/>
+* [[Troy Balderson]]<ref name=ohsendw/>
+* [[Bill Beagle]]<ref name=ohsendw/>
+* [[David Burke (politician)|David Burke]]<ref name=ohsendw/>
+* [[Matt Dolan]]<ref name=ohsendw/>
+* [[John Eklund (Ohio politician)|John Eklund]]<ref name=ohsendw/>
+* [[Randy Gardner (politician)|Randy Gardner]] (majority leader)<ref name=ohsendw/>
+* [[Bob Hackett]]<ref name=ohsendw/>
+* [[Frank Hoagland]]<ref name=ohsendw/>
+* [[Jay Hottinger]]<ref name=ohsendw/>
+* [[Stephanie Kunze]]<ref name=ohsendw/>
+* [[Peggy Lehner]]<ref name=ohsendw/>
+* [[Gayle Manning]] (majority whip)<ref name=ohsendw/>
+* [[Rob McColley]]<ref name=ohsendw/>
+* [[Larry Obhof]] ([[List of Presidents of the Ohio Senate|president]])<ref name="auto7">{{cite news|url=http://www.dispatch.com/news/20180112/ohio-senate-president-endorses-dewine-for-governor|title=Ohio Senate president endorses DeWine for governor|work=[[The Columbus Dispatch]]|last=Ludlow|first=Randy|date=January 12, 2018|access-date=January 21, 2018}}</ref>
+* [[Scott Oelslager]]<ref name=ohsendw/>
+* [[Bob Peterson (Ohio politician)|Bob Peterson]] (president pro tempore)<ref name=ohsendw>{{cite news|url=http://www.dispatch.com/news/20180118/three-fourths-of-ohio-senate-republicans-endorse-dewine|title=Three-fourths of Ohio Senate Republicans endorse DeWine|work=[[The Columbus Dispatch]]|last=Ludlow|first=Randy|date=January 18, 2018|access-date=January 21, 2018}}</ref>
+* [[Joe Uecker]]<ref name=ohsendw/>
+
+'''State representatives'''
+* [[Sarah LaTourette]] (assistant majority leader)<ref name=housca/>
+* [[Tom Patton]] (majority whip)<ref name=housca/>
+* [[Bill Reineke]] (assistant majority whip)<ref name=housca/>
+* [[Cliff Rosenberger]] (speaker)<ref name=housca>{{cite web|url=https://twitter.com/DeWineHustedOH/status/966041779811377153|title=Twitter|website=twitter.com|access-date=21 May 2018}}</ref>
+* [[Gary Scherer]]<ref name="cleveland.com1">{{cite web|url=http://www.cleveland.com/open/index.ssf/2018/03/ohio_legislator_un-endorses_ma.html|title=Ohio legislator un-endorses Mary Taylor for governor, citing her criticism of fellow Republicans|access-date=21 May 2018|date=2018-03-09}}</ref>
+* [[Kirk Schuring]] (speaker pro tempore)<ref name=housca/>
+
+'''County parties'''
+* [[Adams County, Ohio|Adams County]] Republican Party<ref name=4more>{{cite web|url=https://twitter.com/DeWineHustedOH/status/968867488585998337|title=Twitter|website=twitter.com|access-date=21 May 2018}}</ref>
+* [[Belmont County, Ohio|Belmont County]] Republican Party<ref name=morgangop>{{cite news|url=http://www.zanesvilletimesrecorder.com/story/news/local/2017/11/21/morgan-county-republicans-endorse-dewine/107905100/|title=Morgan County Republicans endorse DeWine|work=Zanesville Times Recorder|date=November 21, 2017|access-date=December 4, 2017}}</ref>
+* [[Brown County, Ohio|Brown County]] Republican Party<ref name=4more/>
+* [[Clinton County, Ohio|Clinton County]] Republican Party<ref name=4more/>
+* [[Columbiana County, Ohio|Columbiana County]] Republican Party<ref name="auto8">{{cite web|url=https://www.facebook.com/MikeDeWine/photos/a.208785902234.130461.51763052234/10156006754227235/?type=3&theater|title=Mike DeWine|website=www.Facebook.com|access-date=January 4, 2018}}</ref>
+* [[Cuyahoga County, Ohio|Cuyahoga County]] Republican Party<ref name="auto9">{{cite news|url=https://twitter.com/DeWineHustedOH/status/965314511707213824|title=It's official, the @CuyahogaGOP endorses @MikeDeWine and @JonHusted for Governor and Lt. Governor!|work=Twitter|author=@DeWineHustedOH}}</ref>
+* [[Franklin County, Ohio|Franklin County]] Republican Party<ref name="auto10">{{cite news|url=http://stagenc.build.dispatch.com/news/20171206/newcomer-gibbons-upsets-mandel-for-franklin-county-gop-nod|title=Newcomer Gibbons upsets Mandel for Franklin County GOP nod|work=stagenc.build.dispatch.com|last=Woods|first=Jim|date=December 6, 2017|access-date=January 21, 2018|archive-date=January 22, 2018|archive-url=https://web.archive.org/web/20180122072757/http://stagenc.build.dispatch.com/news/20171206/newcomer-gibbons-upsets-mandel-for-franklin-county-gop-nod|url-status=dead}}</ref>
+* [[Fulton County, Ohio|Fulton County]] Republican Party<ref name=4more/>
+* [[Greene County, Ohio|Greene County]] Republican Party<ref name="cleveland.com1"/>
+* [[Highland County, Ohio|Highland County]] Republican Party<ref name="auto11">{{cite news|url=https://twitter.com/MikeDeWine/status/956230321455890434|title=Great to see another county supporting @JonHusted and me for governor. Thanks for your support Highland County!|work=Twitter|author=Mike DeWine}}</ref>
+* [[Holmes County, Ohio|Holmes County]] Republican Party<ref name="auto12">{{cite news|url=https://www.facebook.com/MikeDeWine/posts/10156162795042235|title=Holmes County becomes the latest county party to endorse the DeWine Husted team!|work=Facebook|author=Mike DeWine}}</ref>
+* [[Knox County, Ohio|Knox County]] Republican Party<ref name=4more/>
+* [[Lucas County, Ohio|Lucas County]] Republican Party<ref name="auto13">{{cite news|url=http://www.dispatch.com/news/20171003/lucas-county-gop-endorses-dewine-for-governor|title=Lucas County GOP endorses DeWine for governor|work=[[The Columbus Dispatch]]|last=Ludlow|first=Randy|date=October 3, 2017|access-date=October 8, 2017}}</ref>
+* [[Mahoning County, Ohio|Mahoning County]] Republican Party<ref name=4more/>
+* [[Montgomery County, Ohio|Montgomery County]] Republican Party<ref name=monpre>{{cite news|url=http://myemail.constantcontact.com/RELEASE--Montgomery-and-Preble-County-Republican-Parties-Endorse-DeWine-for-Governor.html?soid=1128216639900&aid=wMYp-YwqsOY|title=Montgomery and Preble County Republican Parties Endorse Mike DeWine for Governor|work=DeWine Husted for Ohio|date=February 7, 2018|access-date=February 8, 2018}}</ref>
+* [[Morgan County, Ohio|Morgan County]] Republican Party<ref name=morgangop/>
+* [[Perry County, Ohio|Perry County]] Republican Party<ref name="auto14">{{cite news|url=https://twitter.com/DeWineHustedOH/status/954380669299363842|title=RELEASE: Perry County Republican Party unanimously endorses DeWine for Governor|work=Twitter|author=@DeWineHustedOH|date=January 19, 2018}}</ref>
+* [[Pike County, Ohio|Pike County]] Republican Party<ref name="auto15">{{cite news|url=https://www.newswatchman.com/news/article_8e894dbe-1470-5b34-9c13-bacbeb4f8542.html|title=Pike County Republican Party endorses Mike DeWine for governor|work=newswatchman.com|date=January 15, 2018|access-date=January 21, 2018}}</ref>
+* [[Preble County, Ohio|Preble County]] Republican Party<ref name=monpre/>
+* [[Scioto County, Ohio|Scioto County]] Republican Party<ref name="auto16">{{cite news|url=https://www.facebook.com/MikeDeWine/posts/10156115937287235|title=Happy to announce that we received the unanimous endorsement of the Scioto County Republican Party!|work=Facebook|author=Mike DeWine|date=January 11, 2018|access-date=January 21, 2018}}</ref>
+* [[Summit County, Ohio|Summit County]] Republican Party<ref name="auto17">{{cite news|url=http://www.cleveland.com/metro/index.ssf/2017/11/summit_county_republican_party.html|title=Summit County Republican Party endorses Mike DeWine for governor|work=[[The Plain Dealer]]|last=Remington|first=Kaylee|date=November 18, 2017|access-date=November 22, 2017}}</ref>
+
+'''State parties'''
+* [[Ohio Republican Party]]<ref name="10tv.com">{{cite web|url=https://www.10tv.com/article/ohio-gop-endorses-mike-dewine-governors-race|title=Ohio GOP endorses Mike DeWine in governor's race|date=9 February 2018|access-date=21 May 2018|archive-date=9 February 2018|archive-url=https://web.archive.org/web/20180209211039/https://www.10tv.com/article/ohio-gop-endorses-mike-dewine-governors-race|url-status=dead}}</ref>
+
+'''Organizations'''
+* Buckeye Firearms Association<ref name=proh>{{cite news|url=http://www.cleveland.com/open/index.ssf/2018/02/republican_governor_candidates.html|title=Republican governor candidates Mike DeWine and Mary Taylor announce dueling endorsements from gun-rights groups|work=[[The Plain Dealer]]|author=Andrew J. Tobias|date=February 7, 2018|access-date=February 7, 2018}}</ref>
+
+'''Newspapers'''
+* ''[[Akron Beacon Journal]]''<ref name="auto20">{{cite news|url=https://www.ohio.com/akron/editorial/editorials/beacon-journal-ohio-com-editorial-board-ready-for-the-governors-office-richard-cordray-and-mike-dewine|title=Beacon Journal/Ohio.com editorial board: Ready for the governor's office, Richard Cordray and Mike Dewine|work=[[Akron Beacon Journal]]|date=April 21, 2018|access-date=April 26, 2018}}</ref>
+* ''[[The Plain Dealer]]''<ref name="auto19">{{cite news|url=http://www.cleveland.com/opinion/index.ssf/2018/04/mike_dewine_in_the_republican.html|title=Mike DeWine in the Republican primary for Ohio governor: endorsement editorial|work=The Plain Dealer|author=Editorial Board|date=April 15, 2018|access-date=April 15, 2018}}</ref>
+}}
+
+{{Endorsements box
+| title = Jim Renacci (withdrawn)
+| list =
+'''Organizations'''
+* Asian American GOP Coalition<ref>{{cite web|url=https://www.renacciforohiofirst.com/icymi-asian-american-gop-coalition-endorses-renacci-governor/|title=Asian American GOP Coalition Endorses Renacci for Governor|date=31 August 2017|access-date=5 September 2017|archive-url=https://web.archive.org/web/20170905185221/https://www.renacciforohiofirst.com/icymi-asian-american-gop-coalition-endorses-renacci-governor/|archive-date=5 September 2017|url-status=dead}}</ref>
+* [[Bikers for Trump]]<ref name=protrump>{{cite news|url=https://www.buzzfeed.com/henrygomez/pro-trump-groups-take-a-stand-in-ohios-crowded-race-for|title=Pro-Trump Groups Take A Stand In Ohio's Crowded Race for Governor|work=[[BuzzFeed]]|last=Gomez|first=Henry J.|date=June 3, 2017|access-date=June 3, 2017}}</ref>
+* Citizens for Trump<ref name=protrump/>
+
+'''Notable individuals'''
+* [[Corey Lewandowski]], former campaign manager of Donald Trump's 2016 presidential campaign<ref>{{cite news|url=https://www.buzzfeed.com/henrygomez/corey-lewandowski-to-raise-money-for-pro-trump-ohio|title=Corey Lewandowski To Raise Money For Pro-Trump Ohio Gubernatorial Candidate|work=[[BuzzFeed]]|last=Gomez|first=Henry J.|date=July 26, 2017|access-date=December 5, 2017}}</ref>
+}}
+
+{{Endorsements box
+| title = Mary Taylor
+| list =
+'''U.S. senators'''
+* [[Ted Cruz]], U.S. senator (R-TX)<ref>{{cite web|url=https://www.facebook.com/MaryTaylorOH/photos/a.10150097450706781.277804.45747601780/10155298018751781/?type=3&theater|title=Mary Taylor|website=www.facebook.com|access-date=21 May 2018}}</ref>
+* [[Steve Daines]], U.S. senator (R-MT)<ref>{{cite web|url=https://twitter.com/MaryTaylorOH/status/970722059184689152|title=Twitter|website=twitter.com|access-date=21 May 2018}}</ref>
+* [[Mike Lee]], U.S. senator (R-UT)<ref>{{cite news |url= https://www.trendsmap.com/twitter/tweet/971170226585853952 |title= Mike Lee : "Lt. Governor Mary Taylor" |access-date= 2018-03-11 |archive-date= 2018-03-11 |archive-url= https://web.archive.org/web/20180311202508/https://www.trendsmap.com/twitter/tweet/971170226585853952 |url-status= dead }}</ref>
+* [[Rand Paul]], U.S. senator (R-KY)<ref>{{cite web|url=https://toledoblade.typepad.com/bladeslices/2018/04/mary-taylor-claims-endorsement-of-rand-paul.html|title=Mary Taylor claims endorsement of Rand Paul|website=Blade Slices|access-date=21 May 2018|archive-url=https://web.archive.org/web/20180502065042/http://toledoblade.typepad.com/bladeslices/2018/04/mary-taylor-claims-endorsement-of-rand-paul.html|archive-date=2 May 2018|url-status=dead}}</ref>
+
+'''Governors'''
+* [[John Kasich]], Ohio governor and [[John Kasich presidential campaign, 2016|2016 presidential candidate]]<ref>{{cite news |url=http://www.daytondailynews.com/news/kasich-says-backs-taylor-for-governor/jh0138YEVdUf01KkK4uVhL |title= Kasich says he backs Taylor for governor in '18 |work=[[Dayton Daily News]] |last=Bischoff |first= Laura |date= February 10, 2017 |access-date= February 25, 2017}}</ref>
+
+'''Lieutenant governors'''
+*[[Billy Nungesser]], [[lieutenant governor of Louisiana]]
+
+'''Statewide officials'''
+*[[Ken Blackwell]], former [[secretary of state of Ohio]]<ref>{{cite web|url=http://www.news-herald.com/article/HR/20180123/NEWS/180129813|title=Ken Blackwell endorses Mary Taylor for Ohio governor|access-date=21 May 2018}}</ref>
+
+'''Notable individuals'''
+* [[Michele Bachmann]], former [[U.S. representative]] from [[Minnesota's 6th Congressional District]]<ref>{{Cite web|url=https://www.delgazette.com/2018/03/10/taylor-i-am-the-true-conservative/|title=Taylor: ‘I am the true conservative’|first=GARY|last=BUDZAK|date=March 10, 2018}}</ref>
+* [[Mike Huckabee]], former [[governor of Arkansas]], former [[lieutenant governor of Arkansas]]<ref>{{cite web|url=http://www.whbc.com/can-mary-taylor-pull-off-the-upset/|title=Can Mary Taylor Pull Off the Upset? – News-Talk 1480 WHBC|date=2 May 2018|access-date=21 May 2018|archive-date=3 May 2018|archive-url=https://web.archive.org/web/20180503113159/http://www.whbc.com/can-mary-taylor-pull-off-the-upset/|url-status=dead}}</ref>
+* [[Seth Morgan (politician)|Seth Morgan]], former [[Ohio State Representative|Ohio state representative]]<ref>{{cite web|url=http://myemail.constantcontact.com/Seth-Morgan-Endorses-Mary-Taylor-for-Governor.html?soid=1101254124962&aid=w6D03QO7yJ8 |title=Seth Morgan Endorses Mary Taylor for Governor |publisher=Myemail.constantcontact.com |date=2018-01-10 |access-date=2018-05-21}}</ref>
+
+'''State senators'''
+* [[Louis Terhar]]<ref>{{cite web |url= https://www.facebook.com/MaryTaylorOH/photos/a.10150097450706781.277804.45747601780/10154643880031781/?type=3&theater |title= Mary Taylor |website= www.facebook.com}}</ref>
+
+'''State representatives'''
+* [[Tom Brinkman]]<ref>{{cite web |url= https://www.facebook.com/MaryTaylorOH/photos/a.10150097450706781.277804.45747601780/10154656237576781/?type=3&theater|title=Mary Taylor|website=www.facebook.com}}</ref>
+* [[Mark Romanchuk]]<ref>{{cite web|url=https://www.facebook.com/MaryTaylorOH/photos/a.10150097450706781.277804.45747601780/10154601766651781/?type=3&theater|title=Mary Taylor|website=www.facebook.com}}</ref>
+* [[Bill Seitz]]<ref>{{cite web|url=https://www.facebook.com/MaryTaylorOH/photos/a.10150097450706781.277804.45747601780/10154630474591781/?type=3&theater|title=Mary Taylor|website=www.facebook.com}}</ref>
+* [[Andy Thompson (Ohio politician)|Andy Thompson]]<ref>{{cite news|url=https://www.newsandsentinel.com/news/local-news/2017/07/thompson-endorses-taylor-for-ohio-gubernatorial-race/ |title=Thompson endorses Taylor for Ohio gubernatorial race |work=[[The Parkersburg News and Sentinel]] |last=Patterson |first=Janelle |date=July 25, 2017|access-date=July 27, 2017}}</ref>
+
+'''County parties'''
+* [[Miami County, Ohio|Miami County]] Republican Party<ref>{{cite web|url=https://www.mydaytondailynews.com/news/taylor-snags-miami-county-gop-endorsement-over-dewine/RhxS4fcYhED6U2J9orqy1I/|title=Taylor snags Miami County GOP endorsement over DeWine|access-date=21 May 2018}}</ref>
+
+'''Party leaders'''
+* Matt Gilmore, chair of [[Mercer County, Ohio|Mercer County]] Republican Party<ref>{{cite web|url=https://www.facebook.com/MaryTaylorOH/photos/a.10150097450706781.277804.45747601780/10154604376171781/?type=3&theater|title=Mary Taylor|website=www.facebook.com}}</ref>
+
+'''Organizations'''
+* [[Family Research Council]]<ref>{{cite web|url=https://www.frcaction.org/get.cfm?i=PR18E02|title=FRC Action PAC|website=www.frcaction.org|access-date=21 May 2018}}</ref>
+* Ohio Tea Party
+* Ohioans for Concealed Carry<ref name=proh/>
+* [[Republican Liberty Caucus]] of Ohio<ref>{{cite web|url=https://www.rlcoh.org/blog/republican-liberty-caucus-of-ohio-rlcoh-recommends-taylor-in-ohio-gubernatorial-primary|title=Ohio Republican Party – Ohio – Republican Liberty Caucus of Ohio|website=Ohio Republican Party – Ohio – Republican Liberty Caucus of Ohio|access-date=21 May 2018|archive-date=3 April 2018|archive-url=https://web.archive.org/web/20180403051357/https://www.rlcoh.org/blog/republican-liberty-caucus-of-ohio-rlcoh-recommends-taylor-in-ohio-gubernatorial-primary|url-status=dead}}</ref>
+* Totally Engaged Americans<ref>{{cite web|url=http://totallyengagedamericans.org|title=Totally Engaged Americans®|website=totallyengagedamericans.org|access-date=21 May 2018}}</ref>
+}}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size
+! Margin<br />of error
+! style="width:75px;"| Mike<br />DeWine
+! style="width:75px;"| Mary<br />Taylor
+! Other
+! Undecided
+|-
+|[[Baldwin Wallace University]]<ref name="Baldwin Wallace University">{{Cite web|url=https://www.cleveland.com/open/2018/05/mike_dewine_richard_cordray_up.html|title=Mike DeWine, Richard Cordray up in new BW poll of governor's race|first=cleveland com|last=Seth A. Richardson|date=May 3, 2018|website=cleveland}}</ref>
+| align=center| April 24 – May 2, 2018
+| align=center| 323
+| align=center| –
+| {{party shading/Republican}} align=center| '''52%'''
+| align=center| 24%
+| align=center| –
+| align=center| 25%
+|-
+|[[Remington Research Group]] (R-Taylor)<ref>{{Cite web|url=https://assets.documentcloud.org/documents/4436707/OH-GOP-Primary-SurveyPR.pdf|title=Remington Research Group (R-Taylor)}}</ref>
+| align=center| April 10, 2018
+| align=center| 1,064
+| align=center| ± 3.1%
+| {{party shading/Republican}} align=center| '''42%'''
+| align=center| 32%
+| align=center| –
+| align=center| 26%
+|-
+|[[Fallon Research]]<ref>{{Cite web|url=https://www.scribd.com/document/376201337/1984-Society-Republican-Poll|title=1984 Society Republican Poll &#124; PDF|website=Scribd}}</ref>
+| align=center| April 4–7, 2018
+| align=center| 502
+| align=center| ± 4.4%
+| {{party shading/Republican}} align=center| '''43%'''
+| align=center| 26%
+| align=center| –
+| align=center| 31%
+|-
+|[[SurveyUSA]]<ref name="SurveyUSA">{{Cite web|url=https://www.surveyusa.com/client/PollReport.aspx?g=b21c66fb-ba89-4b8c-9171-30457f6997d2|title=SurveyUSA Election Poll #23824|website=www.surveyusa.com}}</ref>
+| align=center| March 16–20, 2018
+| align=center| 541
+| align=center| ± 5.8%
+| {{party shading/Republican}} align=center| '''50%'''
+| align=center| 18%
+| align=center| –
+| align=center| 31%
+|-
+| rowspan=2|[[TRZ Communications]] (R-WTPC)<ref>{{Cite web|url=https://portagecountyteaparty.com/news/state/poll-finds-dewine-and-renacci-with-commanding-leads.html|archiveurl=https://web.archive.org/web/20180303111223/http://www.portagecountyteaparty.com/news/state/poll-finds-dewine-and-renacci-with-commanding-leads.html| title=Poll Finds DeWine and Renacci with Commanding Leads &#124; State &#124; News|first=Tom|last=Zawistowski|archivedate=March 3, 2018|website=www.portagecountyteaparty.com}}</ref>
+| rowspan=2 align=center| February 17, 2018
+| rowspan=2 align=center| 1,152
+| rowspan=2 align=center| ± 3.0%
+| {{party shading/Republican}} align=center| '''61%'''
+| align=center| 39%
+| align=center| –
+| align=center| –
+|-
+| {{party shading/Republican}} align=center| '''35%'''
+| align=center| 16%
+| align=center| 15%
+| align=center| 33%
+|-
+|[[Fallon Research]]<ref name="Fallon Research">{{Cite web|url=https://www.cleveland.com/open/2018/01/poll_shows_richard_cordray_nar.html|title=Poll shows Richard Cordray narrowly leading wide-open Democratic race, DeWine up big|first=cleveland com|last=Seth A. Richardson|date=January 25, 2018|website=cleveland}}</ref>
+| align=center| January 16–19, 2018
+| align=center| 286
+| align=center| –
+| {{party shading/Republican}} align=center| '''54%'''
+| align=center| 14%
+| align=center| –
+| align=center| 32%
+|}
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+{| class="wikitable"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size
+! Margin<br />of error
+! style="width:75px;"| Mike<br />DeWine
+! style="width:75px;"| Jon<br />Husted
+! style="width:75px;"| Jim<br />Renacci
+! style="width:75px;"| Mary<br />Taylor
+! Undecided
+|-
+|[[Axis Research]] (R-Taylor)<ref>{{Cite web|url=https://www.nationaljournal.com/s/657214/taylor-poll-finds-her-tied-with-husted-second-behind-dewine/|title=Taylor Poll Finds Her Tied With Husted for Second Behind DeWine|website=National Journal}}</ref>
+| align=center| August 13–15, 2017
+| align=center| 602
+| align=center| ± 4.1%
+| {{party shading/Republican}} align=center| '''36%'''
+| align=center| 20%
+| align=center| 8%
+| align=center| 17%
+| align=center| 19%
+|-
+| rowspan=2|[[The Tarrance Group]] (R)<ref>{{Cite web|url=https://www.cleveland.com/open/2017/07/poll_shows_dewine_still_up_big.html|title=Poll shows Mike DeWine still up big in name ID, favorability|first=cleveland com|last=Seth A. Richardson|date=July 28, 2017|website=cleveland}}</ref>
+| style="text-align:center;" rowspan="2"| July 24–26, 2017
+| style="text-align:center;" rowspan="2"| 800
+| style="text-align:center;" rowspan="2"| ± 3.5%
+| {{party shading/Republican}} align=center| '''42%'''
+| align=center| 18%
+| align=center| 5%
+| align=center| 11%
+| {{party shading/Undecided}} align=center| '''24%'''
+|-
+| {{party shading/Republican}} align=center| '''49%'''
+| align=center| 29%
+| align=center| –
+| align=center| –
+| align=center| 21%
+|-
+|[[Luntz Global]]<ref name="Luntz Global">{{Cite web|url=https://drive.google.com/file/d/0BygPDvU_T-LiY3JTN1g1YlJVRGpYQjM2NHJ3V0NVTVFlaWtn/view|title=OH GOV poll by Luntz Global.pdf}}</ref>
+| align=center| June 12, 2017
+| align=center| 500
+| align=center| ± 4.4%
+| {{party shading/Republican}} align=center| '''27%'''
+| align=center| 13%
+| align=center| 3%
+| align=center| 8%
+| align=center| –
+|-
+|[[Gravis Marketing]]<ref name="Gravis Marketing">{{Cite web|url=https://gravismarketing.com/gravis-marketing-2018-ohio-poll-results/|title=Ohio Poll Results &#124; 2018 Political Polls|date=May 3, 2017}}</ref>
+| align=center| April 27 – May 2, 2017
+| align=center| 686
+| align=center| ± 2.7%
+| {{party shading/Republican}} align=center| '''31%'''
+| align=center| 14%
+| align=center| 6%
+| align=center| 10%
+| {{party shading/Undecided}} align=center| '''40%'''
+|-
+|[[The Tarrance Group]] (R)<ref>{{Cite web|url=https://d3n8a8pro7vhmx.cloudfront.net/americanfreedombuilders/pages/57/attachments/original/1485895157/Poll_Results_OH_Governors_Race.pdf?1485895157|title=The Tarrance Group (R)}}</ref>
+| align=center| January 23–26, 2017
+| align=center| 800
+| align=center| ± 3.5%
+| {{party shading/Republican}} align=center| '''47%'''
+| align=center| 18%
+| align=center| 4%
+| align=center| 10%
+| align=center| 22%
+|}
+{{hidden end}}
+
+===Results===
+[[File:Ohio gubernatorial Republican primary, 2018.svg|thumb|210px|Results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|DeWine}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|Taylor}}
+|{{legend|#FF9A50|50–60%}}
+}}
+]]
+{{Election box begin no change
+| title = Republican primary results<ref name = 2018Results>{{cite web | title = 2018 OFFICIAL ELECTIONS RESULTS | url = https://www.sos.state.oh.us/elections/election-results-and-data/2018-official-elections-results/ | publisher = Ohio Secretary of State | access-date = August 13, 2020 | archive-date = October 18, 2020 | archive-url = https://web.archive.org/web/20201018114303/https://www.sos.state.oh.us/elections/election-results-and-data/2018-official-elections-results/ | url-status = dead }}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate  = {{ubl|[[Mike DeWine]]|[[Jon Husted]]}}
+| party      = Republican Party (United States)
+| votes      = 499,639
+| percentage = 59.84
+}}
+{{Election box candidate with party link no change
+| candidate  = {{ubl|[[Mary Taylor (Ohio politician)|Mary Taylor]]|Nathan Estruth}}
+| party      = Republican Party (United States)
+| votes      = 335,328
+| percentage = 40.16
+}}
+{{Election box total no change
+| votes      = 834,967
+| percentage = 100.0
+}}
+{{Election box end}}
+
+==Democratic primary==
+===Candidates===
+====Nominated====
+* [[Richard Cordray]], former director of the [[Consumer Financial Protection Bureau]], former [[Ohio attorney general]], former [[Ohio state treasurer]], nominee for [[Ohio's 15th congressional district|OH-15]] in [[1992 United States House of Representatives elections#Ohio|1992]], nominee for [[Ohio Attorney General|attorney general]] in [[Ohio Attorney General#Elections|1998]] and [[Ohio Attorney General#Elections|2010]], and candidate for U.S. Senate in [[2000 United States Senate election in Ohio|2000]]<ref>{{cite web|url=http://www.cleveland.com/open/index.ssf/2017/12/richard_cordray_to_enter_gover.html|title=Richard Cordray to enter governor's race Tuesday|work=[[The Plain Dealer]]|last=Richardson|first=Seth A.|date=December 4, 2017|access-date=December 4, 2017}}</ref><ref>{{cite web|url=https://www.cincinnati.com/story/news/politics/2017/12/05/ex-ohio-ag-cfpb-leader-rich-cordray-announces-run-ohio-governor/922430001/|title=Ex-Ohio AG, CFPB leader Richard Cordray announces run for Ohio governor|work=[[The Cincinnati Enquirer]]|last=Balmert|first=Jessie|date=December 5, 2017|access-date=December 8, 2017}}</ref>
+** Running mate: [[Betty Sutton]], former [[U.S. representative]]<ref name="cleveland.com">{{cite web|url=http://www.cleveland.com/open/index.ssf/2018/01/betty_sutton_to_become_richard.html|title=Betty Sutton to become Richard Cordray's running mate in Ohio governor's race, AP reports|website=Cleveland.com|date=January 2018|access-date=January 10, 2018}}</ref>
+
+====Eliminated in primary====
+* Larry Ealy, former male stripper and candidate for governor in [[Ohio gubernatorial election, 2014|2014]]<ref>{{Cite news|url=http://www.daytondailynews.com/news/former-male-stripper-from-dayton-makes-another-run-for-ohio-governor/QjQioc19OdjLNrbdFUgXiI/|title=Former male stripper from Dayton makes another run for Ohio governor|work=daytondailynews|access-date=2018-02-13}}</ref>
+**Running mate: Jeffrey Lynn
+* [[Dennis Kucinich]], former U.S. representative, former mayor of [[Cleveland]], candidate for secretary of state in [[Ohio Secretary of State elections|1982]], and candidate for [[president of the United States]] in [[Dennis Kucinich presidential campaign, 2004|2004]] and [[Dennis Kucinich presidential campaign, 2008|2008]]<ref>{{cite news|url=http://www.daytondailynews.com/news/dennis-kucinich-running-for-ohio-governor-against-other-democrats/8lNjACdgNqcQBzMoEGK13I/|title=Dennis Kucinich is running for Ohio governor against 6 other Democrats|publisher=[[Dayton Daily News]]|author=Laura A. Bischoff|date=January 8, 2018|access-date=January 8, 2018|archive-date=January 12, 2018|archive-url=https://web.archive.org/web/20180112034110/http://www.daytondailynews.com/news/dennis-kucinich-running-for-ohio-governor-against-other-democrats/8lNjACdgNqcQBzMoEGK13I/|url-status=dead}}</ref>
+** Running mate: Tara Samples, [[Akron, Ohio|Akron]] city councilwoman<ref>{{cite web|url=http://www.cleveland.com/open/index.ssf/2018/01/dennis_kucinich_chooses_akron.html|title=Dennis Kucinich chooses Akron city councilwoman as running mate|work=cleveland.com|last=Richardson|first=Seth|date=January 19, 2018}}</ref>
+* [[William O'Neill (Ohio judge)|Bill O'Neill]], justice of the [[Supreme Court of Ohio|Ohio Supreme Court]] and nominee for [[Ohio's 14th congressional district|OH-14]] in [[David Macko|2008]] and [[United States House of Representatives elections in Ohio, 2010#District 14|2010]]<ref>{{Cite news|url=http://www.dispatch.com/news/20171029/democratic-justice-joins-race-for-governor-kasich-will-pick-replacement|title=Democratic justice joins race for governor; Kasich will pick replacement|last=Schladen|first=Marty|work=[[The Columbus Dispatch]]|access-date=October 29, 2017}}</ref>
+** Running mate: Chantelle Lewis, elementary school principal and former [[East Cleveland, Ohio|East Cleveland]] City councilwoman<ref>{{cite web|url=http://www.cleveland.com/open/index.ssf/2018/01/democrat_bill_oneill_chooses_l.html|title=Democrat Bill O'Neill chooses Lorain principal Chantelle Lewis as his running mate|work=cleveland.com|last=Pelzer|first=Jeremy|date=January 9, 2018}}</ref>
+* Paul Ray<ref>{{Cite news|url=https://www.cincinnati.com/story/news/2018/02/07/what-you-see-ballot-year-five-takeaways-filing-day/314690002/|title=Dusty Rhodes has a serious opponent and other takeaways from Ohio election filing day|work=Cincinnati.com|access-date=2018-02-13|language=en}}</ref>
+** Running mate: Jerry Schroeder
+* [[Joe Schiavoni]], state senator and former minority leader of the [[Ohio Senate]]<ref>{{cite web|url=http://www.cleveland.com/politics/index.ssf/2017/03/joe_schiavoni_makes_run_for_go.html|title=Joe Schiavoni makes run for governor official|work=[[The Plain Dealer]]|last=Gomez|first=Henry J.|date=March 1, 2017|access-date=March 2, 2017}}</ref><ref>{{cite web|url=http://www.dispatch.com/news/20170301/joe-schiavoni-running-for-governor-says-hes-in-it-to-win-it|title=Joe Schiavoni running for governor, says he's 'in it to win it'|work=[[The Columbus Dispatch]]|last1=Rowland|first1=Darrel|last2=Ludlow|first2=Randy|date=March 1, 2017|access-date=March 3, 2017}}</ref>
+** Running mate: Stephanie Dodd, State Board of Education member<ref>{{cite web|url=http://www.cleveland.com/open/index.ssf/2018/01/joe_schiavoni_picks_state_boar.html|title=Joe Schiavoni picks state board of education member as running mate|date=January 2018|website=Cleveland.com|access-date=January 4, 2018}}</ref>
+
+====Failed to qualify for ballot====
+* Jon Heavey, physician<ref>{{Cite news|url=http://www.cleveland.com/open/index.ssf/2018/02/jon_heavey_says_he_will_challe.html |title=Jon Heavey says he will challenge decision to keep him off governor's ballot |publisher=Cleveland.com|date=2018-02-22}}</ref>
+* Dave Kiefer, former [[Wayne County, Ohio|Wayne County]] Commissioner and Republican candidate for state representative in 2016<ref>{{cite news|publisher=[[The Vindicator]]|title=One-legged former county commissioner announces run for Ohio governor|url=http://www.vindy.com/news/2017/mar/09/one-legged-former-county-commissioner-announces-ru/|date=March 9, 2017|access-date=March 10, 2017|archive-date=March 9, 2017|archive-url=https://web.archive.org/web/20170309213248/http://www.vindy.com/news/2017/mar/09/one-legged-former-county-commissioner-announces-ru/|url-status=dead}}</ref>
+
+====Withdrew====
+* [[Connie Pillich]], former state representative and nominee for [[Ohio state treasurer]] in [[2014 Ohio elections#Treasurer|2014]] ''(endorsed Cordray)''<ref>{{cite web|url=http://www.cleveland.com/politics/index.ssf/2017/03/connie_pillich_enters_race_for.html|title=Former lawmaker Connie Pillich enters race for Ohio governor|work=[[The Plain Dealer]]|last=Pelzer|first=Jeremy|date=March 13, 2017|access-date=April 14, 2017}}</ref><ref>{{Cite news|url=http://abc6onyourside.com/news/local/democrat-connie-pillich-announces-shes-running-for-governor|title=Democrat Connie Pillich announces she's running for governor|last=White|first=Chris|work=[[WSYX]]|date=March 13, 2017|access-date=March 13, 2017}}</ref><ref name="PillichOut">{{cite web |url=https://www.cincinnati.com/story/news/2018/02/13/connie-pillich-ends-gubernatorial-bid-and-endorses-cordray-sole-female-democrat-race-wanted-break-ol/333509002/ |title=Connie Pillich to end gubernatorial bid; endorse Cordray. Was the lone female Democrat in the race |last=Balmert |first=Jessie |date=February 13, 2018 |website=Cincinnati.com |access-date=February 13, 2018}}</ref>
+** Running mate: Scott Schertzer, mayor of [[Marion, Ohio]]
+* [[Betty Sutton]], former U.S. representative ''(ran for lieutenant governor)''<ref name="cleveland.com"/>
+* [[Nan Whaley]], mayor of [[Dayton, Ohio|Dayton]] ''(endorsed Cordray)''<ref>{{Cite news|url=http://www.cleveland.com/open/index.ssf/2018/01/nan_whaley_to_drop_out_of_ohio.html|title=Nan Whaley to drop out of Ohio governor's race Friday|work=cleveland.com|access-date=2018-01-12|language=en-US}}</ref>
+
+===Endorsements===
+{{Endorsements box
+| title = Richard Cordray
+| list =
+'''U.S. senators'''
+* [[Elizabeth Warren]], Massachusetts<ref name="auto22">{{cite news|url=http://www.dispatch.com/news/20171206/sen-elizabeth-warren-valerie-jarrett-endorse-cordray-for-governor|title=Sen. Elizabeth Warren, Valerie Jarrett endorse Cordray for governor|work=[[The Columbus Dispatch]]|last=Schladen|first=Marty|date=December 6, 2017|access-date=December 6, 2017}}</ref><ref name=warren>{{cite news|url=http://www.cleveland.com/open/index.ssf/2017/12/national_figures_--_including.html|title=Richard Cordray is getting a boost from Elizabeth Warren, other national figures|work=[[The Plain Dealer]]|last=Richardson|first=Seth A.|date=December 6, 2017|access-date=December 8, 2017}}</ref>
+
+'''U.S. representatives'''
+* [[Steve Driehaus]], former U.S. representative from Ohio<ref name="auto23">{{cite tweet|user=RichCordray|author=Rich Cordray|number=938442558388277254|date=6 December 2017|title=High-energy event just now. Sparkling young officeholders from @HamiltonCntyOH @PGSittenfeld and @AftabPureval, bot…|access-date=January 4, 2018}}</ref>
+* [[Marcia Fudge]], U.S representative from Ohio<ref name="auto24">{{cite news|url=http://www.cleveland.com/open/index.ssf/2018/01/marcia_fudge_backs_richard_cor.html|title=Marcia Fudge backs Richard Cordray for governor|work=[[The Plain Dealer]]|last=Richardson|first=Seth A.|date=January 22, 2018|access-date=March 26, 2018}}</ref>
+* [[Marcy Kaptur]], U.S. representative from Ohio<ref name="auto25">{{cite news|url=http://www.cleveland.com/open/index.ssf/2018/03/marcy_kaptur_endorses_richard.html|title=Marcy Kaptur endorses Richard Cordray for governor|work=[[The Plain Dealer]]|last=Richardson|first=Seth A.|date=March 12, 2018|access-date=March 26, 2018}}</ref>
+
+'''Governors'''
+* [[Ted Strickland]], former governor of Ohio<ref name="auto26">{{cite news|url=http://www.cleveland.com/open/index.ssf/2018/04/former_gov_ted_strickland_lays.html|title=Former Gov. Ted Strickland lays into Dennis Kucinich for $20k speech payment from pro-Syrian government group|work=[[The Plain Dealer]]|date=April 18, 2018|access-date=April 18, 2018}}</ref>
+
+'''State representatives'''
+* [[Peter Lawson Jones]] (former)
+* [[Matt Lundy]] (former)
+* [[Connie Pillich]] (former), nominee for [[Ohio state treasurer]] in 2014, candidate for governor in 2018<ref name="PillichOut"/>
+* [[Stephen Slesnick]] (former)
+* [[Fred Strahorn]], minority leader of the Ohio House of Representatives<ref name=strahorn>{{cite tweet|user=RichCordray|author=Rich Cordray|number=938469439917486081|date=6 December 2017|title=Outstanding event – Old Courthouse in Dayton where Lincoln once spoke. Grateful to @RepFredStrahorn and Willis Blac…|access-date=January 4, 2018}}</ref>
+
+'''Mayors'''
+* Richard Bain, [[Pepper Pike, Ohio|Pepper Pike]]<ref name=frankjacksonendorse>{{cite news|url=https://www.clevescene.com/scene-and-heard/archives/2018/04/24/frank-jackson-armond-budish-endorse-richard-cordray-for-governor|title=Frank Jackson, Armond Budish Endorse Richard Cordray for Governor|work=[[Cleveland Scene]]|last=Allard|first=Sam|date=April 24, 2018|access-date=July 17, 2018}}</ref>
+* Annette Blackwell, [[Maple Heights, Ohio|Maple Heights]]<ref name=frankjacksonendorse/>
+* [[John Cranley]], [[Cincinnati]]<ref name=cranleyendorse>{{Cite news|url=http://www.wfmj.com/story/37384938/ohio-democrat-cordray-gets-cincinnati-mayors-governor-nod|title=Ohio Democrat Cordray gets Cincinnati mayor's governor nod|work=[[WFMJ]]|date=January 30, 2018|access-date=July 12, 2018}}</ref>
+* Tim DeGeeter, [[Parma, Ohio|Parma]]<ref name=frankjacksonendorse/>
+* Dean DePiero, [[Parma, Ohio|Parma]] (former)
+* [[Carty Finkbeiner]], [[Toledo, Ohio|Toledo]] (former)
+* Michael Gammella, [[Brook Park, Ohio|Brook Park]]<ref name=frankjacksonendorse/>
+* [[Andrew Ginther]], [[Columbus, Ohio|Columbus]]<ref name=ginther>{{Cite news|url=http://www.radio.wosu.org/post/cordray-scores-governor-race-endorsement-columbus-mayor-ginther#stream/0|title=Cordray Scores Governor Race Endorsement From Columbus Mayor Ginther|last=Brown|first=Steve|work=[[WOSU-FM]]|date=March 1, 2018|access-date=July 12, 2018|archive-url=https://web.archive.org/web/20180712152647/http://radio.wosu.org/post/cordray-scores-governor-race-endorsement-columbus-mayor-ginther#stream/0|archive-date=July 12, 2018|url-status=dead}}</ref>
+* [[Frank G. Jackson]], [[Cleveland]]<ref name=frankjacksonendorse/>
+* [[Wade Kapszukiewicz]], [[Toledo, Ohio|Toledo]]<ref name=kapszukiewicz>{{Cite news|url=http://www.toledoblade.com/Politics/2018/04/26/Mayor-Kapszukiewicz-endorses-Richard-Cordray-for-governor.html|title=Mayor Kapszukiewicz endorses Richard Cordray for governor|last=Elms|first=Sarah|work=[[The Blade (Toledo, Ohio)|The Blade]]|date=April 26, 2018|access-date=July 17, 2018}}</ref>
+* Chase Ritenauer, [[Lorain, Ohio|Lorain]]<ref name=frankjacksonendorse/>
+* Carol Roe, [[Cleveland Heights, Ohio|Cleveland Heights]]<ref name=frankjacksonendorse/>
+* Don Walters, [[Cuyahoga Falls, Ohio|Cuyahoga Falls]]
+* [[Nan Whaley]], [[Dayton, Ohio|Dayton]]<ref name=whaleyendorse>{{Cite news|url=https://www.cleveland.com/open/index.ssf/2018/01/democrat_nan_whaley_drops_out.html|title=Democrat Nan Whaley drops out of the governor's race, endorses Richard Cordray|last=Richardson|first=Seth A.|work=[[The Plain Dealer]]|date=January 12, 2018|access-date=July 12, 2018}}</ref>
+
+'''City council members'''
+* Kevin Bishop, [[Cleveland]]<ref name=frankjacksonendorse/>
+* Anthony Brancatelli, [[Cleveland]]<ref name=frankjacksonendorse/>
+* [[Phyllis Cleveland]], [[Cleveland]]<ref name=frankjacksonendorse/>
+* Paul Colavecchio, [[Cuyahoga Falls]]
+* Kevin Conwell, [[Cleveland]]<ref name=frankjacksonendorse/>
+* Jeff Fusco, [[Akron]]
+* Anthony Hairston, [[Cleveland]]<ref name=frankjacksonendorse/>
+* Basheer Jones, [[Cleveland]]<ref name=frankjacksonendorse/>
+* Brian Kazy, [[Cleveland]]<ref name=frankjacksonendorse/>
+* Martin Keane, [[Cleveland]]<ref name=frankjacksonendorse/>
+* Kevin Kelley, [[Cleveland]]<ref name=frankjacksonendorse/>
+* Kerry McCormack, [[Cleveland]]<ref name=frankjacksonendorse/>
+* Mary Nichols-Rhodes, [[Cuyahoga Falls]]
+* [[P.G. Sittenfeld]], [[Cincinnati, Ohio|Cincinnati]]<ref name=cincinnatirising/>
+* Margo Somerville, [[Akron]]
+* [[Matt Zone]], [[Cleveland]]<ref name=frankjacksonendorse/>
+
+'''County officials'''
+* Dallas Baldwin, Franklin County sheriff
+* Steve Barry, Summit County sheriff
+* Willis Blackshear, [[Montgomery County, Ohio|Montgomery County]] recorder<ref name=strahorn/>
+* [[Armond Budish]], [[County Executive of Cuyahoga County, Ohio|county executive of Cuyahoga County, Ohio]]; former [[List of Speakers of the Ohio House of Representatives|speaker of the Ohio House of Representatives]]<ref name=frankjacksonendorse/>
+* John Donofrio, Summit County treasurer (former)
+* John Ferraro, Stark County prosecutor
+* Ted Kalo, Lorain County commissioner
+* Lori Kokoski, Lorain County commissioner
+* Sandra Kurt, Summit County clerk
+* Judy Nedwick, Lorain County recorder
+* Tom Orlando, Lorain County clerk
+* Aftab Pureval, [[Hamilton County, Ohio|Hamilton County]] clerk<ref name=cincinnatirising>{{cite news|url=https://www.bizjournals.com/cincinnati/news/2017/12/06/two-of-cincinnati-s-rising-democratic-stars-back.html|title=Two of Cincinnati's rising Democratic stars back Cordray in governor's race|work=[[Cincinnati Business Courier]]|last=Wetterich|first=Chris|date=December 6, 2017|access-date=December 8, 2017}}</ref>
+* Sherri Bevan Walsh, Summit County prosecuting attorney
+* Dennis Will, Lorain County prosecutor
+
+'''Labor unions'''
+* [[AFL–CIO]]<ref name="auto27">{{cite news|url=http://www.toledoblade.com/Politics/2018/03/06/Cordray-wins-backing-of-big-labor.html|title=Cordray wins backing of big labor|work=[[The Blade (Toledo, Ohio)|The Blade]]|last=Provance|first=Jim|date=March 6, 2018|access-date=March 26, 2018}}</ref>
+* OFT – [[Ohio Federation of Teachers]]
+* Ohio State Association of Plumbers and Pipefitters
+* SEIU – [[Service Employees International Union]]<ref name=SEIU>{{cite news|url=http://www.seiu1199.org/ohios-working-families-need-richard-corday-as-governor/|title=Ohio's Working Families Need Richard Cordray As Governor|work=SEIU District 1199|last=Caldwell|first=Anthony|date=April 23, 2018|access-date=July 17, 2018|archive-url=https://web.archive.org/web/20180717124902/http://www.seiu1199.org/ohios-working-families-need-richard-corday-as-governor/|archive-date=July 17, 2018|url-status=dead}}</ref>
+
+'''Organizations'''
+* [[Franklin County Democratic Party]]<ref name=FCDP>{{Cite news|url=https://www.dispatch.com/news/20180329/franklin-county-democrats-endorse-cordray-for-governor%3ftemplate=ampart|title=Franklin County Democrats endorse Cordray for governor|work=[[The Columbus Dispatch]]|last=Schladen|first=Marty|date=March 29, 2018|access-date=August 23, 2019|archive-date=April 6, 2018|archive-url=https://web.archive.org/web/20180406083729/http://www.dispatch.com/news/20180329/franklin-county-democrats-endorse-cordray-for-governor?template=ampart|url-status=dead}}</ref>
+* Lorain County Democratic Party
+* [[NARAL Pro-Choice America|NARAL Pro-Choice Ohio]]<ref name=NARAL>{{Cite news|url=https://prochoiceohio.org/2018-endorsements/|title=2018 Endorsements|work=NARAL Pro-Choice Ohio|access-date=July 17, 2018|archive-date=July 17, 2018|archive-url=https://web.archive.org/web/20180717125212/https://prochoiceohio.org/2018-endorsements/|url-status=dead}}</ref>
+* [[Ohio Legislative Black Caucus]]<ref name=blackcaucus>{{cite news|url=http://www.dispatch.com/news/20180419/cordray-gets-legislative-black-caucus-endorsement|title=Cordray gets Legislative Black Caucus endorsement|work=[[The Columbus Dispatch]]|last=Siegel|first=Jim|date=April 19, 2018|access-date=July 17, 2018}}</ref>
+* Students for Gun Legislation
+
+'''Individuals'''
+* [[Valerie Jarrett]], senior advisor to President [[Barack Obama]]<ref name=warren/>
+* [[Jerry Springer]], talk show host, former [[List of mayors of Cincinnati|mayor]] of [[Cincinnati]], nominee for [[Ohio's 2nd congressional district|OH-02]] in [[United States House of Representatives elections in Ohio, 1970|1970]] and candidate for governor in [[Ohio gubernatorial election, 1982|1982]]<ref name=warren/>
+* [[Mary Ellen Withrow]], former U.S. treasurer
+
+'''Newspapers'''
+* ''[[Akron Beacon Journal]]''<ref name="auto20"/>
+* ''[[Kenyon Collegian]]''<ref name="auto28">{{cite news|url=https://kenyoncollegian.com/opinion/2018/04/neverkucinich-a-time-for-ohio-democrats-to-take-a-stand/|title=#NeverKucinich: A time for Ohio Democrats to take a stand|work=[[Kenyon Collegian]]|date=April 26, 2018|access-date=April 27, 2018}}</ref>
+* ''[[The Vindicator]]''<ref name="auto29">{{cite news|url=http://www.vindy.com/news/2018/apr/29/cordray-is-obvious-choice-in-dem-race-fo/|title=Cordray is obvious choice in Dem race for Governor|work=[[The Vindicator]]|date=April 29, 2018|access-date=April 30, 2018|archive-date=May 1, 2018|archive-url=https://web.archive.org/web/20180501004858/http://www.vindy.com/news/2018/apr/29/cordray-is-obvious-choice-in-dem-race-fo/|url-status=dead}}</ref>
+}}
+{{Endorsements box
+| title = Dennis Kucinich
+| list =
+'''Organizations'''
+* Cuyahoga County Progressive Caucus
+* [[National Nurses United]]<ref>{{cite web|title=Nurses' Union Endorses Dennis Kucinich for Ohio Gov., Welcomes His Health Care Plan for the State|url=https://www.nationalnursesunited.org/press/nurses-union-endorses-dennis-kucinich-ohio-gov-welcomes-his-health-care-plan-state|website=National Nurses United|access-date=April 30, 2018|date=2018-04-30}}</ref>
+* [[Our Revolution]], progressive organization started from [[Bernie Sanders]]' 2016 presidential campaign
+
+'''Governors'''
+* [[Jesse Ventura]], former [[governor of Minnesota]]<ref>{{cite web|url=https://twitter.com/GovJVentura/status/965796677289259009|title=Twitter|website=twitter.com|access-date=21 May 2018}}</ref>
+
+'''U.S. representatives'''
+* [[Tulsi Gabbard]]<ref>{{cite web|url=https://www.youtube.com/watch?v=MxDvdx4gchg|title=Tulsi Gabbard endorses Dennis Kucinich for OH Governor|last=Tulsi Gabbard|date=2 May 2018|access-date=21 May 2018|via=YouTube}}</ref>
+* [[Alan Grayson]] (former)<ref>{{cite web|url=https://www.facebook.com/notes/alan-grayson/the-one-percents-least-favorite-word/1763463997009905/|title=The One Percent's Least-Favorite Word|website=www.facebook.com|access-date=21 May 2018}}</ref>
+
+'''State senators'''
+* [[Nina Turner]] (former)
+
+'''County officials'''
+* [[Todd Portune]], [[Hamilton County, Ohio|Hamilton County]] commissioner<ref>{{cite news|url=https://www.cincinnati.com/story/news/2018/03/26/dennis-kucinich-and-todd-portune-have-something-tell-you-today/457840002/|title=Dennis Kucinich and Todd Portune have something to tell you today|work=[[The Cincinnati Enquirer]]|last=Wartman|first=Scott|date=March 26, 2018|access-date=March 26, 2018}}</ref>
+
+'''City council members'''
+* [[Chris Seelbach (politician)|Chris Seelbach]], [[Cincinnati]]<ref>{{cite web|url=https://www.youtube.com/watch?v=tStm39RY-Mw|title=Chris Seelbach, Cincinnati City Councilman's surprise endorsement of Dennis Kucinich|last=Kucinich Archives|date=27 March 2018|access-date=21 May 2018|via=YouTube}}</ref>
+
+'''Individuals'''
+* [[Jimmy Dore]], comedian and political commentator<ref>{{cite web|url=https://www.youtube.com/watch?v=1AsLv1eyCoc|title=Kucinich Running For Governor! NPR Sh*ts On Him|last=The Jimmy Dore Show|date=20 January 2018|access-date=21 May 2018|via=YouTube}}</ref>
+* [[Josh Fox]], filmmaker and environmental activist<ref>{{cite web|url=https://twitter.com/joshfoxfilm/status/965644380118888449|title=Twitter|website=twitter.com|access-date=21 May 2018}}</ref>
+* [[Danny Glover]], actor, film director and political activist<ref>{{cite web|url=https://kucinich.com/danny-glover-urges-support-for-historic-kucinich-samples-ticket/|title=Danny Glover urges support for historic Kucinich-Samples ticket – Dennis Kucinich for Governor|date=6 May 2018|access-date=21 May 2018}}{{Dead link|date=June 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+* [[Robert F. Kennedy Jr]], environmental attorney, activist, and son of [[Robert F. Kennedy]]<ref>{{cite web|url=http://www.sanduskyregister.com/story/201804260036|title=Sandusky Register|website=www.sanduskyregister.com|access-date=21 May 2018}}</ref>
+* [[Dave Matthews]], musician and actor<ref>{{cite web|url=https://www.clevescene.com/scene-and-heard/archives/2018/04/06/dave-matthews-to-perform-at-kucinich-fundraiser-at-the-agora|title=Dave Matthews to Perform at Kucinich Fundraiser at the Agora|first=Jeff|last=Niesel|access-date=21 May 2018}}</ref>
+* [[Richard Stallman]], [[hacktivist]]<ref>{{cite web|url=https://stallman.org/|archive-url=https://archive.today/20180510113141/https://stallman.org/|url-status=dead|archive-date=2018-05-10|title=Richard Stallman's Personal Page (archived from 10 May 2018)}}</ref>
+
+'''Newspapers'''
+* ''[[The Plain Dealer]]''<ref>{{cite news|url=http://www.cleveland.com/opinion/index.ssf/2018/04/dennis_kucinich_in_the_democra.html|title=Dennis Kucinich in the Democratic primary for Ohio governor: endorsement editorial|work=The Plain Dealer|author=Editorial Board|date=April 15, 2018|access-date=April 15, 2018}}</ref> }}
+
+{{Endorsements box
+| title = Joe Schiavoni
+| list =
+'''Political organizations'''
+* Democratic Progressives of Ohio<ref>{{cite web|url=http://www.vindy.com/news/2018/jan/06/progressive-group-endorses-schiavoni-for/|title=Schiavoni picks up progressive group's endorsement for governor|access-date=2018-02-28|archive-date=2018-02-28|archive-url=https://web.archive.org/web/20180228161713/http://www.vindy.com/news/2018/jan/06/progressive-group-endorses-schiavoni-for/|url-status=dead}}</ref>
+* [[Mahoning County, Ohio|Mahoning County]] Democratic Party<ref>{{cite news|url=http://www.vindy.com/news/2018/feb/28/mahoning-party-strongly-endorses-boardma/|title=Schiavoni gets the Mahoning Democratic endorsement for governor|work=[[The Vindicator]]|last=Skolnick|first=David|date=February 28, 2018|access-date=March 26, 2018|archive-date=March 27, 2018|archive-url=https://web.archive.org/web/20180327084414/http://www.vindy.com/news/2018/feb/28/mahoning-party-strongly-endorses-boardma/|url-status=dead}}</ref>
+* [[Trumbull County, Ohio|Trumbull County]] Democratic Party<ref>{{cite news|url=https://www.facebook.com/JoeSchiavoniOhio/posts/1969481256412955|title=The Trumbull County Democratic Party has voted to endorse my campaign for #Ohio Governor!|work=Facebook|author=Senator Joe Schiavoni}}</ref>
+
+'''Labor unions'''
+* Canton Professional Educators' Association<ref>{{cite web|url=https://www.facebook.com/JoeSchiavoniOhio/photos/a.1140449315982824.1073741827.354384941255936/1752933088067774/?type=3&theater|title=Senator Joe Schiavoni|website=www.facebook.com}}</ref>
+* Pickaway Dems – Citizens in Action<ref>{{cite web|url=https://www.facebook.com/PickawayDCIA/photos/a.641004766090737.1073741833.621523308038883/765237397000806/?type=3&theater|title=Log In or Sign Up to View|website=www.facebook.com|access-date=21 May 2018}}</ref>
+* UWUA – [[Utility Workers Union of America]]<ref>{{cite news|url=http://www.cleveland.com/open/index.ssf/2017/06/national_electrical_workers_un.html|title=National utility workers union endorses Joe Schiavoni for Ohio governor|work=[[The Plain Dealer]]|last=Tobias|first=Andrew|date=June 1, 2017|access-date=July 6, 2017}}</ref>
+* Western Reserve Building & Construction Trades Council<ref name=building>{{cite news|url=http://www.cleveland.com/politics/index.ssf/2017/07/portman_kasich_balk_at_obamaca.html#incart_river_index|title=Whaley scores local union endorsement|work=[[The Plain Dealer]]|last=Pelzer|first=Jeremy|date=July 19, 2017|access-date=July 26, 2017}}</ref>
+
+'''Individuals'''
+* [[Ed O'Neill]], actor<ref>{{cite news|url=https://www.clevescene.com/scene-and-heard/archives/2018/04/09/latest-celebrity-endorsement-in-ohio-governors-race-modern-family-actor-ed-oneill|title=Latest Celebrity Endorsement in Ohio Governor's Race: 'Modern Family' Actor Ed O'Neill|work=[[Cleveland Scene]]|last=Allard|first=Sam|date=April 9, 2018|access-date=April 13, 2018}}</ref>
+}}
+
+{{Endorsements box
+| title = Connie Pillich (withdrawn)
+| list =
+'''Governors'''
+* [[Ed Rendell]], former governor of Pennsylvania and former Democratic National Committee chairman
+
+'''State representatives'''
+* [[Kathleen Chandler]] (former)<ref name=pillichendorse>{{cite web|title=Connie Pillich for Governor – endorsements|url=https://www.facebook.com/ConniePillichforOH/photos/a.531115406946627.1073741831.530348937023274/1576538342404323/?type=3&theater|date=October 24, 2017}}</ref>
+* [[Catherine Ingram]]<ref name=pillichendorse/>
+* [[Brigid Kelly]]<ref name=pillichendorse/>
+
+'''Mayors'''
+* Jim Brown, [[Lockland, Ohio|Lockland]]<ref name=pillichendorse/>
+* Charles Johnson, [[Forest Park, Ohio|Forest Park]]<ref name=pillichendorse/>
+* Dick Mavis, [[Mount Vernon, Ohio|Mount Vernon]]<ref name=pillichendorse/>
+* LaVerne Mitchell, [[Lincoln Heights, Ohio|Lincoln Heights]] (former)<ref name=pillichendorse/>
+* Earl Schmidt, [[Reading, Ohio|Reading]] (former)<ref name=pillichendorse/>
+* John Smith, [[Silverton, Ohio|Silverton]]<ref name=pillichendorse/>
+* James C. Wolf, [[Mount Healthy, Ohio|Mount Healthy]]<ref name=pillichendorse/>
+
+'''Individuals'''
+* [[Denise Driehaus]], [[Hamilton County, Ohio|Hamilton County]] commissioner and former state representative<ref name=pillichendorse/>
+* [[David S. Mann]], vice mayor of [[Cincinnati]], former mayor of Cincinnati, and former U.S. representative<ref name=pillichendorse/>
+* [[Alice Robie Resnick]], former justice of the [[Supreme Court of Ohio]]<ref name=pillichendorse/>
+
+'''Labor unions'''
+* Cincinnati Building Trades<ref>{{cite web|url=https://www.facebook.com/ConniePillichforOH/photos/a.531115406946627.1073741831.530348937023274/1508011539257004/?type=3&theater|title=Connie Pillich|website=www.facebook.com}}</ref>
+* [[UNITE HERE]] Local 24<ref>{{cite news|url=http://www.cleveland.com/politics/index.ssf/2017/03/connie_pillich_picks_up_first.html|title=First union endorsement of Ohio's 2018 gubernatorial race goes to Connie Pillich|work=[[The Plain Dealer]]|last=Pelzer|first=Jeremy|date=March 30, 2017|access-date=March 31, 2017}}</ref>
+
+'''Organizations'''
+* [[EMILY's List]]<ref>{{cite news|url=http://www.dispatch.com/news/20180206/governors-race-connie-pillich-gets-boost-from-emilys-list-pac|title=Governor's race: Connie Pillich gets boost from EMILY's List PAC|first=Julie|last=Carr Smyth|date=February 6, 2018|work=[[The Columbus Dispatch]]}}</ref>
+* [[VoteVets.org]]<ref>{{cite news|url=http://www.votevets.org/press/votevets-pac-endorses-connie-pillich-for-governor|title=VoteVets PAC Endorses Connie Pillich for Governor|work=[[VoteVets.org]]|access-date=August 21, 2017|archive-date=August 21, 2017|archive-url=https://web.archive.org/web/20170821215920/http://www.votevets.org/press/votevets-pac-endorses-connie-pillich-for-governor|url-status=dead}}</ref>
+}}
+
+{{Endorsements box
+| title = Betty Sutton (withdrawn)
+| list =
+'''U.S. representatives'''
+* [[Marcia Fudge]], Ohio<ref>{{cite news|url=http://www.cleveland.com/open/index.ssf/2017/10/marcia_fudge_endorses_betty_su.html |title=Marcia Fudge endorses Betty Sutton in governor's race; backs Issue 2 |publisher=cleveland.com |first=Seth A. |last=Richardson |date=October 19, 2017}}</ref>
+* [[Marcy Kaptur]], Ohio<ref>{{cite news|url=http://www.chroniclet.com/Local-News/2017/09/04/Rep-Kaptur-backs-Betty-Sutton-for-governor.html|title=Rep. Kaptur backs Betty Sutton for governor|work=The Chronicle-Telegram|last=Nix|first=Katie|date=September 4, 2017|access-date=September 4, 2017}}</ref>
+
+'''Labor unions'''
+* Akron Education Association<ref>{{cite web|url=https://www.facebook.com/BettySuttonOH/photos/a.225685650777864.68067.126942470652183/1635318669814548/?type=3&theater|title=Betty Sutton|website=www.facebook.com}}</ref>
+* Cleveland Building & Construction Trades Council<ref name=building/>
+* IAFF – [[International Association of Fire Fighters]] Local 1690<ref>{{cite news|url=https://twitter.com/JerryMiluk/status/840285678353154050|title=Parma Hts Fire IAFF Local 1690 unanimously voted to endorse @BettySutton for {{sic|Gove|nor|nolink=y}} |work=Twitter|last=Miluk|first=Jerry|date=March 10, 2017|access-date=April 1, 2017}}</ref>
+* IBEW – [[International Brotherhood of Electrical Workers]] Local 38<ref>{{Cite web|url=https://www.facebook.com/BettySuttonOH/photos/a.225685650777864.68067.126942470652183/1642563882423360/?type=3&theater|title=Facebook|website=www.facebook.com}}</ref>
+* International Brotherhood of Boilermakers Local Lodge 900<ref>{{cite web|url=https://www.facebook.com/BettySuttonOH/photos/a.225685650777864.68067.126942470652183/1632775416735540/?type=3&theater|title=Betty Sutton|website=www.facebook.com}}</ref>
+* International Longshoremen's Association, AFL-CIO Local 1768<ref>{{cite web|url=https://www.facebook.com/BettySuttonOH/photos/a.225685650777864.68067.126942470652183/1664882630191485/?type=3&theater|title=Betty Sutton|website=www.facebook.com}}</ref>
+* IUPAT – [[International Union of Painters and Allied Trades]] District Council 6<ref>{{cite news|url=http://iupat-dc6.org/betty-sutton-for-ohio-receives-endorsement-of-international-union-of-painters-and-allied-trades-district-council-6/|title=Betty Sutton for Ohio Receives Endorsement of International Union of Painters and Allied Trades District Council 6|work=IUPAT DC-6|last=Senko|first=Cheryl|date=April 27, 2017|access-date=August 21, 2017}}</ref>
+* Laborers Local 860, Cleveland<ref>{{cite web|url=https://www.facebook.com/BettySuttonOH/photos/a.225685650777864.68067.126942470652183/1687728127906935/?type=3&theater|title=Betty Sutton|website=www.facebook.com}}</ref>
+* Lorain Professional Firefighters Local 267<ref>{{cite web|url=https://www.facebook.com/BettySuttonOH/photos/a.225685650777864.68067.126942470652183/1680748985271516/?type=3&theater|title=Betty Sutton|website=www.facebook.com}}</ref>
+* Plumbers & Pipefitters Local Union #219<ref>{{Cite web|url=https://www.facebook.com/BettySuttonOH/photos/a.225685650777864.68067.126942470652183/1643761915636890/?type=3&theater|title=Facebook}}</ref>
+* Teamsters Local 436<ref>[https://www.facebook.com/BettySuttonOH/photos/a.225685650777864.68067.126942470652183/1659454044067677/?type=3&theater ]{{dead link|date=May 2018}}</ref>
+}}
+
+{{Endorsements box
+| title = Nan Whaley (withdrawn)
+| list =
+'''Mayors'''
+* Dick Church, Jr., [[Miamisburg, Ohio|Miamisburg]]<ref name=aroundohio>{{cite news|url=http://nanwhaleyforohio.com/press-releases/local-leaders-from-around-ohio-endorse-nan-whaley-for-governor/|title=Local leaders from around Ohio endorse Nan Whaley for Governor|work=Nan Whaley for Governor|date=August 18, 2017|access-date=August 28, 2017|archive-date=August 21, 2017|archive-url=https://web.archive.org/web/20170821212736/http://nanwhaleyforohio.com/press-releases/local-leaders-from-around-ohio-endorse-nan-whaley-for-governor/|url-status=dead}}</ref>
+* Warren Copeland, [[Springfield, Ohio|Springfield]]<ref name=aroundohio/>
+* [[John Cranley]], [[Cincinnati]]<ref name=cranley>{{cite web|url=http://www.cincinnati.com/story/news/politics-extra/2017/08/17/px-john-cranley-takes-sides-ohio-governors-race/578064001/|title=PX: John Cranley takes sides in Ohio governor's race|work=[[The Cincinnati Enquirer]]|last=Williams|first=Jason|date=August 17, 2017|access-date=August 18, 2017}}</ref>
+* Luke Feeney, [[Chillicothe, Ohio|Chillicothe]]<ref>{{cite news|url=http://www.chillicothegazette.com/story/news/2017/07/18/whaley-ohio-opioid-response-flat-footed/487424001/|title=Whaley: Ohio opioid response 'flat-footed'|work=[[Chillicothe Gazette]]|last=Ison|first=Jona|date=July 18, 2017|access-date=July 21, 2017}}</ref>
+* Ben Kessler, [[Bexley, Ohio|Bexley]]<ref name=aroundohio/>
+* Steven Patterson, [[Athens, Ohio|Athens]]<ref>{{cite news|url=http://nanwhaleyforohio.com/press-releases/athens-mayor-steven-patterson-endorses-nan-whaley-for-governor/|title=Athens Mayor Steven Patterson endorses Nan Whaley for Governor|work=Nan Whaley for Governor|date=August 17, 2017|access-date=August 28, 2017|archive-date=August 28, 2017|archive-url=https://web.archive.org/web/20170828232223/http://nanwhaleyforohio.com/press-releases/athens-mayor-steven-patterson-endorses-nan-whaley-for-governor/|url-status=dead}}</ref>
+* David Seagraves, [[Brookville, Ohio|Brookville]]<ref name=aroundohio/>
+* Cheryl Stephens, [[Cleveland Heights, Ohio|Cleveland Heights]]<ref name=aroundohio/>
+
+'''City council members'''
+* Elizabeth Brown, [[Columbus, Ohio|Columbus]]<ref name=2Columbus>{{cite news|url=http://www.dispatch.com/news/20170817/2-columbus-council-members-endorse-nan-whaley-for-governor|title=2 Columbus council members endorse Nan Whaley for governor|work=[[The Columbus Dispatch]]|last=Rowland|first=Darrel|date=August 17, 2017|access-date=August 18, 2017}}</ref>
+* Jaiza Page, [[Columbus, Ohio|Columbus]]<ref name=2Columbus/>
+* Lindsay Webb, [[Toledo, Ohio|Toledo]]<ref name=garnerslocal>{{cite news|url=http://www.toledoblade.com/news/2017/08/18/Governor-candidate-Nan-Whaley-garners-local-endorsements.html|title=Governor candidate Nan Whaley garners local endorsements|work=[[The Blade (Toledo, Ohio)|The Blade]]|last=Troy|first=Tom|date=August 18, 2017|access-date=August 18, 2017}}</ref>
+
+'''County officials'''
+* Judy Dodge, [[Montgomery County, Ohio|Montgomery County]] commissioner<ref name=aroundohio/>
+* Dan Foley, [[Montgomery County, Ohio|Montgomery County]] commissioner<ref name=aroundohio/>
+* Paul Gruner, [[Montgomery County, Ohio|Montgomery County]] engineer<ref name=aroundohio/>
+* Larry Hartlaub, [[Ottawa County, Ohio|Ottawa County]] auditor<ref name=garnerslocal/>
+* Mat Heck, Jr., [[Montgomery County, Ohio|Montgomery County]] prosecuting attorney<ref name=aroundohio/>
+* Karl Keith, [[Montgomery County, Ohio|Montgomery County]] auditor<ref name=aroundohio/>
+* Debbie Lieberman, [[Montgomery County, Ohio|Montgomery County]] commissioner<ref name=aroundohio/>
+* Carolyn Rice, [[Montgomery County, Ohio|Montgomery County]] treasurer<ref name=aroundohio/>
+* Liz Walters, [[Summit County, Ohio|Summit County]] Council<ref name=aroundohio/>
+
+'''Labor unions'''
+* Dayton Building & Construction Trades Council<ref name=building/>
+* IUE-CWA – International Union of Electronic, Electrical, Salaried, Machine and Furniture Workers<ref>{{cite news|url=http://www.daytondailynews.com/news/state--regional-govt--politics/iue-cwa-union-backs-dayton-mayor-nan-whaley-for-governor/83lWz3mluYTseGAEhYUDtI/|title=IUE-CWA union backs Dayton Mayor Nan Whaley for governor|work=[[Dayton Daily News]]|date=June 15, 2017|access-date=August 18, 2017}}</ref>
+* Ohio State Council of Machinists<ref>{{cite news|url=https://iamoscm.org/2017/10/26/press-release/|title=Ohio State Council of Machinists Endorses Nan Whaley for Governor|work=[[Ohio State Council of Machinists]]|date=October 26, 2017|access-date=October 27, 2017|archive-date=October 27, 2017|archive-url=https://web.archive.org/web/20171027181604/https://iamoscm.org/2017/10/26/press-release/|url-status=dead}}</ref>
+}}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size
+! Margin<br />of error
+! style="width:75px;"| Richard<br />Cordray
+! style="width:75px;"| Dennis<br />Kucinich
+! style="width:75px;"| Bill<br />O'Neill
+! style="width:75px;"| Connie<br />Pillich
+! style="width:75px;"| Joe<br />Schiavoni
+! Other
+! Undecided
+|-
+|[[Baldwin Wallace University]]<ref name="Baldwin Wallace University"/>
+| align=center| April 24 – May 2, 2018
+| align=center| 333
+| align=center| –
+| {{party shading/Democratic}} align=center| '''31%'''
+| align=center| 15%
+| align=center| 6%
+| align=center| –
+| align=center| 6%
+| align=center| –
+| {{party shading/Undecided}} align=center| '''41%'''
+|-
+|[[Fallon Research]]<ref>{{Cite web|url=https://www.scribd.com/document/376200757/1984-Society-Democratic-Poll|title=1984 Society Democratic Poll &#124; PDF|website=Scribd}}</ref>
+| align=center| April 4–7, 2018
+| align=center| 500
+| align=center| ± 4.4%
+| {{party shading/Democratic}} align=center| '''28%'''
+| align=center| 13%
+| align=center| 3%
+| align=center| –
+| align=center| 5%
+| align=center| 1%{{efn-ua|Paul Ray 1%, Larry Ealy 0%}}
+| {{party shading/Undecided}} align=center| '''51%'''
+|-
+|[[SurveyUSA]]<ref name="SurveyUSA"/>
+| align=center| March 16–20, 2018
+| align=center| 509
+| align=center| ± 5.3%
+| align=center| '''21%'''
+| align=center| '''21%'''
+| align=center| 4%
+| align=center| 5%
+| align=center| –
+| align=center| 3%{{efn-ua|Paul Ray 2%, Larry Ealy 1%}}
+| {{party shading/Undecided}} align=center| '''46%'''
+|-
+|[[Fallon Research]]<ref name="Fallon Research"/>
+| align=center| January 16–19, 2018
+| align=center| 248
+| align=center| –
+| {{party shading/Democratic}} align=center| '''23%'''
+| align=center| 16%
+| align=center| 3%
+| align=center| 2%
+| align=center| 4%
+| align=center| –
+| {{party shading/Undecided}} align=center| '''52%'''
+|}
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+{| class="wikitable"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size
+! Margin<br />of error
+! style="width:75px;"| Richard<br />Cordray
+! style="width:75px;"| Connie<br />Pillich
+! style="width:75px;"| Joe<br />Schiavoni
+! style="width:75px;"| Betty<br />Sutton
+! style="width:75px;"| Nan<br />Whaley
+! Undecided
+|-
+|[[Luntz Global]]<ref name="Luntz Global"/>
+| align=center| June 12, 2017
+| align=center| 500
+| align=center| ± 4.4%
+| align=center| 17%
+| align=center| 9%
+| align=center| 20%
+| {{party shading/Democratic}} align=center| '''21%'''
+| align=center| 10%
+| align=center| –
+|-
+|[[Gravis Marketing]]<ref name="Gravis Marketing"/>
+| align=center| April 27 – May 2, 2017
+| align=center| 558
+| align=center| ± 2.7%
+| align=center| –
+| align=center| 8%
+| align=center| 12%
+| {{party shading/Democratic}} align=center| '''13%'''
+| align=center| –
+| {{party shading/Undecided}} align=center| '''67%'''
+|}
+{{hidden end}}
+
+===Results===
+[[File:Ohio gubernatorial Democratic primary, 2018.svg|thumb|210px|Results by county:
+{{collapsible list
+| title = {{legend|#7996E2|Cordray}}
+|{{legend|#A5B0FF|40–50%}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#37c837|Schiavoni}}
+|{{legend|#87de87|40–50%}}
+|{{legend|#37c837|60–70%}}
+}}
+]]
+{{Election box begin no change
+| title = Democratic primary results<ref name = 2018Results/>
+}}
+{{Election box winning candidate with party link no change
+| candidate  = {{ubl|[[Richard Cordray]]|[[Betty Sutton]]}}
+| party      = Democratic Party (United States)
+| votes      = 428,159
+| percentage = 62.16
+}}
+{{Election box candidate with party link no change
+| candidate  = {{ubl|[[Dennis Kucinich]]|Tara Samples}}
+| party      = Democratic Party (United States)
+| votes      = 158,284
+| percentage = 22.98
+}}
+{{Election box candidate with party link no change
+| candidate  = {{ubl|[[Joe Schiavoni]]|Stephanie Dodd}}
+| party      = Democratic Party (United States)
+| votes      = 63,131
+| percentage = 9.17
+}}
+{{Election box candidate with party link no change
+| candidate  = {{ubl| [[William O'Neill (Ohio judge)|Bill O'Neill]] |Chantelle Lewis}}
+| party      = Democratic Party (United States)
+| votes      = 22,667
+| percentage = 3.29
+}}
+{{Election box candidate with party link no change
+| candidate  = {{ubl|Paul Ray|Jerry Schroeder}}
+| party      = Democratic Party (United States)
+| votes      = 9,536
+| percentage = 1.38
+}}
+{{Election box candidate with party link no change
+| candidate  = {{ubl|Larry Ealy|Jeffrey Lynn}}
+| party      = Democratic Party (United States)
+| votes      = 7,011
+| percentage = 1.02
+}}
+{{Election box total no change
+| votes      = 688,788
+| percentage = 100.0
+}}
+{{Election box end}}
+
+==Libertarian primary==
+===Candidates===
+====Nominated====
+* Travis Irvine, filmmaker and writer<ref>{{cite news|url=http://www.dispatch.com/news/20180714/capitol-insider--local-democrats-show-early-voting-interest|title=Local Democrats show early voting interest|work=[[The Columbus Dispatch]]|last=Rowland|first=Darrel|date=July 14, 2018|access-date=August 2, 2018}}</ref>
+** Running mate: Todd Grayson<ref>{{cite web |url=https://irvineforohio.com/meet-travis-and-todd/ |title=Meet Travis and Todd |author=<!--Not stated--> |date=2018 |website=Irvine for Ohio |access-date=August 2, 2018 |archive-date=August 3, 2018 |archive-url=https://web.archive.org/web/20180803044450/https://irvineforohio.com/meet-travis-and-todd/ |url-status=dead }}</ref>
+
+====Withdrew====
+
+* Bruce Jaynes, entrepreneur
+* Stephen Quinn, student
+
+==Green primary==
+[[File:Constance Gadell-Newton Portrait.jpg|thumb|x150px|Gadell-Newton]]
+===Candidates===
+====Nominated====
+* Constance Gadell-Newton, attorney, co-chair of the Ohio Green Party and nominee for the [[Ohio House of Representatives|State House]] in 2016<ref>{{cite news|url=http://www.dispatch.com/news/20170524/columbus-lawyer-trapeze-performer-will-run-for-governor-as-green-party-candidate|title=Columbus lawyer, trapeze performer will run for governor as Green Party candidate|work=[[The Columbus Dispatch]]|last=Ludlow|first=Randy|date=May 24, 2017|access-date=May 29, 2017}}</ref>
+** Running mate: Brett R. Joseph
+{{clear}}
+
+==General election==
+===Candidates===
+* [[Richard Cordray]] ([[Democratic Party (United States)|Democratic]]), former director of the [[Consumer Financial Protection Bureau]], former [[Ohio attorney general]] and former [[Ohio state treasurer]]
+** '''Running mate:''' [[Betty Sutton]], former [[U.S. representative]]<ref name="cleveland.com" />
+* [[Mike DeWine]] ([[Republican Party (United States)|Republican]]), [[Ohio attorney general]] and former U.S. senator
+** '''Running mate:''' [[Jon A. Husted]], [[Ohio Secretary of State|secretary of state of Ohio]] and  former [[speaker of the Ohio House of Representatives]]<ref name="hustedends" />
+* Constance Gadell-Newton ([[Green Party of the United States|Green]]), attorney, co-chair of the Ohio Green Party and nominee for the [[Ohio House of Representatives|State House]] in 2016
+** '''Running mate:''' Brett R. Joseph, attorney, educator and small businessman
+* Travis Irvine ([[Libertarian Party (United States)|Libertarian]])<ref>{{cite web|url=http://statenews.org/post/ohios-libertarian-party-regains-its-minor-party-status|title=Ohio's Libertarian Party Regains Its "Minor Party" Status|last=Ingles|first=Jo|publisher=Statehouse News Bureau|date=July 12, 2018|access-date=July 13, 2018}}</ref>
+** '''Running mate:''' Todd Grayson, former [[Perrysburg, Ohio|Perrysburg]] city councilman
+
+===Endorsements===
+{{Endorsements box
+| title = Richard Cordray (D)
+| list =
+'''Former federal officials'''
+
+* [[Joe Biden]], 47th [[Vice President of the United States|vice president of the United States]]<ref>{{Cite news|url=http://www.dispatch.com/news/20180515/former-vp-joe-biden-endorses-cordray-for-governor|title=Former VP Joe Biden endorses Cordray for governor|last=Ludlow|first=Randy|work=The Columbus Dispatch|access-date=2018-05-15|language=en}}</ref>
+* [[Eric Holder]], 82nd [[United States attorney general]]<ref>{{cite web|url=https://twitter.com/RichCordray/status/1059497536346562560|title=Thank you @EricHolder – you've been a great ally this whole campaign as you seek to cure the cancer that gerrymandering represents in American politics. The current rigged system subverts our democracy.|work=Twitter|author=Richard Cordray}}</ref>
+* [[Valerie Jarrett]], former director of the Office of Public Engagement and Intergovernmental Affairs<ref name=warren/>
+* [[Barack Obama]], 44th [[president of the United States]]<ref>{{cite tweet |author=[[Barack Obama]] |user=BarackObama |number=1024691241093607425 |date=August 1, 2018 |title=Today I’m proud to endorse such a wide and impressive array of Democratic candidates – leaders as diverse, patriotic, and big-hearted as the America they’re running to represent:|access-date=August 1, 2018}}</ref>
+
+'''U.S. senators'''
+* [[Cory Booker]], New Jersey<ref>{{cite web|url=https://twitter.com/RichCordray/status/1051142556107636736|title=Just had a great canvass kickoff event with @BettySutton and my friend @CoryBooker. He reminded all of us that we owe it to each other to fight for our communities and to fight for future generations. And the best way to do that right now is to get out and vote!|work=Twitter|author=Rich Cordray}}</ref>
+* [[Sherrod Brown]], Ohio<ref>{{cite web|url=https://twitter.com/SherrodBrown/status/994014323356946432|title=Congrats to @RichCordray and @BettySutton on becoming the Democratic nominees to be Ohio's next Governor and Lt. Governor! And thank you to all the candidates who raised their voices for working Ohioans—I look forward to working with you to move our state forward. -SB |work=Twitter|author=Sherrod Brown}}</ref>
+* [[Kamala Harris]], California<ref>{{cite web|url=https://twitter.com/RichCordray/status/1003027146661683201|title=Thank you for visiting today, @KamalaHarris! I had a great time with you today talking about the issues that matter most to Ohioans and how we can address them. I appreciate your support and your friendship.|work=Twitter|author=Rich Cordray}}</ref>
+* [[Elizabeth Warren]], Massachusetts<ref name="auto22"/><ref name=warren/>
+
+'''U.S. representatives'''
+* [[Steve Driehaus]], U.S. representative (OH-1) (former)<ref name="auto23"/>
+* [[Marcia Fudge]], U.S representative (OH-11)<ref name="auto24"/>
+* [[Marcy Kaptur]], U.S. representative (OH-9)<ref name="auto25"/>
+* [[Tim Ryan (Ohio politician)|Tim Ryan]], U.S. representative (OH-13)<ref>{{cite web|url=https://twitter.com/TimRyan/status/99859981776393830 |title=The Mahoning Valley is fired up and ready to elect @RichCordray and @BettySutton the next Governor and Lt. Governor of the great state of Ohio. Hardworking families have an ally in them. It's time to end the GOP's one party rule in Columbus. |work=Twitter|author=Tim Ryan}}</ref>
+
+'''Governors'''
+* [[Jay Inslee]], governor of Washington<ref>{{cite web|url=https://twitter.com/JayInslee/status/994274201291767808|title=Congratulations to @RichCordray on your victory. He has spent his life fighting for consumers and middle-class families against powerful special interests. Huge pickup opportunity!|work=Twitter|author=Jay Inslee}}</ref>
+* [[Terry McAuliffe]], former governor of Virginia<ref>{{cite web|url=https://twitter.com/TerryMcAuliffe/status/1004146764985794560|title=There's a lot at stake this election year in Ohio. We need leaders like @RichCordray elected as governor to fight for the people. If the other candidate wins 700k people will lose access to affordable health care. That's why I'm proud to be in Ohio today to support his candidacy.|work=Twitter|author=Terry McAuliffe}}</ref>
+* [[Ted Strickland]], former governor of Ohio<ref name="auto26"/>
+
+'''State representatives'''
+* [[Peter Lawson Jones]] (former)
+* [[Matt Lundy]] (former)
+* [[Connie Pillich]] (former), nominee for [[Ohio state treasurer]] in 2014, candidate for governor in 2018<ref name="PillichOut"/>
+* [[Stephen Slesnick]] (former)
+* [[Fred Strahorn]], minority leader of the Ohio House of Representatives<ref name=strahorn/>
+
+'''Mayors'''
+* Richard Bain, [[Pepper Pike, Ohio|Pepper Pike]]<ref name=frankjacksonendorse/>
+* Annette Blackwell, [[Maple Heights, Ohio|Maple Heights]]<ref name=frankjacksonendorse/>
+* [[John Cranley]], [[Cincinnati]]<ref name=cranleyendorse/>
+* Tim DeGeeter, [[Parma, Ohio|Parma]]<ref name=frankjacksonendorse/>
+* [[Dean DePiero]], [[Parma, Ohio|Parma]] (former)
+* [[Carty Finkbeiner]], [[Toledo, Ohio|Toledo]] (former)
+* Michael Gammella, [[Brook Park, Ohio|Brook Park]]<ref name=frankjacksonendorse/>
+* [[Andrew Ginther]], [[Columbus, Ohio|Columbus]]<ref name=ginther/>
+* [[Frank G. Jackson]], [[Cleveland]]<ref name=frankjacksonendorse/>
+* [[Wade Kapszukiewicz]], [[Toledo, Ohio|Toledo]]<ref name=kapszukiewicz/>
+* Chase Ritenauer, [[Lorain, Ohio|Lorain]]<ref name=frankjacksonendorse/>
+* Carol Roe, [[Cleveland Heights, Ohio|Cleveland Heights]]<ref name=frankjacksonendorse/>
+* Don Walters, [[Cuyahoga Falls, Ohio|Cuyahoga Falls]]
+* [[Nan Whaley]], [[Dayton, Ohio|Dayton]]<ref name=whaleyendorse/>
+
+'''City council members'''
+* Kevin Bishop, [[Cleveland]]<ref name=frankjacksonendorse/>
+* Anthony Brancatelli, [[Cleveland]]<ref name=frankjacksonendorse/>
+* Phyllis Cleveland, [[Cleveland]]<ref name=frankjacksonendorse/>
+* Paul Colavecchio, [[Cuyahoga Falls]]
+* Kevin Conwell, [[Cleveland]]<ref name=frankjacksonendorse/>
+* Jeff Fusco, [[Akron]]
+* Anthony Hairston, [[Cleveland]]<ref name=frankjacksonendorse/>
+* Basheer Jones, [[Cleveland]]<ref name=frankjacksonendorse/>
+* Brian Kazy, [[Cleveland]]<ref name=frankjacksonendorse/>
+* Martin Keane, [[Cleveland]]<ref name=frankjacksonendorse/>
+* Kevin Kelley, [[Cleveland]]<ref name=frankjacksonendorse/>
+* Kerry McCormack, [[Cleveland]]<ref name=frankjacksonendorse/>
+* Mary Nichols-Rhodes, [[Cuyahoga Falls]]
+* [[P.G. Sittenfeld]], [[Cincinnati, Ohio|Cincinnati]]<ref name=cincinnatirising/>
+* Margo Somerville, [[Akron]]
+* [[Matt Zone]], [[Cleveland]]<ref name=frankjacksonendorse/>
+
+'''County officials'''
+* Dallas Baldwin, Franklin County sheriff
+* Steve Barry, Summit County sheriff
+* Willis Blackshear, [[Montgomery County, Ohio|Montgomery County]] recorder<ref name=strahorn/>
+* [[Armond Budish]], [[County Executive of Cuyahoga County, Ohio|county executive of Cuyahoga County, Ohio]]; former [[List of Speakers of the Ohio House of Representatives|speaker of the Ohio House of Representatives]]<ref name=frankjacksonendorse/>
+* John Donofrio, Summit County treasurer (former)
+* John Ferraro, Stark County prosecutor
+* Ted Kalo, Lorain County commissioner
+* Lori Kokoski, Lorain County commissioner
+* Sandra Kurt, Summit County clerk
+* Judy Nedwick, Lorain County recorder
+* Tom Orlando, Lorain County clerk
+* Aftab Pureval, [[Hamilton County, Ohio|Hamilton County]] clerk<ref name=cincinnatirising/>
+* Sherri Bevan Walsh, Summit County prosecuting attorney
+* Dennis Will, Lorain County prosecutor
+
+'''Individuals'''
+* [[Kelley Deal]], musician<ref>{{cite web|url=https://twitter.com/RichCordray/status/1058796319110766598|title=Honored to have your support @kelleydeal. Along with being an Ohio music legend as the lead singer of The Breeders, you're showing us your superpower as a voter! Thank you!|work=Twitter|author=Richard Cordray}}</ref>
+* [[John Legend]], singer<ref>{{cite web|url=https://twitter.com/johnlegend/status/1059158403199782912|title=Great to be back in my home state of Ohio supporting amazing Democrats running for office this year. If you live in Ohio, be sure to vote @SherrodBrown for Senate, @RichCordray for Gov, yes on Issue 1 and Dem up and down the ticket!|work=Twitter|author=John Legend}}</ref>
+* [[Jerry Springer]], talk show host, former [[List of mayors of Cincinnati|mayor]] of [[Cincinnati]], nominee for [[Ohio's 2nd congressional district|OH-02]] in [[United States House of Representatives elections in Ohio, 1970|1970]] and candidate for governor in [[Ohio gubernatorial election, 1982|1982]]<ref name=warren/>
+
+'''Labor unions'''
+* [[AFL–CIO]]<ref name="auto27"/>
+* FOP – [[Fraternal Order of Police]] of Ohio<ref>{{Cite news|url=http://www.dispatch.com/news/20180724/fop-of-ohio-endorses-richard-cordray-for-governor|title=FOP of Ohio Endorses Richard Cordray for Governor|work=Columbus Dispatch|date=July 24, 2018|access-date=August 1, 2018}}</ref>
+* OEA – [[Ohio Education Association]]<ref>{{Cite news|url=https://www.ohea.org/resources/all/ohio-education-association-endorses-cordray-for-governor/|title=Ohio Education Association Endorses Cordray for Governor|work=Ohio Education Association|date=June 4, 2018|access-date=July 17, 2018|archive-date=July 17, 2018|archive-url=https://web.archive.org/web/20180717124827/https://www.ohea.org/resources/all/ohio-education-association-endorses-cordray-for-governor/|url-status=dead}}</ref>
+* OFT – [[Ohio Federation of Teachers]]
+* [[Ohio State Association Union of Plumbers and Pipefitters]]
+* SEIU – [[Service Employees International Union]]<ref name=SEIU/>
+* UAW – [[United Automobile Workers]]<ref>{{Cite news|url=http://www.toledoblade.com/Politics/2018/05/22/Richard-Cordray-garners-endorsement-for-governor-from-auto-union.html|title=United Auto Workers endorses Richard Cordray for governor|work=[[The Blade (Toledo, Ohio)|The Blade]]|date=May 22, 2018|access-date=July 21, 2018}}</ref>
+* USW – [[United Steelworkers]]<ref>{{Cite news|url=http://www.vindy.com/news/2018/jun/14/usw-endorse-cordray-ohio-governor-friday/?nw|title=USW to endorse Cordray for Ohio governor Friday|work=[[The Vindicator]]|date=June 14, 2018|access-date=July 12, 2018|archive-date=July 12, 2018|archive-url=https://web.archive.org/web/20180712155138/http://www.vindy.com/news/2018/jun/14/usw-endorse-cordray-ohio-governor-friday/?nw|url-status=dead}}</ref>
+
+'''Organizations'''
+* Democratic Progressives of Ohio
+* [[Human Rights Campaign]]<ref>{{Cite news|url=https://www.hrc.org/blog/hrc-endorses-richard-cordray-for-ohio-gov|title=Human Rights Campaign Endorses Richard Cordray for Ohio Governor|work=Human Rights Campaign|last=Metzger|first=Ianthe|date=June 7, 2018|access-date=July 17, 2018|archive-date=August 3, 2020|archive-url=https://web.archive.org/web/20200803211056/https://www.hrc.org/blog/hrc-endorses-richard-cordray-for-ohio-gov|url-status=dead}}</ref>
+* [[NARAL Pro-Choice America|NARAL Pro-Choice Ohio]]<ref name=NARAL/>
+* [[Ohio Legislative Black Caucus]]<ref name=blackcaucus/>
+}}
+
+{{Endorsements box
+| title = Mike DeWine (R)
+| list =
+'''Federal officials'''
+* [[Mike Pence]], [[vice president of the United States]]<ref>{{cite web|url=https://twitter.com/MikeDeWine/status/994264066834227205|title=A GREAT night for the #MAGA agenda and the people of Ohio. Congrats to @MikeDeWine on his primary victory! Mike will put the needs of the people of Ohio FIRST and @RealDonaldTrump & I look forward to working with him.|work=Twitter|author=Mike Pence}}</ref>
+* [[Donald Trump]], [[president of the United States]]<ref name="auto">{{cite web|url=https://twitter.com/realDonaldTrump/status/994185337504137216|title=Congratulations to Mike Dewine on his big win in the Great State of Ohio. He will be a great Governor with a heavy focus on HealthCare and Jobs. His Socialist opponent in November should not do well, a big failure in last job!|work=Twitter|author=Donald J. Trump}}</ref>
+
+'''Governors'''
+* [[John Kasich]], [[List of governors of Ohio|governor of Ohio]]<ref>{{cite web |title=John Kasich on Twitter |url=https://twitter.com/JohnKasich/status/1054789870005170176 |website=Twitter |language=en}}</ref>
+
+'''U.S. senators'''
+* [[Lindsey Graham]], South Carolina<ref>{{cite web|url=https://twitter.com/ohiogop/status/1057445199398494214|title=Ohio Republicans|work=Twitter|author=Thank you, @LindseyGrahamSC for campaigning with @MikeDeWine tonight!}}</ref>
+* [[Rob Portman]], Ohio<ref>{{cite web|url=https://twitter.com/robportman/status/1014270589882814470|title=Jane, Sally, Jed, & I are in Columbus marching in the Red, White, and Boom! parade to support @MikeDeWine & @JonHusted|work=Twitter|author=Rob Portman}}</ref>
+
+'''U.S. representatives'''
+* [[Troy Balderson]], U.S. representative (OH-12)<ref name=ohsendw/>
+* [[Steve Stivers]], U.S. representative (OH-15)<ref name="auto5"/>
+* [[Mike Turner]], U.S. representative (OH-10)<ref name="auto6">{{cite news|url=https://twitter.com/MikeTurnerOH/status/961642714730303488|title=.@MikeDeWine has a wealth of experience that has prepared him to be one of Ohio's greatest governors. In every job he has had, Mike has solved problems and focused on a brighter future. I enthusiastically endorse Mike DeWine for governor.|work=Twitter|author=Mike Turner}}</ref>
+
+'''State senators'''
+* [[Kevin Bacon (politician)|Kevin Bacon]]<ref name=ohsendw/>
+* [[Bill Beagle]]<ref name=ohsendw/>
+* [[David Burke (politician)|David Burke]]<ref name=ohsendw/>
+* [[Matt Dolan]]<ref name=ohsendw/>
+* [[John Eklund (Ohio politician)|John Eklund]]<ref name=ohsendw/>
+* [[Randy Gardner (politician)|Randy Gardner]] (majority leader)<ref name=ohsendw/>
+* [[Bob Hackett]]<ref name=ohsendw/>
+* [[Frank Hoagland]]<ref name=ohsendw/>
+* [[Jay Hottinger]]<ref name=ohsendw/>
+* [[Stephanie Kunze]]<ref name=ohsendw/>
+* [[Peggy Lehner]]<ref name=ohsendw/>
+* [[Gayle Manning]] (majority whip)<ref name=ohsendw/>
+* [[Rob McColley]]<ref name=ohsendw/>
+* [[Larry Obhof]] ([[List of Presidents of the Ohio Senate|president]])<ref name="auto7"/>
+* [[Scott Oelslager]]<ref name=ohsendw/>
+* [[Bob Peterson (Ohio politician)|Bob Peterson]] (president pro tempore)<ref name=ohsendw/>
+* [[Joe Uecker]]<ref name=ohsendw/>
+
+'''State representatives'''
+* [[Sarah LaTourette]] (assistant majority leader)<ref name=housca/>
+* [[Bill Patmon]] ([[Democratic Party (United States)|Democratic]])<ref>{{cite news|url=https://www.rga.org/ohio-democratic-state-rep-endorses-mike-dewine-hell-make-great-governor/|title=Ohio Democratic State Rep Endorses Mike DeWine: "He'll Make A Great Governor|work=[[Republican Governors Association]]|date=October 8, 2018}}</ref>
+* [[Tom Patton]] (majority whip)<ref name=housca/>
+* [[Bill Reineke]] (assistant majority whip)<ref name=housca/>
+* [[Cliff Rosenberger]] (speaker)<ref name=housca/>
+* [[Gary Scherer]]<ref name="cleveland.com1"/>
+* [[Kirk Schuring]] (speaker pro tempore)<ref name=housca/>
+
+'''Individuals'''
+* Julie Jakmides, [[Alliance, Ohio|Alliance]] councilwoman<ref name="twitter.com"/>
+* [[David Johnson (Ohio politician)|David Johnson]], chair of the [[Columbiana County, Ohio|Columbiana County]] Republican Party<ref name=keyohio/>
+* Richard K. Jones, [[Butler County, Ohio|Butler County]] sheriff<ref name="auto1"/>
+* Dave Levacy, [[Fairfield County, Ohio|Fairfield County]] commissioner<ref name="twitter.com1"/>
+* Amy Murray, [[Cincinnati City Council]] member<ref name="auto2"/>
+* Gerard Neugebauer, [[Green, Ohio|Green]] mayor<ref name="auto3"/>
+* [[Rick Santorum]], former [[United States Senate|United States senator]] from [[Pennsylvania]] and candidate for [[president of the United States]] in [[2012 United States presidential election|2012]] and [[2016 United States presidential election|2016]]<ref name="auto4"/>
+* [[JD Vance]], author of ''[[Hillbilly Elegy]]''<ref>{{cite news|url=https://www.daytondailynews.com/news/local/hillbilly-elegy-author-endorses-dewine/4dJOouUUsAxNW4WD3lI7QL/|title='Hillbilly Elegy' author endorses DeWine|work=[[Dayton Daily News]]|last=Schroeder|first=Kaitlin|date=April 7, 2018}}</ref>
+
+'''Labor unions'''
+* IKORCC – Indiana/Kentucky/Ohio Regional Council of the Carpenters<ref>{{cite web|url=https://twitter.com/DeWineHustedOH/status/1020338041469259777|title=#ICYMI: @MikeDeWine & Jon Husted backed by Indiana/Kentucky/Ohio Regional Council of the Carpenters because they will "best serve the citizens of Ohio." #OHGov #DHFO2018|work=Twitter|author=@DeWineHustedOH}}</ref>
+* IUOE – [[International Union of Operating Engineers]]<ref>{{cite news|url=http://www.ideastream.org/news/operating-engineers-union-endorses-republican-mike-dewine-for-governor|title=Operating Engineers Union Endorses Republican Mike DeWine for Governor|last=Urycki|first=Mark|work=[[ideastream]]|date=May 30, 2018}}</ref>
+
+'''Organizations'''
+* Buckeye Firearms Association<ref name=proh/>
+* [[National Federation of Independent Business]]<ref>{{cite web|url=https://www.nfib.com/content/nfib-in-my-state/elections/nfib-supports-dewine-in-race-for-ohio-governor/|title=NFIB Supports DeWine in Race for Ohio Governor|work=National Federation of Independent Business|date=August 1, 2018|access-date=August 2, 2018|archive-url=https://web.archive.org/web/20180803014056/https://www.nfib.com/content/nfib-in-my-state/elections/nfib-supports-dewine-in-race-for-ohio-governor/|archive-date=August 3, 2018|url-status=live}}</ref>
+* [[Political Victory Fund|NRA Political Victory Fund]]<ref>{{cite web|url=https://www.nraila.org/articles/20180921/nra-endorses-mike-dewine-for-governor-jon-husted-for-lieutenant-governor|title=NRA Endorses Mike DeWine for Governor, Jon Husted for Lieutenant Governor|work=NRA-ILA|date=September 21, 2018|archive-url=https://web.archive.org/web/20180927154349/https://www.nraila.org/articles/20180921/nra-endorses-mike-dewine-for-governor-jon-husted-for-lieutenant-governor|archive-date=Sep 27, 2018|url-status=live|quote=The National Rifle Association Political Victory Fund (NRA-PVF) today announced its endorsement of Attorney General Mike DeWine for governor and Secretary Jon Husted for lieutenant governor.}}</ref>
+* Ohio Chamber of Commerce<ref>{{cite web|url=http://allforohio.com/2018/08/02/ohio-chamber-pac-endorses-mike-dewine-for-governor/|title=OHIO CHAMBER PAC ENDORSES MIKE DEWINE FOR GOVERNOR|work=Ohio Chamber of Commerce|last=Thompson|first=Rich|date=August 2, 2018|access-date=August 2, 2018}}</ref>
+* [[Ohio Manufacturers Association|Ohio Manufacturers' Association]]<ref>{{cite web|url=https://ohiomfg.informz.net/ohiomfg/data/images/OMA-PAC%20Endorses%20DeWine-Husted.pdf|title=OMA-PAC Board Endorses DeWine-Husted|work=Ohio Chamber of Commerce|date=August 1, 2018|access-date=August 2, 2018}}</ref>
+* Ohio Society of CPAs<ref>{{cite web|url=https://www.ohiocpa.com/search/utilities/displaynewsitem/2018/05/31/the-ohio-society-of-cpas-endorses-dewine-for-governor-husted-for-lt.-governor|title=The Ohio Society of CPAs endorses DeWine for Governor, Husted for Lt. Governor|work=Ohio Society of CPAs|date=May 31, 2018|archive-url=https://web.archive.org/web/20180904011638/https://www.ohiocpa.com/search/utilities/displaynewsitem/2018/05/31/the-ohio-society-of-cpas-endorses-dewine-for-governor-husted-for-lt.-governor|archive-date=September 4, 2018|url-status=live}}</ref>
+* Ohio State Medical Association<ref>{{cite news|url=http://www.13abc.com/content/news/Docs-back-DeWine-after-he-commits-to-keep-Medicaid-expansion-487957401.html|title=Docs back DeWine after he commits to keep Medicaid expansion|work=[[WTVG]]|date=July 11, 2018|access-date=July 12, 2018}}</ref>
+
+'''Newspapers'''
+* ''[[The Intelligencer and Wheeling News Register|The Intelligencer]]''<ref>{{cite web|title=The Intelligencer Endorses Mike DeWine As Ohio Governor|url=http://www.theintelligencer.net/opinion/editorials/2018/10/the-intelligencer-endorses-mike-dewine-as-ohio-governor/|work=[[The Intelligencer and Wheeling News Register|The Intelligencer]]|date=October 20, 2018|access-date=October 29, 2018}}</ref>
+* ''[[Tribune Chronicle]]''<ref>{{cite web|title=DeWine gets nod over Cordray for Ohio governor|url=http://www.tribtoday.com/opinion/editorials/2018/10/dewine-gets-nod-over-cordray-for-ohio-governor/|work=[[Tribune Chronicle]]|date=October 28, 2018|access-date=October 29, 2018}}</ref>
+}}
+
+===Debates===
+
+{| class="wikitable"
+|+
+! rowspan="2" |Host<br />network/sponsors
+! rowspan="2" |Location
+! rowspan="2" |Date
+! rowspan="2" |Link(s)
+! colspan="4" | Possible participants
+|-
+!Richard<br />Cordray (D)
+!Mike<br />DeWine (R)
+!Travis Irvine (L)
+!Constance Gadell-Newton (G)
+|-
+| align="center" |[[WHIO-TV]]
+| align="center" |University of Dayton
+| align="center" |September 19, 2018
+| align="center" |<ref>{{cite web|url=https://www.youtube.com/watch?v=-rV-QUb39yw|title=Ohio governor race: Mike DeWine, Richard Cordray face off in their first debate|last=CBS News|date=19 September 2018|via=YouTube}}</ref>
+| align="center" |Invited
+| align="center" |Invited
+| align="center" |Not Invited
+| align="center" |Not Invited
+|-
+| align="center" |[[WCMH-TV]]
+| align="center" |Marietta College
+| align="center" |October 1, 2018
+| align="center" |<ref>{{cite web|url=https://www.c-span.org/video/?452268-1/ohio-governors-townhall-debate|title=Ohio Gubernatorial Town Hall Debate|website=C-SPAN.org}}</ref>
+| align="center" |Invited
+| align="center" |Invited
+| align="center" |Not Invited
+| align="center" |Not Invited
+|-
+| align="center" |Ohio Debate Commission
+| align="center" |Cleveland State University
+| align="center" |October 8, 2018
+| align="center" |<ref>{{cite web|url=https://www.c-span.org/video/?452595-1/ohio-gubernatorial-debate|title=Ohio Gubernatorial Debate|website=C-SPAN.org}}</ref>
+| align="center" |Invited
+| align="center" |Invited
+| align="center" |Not Invited
+| align="center" |Not Invited
+|}
+<ref>{{Cite news|url=https://www.cincinnati.com/story/news/politics/elections/2018/09/07/ohio-governors-race-cordray-dewine-set-3-debates-across-state/1221354002/|title=Ohio governor's race: Cordray, DeWine set 3 debates across state|work=Cincinnati.com|access-date=2018-09-23|language=en}}</ref>
+
+===Predictions===
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+|[[The Cook Political Report]]<ref>{{cite web|url=https://cookpolitical.com/ratings/governor-race-ratings/187543|title=2018 Governor Race Ratings for October 26, 2018|website=The Cook Political Report|language=en|access-date=2021-04-10}}</ref>
+| {{USRaceRating|Tossup}}
+|October 26, 2018
+|-
+|''[[The Washington Post]]''<ref>{{cite web|url=https://www.washingtonpost.com/graphics/2018/politics/governors-ratings/|title=The Washington Post's gubernatorial race ratings|work=[[The Washington Post]]|date=October 16, 2018}}</ref>
+| {{USRaceRating|Tossup}}
+|November 5, 2018
+|-
+|[[FiveThirtyEight]]<ref>{{cite web|url=https://projects.fivethirtyeight.com/2018-midterm-election-forecast/governor/#deluxe|archive-url=https://web.archive.org/web/20181018002046/https://projects.fivethirtyeight.com/2018-midterm-election-forecast/governor/#deluxe|url-status=dead|archive-date=October 18, 2018|title=2018 Governor Forecast|website=FiveThirtyEight|language=en|access-date=October 17, 2018}}</ref>
+| {{USRaceRating|Lean|D|Flip}}
+|November 5, 2018
+|-
+|[[Stuart Rothenberg|Rothenberg Political Report]]<ref>{{cite web|url=https://www.insideelections.com/ratings/governor/2018-gubernatorial-ratings-november-1-2018|title=2018 Gubernatorial Ratings {{!}} Inside Elections|website=insideelections.com|language=en|access-date=2017-11-15}}</ref>
+| {{USRaceRating|Tossup}}
+|November 1, 2018
+|-
+|[[Sabato's Crystal Ball]]<ref>{{cite web|url=http://www.centerforpolitics.org/crystalball/2018-governor/|title=Larry J. Sabato's Crystal Ball » 2018 Governor|website=www.centerforpolitics.org|language=en-US|access-date=2017-11-15}}</ref>
+| {{USRaceRating|Lean|D|Flip}}
+|November 5, 2018
+|-
+|[[RealClearPolitics]]<ref>{{cite web|url=https://www.realclearpolitics.com/epolls/2018/governor/2018_elections_governor_map.html|title=2018 Governor Races|website=[[RealClearPolitics]]|date=October 9, 2018}}</ref>
+| {{USRaceRating|Tossup}}
+|November 4, 2018
+|-
+|[[Daily Kos]]<ref>{{cite web|url=https://elections.dailykos.com/app/elections/2018/office/governor|title=2018 Governor Race Ratings|website=[[Daily Kos]]|date=June 5, 2018}}{{Dead link|date=August 2021 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+| {{USRaceRating|Tossup}}
+|November 5, 2018
+|-
+|[[Fox News]]<ref>{{cite web|url=https://www.foxnews.com/midterms-2018|title=2018 Midterm Power Ranking|website=[[Fox News]]}}</ref>{{efn|The Fox News Midterm Power Rankings uniquely does not contain a category for Safe/Solid races}}
+| {{USRaceRating|Tossup}}
+|November 5, 2018
+|-
+|[[Politico]]<ref>{{cite web|url=https://www.politico.com/election-results/2018/house-senate-race-ratings-and-predictions/|title=Politico Race Ratings|website=[[Politico]]}}</ref>
+| {{USRaceRating|Tossup}}
+|November 5, 2018
+|-
+|[[Governing (magazine)|Governing]]<ref>{{cite web |url= http://www.governing.com/topics/politics/gov-governors-races-july-ratings.html |title= 2018 Governor Elections: As November Nears, More Governors' Races Become Tossups |website= www.governing.com |language= en |access-date= 2018-07-18 |archive-date= October 21, 2018 |archive-url= https://web.archive.org/web/20181021005343/http://www.governing.com/topics/politics/gov-governors-races-july-ratings.html |url-status= dead }}</ref>
+| {{USRaceRating|Tossup}}
+|November 5, 2018
+|}
+{{smalldiv|1=;Notes
+{{notelist}}}}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size
+! Margin<br />of error
+! style="width:70px;"| Mike<br />DeWine<br />(R)
+! style="width:70px;"| Richard<br />Cordray<br />(D)
+! style="width:70px;"| Travis<br />Irvine<br />(L)
+! style="width:70px;"| Constance<br />Gadell-<br />Newton (G)
+! Other
+! Undecided
+|-
+|[[Change Research]]<ref>[https://web.archive.org/web/20181105045509/https://twitter.com/ChangePolls/status/1059297289443786758 Change Research]</ref>
+| align=center| November 2–4, 2018
+| align=center| 923
+| align=center| –
+| align=center| 43%
+| {{party shading/Democratic}} align=center| '''48%'''
+| align=center| 5%
+| align=center| 1%
+| align=center| –
+| align=center| –
+|-
+|[[The Trafalgar Group]] (R)<ref>{{Cite web|url=https://drive.google.com/file/d/1O--3YOk-BIJujCL5WtA6o8mOU6lu2VO5/view?usp=embed_facebook|title=TRF OH Gov '18 Poll Report Final.pdf|website=Google Docs}}</ref>
+| align=center| November 2–4, 2018
+| align=center| 1,948
+| align=center| ± 2.2%
+| align=center| 42%
+| {{party shading/Democratic}} align=center| '''46%'''
+| align=center| –
+| align=center| –
+| align=center| 7%
+| align=center| 5%
+|-
+|[[Research Co.]]<ref>{{Cite web|url=https://researchco.ca/wp-content/uploads/2018/11/Tables_Midterms_05Nov2018.pdf|title=Research Co.}}</ref>
+| align=center| November 1–3, 2018
+| align=center| 450
+| align=center| ± 4.6%
+| align=center| '''44%'''
+| align=center| '''44%'''
+| align=center| –
+| align=center| –
+| align=center| 2%
+| align=center| 10%
+|-
+|[[Cygnal (consulting firm)|Cygnal]] (R)<ref>{{Cite web|url=http://www.cygn.al/wp-content/uploads/2018/11/42502-Cygnal-OH-Toplines_2.pdf|title=Cygnal (R)}}</ref>
+| align=center| October 30–31, 2018
+| align=center| 503
+| align=center| ± 4.4%
+| align=center| '''43%'''
+| align=center| '''43%'''
+| align=center| 3%
+| align=center| 2%
+| align=center| –
+| align=center| 9%
+|-
+|[[Gravis Marketing]]<ref>{{Cite web|url=https://www.realclearpolitics.com/docs/Ohio_November_1_2018.pdf|title=Wayback Machine|website=www.realclearpolitics.com}}</ref>
+| align=center| October 29–30, 2018
+| align=center| 789
+| align=center| ± 3.5%
+| align=center| 43%
+| {{party shading/Democratic}} align=center| '''48%'''
+| align=center| –
+| align=center| –
+| align=center| –
+| align=center| 9%
+|-
+|[[Emerson College]]<ref>{{Cite web|url=https://today.emerson.edu/category/news-stories/|title=News & Stories Archives|date=August 11, 2025}}</ref>
+| align=center| October 26–28, 2018
+| align=center| 566
+| align=center| ± 4.3%
+| align=center| 46%
+| {{party shading/Democratic}} align=center| '''49%'''
+| align=center| –
+| align=center| –
+| align=center| 2%
+| align=center| 3%
+|-
+| rowspan=2|[[Baldwin Wallace University]]<ref>{{Cite web|url=https://www.bw.edu/Assets/stories/2018/2018-Fall/late_october_survey_report%20final.pdf|title=Baldwin Wallace University}}</ref>
+| rowspan=2 align=center| October 19–27, 2018
+| rowspan=2 align=center| 1,051
+| rowspan=2 align=center| ± 3.8%
+| align=center| '''39%'''
+| align=center| '''39%'''
+| align=center| 4%
+| align=center| 2%
+| align=center| –
+| align=center| 16%
+|-
+| align=center| 41%
+| {{party shading/Democratic}} align=center| '''42%'''
+| align=center| –
+| align=center| –
+| align=center| –
+| align=center| 17%
+|-
+|[[Suffolk University]]<ref>{{Cite web|url=https://www.suffolk.edu/documents/SUPRC/10_12_2018_marginals.pdf|archiveurl=https://web.archive.org/web/20181107074840/https://www.suffolk.edu/documents/SUPRC/10_12_2018_marginals.pdf| title=Wayback Machine|archivedate=November 7, 2018|website=www.suffolk.edu}}</ref>
+| align=center| October 4–8, 2018
+| align=center| 500
+| align=center| ± 4.4%
+| align=center| 40%
+| {{party shading/Democratic}} align=center| '''46%'''
+| align=center| 2%
+| align=center| 0%
+| align=center| 0%{{efn-ua|Richard Duncan (write-in), Rebecca Ayers (write-in), and Renea Turner (write-in) with 0%}}
+| align=center| 10%
+|-
+| rowspan=2|[[Baldwin Wallace University]]<ref>{{Cite web|url=https://www.bw.edu/Assets/stories/2018/2018-Fall/cri-october_survey_report-final.pdf|title=Baldwin Wallace University}}</ref>
+| rowspan=2 align=center| September 8 – October 8, 2018
+| rowspan=2 align=center| 1,017
+| rowspan=2 align=center| ± 3.5%
+| {{party shading/Republican}} align=center| '''40%'''
+| align=center| 37%
+| align=center| 4%
+| align=center| 3%
+| align=center| –
+| align=center| 15%
+|-
+| {{party shading/Republican}} align=center| '''42%'''
+| align=center| 39%
+| align=center| –
+| align=center| –
+| align=center| –
+| align=center| 19%
+|-
+|[[University of Akron]]<ref>{{Cite web|url=https://uakron.edu/bliss/docs/Bliss%20Poll%202018.pdf|title=University of Akron}}</ref>
+| align=center| September 10 – October 4, 2018
+| align=center| 1,000
+| align=center| ± 3.0%
+| {{party shading/Republican}} align=center| '''37%'''
+| align=center| 36%
+| align=center| –
+| align=center| –
+| align=center| –
+| align=center| 27%
+|-
+|[[Ipsos]]<ref>{{Cite web|url=https://fingfx.thomsonreuters.com/gfx/rngs/USA-ELECTION/010080D20RG/index.html|title=Tight U.S. Senate race|website=Reuters}}</ref>
+| align=center| September 13–21, 2018
+| align=center| 1,074
+| align=center| ± 3.0%
+| {{party shading/Republican}} align=center| '''45%'''
+| align=center| 44%
+| align=center| –
+| align=center| –
+| align=center| 2%
+| align=center| 9%
+|-
+|[[Triton Polling & Research]] (R)<ref>{{Cite web|url=https://www.nationaljournal.com/s/672790/latest-poll-shows-tight-race-in-iowa/|title=Latest Poll Shows Tight Race in Iowa|website=National Journal}}</ref>
+| align=center| September 18–20, 2018
+| align=center| 1,003
+| align=center| ± 3.1%
+| {{party shading/Republican}} align=center| '''49%'''
+| align=center| 44%
+| align=center| –
+| align=center| –
+| align=center| –
+| align=center| 8%
+|-
+| rowspan=4|[[Marist College]]<ref>{{Cite web|url=http://maristpoll.marist.edu/wp-content/uploads/2018/09/NBC-News_Marist-Poll_OH-Adults-and-Registered-Voters-and-Likely-Voters_NOS-and-Tables_1909241406.pdf|title=Marist College}}</ref>
+| rowspan=4 align=center| September 16–20, 2018
+| rowspan=2 align=center| 564 LV
+| rowspan=2 align=center| ± 5.0%
+| align=center| '''44%'''
+| align=center| '''44%'''
+| align=center| 3%
+| align=center| 3%
+| align=center| <1%
+| align=center| 6%
+|-
+| align=center| '''47%'''
+| align=center| '''47%'''
+| align=center| –
+| align=center| –
+| align=center| 1%
+| align=center| 6%
+|-
+| rowspan=2 align=center| 796 RV
+| rowspan=2 align=center| ± 4.2%
+| align=center| 42%
+| {{party shading/Democratic}} align=center| '''43%'''
+| align=center| 4%
+| align=center| 4%
+| align=center| 1%
+| align=center| 6%
+|-
+| align=center| '''47%'''
+| align=center| '''47%'''
+| align=center| –
+| align=center| –
+| align=center| 1%
+| align=center| 6%
+|-
+|[[Baldwin Wallace University]]<ref>{{Cite web|url=https://www.bw.edu/Assets/stories/2018/2018-Fall/09-bw-cri-september_survey_report_with-crosstabs.pdf|title=Baldwin Wallace University}}</ref>
+| align=center| September 5–15, 2018
+| align=center| 1,048
+| align=center| ± 3.6%
+| {{party shading/Republican}} align=center| '''42%'''
+| align=center| 37%
+| align=center| –
+| align=center| –
+| align=center| –
+| align=center| 21%
+|-
+|[[Morning Consult]]<ref>{{Cite web|url=https://www.politico.com/f/?id=00000165-cb2f-db94-ab7f-cfff8b740000|title=Morning Consult}}</ref>
+| align=center| September 2–11, 2018
+| align=center| 1,592
+| align=center| ± 2.0%
+| {{party shading/Republican}} align=center| '''39%'''
+| align=center| 38%
+| align=center| –
+| align=center| –
+| align=center| –
+| align=center| 23%
+|-
+| rowspan=2|[[Change Research]] (D-Innovation Ohio)<ref>{{Cite web|url=http://innovationohio.org/2018/09/06/new-poll-shows-tied-gubernatorial-race-close-races-up-and-down-the-ballot/|title=New Poll Shows Tied Gubernatorial Race, Close Races Up and Down the Ballot - Innovation Ohio|date=September 6, 2018}}</ref>
+| rowspan=2 align=center| August 31 – September 4, 2018
+| rowspan=2 align=center| 822
+| rowspan=2 align=center| ± 3.0%
+| {{party shading/Republican}} align=center| '''45%'''
+| align=center| 43%
+| align=center| 6%
+| align=center| 3%
+| align=center| –
+| align=center| –
+|-
+| align=center| '''43%'''
+| align=center| '''43%'''
+| align=center| –
+| align=center| –
+| align=center| –
+| align=center| 14%
+|-
+|[[TRZ Communications]] (R-WTPC)<ref>{{Cite web|url=http://www.wethepeopleconvention.org/ohio-2018-general-election-poll-results/|archiveurl=https://web.archive.org/web/20180716053906/http://www.wethepeopleconvention.org/ohio-2018-general-election-poll-results/| title=TRZ Communications (R-WTPC)|archivedate=July 16, 2018}}</ref>
+| align=center| June 30 – July 10, 2018
+| align=center| 1,485
+| align=center| ± 3.0%
+| {{party shading/Republican}} align=center| '''42%'''
+| align=center| 38%
+| align=center| –
+| align=center| –
+| align=center| 3%
+| align=center| 17%
+|-
+|[[Marist College]]<ref>{{Cite web|url=http://maristpoll.marist.edu/wp-content/misc/OHPolls/OH180617/Toss%20Up%20Questions_NBC%20News_Marist%20Poll_Ohio%20Nature%20of%20the%20Sample%20and%20Tables_June%202018.pdf|title=Marist College}}</ref>
+| align=center| June 17–22, 2018
+| align=center| 778
+| align=center| ± 4.4%
+| {{party shading/Republican}} align=center| '''46%'''
+| align=center| 42%
+| align=center| –
+| align=center| –
+| align=center| 2%
+| align=center| 11%
+|-
+|[[Quinnipiac University]]<ref>{{Cite web|url=https://poll.qu.edu/images/polling/oh/oh06132018_otyd16.pdf|title=Quinnipiac University}}</ref>
+| align=center| June 7–12, 2018
+| align=center| 1,082
+| align=center| ± 3.7%
+| align=center| 40%
+| {{party shading/Democratic}} align=center| '''42%'''
+| align=center| –
+| align=center| –
+| align=center| 2%
+| align=center| 14%
+|-
+|[[Suffolk University]]<ref>{{Cite web|url=https://www.suffolk.edu/documents/SUPRC/6_18_2018_marginals.pdf|archiveurl=https://web.archive.org/web/20180729171304/https://www.suffolk.edu/documents/SUPRC/6_18_2018_marginals.pdf| title=Wayback Machine|archivedate=July 29, 2018|website=www.suffolk.edu}}</ref>
+| align=center| June 6–11, 2018
+| align=center| 500
+| align=center| ± 4.4%
+| align=center| 36%
+| {{party shading/Democratic}} align=center| '''43%'''
+| align=center| –
+| align=center| 3%
+| align=center| 2%
+| align=center| 16%
+|-
+|[[America First Action]] (R)<ref>{{Cite web|url=https://www.a1apac.org/news/exclusive-america-first-ohio-poll-nancy-pelosi-drags-down-democratic-party-/|title=Exclusive — America First Ohio Poll: Nancy Pelosi Drags Down Democratic Party, Donald Trump Boosts GOP &#124; America First Action|website=www.a1apac.org}}</ref>
+| align=center| May 29–31, 2018
+| align=center| 400
+| align=center| ± 4.9%
+| {{party shading/Republican}} align=center| '''45%'''
+| align=center| 38%
+| align=center| –
+| align=center| –
+| align=center| –
+| align=center| 10%
+|-
+|[[Fallon Research]]<ref>{{Cite web|url=https://www.cleveland.com/open/2018/06/new_poll_shows_sherrod_brown_l.html|title=New poll shows Sherrod Brown leading Senate race, Mike DeWine on top in governor's|first=cleveland com|last=Seth A. Richardson|date=June 1, 2018|website=cleveland}}</ref>
+| align=center| May 21–25, 2018
+| align=center| 800
+| align=center| ± 3.5%
+| {{party shading/Republican}} align=center| '''40%'''
+| align=center| 34%
+| align=center| –
+| align=center| 1%
+| align=center| 3%{{efn-ua|Colin Hill (I) with 3%}}
+| align=center| 22%
+|-
+|[[Public Policy Polling]] (D-Ohio Democratic Party)<ref name="scribd.com">{{Cite web|url=https://www.scribd.com/document/378736368/OH-Gov-PPP-for-Ohio-Democratic-Party-April-2018-May-2018|title=OH-Gov PPP For Ohio Democratic Party (April 2018 & May 2018) &#124; PDF &#124; Democratic Party (United States) &#124; American Government|website=Scribd}}</ref>
+| align=center| May 6–7, 2018
+| align=center| 618
+| align=center| ± 3.9%
+| align=center| 39%
+| {{party shading/Democratic}} align=center| '''44%'''
+| align=center| –
+| align=center| –
+| align=center| –
+| align=center| 17%
+|-
+|[[Public Policy Polling]] (D-Ohio Democratic Party)<ref name="scribd.com"/>
+| align=center| April 25–26, 2018
+| align=center| 770
+| align=center| ± 3.5%
+| align=center| 38%
+| {{party shading/Democratic}} align=center| '''47%'''
+| align=center| –
+| align=center| –
+| align=center| –
+| align=center| 14%
+|-
+|[[SurveyUSA]]<ref name="SurveyUSA"/>
+| align=center| March 16–20, 2018
+| align=center| 1,408
+| align=center| ± 3.5%
+| {{party shading/Republican}} align=center| '''47%'''
+| align=center| 39%
+| align=center| –
+| align=center| –
+| align=center| –
+| align=center| 14%
+|-
+|[[Public Policy Polling]] (D-Ohio Democratic Party)<ref name="ReferenceA">{{Cite web|url=https://www.scribd.com/document/370068181/ODP-Internal-Gubernatorial-Poll|title=ODP Internal Gubernatorial Poll &#124; PDF &#124; Democratic Party (United States) &#124; American Government|website=Scribd}}</ref>
+| align=center| January 22–23, 2018
+| align=center| 585
+| align=center| ± 4.1%
+| {{party shading/Republican}} align=center| '''45%'''
+| align=center| 44%
+| align=center| –
+| align=center| –
+| align=center| –
+| align=center| 11%
+|-
+|[[Fallon Research]]<ref name="Fallon Research"/>
+| align=center| January 16–19, 2018
+| align=center| 801
+| align=center| ± 3.5%
+| {{party shading/Republican}} align=center| '''49%'''
+| align=center| 28%
+| align=center| –
+| align=center| –
+| align=center| –
+| align=center| 23%
+|-
+|[[Luntz Global]]<ref name="Luntz Global"/>
+| align=center| June 12, 2017
+| align=center| 500
+| align=center| ± 4.4%
+| {{party shading/Republican}} align=center| '''55%'''
+| align=center| 31%
+| align=center| –
+| align=center| –
+| align=center| –
+| align=center| 14%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''with DeWine and Kucinich'''<br />
+{| class="wikitable"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size
+! Margin<br />of error
+! style="width:100px;"| Mike<br />DeWine (R)
+! style="width:100px;"| Dennis<br />Kucinich (D)
+! Undecided
+|-
+|[[SurveyUSA]]<ref name="SurveyUSA"/>
+| align=center| March 16–20, 2018
+| align=center| 1,408
+| align=center| ± 3.5%
+| {{party shading/Republican}} align=center| '''51%'''
+| align=center| 38%
+| align=center| 12%
+|-
+|[[Public Policy Polling]] (D-Ohio Democratic Party)<ref name="ReferenceA"/>
+| align=center| January 22–23, 2018
+| align=center| 585
+| align=center| ± 4.1%
+| {{party shading/Republican}} align=center| '''48%'''
+| align=center| 37%
+| align=center| 14%
+|}
+
+'''with DeWine and Pillich'''<br />
+{| class="wikitable"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size
+! Margin<br />of error
+! style="width:100px;"| Mike<br />DeWine (R)
+! style="width:100px;"| Connie<br />Pillich (D)
+! Undecided
+|-
+|[[Public Policy Polling]] (D-Ohio Democratic Party)<ref name="ReferenceA"/>
+| align=center| January 22–23, 2018
+| align=center| 585
+| align=center| ± 4.1%
+| {{party shading/Republican}} align=center| '''47%'''
+| align=center| 35%
+| align=center| 18%
+|}
+
+'''with Jon Husted'''<br />
+{| class="wikitable"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size
+! Margin<br />of error
+! style="width:100px;"| Jon<br />Husted (R)
+! style="width:100px;"| Richard<br />Cordray (D)
+! Undecided
+|-
+|[[Luntz Global]]<ref name="Luntz Global"/>
+| align=center| June 12, 2017
+| align=center| 500
+| align=center| ± 4.4%
+| {{party shading/Republican}} align=center| '''47%'''
+| align=center| 35%
+| align=center| 18%
+|}
+
+'''with generic Republican and Democrat'''<br />
+{| class="wikitable"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size
+! Margin<br />of error
+! style="width:100px;"| Generic<br />Republican
+! style="width:100px;"| Generic<br />Democrat
+! Undecided
+|-
+|[[Baldwin Wallace University]]<ref>{{Cite web|url=https://www.cleveland.com/datacentral/2018/03/donald_trump_would_beat_john_k.html|title=Donald Trump would easily beat John Kasich in rematch of Ohio Republican primary: Baldwin Wallace survey|first=cleveland com|last=Rich Exner|date=March 19, 2018|website=cleveland}}</ref>
+| align=center| February 28 – March 9, 2018
+| align=center| 1,011
+| align=center| ± 3.0%
+| {{party shading/Republican}} align=center| '''37%'''
+| align=center| 32%
+| align=center| –
+|}
+{{hidden end}}
+
+=== Results ===
+{{Election box begin
+| title = Ohio gubernatorial election, 2018<ref name = 2018Results/>
+}}
+{{Election box winning candidate with party link
+| candidate  = {{ubl|[[Mike DeWine]]|[[Jon Husted]]}}
+| party      = Republican Party (United States)
+| votes      = 2,235,825
+| percentage = 50.40%
+| change     = -13.24%
+}}
+{{Election box candidate with party link|candidate={{ubl|[[Richard Cordray]]|[[Betty Sutton]]}}|party=Democratic Party (United States)|votes=2,070,046|percentage=46.67%|change=+13.64%}}
+{{Election box candidate with party link|candidate= {{ubl|Travis Irvine|Todd Grayson}}|party=Libertarian Party (United States)|votes=80,055|percentage=1.80%|change=N/A}}
+{{Election box candidate with party link|candidate= {{ubl|Constance Gadell-Newton|Brett Joseph}}|party=Green Party (United States)|votes=49,536|percentage=1.12%|change=-2.21%}}
+{{Election box write-in with party link|votes=358|percentage=0.00%|change=N/A}}
+{{Election box total
+| votes      = 4,435,820
+| percentage = 100.00%
+| change     = N/A
+}}
+{{Election box hold with party link no swing
+|winner = Republican Party (United States)
+}}
+{{Election box end}}
+
+====By county====
+{| width="60%" class="wikitable sortable"
+! rowspan="2" |County
+! colspan="2" |Mike DeWine<br />Republican
+! colspan="2" |Richard Cordray<br />Democratic
+! colspan="2" |Various candidates<br />Other parties
+! colspan="2" |Margin
+! rowspan="2" |Total votes cast
+|-
+! style="text-align:center;" data-sort-type="number" |#
+! style="text-align:center;" data-sort-type="number" |%
+! style="text-align:center;" data-sort-type="number" |#
+! style="text-align:center;" data-sort-type="number" |%
+! style="text-align:center;" data-sort-type="number" |#
+! style="text-align:center;" data-sort-type="number" |%
+! style="text-align:center;" data-sort-type="number" |#
+! style="text-align:center;" data-sort-type="number" |%
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Adams County, Ohio|Adams]]
+| {{party shading/Republican}} |6,302
+| {{party shading/Republican}} |72.03%
+| {{party shading/Democratic}} |2,184
+| {{party shading/Democratic}} |24.96%
+| {{party shading/Other}} |263
+| {{party shading/Other}} |3.01%
+| {{party shading/Republican}} |4,118
+| {{party shading/Republican}} |47.07%
+| {{party shading/Republican}} |8,749
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Allen County, Ohio|Allen]]
+| {{party shading/Republican}} |24,200
+| {{party shading/Republican}} |67.29%
+| {{party shading/Democratic}} |10,825
+| {{party shading/Democratic}} |30.10%
+| {{party shading/Other}} |941
+| {{party shading/Other}} |2.61%
+| {{party shading/Republican}} |13,375
+| {{party shading/Republican}} |37.18%
+| {{party shading/Republican}} |35,966
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Ashland County, Ohio|Ashland]]
+| {{party shading/Republican}} |12,846
+| {{party shading/Republican}} |68.63%
+| {{party shading/Democratic}} |5,157
+| {{party shading/Democratic}} |27.55%
+| {{party shading/Other}} |714
+| {{party shading/Other}} |3.82%
+| {{party shading/Republican}} |7,689
+| {{party shading/Republican}} |41.08%
+| {{party shading/Republican}} |18,717
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Ashtabula County, Ohio|Ashtabula]]
+| {{party shading/Republican}} |17,184
+| {{party shading/Republican}} |53.31%
+| {{party shading/Democratic}} |13,668
+| {{party shading/Democratic}} |42.40%
+| {{party shading/Other}} |1,382
+| {{party shading/Other}} |4.29%
+| {{party shading/Republican}} |3,516
+| {{party shading/Republican}} |10.91%
+| {{party shading/Republican}} |32,234
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Athens County, Ohio|Athens]]
+| {{party shading/Republican}} |7,566
+| {{party shading/Republican}} |33.41%
+| {{party shading/Democratic}} |14,261
+| {{party shading/Democratic}} |62.98%
+| {{party shading/Other}} |816
+| {{party shading/Other}} |3.61%
+| {{party shading/Democratic}} |-6,695
+| {{party shading/Democratic}} |-29.57%
+| {{party shading/Democratic}} |22,643
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Auglaize County, Ohio|Auglaize]]
+| {{party shading/Republican}} |14,902
+| {{party shading/Republican}} |77.78%
+| {{party shading/Democratic}} |3,676
+| {{party shading/Democratic}} |19.19%
+| {{party shading/Other}} |582
+| {{party shading/Other}} |3.03%
+| {{party shading/Republican}} |11,226
+| {{party shading/Republican}} |58.59%
+| {{party shading/Republican}} |19,160
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Belmont County, Ohio|Belmont]]
+| {{party shading/Republican}} |15,614
+| {{party shading/Republican}} |62.74%
+| {{party shading/Democratic}} |8,686
+| {{party shading/Democratic}} |34.90%
+| {{party shading/Other}} |588
+| {{party shading/Other}} |2.36%
+| {{party shading/Republican}} |6,928
+| {{party shading/Republican}} |27.84%
+| {{party shading/Republican}} |24,888
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Brown County, Ohio|Brown]]
+| {{party shading/Republican}} |10,668
+| {{party shading/Republican}} |71.84%
+| {{party shading/Democratic}} |3,683
+| {{party shading/Democratic}} |24.80%
+| {{party shading/Other}} |499
+| {{party shading/Other}} |3.36%
+| {{party shading/Republican}} |6,985
+| {{party shading/Republican}} |47.04%
+| {{party shading/Republican}} |14,850
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Butler County, Ohio|Butler]]
+| {{party shading/Republican}} |82,771
+| {{party shading/Republican}} |61.07%
+| {{party shading/Democratic}} |48,890
+| {{party shading/Democratic}} |36.07%
+| {{party shading/Other}} |3,879
+| {{party shading/Other}} |2.86%
+| {{party shading/Republican}} |33,881
+| {{party shading/Republican}} |25.00%
+| {{party shading/Republican}} |135,540
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Carroll County, Ohio|Carroll]]
+| {{party shading/Republican}} |6,772
+| {{party shading/Republican}} |65.73%
+| {{party shading/Democratic}} |3,114
+| {{party shading/Democratic}} |30.23%
+| {{party shading/Other}} |416
+| {{party shading/Other}} |4.04%
+| {{party shading/Republican}} |3,658
+| {{party shading/Republican}} |35.50%
+| {{party shading/Republican}} |10,302
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Champaign County, Ohio|Champaign]]
+| {{party shading/Republican}} |10,023
+| {{party shading/Republican}} |67.54%
+| {{party shading/Democratic}} |4,197
+| {{party shading/Democratic}} |28.28%
+| {{party shading/Other}} |619
+| {{party shading/Other}} |4.17%
+| {{party shading/Republican}} |5,826
+| {{party shading/Republican}} |39.26%
+| {{party shading/Republican}} |14,839
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Clark County, Ohio|Clark]]
+| {{party shading/Republican}} |27,967
+| {{party shading/Republican}} |58.12%
+| {{party shading/Democratic}} |18,537
+| {{party shading/Democratic}} |38.52%
+| {{party shading/Other}} |1,613
+| {{party shading/Other}} |3.36%
+| {{party shading/Republican}} |9,430
+| {{party shading/Republican}} |19.60%
+| {{party shading/Republican}} |48,117
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Clermont County, Ohio|Clermont]]
+| {{party shading/Republican}} |53,508
+| {{party shading/Republican}} |66.77%
+| {{party shading/Democratic}} |23,847
+| {{party shading/Democratic}} |29.76%
+| {{party shading/Other}} |2,788
+| {{party shading/Other}} |3.47%
+| {{party shading/Republican}} |29,661
+| {{party shading/Republican}} |37.01%
+| {{party shading/Republican}} |80,143
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Clinton County, Ohio|Clinton]]
+| {{party shading/Republican}} |10,884
+| {{party shading/Republican}} |72.30%
+| {{party shading/Democratic}} |3,647
+| {{party shading/Democratic}} |24.23%
+| {{party shading/Other}} |523
+| {{party shading/Other}} |3.47%
+| {{party shading/Republican}} |7,237
+| {{party shading/Republican}} |48.07%
+| {{party shading/Republican}} |15,054
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Columbiana County, Ohio|Columbiana]]
+| {{party shading/Republican}} |22,846
+| {{party shading/Republican}} |64.12%
+| {{party shading/Democratic}} |11,625
+| {{party shading/Democratic}} |32.63%
+| {{party shading/Other}} |1,159
+| {{party shading/Other}} |3.25%
+| {{party shading/Republican}} |11,221
+| {{party shading/Republican}} |31.49%
+| {{party shading/Republican}} |35,630
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Coshocton County, Ohio|Coshocton]]
+| {{party shading/Republican}} |7,768
+| {{party shading/Republican}} |65.17%
+| {{party shading/Democratic}} |3,738
+| {{party shading/Democratic}} |31.36%
+| {{party shading/Other}} |414
+| {{party shading/Other}} |3.47%
+| {{party shading/Republican}} |4,030
+| {{party shading/Republican}} |33.81%
+| {{party shading/Republican}} |11,920
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Crawford County, Ohio|Crawford]]
+| {{party shading/Republican}} |9,786
+| {{party shading/Republican}} |67.45%
+| {{party shading/Democratic}} |4,202
+| {{party shading/Democratic}} |28.96%
+| {{party shading/Other}} |520
+| {{party shading/Other}} |3.59%
+| {{party shading/Republican}} |5,584
+| {{party shading/Republican}} |38.49%
+| {{party shading/Republican}} |14,508
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Cuyahoga County, Ohio|Cuyahoga]]
+| {{party shading/Republican}} |150,848
+| {{party shading/Republican}} |31.06%
+| {{party shading/Democratic}} |323,276
+| {{party shading/Democratic}} |66.57%
+| {{party shading/Other}} |11,510
+| {{party shading/Other}} |2.37%
+| {{party shading/Democratic}} |-172,428
+| {{party shading/Democratic}} |-35.51%
+| {{party shading/Democratic}} |485,634
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Darke County, Ohio|Darke]]
+| {{party shading/Republican}} |15,161
+| {{party shading/Republican}} |77.15%
+| {{party shading/Democratic}} |3,820
+| {{party shading/Democratic}} |19.44%
+| {{party shading/Other}} |671
+| {{party shading/Other}} |3.41%
+| {{party shading/Republican}} |11,341
+| {{party shading/Republican}} |57.71%
+| {{party shading/Republican}} |19,652
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Defiance County, Ohio|Defiance]]
+| {{party shading/Republican}} |8,834
+| {{party shading/Republican}} |63.31%
+| {{party shading/Democratic}} |4,649
+| {{party shading/Democratic}} |33.32%
+| {{party shading/Other}} |470
+| {{party shading/Other}} |3.37%
+| {{party shading/Republican}} |4,185
+| {{party shading/Republican}} |29.99%
+| {{party shading/Republican}} |13,953
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Delaware County, Ohio|Delaware]]
+| {{party shading/Republican}} |53,674
+| {{party shading/Republican}} |56.35%
+| {{party shading/Democratic}} |39,655
+| {{party shading/Democratic}} |41.64%
+| {{party shading/Other}} |1,915
+| {{party shading/Other}} |2.01%
+| {{party shading/Republican}} |14,019
+| {{party shading/Republican}} |14.71%
+| {{party shading/Republican}} |95,244
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Erie County, Ohio|Erie]]
+| {{party shading/Republican}} |14,577
+| {{party shading/Republican}} |48.14%
+| {{party shading/Democratic}} |14,494
+| {{party shading/Democratic}} |47.87%
+| {{party shading/Other}} |1,207
+| {{party shading/Other}} |3.99%
+| {{party shading/Republican}} |83
+| {{party shading/Republican}} |0.27%
+| {{party shading/Republican}} |30,278
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Fairfield County, Ohio|Fairfield]]
+| {{party shading/Republican}} |35,445
+| {{party shading/Republican}} |59.31%
+| {{party shading/Democratic}} |22,702
+| {{party shading/Democratic}} |37.99%
+| {{party shading/Other}} |1,612
+| {{party shading/Other}} |2.70%
+| {{party shading/Republican}} |12,743
+| {{party shading/Republican}} |21.32%
+| {{party shading/Republican}} |59,759
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Fayette County, Ohio|Fayette]]
+| {{party shading/Republican}} |5,955
+| {{party shading/Republican}} |69.72%
+| {{party shading/Democratic}} |2,381
+| {{party shading/Democratic}} |27.88%
+| {{party shading/Other}} |205
+| {{party shading/Other}} |2.40%
+| {{party shading/Republican}} |3,574
+| {{party shading/Republican}} |41.84%
+| {{party shading/Republican}} |8,541
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Franklin County, Ohio|Franklin]]
+| {{party shading/Republican}} |166,057
+| {{party shading/Republican}} |34.07%
+| {{party shading/Democratic}} |310,205
+| {{party shading/Democratic}} |63.65%
+| {{party shading/Other}} |11,089
+| {{party shading/Other}} |2.28%
+| {{party shading/Democratic}} |-144,148
+| {{party shading/Democratic}} |-29.58%
+| {{party shading/Democratic}} |487,351
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Fulton County, Ohio|Fulton]]
+| {{party shading/Republican}} |10,467
+| {{party shading/Republican}} |64.19%
+| {{party shading/Democratic}} |5,275
+| {{party shading/Democratic}} |32.35%
+| {{party shading/Other}} |565
+| {{party shading/Other}} |3.46%
+| {{party shading/Republican}} |5,192
+| {{party shading/Republican}} |31.84%
+| {{party shading/Republican}} |16,307
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Gallia County, Ohio|Gallia]]
+| {{party shading/Republican}} |6,820
+| {{party shading/Republican}} |70.11%
+| {{party shading/Democratic}} |2,707
+| {{party shading/Democratic}} |27.83%
+| {{party shading/Other}} |200
+| {{party shading/Other}} |2.06%
+| {{party shading/Republican}} |4,113
+| {{party shading/Republican}} |42.28%
+| {{party shading/Republican}} |9,727
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Geauga County, Ohio|Geauga]]
+| {{party shading/Republican}} |25,468
+| {{party shading/Republican}} |59.82%
+| {{party shading/Democratic}} |15,887
+| {{party shading/Democratic}} |37.32%
+| {{party shading/Other}} |1,218
+| {{party shading/Other}} |2.86%
+| {{party shading/Republican}} |9,581
+| {{party shading/Republican}} |22.50%
+| {{party shading/Republican}} |42,573
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Greene County, Ohio|Greene]]
+| {{party shading/Republican}} |42,173
+| {{party shading/Republican}} |61.20%
+| {{party shading/Democratic}} |24,557
+| {{party shading/Democratic}} |35.63%
+| {{party shading/Other}} |2,184
+| {{party shading/Other}} |3.17%
+| {{party shading/Republican}} |17,616
+| {{party shading/Republican}} |25.57%
+| {{party shading/Republican}} |68,914
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Guernsey County, Ohio|Guernsey]]
+| {{party shading/Republican}} |8,242
+| {{party shading/Republican}} |65.20%
+| {{party shading/Democratic}} |3,965
+| {{party shading/Democratic}} |31.36%
+| {{party shading/Other}} |435
+| {{party shading/Other}} |3.44%
+| {{party shading/Republican}} |4,277
+| {{party shading/Republican}} |33.84%
+| {{party shading/Republican}} |12,642
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Hamilton County, Ohio|Hamilton]]
+| {{party shading/Republican}} |148,272
+| {{party shading/Republican}} |43.65%
+| {{party shading/Democratic}} |181,979
+| {{party shading/Democratic}} |53.57%
+| {{party shading/Other}} |9,433
+| {{party shading/Other}} |2.78%
+| {{party shading/Democratic}} |-33,707
+| {{party shading/Democratic}} |-9.92%
+| {{party shading/Democratic}} |339,684
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Hancock County, Ohio|Hancock]]
+| {{party shading/Republican}} |19,112
+| {{party shading/Republican}} |67.23%
+| {{party shading/Democratic}} |8,427
+| {{party shading/Democratic}} |29.65%
+| {{party shading/Other}} |887
+| {{party shading/Other}} |3.12%
+| {{party shading/Republican}} |10,685
+| {{party shading/Republican}} |37.58%
+| {{party shading/Republican}} |28,426
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Hardin County, Ohio|Hardin]]
+| {{party shading/Republican}} |6,309
+| {{party shading/Republican}} |67.02%
+| {{party shading/Democratic}} |2,714
+| {{party shading/Democratic}} |28.83%
+| {{party shading/Other}} |391
+| {{party shading/Other}} |4.15%
+| {{party shading/Republican}} |3,595
+| {{party shading/Republican}} |38.19%
+| {{party shading/Republican}} |9,414
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Harrison County, Ohio|Harrison]]
+| {{party shading/Republican}} |3,851
+| {{party shading/Republican}} |66.11%
+| {{party shading/Democratic}} |1,780
+| {{party shading/Democratic}} |30.56%
+| {{party shading/Other}} |194
+| {{party shading/Other}} |3.33%
+| {{party shading/Republican}} |2,071
+| {{party shading/Republican}} |35.55%
+| {{party shading/Republican}} |5,825
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Henry County, Ohio|Henry]]
+| {{party shading/Republican}} |7,255
+| {{party shading/Republican}} |67.58%
+| {{party shading/Democratic}} |3,091
+| {{party shading/Democratic}} |28.79%
+| {{party shading/Other}} |389
+| {{party shading/Other}} |3.63%
+| {{party shading/Republican}} |4,164
+| {{party shading/Republican}} |38.79%
+| {{party shading/Republican}} |10,735
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Highland County, Ohio|Highland]]
+| {{party shading/Republican}} |9,942
+| {{party shading/Republican}} |73.10%
+| {{party shading/Democratic}} |3,222
+| {{party shading/Democratic}} |23.69%
+| {{party shading/Other}} |436
+| {{party shading/Other}} |3.21%
+| {{party shading/Republican}} |6,720
+| {{party shading/Republican}} |49.41%
+| {{party shading/Republican}} |13,600
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Hocking County, Ohio|Hocking]]
+| {{party shading/Republican}} |5,988
+| {{party shading/Republican}} |60.16%
+| {{party shading/Democratic}} |3,604
+| {{party shading/Democratic}} |36.21%
+| {{party shading/Other}} |362
+| {{party shading/Other}} |3.63%
+| {{party shading/Republican}} |2,384
+| {{party shading/Republican}} |23.95%
+| {{party shading/Republican}} |9,954
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Holmes County, Ohio|Holmes]]
+| {{party shading/Republican}} |7,031
+| {{party shading/Republican}} |79.16%
+| {{party shading/Democratic}} |1,595
+| {{party shading/Democratic}} |17.96%
+| {{party shading/Other}} |256
+| {{party shading/Other}} |2.88%
+| {{party shading/Republican}} |5,436
+| {{party shading/Republican}} |61.20%
+| {{party shading/Republican}} |8,882
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Huron County, Ohio|Huron]]
+| {{party shading/Republican}} |11,536
+| {{party shading/Republican}} |60.93%
+| {{party shading/Democratic}} |6,517
+| {{party shading/Democratic}} |34.42%
+| {{party shading/Other}} |881
+| {{party shading/Other}} |4.65%
+| {{party shading/Republican}} |5,019
+| {{party shading/Republican}} |26.51%
+| {{party shading/Republican}} |18,934
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Jackson County, Ohio|Jackson]]
+| {{party shading/Republican}} |6,913
+| {{party shading/Republican}} |67.69%
+| {{party shading/Democratic}} |3,047
+| {{party shading/Democratic}} |29.84%
+| {{party shading/Other}} |252
+| {{party shading/Other}} |2.47%
+| {{party shading/Republican}} |3,866
+| {{party shading/Republican}} |37.85%
+| {{party shading/Republican}} |10,212
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Jefferson County, Ohio|Jefferson]]
+| {{party shading/Republican}} |14,863
+| {{party shading/Republican}} |60.52%
+| {{party shading/Democratic}} |8,890
+| {{party shading/Democratic}} |36.20%
+| {{party shading/Other}} |806
+| {{party shading/Other}} |3.28%
+| {{party shading/Republican}} |5,973
+| {{party shading/Republican}} |24.32%
+| {{party shading/Republican}} |24,559
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Knox County, Ohio|Knox]]
+| {{party shading/Republican}} |14,726
+| {{party shading/Republican}} |65.24%
+| {{party shading/Democratic}} |7,126
+| {{party shading/Democratic}} |31.57%
+| {{party shading/Other}} |719
+| {{party shading/Other}} |3.19%
+| {{party shading/Republican}} |7,600
+| {{party shading/Republican}} |33.67%
+| {{party shading/Republican}} |22,571
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Lake County, Ohio|Lake]]
+| {{party shading/Republican}} |50,783
+| {{party shading/Republican}} |53.41%
+| {{party shading/Democratic}} |41,355
+| {{party shading/Democratic}} |43.49%
+| {{party shading/Other}} |2,947
+| {{party shading/Other}} |3.10%
+| {{party shading/Republican}} |9,428
+| {{party shading/Republican}} |9.92%
+| {{party shading/Republican}} |95,085
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Lawrence County, Ohio|Lawrence]]
+| {{party shading/Republican}} |13,510
+| {{party shading/Republican}} |65.75%
+| {{party shading/Democratic}} |6,557
+| {{party shading/Democratic}} |31.91%
+| {{party shading/Other}} |482
+| {{party shading/Other}} |2.34%
+| {{party shading/Republican}} |6,953
+| {{party shading/Republican}} |33.84%
+| {{party shading/Republican}} |20,549
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Licking County, Ohio|Licking]]
+| {{party shading/Republican}} |41,647
+| {{party shading/Republican}} |60.61%
+| {{party shading/Democratic}} |25,168
+| {{party shading/Democratic}} |36.63%
+| {{party shading/Other}} |1,893
+| {{party shading/Other}} |2.76%
+| {{party shading/Republican}} |16,479
+| {{party shading/Republican}} |23.98%
+| {{party shading/Republican}} |68,708
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Logan County, Ohio|Logan]]
+| {{party shading/Republican}} |11,823
+| {{party shading/Republican}} |71.74%
+| {{party shading/Democratic}} |3,989
+| {{party shading/Democratic}} |24.21%
+| {{party shading/Other}} |668
+| {{party shading/Other}} |4.05%
+| {{party shading/Republican}} |7,834
+| {{party shading/Republican}} |47.53%
+| {{party shading/Republican}} |16,480
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Lorain County, Ohio|Lorain]]
+| {{party shading/Republican}} |52,268
+| {{party shading/Republican}} |45.63%
+| {{party shading/Democratic}} |58,846
+| {{party shading/Democratic}} |51.37%
+| {{party shading/Other}} |3,444
+| {{party shading/Other}} |3.00%
+| {{party shading/Democratic}} |-6,578
+| {{party shading/Democratic}} |-5.74%
+| {{party shading/Democratic}} |114,558
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Lucas County, Ohio|Lucas]]
+| {{party shading/Republican}} |57,004
+| {{party shading/Republican}} |37.37%
+| {{party shading/Democratic}} |90,232
+| {{party shading/Democratic}} |59.16%
+| {{party shading/Other}} |5,294
+| {{party shading/Other}} |3.47%
+| {{party shading/Democratic}} |-33,228
+| {{party shading/Democratic}} |-21.79%
+| {{party shading/Democratic}} |152,530
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Madison County, Ohio|Madison]]
+| {{party shading/Republican}} |9,084
+| {{party shading/Republican}} |65.53%
+| {{party shading/Democratic}} |4,371
+| {{party shading/Democratic}} |31.53%
+| {{party shading/Other}} |407
+| {{party shading/Other}} |2.94%
+| {{party shading/Republican}} |4,713
+| {{party shading/Republican}} |34.00%
+| {{party shading/Republican}} |13,862
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Mahoning County, Ohio|Mahoning]]
+| {{party shading/Republican}} |38,689
+| {{party shading/Republican}} |42.65%
+| {{party shading/Democratic}} |49,740
+| {{party shading/Democratic}} |54.83%
+| {{party shading/Other}} |2,290
+| {{party shading/Other}} |2.52%
+| {{party shading/Democratic}} |-11,051
+| {{party shading/Democratic}} |-12.18%
+| {{party shading/Democratic}} |90,719
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Marion County, Ohio|Marion]]
+| {{party shading/Republican}} |12,631
+| {{party shading/Republican}} |61.34%
+| {{party shading/Democratic}} |7,176
+| {{party shading/Democratic}} |34.85%
+| {{party shading/Other}} |785
+| {{party shading/Other}} |3.81%
+| {{party shading/Republican}} |5,455
+| {{party shading/Republican}} |26.49%
+| {{party shading/Republican}} |20,592
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Medina County, Ohio|Medina]]
+| {{party shading/Republican}} |43,650
+| {{party shading/Republican}} |57.92%
+| {{party shading/Democratic}} |29,529
+| {{party shading/Democratic}} |39.18%
+| {{party shading/Other}} |2,182
+| {{party shading/Other}} |2.90%
+| {{party shading/Republican}} |14,121
+| {{party shading/Republican}} |18.74%
+| {{party shading/Republican}} |75,361
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Meigs County, Ohio|Meigs]]
+| {{party shading/Republican}} |5,383
+| {{party shading/Republican}} |68.44%
+| {{party shading/Democratic}} |2,290
+| {{party shading/Democratic}} |29.12%
+| {{party shading/Other}} |192
+| {{party shading/Other}} |2.44%
+| {{party shading/Republican}} |3,093
+| {{party shading/Republican}} |39.32%
+| {{party shading/Republican}} |7,865
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Mercer County, Ohio|Mercer]]
+| {{party shading/Republican}} |13,697
+| {{party shading/Republican}} |79.02%
+| {{party shading/Democratic}} |3,161
+| {{party shading/Democratic}} |18.24%
+| {{party shading/Other}} |476
+| {{party shading/Other}} |2.74%
+| {{party shading/Republican}} |10,536
+| {{party shading/Republican}} |60.78%
+| {{party shading/Republican}} |17,334
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Miami County, Ohio|Miami]]
+| {{party shading/Republican}} |29,014
+| {{party shading/Republican}} |69.36%
+| {{party shading/Democratic}} |11,314
+| {{party shading/Democratic}} |27.05%
+| {{party shading/Other}} |1,502
+| {{party shading/Other}} |3.59%
+| {{party shading/Republican}} |17,700
+| {{party shading/Republican}} |42.31%
+| {{party shading/Republican}} |41,830
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Monroe County, Ohio|Monroe]]
+| {{party shading/Republican}} |3,219
+| {{party shading/Republican}} |62.68%
+| {{party shading/Democratic}} |1,760
+| {{party shading/Democratic}} |34.27%
+| {{party shading/Other}} |157
+| {{party shading/Other}} |3.05%
+| {{party shading/Republican}} |1,459
+| {{party shading/Republican}} |28.41%
+| {{party shading/Republican}} |5,136
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Montgomery County, Ohio|Montgomery]]
+| {{party shading/Republican}} |100,021
+| {{party shading/Republican}} |48.55%
+| {{party shading/Democratic}} |99,812
+| {{party shading/Democratic}} |48.45%
+| {{party shading/Other}} |6,197
+| {{party shading/Other}} |3.00%
+| {{party shading/Republican}} |209
+| {{party shading/Republican}} |0.10%
+| {{party shading/Republican}} |206,030
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Morgan County, Ohio|Morgan]]
+| {{party shading/Republican}} |3,297
+| {{party shading/Republican}} |64.57%
+| {{party shading/Democratic}} |1,663
+| {{party shading/Democratic}} |32.57%
+| {{party shading/Other}} |146
+| {{party shading/Other}} |2.86%
+| {{party shading/Republican}} |1,634
+| {{party shading/Republican}} |32.00%
+| {{party shading/Republican}} |5,106
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Morrow County, Ohio|Morrow]]
+| {{party shading/Republican}} |9,127
+| {{party shading/Republican}} |69.10%
+| {{party shading/Democratic}} |3,601
+| {{party shading/Democratic}} |27.26%
+| {{party shading/Other}} |480
+| {{party shading/Other}} |3.64%
+| {{party shading/Republican}} |5,526
+| {{party shading/Republican}} |41.84%
+| {{party shading/Republican}} |13,208
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Muskingum County, Ohio|Muskingum]]
+| {{party shading/Republican}} |18,622
+| {{party shading/Republican}} |63.92%
+| {{party shading/Democratic}} |9,653
+| {{party shading/Democratic}} |33.13%
+| {{party shading/Other}} |860
+| {{party shading/Other}} |2.95%
+| {{party shading/Republican}} |8,969
+| {{party shading/Republican}} |30.79%
+| {{party shading/Republican}} |29,135
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Noble County, Ohio|Noble]]
+| {{party shading/Republican}} |3,146
+| {{party shading/Republican}} |67.89%
+| {{party shading/Democratic}} |1,338
+| {{party shading/Democratic}} |28.87%
+| {{party shading/Other}} |150
+| {{party shading/Other}} |3.24%
+| {{party shading/Republican}} |1,808
+| {{party shading/Republican}} |39.02%
+| {{party shading/Republican}} |4,634
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Ottawa County, Ohio|Ottawa]]
+| {{party shading/Republican}} |9,880
+| {{party shading/Republican}} |54.10%
+| {{party shading/Democratic}} |7,695
+| {{party shading/Democratic}} |42.14%
+| {{party shading/Other}} |687
+| {{party shading/Other}} |3.76%
+| {{party shading/Republican}} |2,185
+| {{party shading/Republican}} |11.96%
+| {{party shading/Republican}} |18,262
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Paulding County, Ohio|Paulding]]
+| {{party shading/Republican}} |4,705
+| {{party shading/Republican}} |68.34%
+| {{party shading/Democratic}} |1,965
+| {{party shading/Democratic}} |28.54%
+| {{party shading/Other}} |215
+| {{party shading/Other}} |3.12%
+| {{party shading/Republican}} |2,740
+| {{party shading/Republican}} |39.80%
+| {{party shading/Republican}} |6,885
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Perry County, Ohio|Perry]]
+| {{party shading/Republican}} |7,418
+| {{party shading/Republican}} |63.99%
+| {{party shading/Democratic}} |3,754
+| {{party shading/Democratic}} |32.38%
+| {{party shading/Other}} |420
+| {{party shading/Other}} |3.63%
+| {{party shading/Republican}} |3,664
+| {{party shading/Republican}} |31.61%
+| {{party shading/Republican}} |11,592
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Pickaway County, Ohio|Pickaway]]
+| {{party shading/Republican}} |13,230
+| {{party shading/Republican}} |66.18%
+| {{party shading/Democratic}} |6,219
+| {{party shading/Democratic}} |31.11%
+| {{party shading/Other}} |541
+| {{party shading/Other}} |2.71%
+| {{party shading/Republican}} |7,011
+| {{party shading/Republican}} |35.07%
+| {{party shading/Republican}} |19,990
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Pike County, Ohio|Pike]]
+| {{party shading/Republican}} |5,360
+| {{party shading/Republican}} |60.46%
+| {{party shading/Democratic}} |3,237
+| {{party shading/Democratic}} |36.51%
+| {{party shading/Other}} |269
+| {{party shading/Other}} |3.03%
+| {{party shading/Republican}} |2,123
+| {{party shading/Republican}} |23.95%
+| {{party shading/Republican}} |8,866
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Portage County, Ohio|Portage]]
+| {{party shading/Republican}} |29,563
+| {{party shading/Republican}} |48.73%
+| {{party shading/Democratic}} |28,679
+| {{party shading/Democratic}} |47.27%
+| {{party shading/Other}} |2,427
+| {{party shading/Other}} |4.00%
+| {{party shading/Republican}} |884
+| {{party shading/Republican}} |1.46%
+| {{party shading/Republican}} |60,669
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Preble County, Ohio|Preble]]
+| {{party shading/Republican}} |11,389
+| {{party shading/Republican}} |71.98%
+| {{party shading/Democratic}} |3,678
+| {{party shading/Democratic}} |23.24%
+| {{party shading/Other}} |756
+| {{party shading/Other}} |4.78%
+| {{party shading/Republican}} |7,711
+| {{party shading/Republican}} |48.74%
+| {{party shading/Republican}} |15,823
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Putnam County, Ohio|Putnam]]
+| {{party shading/Republican}} |11,875
+| {{party shading/Republican}} |79.81%
+| {{party shading/Democratic}} |2,672
+| {{party shading/Democratic}} |17.96%
+| {{party shading/Other}} |332
+| {{party shading/Other}} |2.23%
+| {{party shading/Republican}} |9,203
+| {{party shading/Republican}} |61.85%
+| {{party shading/Republican}} |14,879
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Richland County, Ohio|Richland]]
+| {{party shading/Republican}} |28,381
+| {{party shading/Republican}} |63.51%
+| {{party shading/Democratic}} |14,827
+| {{party shading/Democratic}} |33.18%
+| {{party shading/Other}} |1,476
+| {{party shading/Other}} |3.31%
+| {{party shading/Republican}} |13,554
+| {{party shading/Republican}} |30.33%
+| {{party shading/Republican}} |44,684
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Ross County, Ohio|Ross]]
+| {{party shading/Republican}} |13,987
+| {{party shading/Republican}} |59.65%
+| {{party shading/Democratic}} |8,760
+| {{party shading/Democratic}} |37.36%
+| {{party shading/Other}} |700
+| {{party shading/Other}} |2.99%
+| {{party shading/Republican}} |5,227
+| {{party shading/Republican}} |22.29%
+| {{party shading/Republican}} |23,447
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Sandusky County, Ohio|Sandusky]]
+| {{party shading/Republican}} |12,373
+| {{party shading/Republican}} |55.95%
+| {{party shading/Democratic}} |8,721
+| {{party shading/Democratic}} |39.44%
+| {{party shading/Other}} |1,019
+| {{party shading/Other}} |4.61%
+| {{party shading/Republican}} |3,652
+| {{party shading/Republican}} |16.51%
+| {{party shading/Republican}} |22,113
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Scioto County, Ohio|Scioto]]
+| {{party shading/Republican}} |14,499
+| {{party shading/Republican}} |60.81%
+| {{party shading/Democratic}} |8,806
+| {{party shading/Democratic}} |36.93%
+| {{party shading/Other}} |540
+| {{party shading/Other}} |2.26%
+| {{party shading/Republican}} |5,693
+| {{party shading/Republican}} |23.88%
+| {{party shading/Republican}} |23,845
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Seneca County, Ohio|Seneca]]
+| {{party shading/Republican}} |11,521
+| {{party shading/Republican}} |61.45%
+| {{party shading/Democratic}} |6,457
+| {{party shading/Democratic}} |34.44%
+| {{party shading/Other}} |772
+| {{party shading/Other}} |4.11%
+| {{party shading/Republican}} |5,064
+| {{party shading/Republican}} |27.01%
+| {{party shading/Republican}} |18,750
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Shelby County, Ohio|Shelby]]
+| {{party shading/Republican}} |13,924
+| {{party shading/Republican}} |74.92%
+| {{party shading/Democratic}} |4,032
+| {{party shading/Democratic}} |21.70%
+| {{party shading/Other}} |628
+| {{party shading/Other}} |3.38%
+| {{party shading/Republican}} |9,892
+| {{party shading/Republican}} |53.22%
+| {{party shading/Republican}} |18,584
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Stark County, Ohio|Stark]]
+| {{party shading/Republican}} |75,121
+| {{party shading/Republican}} |53.75%
+| {{party shading/Democratic}} |59,949
+| {{party shading/Democratic}} |42.89%
+| {{party shading/Other}} |4,694
+| {{party shading/Other}} |3.36%
+| {{party shading/Republican}} |15,172
+| {{party shading/Republican}} |10.86%
+| {{party shading/Republican}} |139,764
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Summit County, Ohio|Summit]]
+| {{party shading/Republican}} |88,088
+| {{party shading/Republican}} |41.56%
+| {{party shading/Democratic}} |117,744
+| {{party shading/Democratic}} |55.56%
+| {{party shading/Other}} |6,106
+| {{party shading/Other}} |2.88%
+| {{party shading/Democratic}} |-29,656
+| {{party shading/Democratic}} |-14.00%
+| {{party shading/Democratic}} |211,938
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Trumbull County, Ohio|Trumbull]]
+| {{party shading/Republican}} |34,139
+| {{party shading/Republican}} |45.65%
+| {{party shading/Democratic}} |38,522
+| {{party shading/Democratic}} |51.51%
+| {{party shading/Other}} |2,119
+| {{party shading/Other}} |2.84%
+| {{party shading/Democratic}} |-4,383
+| {{party shading/Democratic}} |-5.86%
+| {{party shading/Democratic}} |74,780
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Tuscarawas County, Ohio|Tuscarawas]]
+| {{party shading/Republican}} |19,394
+| {{party shading/Republican}} |60.10%
+| {{party shading/Democratic}} |11,649
+| {{party shading/Democratic}} |36.10%
+| {{party shading/Other}} |1,225
+| {{party shading/Other}} |3.80%
+| {{party shading/Republican}} |7,745
+| {{party shading/Republican}} |24.00%
+| {{party shading/Republican}} |32,268
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Union County, Ohio|Union]]
+| {{party shading/Republican}} |15,526
+| {{party shading/Republican}} |64.93%
+| {{party shading/Democratic}} |7,598
+| {{party shading/Democratic}} |31.78%
+| {{party shading/Other}} |787
+| {{party shading/Other}} |3.29%
+| {{party shading/Republican}} |7,928
+| {{party shading/Republican}} |33.15%
+| {{party shading/Republican}} |23,911
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Van Wert County, Ohio|Van Wert]]
+| {{party shading/Republican}} |8,112
+| {{party shading/Republican}} |75.71%
+| {{party shading/Democratic}} |2,293
+| {{party shading/Democratic}} |21.40%
+| {{party shading/Other}} |309
+| {{party shading/Other}} |2.89%
+| {{party shading/Republican}} |5,819
+| {{party shading/Republican}} |54.31%
+| {{party shading/Republican}} |10,714
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Vinton County, Ohio|Vinton]]
+| {{party shading/Republican}} |2,561
+| {{party shading/Republican}} |63.08%
+| {{party shading/Democratic}} |1,380
+| {{party shading/Democratic}} |33.99%
+| {{party shading/Other}} |119
+| {{party shading/Other}} |2.93%
+| {{party shading/Republican}} |1,181
+| {{party shading/Republican}} |29.09%
+| {{party shading/Republican}} |4,060
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Warren County, Ohio|Warren]]
+| {{party shading/Republican}} |66,190
+| {{party shading/Republican}} |66.51%
+| {{party shading/Democratic}} |30,720
+| {{party shading/Democratic}} |30.87%
+| {{party shading/Other}} |2,611
+| {{party shading/Other}} |2.62%
+| {{party shading/Republican}} |35,470
+| {{party shading/Republican}} |35.64%
+| {{party shading/Republican}} |99,521
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Washington County, Ohio|Washington]]
+| {{party shading/Republican}} |15,497
+| {{party shading/Republican}} |66.26%
+| {{party shading/Democratic}} |7,221
+| {{party shading/Democratic}} |30.88%
+| {{party shading/Other}} |669
+| {{party shading/Other}} |2.86%
+| {{party shading/Republican}} |8,276
+| {{party shading/Republican}} |35.38%
+| {{party shading/Republican}} |23,387
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Wayne County, Ohio|Wayne]]
+| {{party shading/Republican}} |25,270
+| {{party shading/Republican}} |63.08%
+| {{party shading/Democratic}} |13,470
+| {{party shading/Democratic}} |33.62%
+| {{party shading/Other}} |1,320
+| {{party shading/Other}} |3.30%
+| {{party shading/Republican}} |11,800
+| {{party shading/Republican}} |29.46%
+| {{party shading/Republican}} |40,060
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Williams County, Ohio|Williams]]
+| {{party shading/Republican}} |9,323
+| {{party shading/Republican}} |69.50%
+| {{party shading/Democratic}} |3,604
+| {{party shading/Democratic}} |26.87%
+| {{party shading/Other}} |488
+| {{party shading/Other}} |3.63%
+| {{party shading/Republican}} |5,719
+| {{party shading/Republican}} |42.63%
+| {{party shading/Republican}} |13,415
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Wood County, Ohio|Wood]]
+| {{party shading/Republican}} |25,193
+| {{party shading/Republican}} |50.29%
+| {{party shading/Democratic}} |23,051
+| {{party shading/Democratic}} |46.01%
+| {{party shading/Other}} |1,853
+| {{party shading/Other}} |3.70%
+| {{party shading/Republican}} |2,142
+| {{party shading/Republican}} |4.28%
+| {{party shading/Republican}} |50,097
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Wyandot County, Ohio|Wyandot]]
+| {{party shading/Republican}} |5,565
+| {{party shading/Republican}} |68.17%
+| {{party shading/Democratic}} |2,286
+| {{party shading/Democratic}} |28.00%
+| {{party shading/Other}} |312
+| {{party shading/Other}} |3.83%
+| {{party shading/Republican}} |3,279
+| {{party shading/Republican}} |40.17%
+| {{party shading/Republican}} |8,163
+|-
+!Totals!!2,235,825!!50.40%!!2,070,046!!46.67%!!129,949!!2.93%!!165,779!!3.73%!!4,435,820
+|}
+'''Counties that flipped from Democratic to Republican'''
+* [[Monroe County, Ohio|Monroe]] (largest city: [[Woodsfield, Ohio|Woodsfield]])
+
+'''Counties that flipped from Republican to Democratic'''
+* [[Cuyahoga County, Ohio|Cuyahoga]] (largest city: [[Cleveland]])
+* [[Franklin County, Ohio|Franklin]] (largest city: [[Columbus, Ohio|Columbus]])
+* [[Hamilton County, Ohio|Hamilton]] (largest city: [[Cincinnati]])
+* [[Lorain County, Ohio|Lorain]] (largest city: [[Lorain, Ohio|Lorain]])
+* [[Lucas County, Ohio|Lucas]] (largest city: [[Toledo, Ohio|Toledo]])
+* [[Mahoning County, Ohio|Mahoning]] (largest city: [[Youngstown, Ohio|Youngstown]])
+* [[Summit County, Ohio|Summit]] (largest city: [[Akron, Ohio|Akron]])
+* [[Trumbull County, Ohio|Trumbull]] (largest city: [[Warren, Ohio|Warren]])
+
+{{align|right|{{Switcher
+|[[File:County swing in the 2018 Ohio gubernatorial election.svg|300px]]|Swing by county
+|[[File:County trend in the 2018 Ohio gubernatorial election.svg|300px]]|Trend relative to the state by county
+{{collapsible list | title = Legend
+|{{legend|#d40000|Republican — >15%}}
+|{{legend|#ff0000|Republican — +12.5−15%}}
+|{{legend|#ff2a2a|Republican — +10−12.5%}}
+|{{legend|#ff5555|Republican — +7.5−10%}}
+|{{legend|#ff8080|Republican — +5−7.5%}}
+|{{legend|#ffaaaa|Republican — +2.5−5%}}
+|{{legend|#ffd5d5|Republican — +0−2.5%}}
+|{{legend|#d5f6ff|Democratic — +0−2.5%}}
+|{{legend|#aaeeff|Democratic — +2.5−5%}}
+|{{legend|#77e3ff|Democratic — +5−7.5%}}
+|{{legend|#4bdbff|Democratic — +7.5-10%}}
+|{{legend|#09ceff|Democratic — +10−12.5%}}
+|{{legend|#00bdec|Democratic — +12.5−15%}}
+|{{legend|#00a1c8|Democratic — >15%}}}}|
+[[File:County flips in the 2018 Ohio gubernatorial election.svg|300px]]|County flips<br />{{collapsible list| title = Legend| {{col-start}}
+{{col-2}}
+'''Democratic'''
+{{legend|#92c5de|Hold}}
+{{legend|#0671b0|Flip}}
+{{col-2}}
+'''Republican'''
+{{legend|#f48882|Hold}}
+{{legend|#ca0120|Flip}}
+{{col-end}}}}}}}}
+
+====By congressional district====
+DeWine won 12 of 16 congressional districts.<ref>{{Cite web|url=https://davesredistricting.org/maps|title=DRA 2020|website=Daves Redistricting}}</ref>
+{|class=wikitable
+! District
+! DeWine
+! Cordray
+! Representative
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|1|1st}}
+| '''52%'''
+| 45%
+| {{party shading/Republican}}|[[Steve Chabot]] 
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|2|2nd}}
+| '''54%'''
+| 43%
+| {{party shading/Republican}}|[[Brad Wenstrup]]
+|- align=center
+! {{party shading/Democratic}}|{{ushr|Ohio|3|3rd}}
+| 28%
+| '''70%'''
+| {{party shading/Democratic}}|[[Joyce Beatty]]
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|4|4th}}
+| '''62%'''
+| 34%
+| {{party shading/Republican}}|[[Jim Jordan]]
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|5|5th}}
+| '''58%'''
+| 38%
+| {{party shading/Republican}}|[[Bob Latta]]
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|6|6th}}
+| '''64%'''
+| 33%
+| {{party shading/Republican}}|[[Bill Johnson (Ohio politician)|Bill Johnson]]
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|7|7th}}
+| '''59%'''
+| 37%
+| {{party shading/Republican}}|[[Bob Gibbs]] 
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|8|8th}}
+| '''64%'''
+| 32%
+| {{party shading/Republican}}|[[Warren Davidson]] 
+|- align=center
+! {{party shading/Democratic}}|{{ushr|Ohio|9|9th}}
+| 35%
+| '''61%'''
+| {{party shading/Democratic}}|[[Marcy Kaptur]]
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|10|10th}}
+| '''52%'''
+| 45%
+| {{party shading/Republican}}|[[Mike Turner]]
+|- align=center
+! {{party shading/Democratic}}|{{ushr|Ohio|11|11th}}
+| 18%
+| '''79%'''
+| {{party shading/Democratic}}|[[Marcia Fudge]] 
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|12|12th}}
+| '''52%'''
+| 45%
+| {{party shading/Republican}}|[[Troy Balderson]]
+|- align=center
+! {{party shading/Democratic}}|{{ushr|Ohio|13|13th}}
+| 40%
+| '''57%'''
+| {{party shading/Democratic}}|[[Tim Ryan (Ohio politician)|Tim Ryan]]
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|14|14th}}
+| '''52%'''
+| 45%
+| {{party shading/Republican}}|[[David Joyce (politician)|David Joyce]]
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|15|15th}}
+| '''53%'''
+| 45%
+| {{party shading/Republican}}|[[Steve Stivers]] 
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|16|16th}}
+| '''54%'''
+| 43%
+| {{party shading/Republican}}|[[Anthony Gonzalez (politician)|Anthony Gonzalez]]
+|- align=center
+|}
+
+==Notes==
+{{notelist-ua}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* [https://votesmart.org/election/2018/G/OH/2018-gubernatorial Candidates] at [[Vote Smart]]
+* [https://ballotpedia.org/Ohio_gubernatorial_election,_2018 Candidates] at [[Ballotpedia]]
+
+'''Official campaign websites'''
+* [https://web.archive.org/web/20181006061055/https://cordrayforohio.com/ Richard Cordray (D) for Governor]
+* [https://web.archive.org/web/20181106132730/https://www.mikedewine.com/ Mike DeWine (R) for Governor]
+* [https://web.archive.org/web/20180728191409/https://www.constanceforohio.org/ Constance A. Gadell-Newton (G) for Governor]
+* [https://web.archive.org/web/20180826121403/https://irvineforohio.com/ Travis Irvine (L) for Governor]
+
+{{2018 United States elections}}
+
+{{DEFAULTSORT:Ohio gubernatorial election, 2018}}
+[[Category:2018 elections in Ohio|Gubernatorial]]
+[[Category:Ohio gubernatorial elections|2018]]
+[[Category:2018 United States gubernatorial elections]]
+[[Category:November 2018 in the United States]]

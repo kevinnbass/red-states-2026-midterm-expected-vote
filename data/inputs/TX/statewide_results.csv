@@ -1,0 +1,115 @@
+state,year,office_key,office_title,race_name,special,rep_candidate,rep_votes,dem_candidate,dem_votes,rep_votes_all_lines,dem_votes_all_lines,total_votes,status,source_url,source_file,source_sha256,crosscheck_source,crosscheck_diff_rep,crosscheck_diff_dem,notes
+TX,1994,us_senate,U.S. Senate,U. S. Senator,0,Kay Bailey Hutchison(I),2604218,Richard Fisher,1639615,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,1994,governor,Governor,Governor,0,George W. Bush,2350994,Ann W. Richards(I),2016928,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,1994,lieutenant_governor,Lieutenant Governor,Lieutenant Governor,0,H.J. (Tex) Lezar,1648848,Bob Bullock(I),2631843,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,1994,attorney_general,Attorney General,Attorney General,0,Don Wittig,1850403,Dan Morales(I),2289389,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,1994,comptroller,Comptroller,Comptroller of Public Accounts,0,Teresa Doggett,1860270,John Sharp(I),2318345,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,1994,land_commissioner,Land Commissioner,Commissioner of the General Land Office,0,Marta Greytok,1964931,Garry Mauro(I),2089279,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,1994,agriculture_commissioner,Agriculture Commissioner,Commissioner of Agriculture,0,Rick Perry(I),2546287,Marvin Gregory,1479692,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,1994,railroad_commissioner,Railroad Commissioner,Railroad Commissioner,0,Charles R. Matthews,2046614,James E. (Jim) Nugent(I),1978759,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,1994,railroad_commissioner,Railroad Commissioner,Railroad Commissioner - Unexpired Term,0,Carole Keeton Rylander,2133752,Mary Scott Nabers(I),1841349,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,1994,supreme_court,Supreme Court (all seats),"Justice, Supreme Court, Place 2",0,Nathan L. Hecht(I),2298116,Alice Oliver Parrott,1791823,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,1994,supreme_court,Supreme Court (all seats),"Justice, Supreme Court, Place 3",0,Priscilla Owen,2294170,Jimmy Carroll,1747958,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,1994,cca,Court of Criminal Appeals (all seats),"Judge, Court of Criminal Appeals Place 1",0,Steve Mansfield,2122407,Charles F. Campbell(I),1811399,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,1994,cca,Court of Criminal Appeals (all seats),"Judge, Court of Criminal Appeals Place 2",0,Sharon Keller,2143356,Betty Marshall,1792047,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,1998,governor,Governor,Governor,0,George W. Bush(I),2550821,Garry Mauro,1165592,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,1998,lieutenant_governor,Lieutenant Governor,Lieutenant Governor,0,Rick Perry,1858837,John Sharp,1790106,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,1998,attorney_general,Attorney General,Attorney General,0,John Cornyn,2002794,Jim Mattox,1631045,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,1998,comptroller,Comptroller,Comptroller of Public Accounts,0,Carole Keeton Rylander,1821231,Paul Hobby,1801008,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,1998,land_commissioner,Land Commissioner,Commissioner of the General Land Office,0,David Dewhurst,2072604,Richard Raymond,1438378,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,1998,agriculture_commissioner,Agriculture Commissioner,Commissioner of Agriculture,0,Susan Combs,2021385,L.P. (Pete) Patterson,1511045,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,1998,railroad_commissioner,Railroad Commissioner,Railroad Commissioner,0,Tony Garza,2051253,Joe B. Henderson,1464278,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,1998,supreme_court,Supreme Court (all seats),"Justice, Supreme Court, Place 1",0,Craig T. Enoch(I),2049640,Mike Westergren,1473220,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,1998,supreme_court,Supreme Court (all seats),"Justice, Supreme Court, Place 2",0,Harriet O'Neill,1891339,Rose Spector(I),1642334,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,1998,supreme_court,Supreme Court (all seats),"Justice, Supreme Court, Place 3",0,Greg Abbott(I),2104828,David Van Os,1396924,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,1998,supreme_court,Supreme Court (all seats),"Justice, Supreme Court, Place 4 - Unexpired Term",0,Deborah Hankinson(I),1995811,Jerry Scarbrough,1511539,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,1998,cca,Court of Criminal Appeals (all seats),"Judge, Court of Criminal Appeals Place 1",0,Mike Keasler,1889069,Charles F. (Charlie) Baird(I),1611538,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,1998,cca,Court of Criminal Appeals (all seats),"Judge, Court of Criminal Appeals Place 2",0,Cheryl Johnson,2013959,Winston Cochran,1471200,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2002,us_senate,U.S. Senate,U. S. Senator,0,John Cornyn,2496243,Ron Kirk,1955758,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2002,governor,Governor,Governor,0,Rick Perry(I),2632591,Tony Sanchez,1819798,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2002,lieutenant_governor,Lieutenant Governor,Lieutenant Governor,0,David Dewhurst,2341875,John Sharp,2082281,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2002,attorney_general,Attorney General,Attorney General,0,Greg Abbott,2542184,Kirk Watson,1841359,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2002,comptroller,Comptroller,Comptroller of Public Accounts,0,Carole Keeton Rylander(I),2878732,Marty Akins,1476976,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2002,land_commissioner,Land Commissioner,Commissioner of the General Land Office,0,Jerry Patterson,2331700,David Bernsen,1819365,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2002,agriculture_commissioner,Agriculture Commissioner,Commissioner of Agriculture,0,Susan Combs(I),2636129,Tom Ramsay,1674372,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2002,railroad_commissioner,Railroad Commissioner,Railroad Commissioner,0,Michael L. Williams(I),2407036,Sherry Boyles,1821751,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2002,supreme_court,Supreme Court (all seats),"Chief Justice, Supreme Court",0,Tom Phillips(I),2525581,Richard G. Baker,1774242,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2002,supreme_court,Supreme Court (all seats),"Justice, Supreme Court, Place 1",0,Mike Schneider,2451791,Linda Yanez,1815581,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2002,supreme_court,Supreme Court (all seats),"Justice, Supreme Court, Place 2",0,Dale Wainwright,2440799,Jim Parsons,1814354,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2002,supreme_court,Supreme Court (all seats),"Justice, Supreme Court, Place 3 - Unexpired Term",0,Wallace B. Jefferson(I),2442111,William E. Moody,1860251,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2002,supreme_court,Supreme Court (all seats),"Justice, Supreme Court, Place 4 - Unexpired Term",0,Steven Wayne Smith,2331140,Margaret Mirabal,1978081,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2002,cca,Court of Criminal Appeals (all seats),"Judge, Court of Criminal Appeals Place 1",0,Tom Price(I),2493440,John W. Bull,1692773,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2002,cca,Court of Criminal Appeals (all seats),"Judge, Court of Criminal Appeals Place 2",0,Paul Womack(I),2463069,Pat Montgomery,1828431,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2002,cca,Court of Criminal Appeals (all seats),"Judge, Court of Criminal Appeals Place 3",0,Cathy Cochran(I),2511958,J.R. Molina,1725065,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2006,us_senate,U.S. Senate,U. S. Senator,0,Kay Bailey Hutchison(I),2661789,Barbara Ann Radnofsky,1555202,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2006,governor,Governor,Governor,0,Rick Perry(I),1716792,Chris Bell,1310337,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2006,lieutenant_governor,Lieutenant Governor,Lieutenant Governor,0,David Dewhurst(I),2513530,Maria Luisa Alvarado,1617490,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2006,attorney_general,Attorney General,Attorney General,0,Greg Abbott(I),2556063,David Van Os,1599069,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2006,comptroller,Comptroller,Comptroller of Public Accounts,0,Susan Combs,2547323,Fred Head,1585362,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2006,land_commissioner,Land Commissioner,Commissioner of the General Land Office,0,Jerry Patterson(I),2317554,VaLinda Hathcox,1721964,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2006,agriculture_commissioner,Agriculture Commissioner,Commissioner of Agriculture,0,Todd Staples,2307406,Hank Gilbert,1760402,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2006,railroad_commissioner,Railroad Commissioner,Railroad Commissioner,0,Elizabeth Ames Jones(I),2269743,Dale Henry,1752947,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2006,supreme_court,Supreme Court (all seats),"Justice, Supreme Court, Place 2",0,Don Willett(I),2135612,"William E. ""Bill"" Moody",1877909,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2006,cca,Court of Criminal Appeals (all seats),"Presiding Judge, Court of Criminal Appeals",0,Sharon Keller(I),2346204,J.R. Molina,1795416,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2010,governor,Governor,Governor,0,Rick Perry(I),2737481,Bill White,2106395,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2010,lieutenant_governor,Lieutenant Governor,Lieutenant Governor,0,David Dewhurst(I),3049109,Linda Chavez-Thompson,1719202,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2010,attorney_general,Attorney General,Attorney General,0,Greg Abbott(I),3151064,Barbara Ann Radnofsky,1655859,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2010,land_commissioner,Land Commissioner,Commissioner of the General Land Office,0,Jerry Patterson(I),3001736,Hector Uribe,1717518,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2010,agriculture_commissioner,Agriculture Commissioner,Commissioner of Agriculture,0,Todd Staples(I),2953775,Hank Gilbert,1738456,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2010,railroad_commissioner,Railroad Commissioner,Railroad Commissioner,0,David Porter,2880765,Jeff Weems,1757183,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2010,supreme_court,Supreme Court (all seats),"Justice, Supreme Court, Place 3",0,Debra Lehrmann,2907796,Jim Sharp,1809498,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2010,supreme_court,Supreme Court (all seats),"Justice, Supreme Court, Place 5",0,Paul Green(I),2903359,Bill Moody,1789646,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2010,supreme_court,Supreme Court (all seats),"Justice, Supreme Court, Place 9",0,Eva Guzman(I),2919054,Blake Bailey,1722753,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2010,cca,Court of Criminal Appeals (all seats),"Judge, Court of Criminal Appeals Place 6",0,Michael E. Keasler(I),2906012,Keith Hampton,1759365,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2014,us_senate,U.S. Senate,U. S. Senator,0,John Cornyn(I),2861531,David M. Alameel,1597387,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2014,governor,Governor,Governor,0,Greg Abbott,2796547,Wendy R. Davis,1835596,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2014,lieutenant_governor,Lieutenant Governor,Lieutenant Governor,0,Dan Patrick,2724493,Leticia Van de Putte,1813974,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2014,attorney_general,Attorney General,Attorney General,0,Ken Paxton,2743473,Sam Houston,1773250,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2014,comptroller,Comptroller,Comptroller of Public Accounts,0,Glenn Hegar,2698682,Mike Collier,1742250,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2014,land_commissioner,Land Commissioner,Commissioner of the General Land Office,0,George P. Bush,2827584,John Cook,1645828,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2014,agriculture_commissioner,Agriculture Commissioner,Commissioner of Agriculture,0,Sid Miller,2699508,Jim Hogan,1697227,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2014,railroad_commissioner,Railroad Commissioner,Railroad Commissioner,0,Ryan Sitton,2691417,Steve Brown,1682796,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2014,supreme_court,Supreme Court (all seats),"Chief Justice, Supreme Court",0,Nathan Hecht(I),2757218,William Moody,1720343,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2014,supreme_court,Supreme Court (all seats),"Justice, Supreme Court, Place 6 - Unexpired Term",0,Jeff Brown(I),2772824,Lawrence Edward Meyers,1677478,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2014,supreme_court,Supreme Court (all seats),"Justice, Supreme Court, Place 7",0,Jeff Boyd(I),2711363,Gina Benavides,1731031,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2014,cca,Court of Criminal Appeals (all seats),"Judge, Court of Criminal Appeals Place 3",0,Bert Richardson,2738412,John Granberg,1671921,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2018,us_senate,U.S. Senate,U. S. Senator,0,Ted Cruz(I),4260553,Beto O'Rourke,4045632,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2018,governor,Governor,Governor,0,Greg Abbott(I),4656196,Lupe Valdez,3546615,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2018,lieutenant_governor,Lieutenant Governor,Lieutenant Governor,0,Dan Patrick(I),4260990,Mike Collier,3860865,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2018,attorney_general,Attorney General,Attorney General,0,Ken Paxton(I),4193207,Justin Nelson,3898098,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2018,comptroller,Comptroller,Comptroller of Public Accounts,0,Glenn Hegar(I),4376828,Joi Chevalier,3570693,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2018,land_commissioner,Land Commissioner,Commissioner of the General Land Office,0,George P. Bush(I),4435202,Miguel Suazo,3567927,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2018,agriculture_commissioner,Agriculture Commissioner,Commissioner of Agriculture,0,Sid Miller(I),4221527,Kim Olson,3822137,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2018,railroad_commissioner,Railroad Commissioner,Railroad Commissioner,0,Christi Craddick(I),4376729,Roman McAllen,3612130,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2018,supreme_court,Supreme Court (all seats),"Justice, Supreme Court, Place 2",0,Jimmy Blacklock(I),4358756,Steven Kirkland,3838411,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2018,supreme_court,Supreme Court (all seats),"Justice, Supreme Court, Place 4",0,John Devine(I),4399890,R.K. Sandill,3792144,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2018,supreme_court,Supreme Court (all seats),"Justice, Supreme Court, Place 6",0,Jeff Brown(I),4404602,Kathy Cheng,3796001,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2018,cca,Court of Criminal Appeals (all seats),"Presiding Judge, Court of Criminal Appeals",0,Sharon Keller(I),4288913,Maria T. (Terri) Jackson,3734179,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2018,cca,Court of Criminal Appeals (all seats),"Judge, Court of Criminal Appeals Place 7",0,Barbara Parker Hervey(I),4429113,Ramona Franklin,3750114,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2022,governor,Governor,GOVERNOR,0,GREG ABBOTT (I),4437099,BETO O'ROURKE,3553656,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2022,lieutenant_governor,Lieutenant Governor,LIEUTENANT GOVERNOR,0,DAN PATRICK (I),4317692,MIKE COLLIER,3492544,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2022,attorney_general,Attorney General,ATTORNEY GENERAL,0,KEN PAXTON (I),4278986,ROCHELLE MERCEDES GARZA,3497267,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2022,comptroller,Comptroller,COMPTROLLER OF PUBLIC ACCOUNTS,0,GLENN HEGAR (I),4496319,JANET T. DUDDING,3265069,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2022,land_commissioner,Land Commissioner,COMMISSIONER OF THE GENERAL LAND OFFICE,0,DAWN BUCKINGHAM,4463452,JAY KLEBERG,3350291,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2022,agriculture_commissioner,Agriculture Commissioner,COMMISSIONER OF AGRICULTURE,0,SID MILLER (I),4480186,SUSAN HAYS,3473603,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2022,railroad_commissioner,Railroad Commissioner,RAILROAD COMMISSIONER,0,WAYNE CHRISTIAN (I),4401187,LUKE WARFORD,3222305,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2022,supreme_court,Supreme Court (all seats),"JUSTICE, SUPREME COURT, PLACE 3",0,DEBRA LEHRMANN (I),4475136,ERIN A. NOWELL,3330529,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2022,supreme_court,Supreme Court (all seats),"JUSTICE, SUPREME COURT, PLACE 5",0,REBECA HUDDLE (I),4530668,AMANDA REICHEK,3406054,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2022,supreme_court,Supreme Court (all seats),"JUSTICE, SUPREME COURT, PLACE 9",0,EVAN YOUNG (I),4474900,JULIA MALDONADO,3458103,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2022,cca,Court of Criminal Appeals (all seats),"JUDGE, COURT OF CRIMINAL APPEALS PLACE 5",0,SCOTT WALKER (I),4513500,DANA HUFFMAN,3413071,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2022,cca,Court of Criminal Appeals (all seats),"JUDGE, COURT OF CRIMINAL APPEALS PLACE 6",0,"JESSE F. MCCLURE, III (I)",4526307,ROBERT JOHNSON,3383705,,,,official,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2026,us_senate,U.S. Senate,U. S. SENATOR,0,KEN PAXTON,4249373,JAMES TALARICO,5444982,,,,unofficial,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2026,governor,Governor,GOVERNOR,0,GREG ABBOTT (I),4524527,GINA HINOJOSA,5230789,,,,unofficial,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2026,lieutenant_governor,Lieutenant Governor,LIEUTENANT GOVERNOR,0,DAN PATRICK (I),4484652,VIKKI GOODWIN,5083581,,,,unofficial,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2026,attorney_general,Attorney General,ATTORNEY GENERAL,0,MAYES MIDDLETON,4502442,NATHAN JOHNSON,5133629,,,,unofficial,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2026,comptroller,Comptroller,COMPTROLLER OF PUBLIC ACCOUNTS,0,DON HUFFINES,4511185,SARAH ECKHARDT,5014496,,,,unofficial,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2026,land_commissioner,Land Commissioner,COMMISSIONER OF THE GENERAL LAND OFFICE,0,DAWN BUCKINGHAM (I),4576883,BENJAMIN FLORES,5014714,,,,unofficial,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2026,agriculture_commissioner,Agriculture Commissioner,COMMISSIONER OF AGRICULTURE,0,NATE SHEETS,4538736,CLAYTON TUCKER,4991896,,,,unofficial,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2026,railroad_commissioner,Railroad Commissioner,RAILROAD COMMISSIONER,0,BO FRENCH,4426141,JON ROSENTHAL,5103177,,,,unofficial,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2026,supreme_court,Supreme Court (all seats),"CHIEF JUSTICE, SUPREME COURT",0,JIMMY BLACKLOCK (I),4625886,MAGGIE ELLIS,5102288,,,,unofficial,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2026,supreme_court,Supreme Court (all seats),"JUSTICE, SUPREME COURT, PLACE 2 - UNEXPIRED TERM",0,JAMES P. SULLIVAN (I),4631182,CHARI KELLY,5068047,,,,unofficial,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2026,supreme_court,Supreme Court (all seats),"JUSTICE, SUPREME COURT, PLACE 7",0,KYLE HAWKINS (I),4572758,KRISTEN HAWKINS,5112073,,,,unofficial,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2026,supreme_court,Supreme Court (all seats),"JUSTICE, SUPREME COURT, PLACE 8",0,BRETT BUSBY (I),4643375,GISELA D. TRIANA,5033586,,,,unofficial,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2026,cca,Court of Criminal Appeals (all seats),"JUDGE, COURT OF CRIMINAL APPEALS, PLACE 3",0,THOMAS SMITH,4601878,OKEY ANYIAM,4839230,,,,unofficial,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2026,cca,Court of Criminal Appeals (all seats),"JUDGE, COURT OF CRIMINAL APPEALS, PLACE 4",0,KEVIN PATRICK YEARY (I),4659299,AUDRA RILEY,4996898,,,,unofficial,,,,,,,from the texas-2026-midterm-expected-vote repo loaders
+TX,2026,cca,Court of Criminal Appeals (all seats),"JUDGE, COURT OF CRIMINAL APPEALS, PLACE 9",0,JOHN MESSINGER,4602681,HOLLY TAYLOR,5043094,,,,unofficial,,,,,,,from the texas-2026-midterm-expected-vote repo loaders

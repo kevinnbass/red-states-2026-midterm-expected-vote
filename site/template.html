@@ -1,0 +1,164 @@
+<title>Seven-State Expected Vote 2026</title>
+<meta name="description" content="Every statewide race in seven 2026 states against the vote each party would get in a typical midterm, with the 1994–2022 history behind it.">
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&family=IBM+Plex+Mono:wght@400;500&family=Public+Sans:ital,wght@0,400..700;1,400&display=swap">
+{{style}}
+<!-- page -->
+<header class="hero">
+  <div class="wrap">
+    <p class="kicker">{{kicker}}</p>
+    <h1>Seven states, every statewide race, against a typical midterm</h1>
+    <p class="dek">{{dek}}</p>
+    <p class="asof">{{asof}}</p>
+  </div>
+</header>
+
+<main>
+<section id="overview"><div class="wrap">
+  <div class="text">
+    <p class="eyebrow">All races at a glance</p>
+    <h2>{{ov_h2}}</h2>
+    <p>{{ov_p}}</p>
+  </div>
+  <div class="seg" role="group" aria-label="Expectation">
+    <button type="button" data-exp="plain" aria-pressed="true">Plain expectation</button>
+    <button type="button" data-exp="inc" aria-pressed="false">Adjusted for the president's party</button>
+  </div>
+  <figure class="ch wide"><p class="chart-title">Actual vote as % above or below the expected vote, every 2026 statewide race</p><div id="ch-ov"></div>
+    <figcaption>Each dot is one party's nominee in one race. 0 = exactly the expected vote. Hover or focus a dot for the race and votes.</figcaption></figure>
+</div></section>
+
+<section id="states"><div class="wrap">
+  <div class="text">
+    <p class="eyebrow">State by state</p>
+    <h2>The figures</h2>
+    <p>Pick a state. Figure 1 compares each race with the office's plain 1994–2022 pattern; Figure 2 adds the usual midterm penalty for
+      the president's party. Each figure has a 1994–2026 history on the left and the 2018, 2022 and 2026 races on the right.</p>
+  </div>
+  <div class="statebar" role="tablist" aria-label="State">{{state_tabs}}</div>
+  {{state_panels}}
+</div></section>
+
+<section id="method"><div class="wrap"><div class="text">
+  <p class="eyebrow">Method</p>
+  <h2>How the expected vote is computed</h2>
+  <ul class="plain">
+    <li><b>Plain expectation.</b> For each office, the ratio of a party's midterm vote to its presidential vote in the state two years
+      earlier, averaged over the 1994–2022 midterms; the 2026 expectation is the 2024 presidential vote times that average. For 2018 and
+      2022 the year itself is left out of the average.</li>
+    <li><b>Adjusted for the president's party.</b> The ratio = an office-and-party baseline + an effect for holding the White House. The
+      effect is one number estimated from the 1994–2022 midterms of {{pool_names}} together (each office keeps its own state's baseline):
+      {{b26}} points of the presidential vote for 2026, leaving out the year shown.</li>
+    <li><b>Votes</b> are the Republican and Democratic nominees' own party-line votes. Alaska since 2022 has no party nominees; there
+      each party's vote is the combined first-choice vote of its candidates.</li>
+    <li><b>2026 counts are unofficial.</b> {{asof_states}}</li>
+  </ul>
+  <h3>Sources by state</h3>
+  <ul class="plain">{{sources}}</ul>
+</div></div>
+  <div class="wrap"><aside class="links" aria-label="Related">
+    <h2>Go deeper</h2>
+    {{links}}
+  </aside></div>
+</section>
+</main>
+<footer><div class="wrap">{{footer}}</div></footer>
+<div id="tip" role="tooltip" hidden></div>
+<div id="lb" class="lb" hidden role="dialog" aria-modal="true" aria-label="Figure at full size">
+  <div class="lb-bar"><span id="lb-cap"></span><a id="lb-open" href="#" target="_blank" rel="noopener">Open full resolution</a><button type="button" id="lb-x" aria-label="Close">Close</button></div>
+  <div class="lb-body"><img id="lb-img" alt=""></div>
+</div>
+<script type="application/json" id="pdata">{{data_json}}</script>
+<script>
+(function () {
+  var D = JSON.parse(document.getElementById('pdata').textContent);
+  var NS = 'http://www.w3.org/2000/svg';
+  function mk(t, a, p) { var e = document.createElementNS(NS, t); for (var k in a) e.setAttribute(k, a[k]); if (p) p.appendChild(e); return e; }
+  function tx(p, x, y, s, cls, a) { var e = mk('text', Object.assign({ x: x, y: y, 'class': cls || 'lbl' }, a || {}), p); e.textContent = s; return e; }
+  function S(v, d) { return (v >= 0 ? '+' : '−') + Math.abs(v).toFixed(d == null ? 0 : d); }
+  function N(v) { return Math.round(v).toLocaleString('en-US'); }
+  var tipEl = document.getElementById('tip');
+  function showTip(t, x, y) {
+    tipEl.textContent = t.getAttribute('data-tip'); tipEl.hidden = false;
+    var r = tipEl.getBoundingClientRect(), L = x + 14, T = y + 14;
+    if (L + r.width > innerWidth - 8) L = x - r.width - 14; if (T + r.height > innerHeight - 8) T = y - r.height - 14;
+    tipEl.style.left = Math.max(8, L) + 'px'; tipEl.style.top = Math.max(8, T) + 'px';
+  }
+  document.addEventListener('pointermove', function (e) { var t = e.target.closest ? e.target.closest('[data-tip]') : null; if (t) showTip(t, e.clientX, e.clientY); else tipEl.hidden = true; });
+  document.addEventListener('focusin', function (e) { var t = e.target.closest ? e.target.closest('[data-tip]') : null; if (t) { var r = t.getBoundingClientRect(); showTip(t, r.right, r.top); } });
+  document.addEventListener('focusout', function () { tipEl.hidden = true; });
+
+  // overview dot chart
+  function overview(mode) {
+    var host = document.getElementById('ch-ov'); host.textContent = '';
+    var rows = D.overview, w = 1100, rh = 46, top = 36, L = 150, R = 30, H = top + rows.length * rh + 34;
+    var lo = 0, hi = 0;
+    rows.forEach(function (st) { st.races.forEach(function (r) { [r[mode].r, r[mode].d].forEach(function (v) { lo = Math.min(lo, v); hi = Math.max(hi, v); }); }); });
+    lo = Math.floor(lo / 20) * 20; hi = Math.ceil(hi / 20) * 20;
+    var X = function (v) { return L + (w - L - R) * (v - lo) / (hi - lo); };
+    var s = mk('svg', { viewBox: '0 0 ' + w + ' ' + H, role: 'img', 'aria-label': 'Actual vote as percent above or below expected, by state and party', 'class': 'chart' }, host);
+    mk('circle', { cx: L + 6, cy: 12, r: 6, 'class': 'f-dem' }, s); tx(s, L + 18, 16, 'Democratic nominee', 'ax');
+    mk('circle', { cx: L + 160, cy: 12, r: 6, 'class': 'f-rep' }, s); tx(s, L + 172, 16, 'Republican nominee', 'ax');
+    for (var g = lo; g <= hi; g += 20) { mk('line', { x1: X(g), x2: X(g), y1: top - 6, y2: H - 28, 'class': g ? 'grid' : 'zero' }, s); tx(s, X(g), H - 10, g ? S(g) + '%' : '0', 'ax', { 'text-anchor': 'middle' }); }
+    rows.forEach(function (st, i) {
+      var y = top + i * rh + rh / 2 - 4;
+      tx(s, L - 14, y + 5, st.name, 'lbl', { 'text-anchor': 'end' });
+      mk('line', { x1: L, x2: w - R, y1: y + rh / 2, y2: y + rh / 2, 'class': 'grid' }, s);
+      st.races.forEach(function (r) {
+        [['r', 'f-rep', 'Republican', -7], ['d', 'f-dem', 'Democratic', 7]].forEach(function (p) {
+          var v = r[mode][p[0]];
+          var c = mk('circle', { cx: X(v), cy: y + p[3], r: 6.5, 'class': p[1] + ' dotp', tabindex: 0 }, s);
+          c.setAttribute('data-tip', st.name + ', ' + r.race + ': ' + p[2] + ' nominee ' + N(r[p[0] + 'a']) + ' votes, ' + S(v, 1) + '% vs. expected (' + N(r[mode][p[0] + 'e']) + ')');
+        });
+      });
+    });
+  }
+  var segBtns = document.querySelectorAll('.seg button');
+  segBtns.forEach(function (b) { b.addEventListener('click', function () { segBtns.forEach(function (x) { x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); }); overview(b.getAttribute('data-exp')); }); });
+  overview('plain');
+
+  // state tabs
+  var tabs = Array.prototype.slice.call(document.querySelectorAll('.statebar [role=tab]'));
+  function pick(t, focus) {
+    tabs.forEach(function (x) { var on = x === t; x.setAttribute('aria-selected', on ? 'true' : 'false'); x.tabIndex = on ? 0 : -1;
+      document.getElementById(x.getAttribute('aria-controls')).hidden = !on; });
+    if (focus) t.focus();
+    try { history.replaceState(null, '', '#' + t.getAttribute('data-st')); } catch (e) {}
+  }
+  tabs.forEach(function (t, i) {
+    t.addEventListener('click', function () { pick(t); });
+    t.addEventListener('keydown', function (e) {
+      var j = e.key === 'ArrowRight' ? i + 1 : e.key === 'ArrowLeft' ? i - 1 : e.key === 'Home' ? 0 : e.key === 'End' ? tabs.length - 1 : null;
+      if (j === null) return; e.preventDefault(); pick(tabs[(j + tabs.length) % tabs.length], true);
+    });
+  });
+  var h = (location.hash || '').slice(1).toUpperCase(), start = tabs.filter(function (t) { return t.getAttribute('data-st') === h; })[0];
+  pick(start || tabs[0]);
+
+  // figure view tabs and lightbox
+  document.querySelectorAll('.figcard').forEach(function (card) {
+    var img = card.querySelector('img.fig'), btns = card.querySelectorAll('.views button'), full = card.querySelector('.full');
+    btns.forEach(function (b) {
+      b.addEventListener('click', function () {
+        btns.forEach(function (x) { x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
+        img.src = b.getAttribute('data-src'); img.width = +b.getAttribute('data-w'); img.height = +b.getAttribute('data-h');
+        img.alt = b.getAttribute('data-alt'); full.setAttribute('data-src', b.getAttribute('data-src')); full.setAttribute('data-cap', b.getAttribute('data-cap'));
+      });
+    });
+    function open() {
+      var lb = document.getElementById('lb'); document.getElementById('lb-img').src = full.getAttribute('data-src');
+      document.getElementById('lb-img').alt = img.alt; document.getElementById('lb-cap').textContent = full.getAttribute('data-cap');
+      document.getElementById('lb-open').href = full.getAttribute('data-src'); lb.hidden = false; lb.__ret = full; document.getElementById('lb-x').focus();
+    }
+    full.addEventListener('click', open);
+    img.addEventListener('click', open);
+  });
+  var lb = document.getElementById('lb');
+  function close() { lb.hidden = true; if (lb.__ret) lb.__ret.focus(); }
+  document.getElementById('lb-x').addEventListener('click', close);
+  lb.addEventListener('click', function (e) { if (e.target === lb || e.target.classList.contains('lb-body')) close(); });
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !lb.hidden) close(); });
+})();
+</script>

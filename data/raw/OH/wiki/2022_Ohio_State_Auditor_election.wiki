@@ -1,0 +1,8 @@
+#REDIRECT [[2022 Ohio elections#Auditor]]
+{{Redirect category shell|
+{{R from subtopic}}
+{{R to section}}
+{{R with possibilities}}
+}}
+[[Category:2022 elections in Ohio|State Auditor]]
+[[Category:2022 United States state auditor elections|Ohio]]

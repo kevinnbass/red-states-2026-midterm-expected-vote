@@ -1,0 +1,325 @@
+{{Short description|none}}
+{{Use American English|date=February 2026}}
+
+{{Use mdy dates|date=September 2023}}
+
+{{Infobox election
+| election_name = 2018 South Carolina elections
+| country = South Carolina
+| type = midterm
+| ongoing = no
+| next_year = [[2020 South Carolina elections|2020]]
+| election_date = November 6, 2018
+| previous_year = [[2016 South Carolina elections|2016]]
+}}
+{{ElectionsSC}}
+A '''general election''' was held in the [[U.S. state]] of [[South Carolina]] on November 6, 2018. All of South Carolina's executive officers were up for election, as well as all of South Carolina's seven seats in the [[United States House of Representatives]].
+
+== United States Congress ==
+{{main|2018 United States House of Representatives elections in South Carolina}}
+
+All of South Carolina's seven seats in the [[United States House of Representatives]] were up for election in 2018.
+
+==Governor and lieutenant governor==
+{{main|2018 South Carolina gubernatorial election}}
+Beginning with the 2018 gubernatorial election, the offices of governor and lieutenant governor were elected jointly as a ticket instead of being elected separately as in prior years.<ref>{{cite web|url=http://www.wbtv.com/story/20016486/5-things-to-know-about-the-election-in-sc|title=SC voters in favor of governor-lieutenant governor ticket|work=[[WBTV]]|date=November 7, 2012|access-date=November 28, 2016|archive-url=https://web.archive.org/web/20161128200945/http://www.wbtv.com/story/20016486/5-things-to-know-about-the-election-in-sc|archive-date=November 28, 2016|url-status=dead}}</ref>
+
+Former incumbent [[Republican Party (United States)|Republican]] [[Governor of South Carolina|governor]] [[Nikki Haley]] was term-limited and could not run for re-election to a third consecutive term.  Haley was selected as [[United States Ambassador to the United Nations]] in the Donald Trump administration.<ref>{{cite web|url=https://www.nytimes.com/2016/11/23/us/politics/nikki-haley-donald-trump-un-ambassador.html?_r=0|title=Nikki Haley Chosen as U.N. Ambassador|work=[[The New York Times]]|last=Haberman|first=Maggie|date=November 23, 2016|access-date=November 28, 2016}}</ref>  Haley's nomination was confirmed.<ref>{{cite web|url=https://www.cnn.com/2017/01/24/politics/nikki-haley-confirmation-vote-un-ambassador/|title=Nikki Haley easily confirmed as UN ambassador|work=[[CNN]]|date=January 24, 2017 }}</ref> Former lieutenant governor [[Henry McMaster]] became governor on January 24, 2017, for the remainder of the term.<ref>{{cite web|url=https://wach.com/news/local/mcmaster-set-to-get-coveted-governors-seat|title=McMaster set to get coveted governor's seat|work=[[WACH]]|last=Stevens|first=Matthew|date=November 23, 2016|access-date=November 28, 2016}}</ref>{{Election box begin|title=2018 South Carolina gubernatorial election}}
+{{Election box winning candidate with party link||party=Republican Party (United States)|candidate=[[Henry McMaster]] (incumbent)|votes=921,342|percentage=53.96%|change=-1.94%}}
+{{Election box candidate with party link|party=Democratic Party (United States)|candidate=[[James E. Smith Jr.|James Smith]]|votes=784,182|percentage=45.92%|change=+4.50%|}}
+{{Election box write-in with party link||votes=2,045|percentage=0.12%|change=+0.05%}}
+{{Election box total|votes=1,707,569|percentage=100.00%|change=N/A}}
+{{Election box hold with party link no swing|winner=Republican Party (United States)}}
+{{Election box end}}
+
+==Attorney General==
+Incumbent Republican attorney general [[Alan Wilson (politician)|Alan Wilson]] won re-election to a third term.<ref>{{cite web|url=http://www.thestate.com/news/politics-government/article198838379.html|title=Attorney General Wilson says no one has done more to fight SC corruption than he has|work=[[The State (newspaper)|The State]]|last=Self|first=Jamie|date=February 7, 2018|access-date=April 29, 2018}}</ref><ref name=":0">{{Cite web |last=contact@scytl.com |first=scytl |title=Election Night Reporting |url=https://www.enr-scvotes.org/SC/92124/Web02-state.222648/#/ |access-date=2024-05-19 |website=www.enr-scvotes.org}}</ref>
+
+{{Infobox election
+| election_date = November 6, 2018
+| election_name = 2018 South Carolina Attorney General election
+| country = South Carolina
+| type = presidential
+| vote_type = popular
+| ongoing = no
+| party_colour = yes
+| party_name = yes
+| previous_election = 2014 South Carolina elections#Attorney General
+| previous_year = 2014
+| next_election = 2022 South Carolina Attorney General election
+| next_year = 2022
+| candidate1 = '''[[Alan Wilson (politician)|Alan Wilson]]'''
+| party1 = Republican Party (United States)
+| image1 = 
+File:JAG Passing Alan Wilson.jpg
+| image2= 3x4.svg
+| image_size= 150x150px
+| popular_vote1 = '''938,032'''
+| percentage1 = '''55.95%'''
+| candidate2 = Constance Anastopoulo
+| party2 = Democratic Party (United States)
+| alliance2 = Working Families Party
+| percentage2 = 42.48%
+| popular_vote2 = 764,806
+| map = {{switcher
+|[[File:2018 South Carolina attorney general election results map by county.svg|230px]]
+|County results
+|<!-- Please do not remove this map as it shows the correct congressional district results for this election in addition to the concurrent secretary of state election -->[[File:2018 South Carolina secretary of state election results map by congressional district.svg|230px]]
+|Congressional district results
+|[[File:2018 South Carolina Attorney General election by precinct.svg|230px]]
+|Precinct results
+}}
+| map_caption = '''Wilson:''' {{legend0|#E27F7F|50–60%}} {{legend0|#D75D5D|60–70%}} {{legend0|#D72F30|70–80%}} {{legend0|#C21B18|80–90%}} {{legend0|#A80000|>90%}} <br /> '''Anastopoulo:'''  {{legend0|#7996E2|50–60%}} {{legend0|#6674DE|60–70%}} {{legend0|#584CDE|70–80%}} {{legend0|#3933E5|80–90%}} {{legend0|#0D0596|>90%}} <br /> '''Tie:''' {{legend0|#AE8BB1|50%}}
+}}
+
+=== Predictions ===
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+|Governing<ref>{{Cite web|url=https://www.governing.com/archive/gov-attorney-general-races-2018-democrats-advantage.html|website=Governing Magazine|title=AG Races Shift in Democrats’ Favor|language=en|access-date=September 26, 2026}}</ref>
+|{{USRaceRating|Lean|R}}
+|October 26, 2018
+|}
+
+=== Results ===
+{{Election box begin|title=2018 South Carolina Attorney General election}}
+{{Election box winning candidate with party link|party=Republican Party (United States)|candidate=[[Alan Wilson (politician)|Alan Wilson]] (incumbent)|votes=938,032|percentage=55.05%|change=-5.21%}}
+{{Election box candidate with party link|party=Democratic Party (United States)|candidate=Constance Anastopoulo{{efn|Anastopoulo ran as both a candidate for the Democratic and Working Families parties. Her vote total is a combination of votes cast for both parties.}}|votes=764,806|percentage=44.89%|change=+5.22%}}
+{{Election box write-in with party link|votes=996|percentage=0.06%|change=-0.01%}}
+{{Election box total no change||votes=1,703,834|percentage=100.00%}}
+{{Election box hold with party link no swing|winner=Republican Party (United States)|swing=}}
+{{Election box end}}
+{{Clear}}
+
+==Secretary of State==
+{{Main|2018 South Carolina Secretary of State election}}
+Incumbent Republican [[Secretary of State of South Carolina|secretary of state]] [[Mark Hammond (American politician)|Mark Hammond]] won re-election to a fifth term in office.<ref name="putnamtorun">{{cite web |last=Brown |first=Kirk |date=May 2, 2017 |title=Rep. Putnam to run for S.C. secretary of state |url=https://www.independentmail.com/story/news/local/2017/05/02/rep-putnam-run-sc-secretary-state/101205718/ |access-date=June 24, 2017 |work=[[The Anderson Independent-Mail]]}}</ref> ''[[Governing (magazine)|Governing]]'' magazine had projected the race as "safe Republican".<ref>{{cite web |last1=Jacobson |first1=Louis |title=Secretary of State Races Are More Competitive and Important Than Ever |url=https://www.governing.com/topics/politics/gov-secretary-state-races-2018.html |publisher=Governing |access-date=22 September 2019 |date=4 June 2018}}</ref><ref name=":0" />
+
+{{Infobox election
+| election_date = November 6, 2018
+| election_name = 2018 South Carolina Secretary of State election
+| country = South Carolina
+| type = presidential
+| vote_type = popular
+| ongoing = no
+| party_colour = yes
+| party_name = yes
+| previous_election = 2014 South Carolina elections#Secretary of State
+| previous_year = 2014
+| next_election = 2022 South Carolina Secretary of State election
+| next_year = 2022
+| candidate1 = '''[[Mark Hammond (American politician)|Mark Hammond]]'''
+| image1 = File:Mark Hammond cropped.jpg
+| image2 = 3x4.svg
+| image_size = 150x150px
+| party1 = Republican Party (United States)
+| popular_vote1 = '''970,576'''
+| percentage1 = '''57.11%'''
+| candidate2 = Melvin T. Whittenburg
+| party2 = Democratic Party (United States)
+| percentage2 = 42.83%
+| popular_vote2 = 727,952
+| map = {{switcher
+|[[File:2018 South Carolina secretary of state election results map by county.svg|230px]]
+|County results
+|[[File:2018 South Carolina secretary of state election results map by congressional district.svg|230px]]
+|Congressional district results
+|[[File:2018 South Carolina Secretary of state election by precinct.svg|230px]]
+|Precinct results
+}}
+| map_caption = '''Hammond:''' {{legend0|#E27F7F|50–60%}} {{legend0|#D75D5D|60–70%}} {{legend0|#D72F30|70–80%}} {{legend0|#C21B18|80–90%}} {{legend0|#A80000|>90%}} <br /> '''Whittenburg:'''  {{legend0|#7996E2|50–60%}} {{legend0|#6674DE|60–70%}} {{legend0|#584CDE|70–80%}} {{legend0|#3933E5|80–90%}} {{legend0|#0D0596|>90%}} <br /> '''Tie:''' {{legend0|#AE8BB1|50%}}
+}}{{Election box begin|title=2018 South Carolina Secretary of State election}}
+{{Election box winning candidate with party link|party=Republican Party (United States)|candidate={{ubl|[[Mark Hammond (American politician)|Mark Hammond]] (incumbent)}}|votes=970,576|percentage=57.11%|change=-2.30%}}
+{{Election box candidate with party link|party=Democratic Party (United States)|candidate=Melvin T Whittenburg|votes=727,952|percentage=42.83%|change=+2.41%}}
+{{Election box write-in with party link|votes=968|percentage=0.06%|change=±0.00%}}
+{{Election box total no change||votes=1,699,496|percentage=100.00%}}
+{{Election box hold with party link no swing|winner=Republican Party (United States)}}
+{{Election box end}}
+{{Clear}}
+
+==Treasurer==
+Incumbent Republican Treasurer [[Curtis Loftis]] won re-election to a third term in office.<ref name=":0" />
+{{Infobox election
+| election_date = November 6, 2018
+| election_name = 2018 South Carolina Treasurer election
+| country = South Carolina
+| type = presidential
+| vote_type = popular
+| ongoing = no
+| party_colour = yes
+| party_name = yes
+| previous_election = 2014 South Carolina elections
+| previous_year = 2014
+| next_election = 2022 South Carolina Treasurer election
+| next_year = 2022
+| image1 = File:Cutris Loftis (cropped).jpg
+| image_size = 150x150px
+| image2 = 3x4.svg
+| candidate1 = '''[[Curtis Loftis]]'''
+| party1 = Republican Party (United States)
+| popular_vote1 = '''952,233'''
+| percentage1 = '''55.11%'''
+| candidate2 = Rosalyn L. Glenn
+| party2 = Democratic Party (United States)
+| alliance2 = Working Families Party
+| percentage2 = 44.83%
+| popular_vote2 = 722,977
+| map = {{switcher
+|[[File:2018 South Carolina state treasurer election results map by county.svg|230px]]
+|County results
+|<!-- Please do not remove this map as it shows the correct congressional district results for this election in addition to the concurrent secretary of state election -->[[File:2018 South Carolina secretary of state election results map by congressional district.svg|230px]]
+|Congressional district results
+|[[File:2018 South Carolina Attorney General election by precinct.svg|230px]]
+|Precinct results
+}}
+| map_caption = '''Loftis:''' {{legend0|#FFB2B2|40–50%}} {{legend0|#E27F7F|50–60%}} {{legend0|#D75D5D|60–70%}} {{legend0|#D72F30|70–80%}} {{legend0|#C21B18|80–90%}} {{legend0|#A80000|>90%}} <br /> '''Glenn:''' {{legend0|#A5B0FF|40–50%}} {{legend0|#7996E2|50–60%}} {{legend0|#6674DE|60–70%}} {{legend0|#584CDE|70–80%}} {{legend0|#3933E5|80–90%}} {{legend0|#0D0596|>90%}} <br /> '''Tie:''' {{legend0|#D2B1D9|40–50%}} {{legend0|#AE8BB1|50%}}
+}}{{Election box begin no change|title=2018 South Carolina State Treasurer election}}
+{{Election box winning candidate with party link no change|candidate=[[Curtis Loftis]] (incumbent)|party=Republican Party (United States)|votes=952,233|percentage=55.95%}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Rosalyn Glenn{{efn|Glenn ran as both a candidate for the Democratic and  Working Families parties. Her vote total is a combination of votes cast for both parties.}}|votes=722,977|percentage=42.48%}}
+{{Election box candidate with party link no change|party=American Party of South Carolina|candidate=Sarah Work|votes=25,979|percentage=1.53%}}
+{{Election box write-in with party link no change|votes=711|percentage=0.04%}}
+{{Election box total no change|votes=1,701,900|percentage=100.00%}}
+{{Election box hold with party link no swing|winner=Republican Party (United States)}}
+{{Election box end}}
+{{Clear}}
+
+==Comptroller General==
+Incumbent Republican [[Richard Eckstrom]] won re-election to a fifth term in office uncontested.<ref name=":0" />
+{{Infobox election
+| election_date = November 6, 2018
+| election_name = 2018 South Carolina Comptroller General election
+| country = South Carolina
+| type = presidential
+| vote_type = popular
+| ongoing = no
+| party_colour = yes
+| party_name = yes
+| previous_election = 2014 South Carolina elections#Comptroller General
+| previous_year = 2014
+| next_election = 2022 South Carolina elections#Comptroller General
+| next_year = 2022
+| candidate1 = '''[[Richard Eckstrom]]'''
+| party1 = Republican Party (United States)
+| image_size = 150x150px
+| image1 = File:Richard and Mrs. Eckstrom and Pamela Evette (cropped).png
+| popular_vote1 = '''1,136,932'''
+| percentage1 = '''97.76%'''
+| candidate2 = 
+| image2 = File:NOTA Option Logo 3x4.svg
+| party2 = Write-ins
+| percentage2 = 2.24%
+| popular_vote2 = 26,028
+| map = {{switcher
+|[[File:South Carolina GOP Sweep.svg|230px]]
+|County results
+|[[File:2018 South Carolina Comptroller General election by precinct.svg|230px]]
+|Precinct results
+|default=1
+}}
+| map_caption = '''Eckstrom:''' {{legend0|#d72f30|70–80%}} {{legend0|#c21b18|80–90%}} {{legend0|#a80000|>90%}}
+}}{{Election box begin no change|title=2018 South Carolina Camptroller General election}}
+{{Election box winning candidate with party link no change|party=South Carolina Republican Party|candidate=[[Richard Eckstrom]] (incumbent)|votes=1,136,932|percentage=97.76%|change=}}
+{{Election box candidate with party link no change|party=Write-ins|candidate=[[Write-in candidate|Write-in]]|votes=26,028|percentage=2.24%|change=}}
+{{Election box total no change|votes=1,162,960|percentage=100.00%}}{{Election box hold with party link no swing|winner=South Carolina Republican Party}}
+{{Election box end}}
+{{Clear}}
+
+==Superintendent of Education==
+Incumbent Republican [[South Carolina Department of Education|Superintendent of Education]] [[Molly Spearman]] won re-election to a second term.<ref name=":0" />
+{{Infobox election
+| election_date = November 6, 2018
+| election_name = 2018 South Carolina Superintendent of Education election
+| country = South Carolina
+| type = presidential
+| vote_type = popular
+| ongoing = no
+| party_colour = yes
+| party_name = yes
+| previous_election = 2014 South Carolina elections#Superintendent of Education
+| previous_year = 2014
+| next_election = 2022 South Carolina elections#Superintendent of Education
+| next_year = 2022
+| candidate1 = '''[[Molly Spearman]]'''
+| party1 = Republican Party (United States)
+| image_size = 150x150px
+| image1 = File:Molly Spearman and Kathy Maness (cropped).png
+| popular_vote1 = '''998,057'''
+| percentage1 = '''98.14%'''
+| candidate2 = 
+| image2 = File:NOTA Option Logo 3x4.svg
+| party2 = Write-ins
+| percentage2 = 1.86%
+| popular_vote2 = 18,866
+| map = {{switcher
+|[[File:South Carolina GOP Sweep.svg|230px]]
+|County results
+|[[File:2018 South Carolina Superintendent of Education election by precinct.svg|230px]]
+|Precinct results
+|default=1
+}}|||
+| default = 
+| map_caption = ''' Mitchell Spearman:''' {{legend0|#d72f30|70–80%}} {{legend0|#c21b18|80–90%}} {{legend0|#a80000|>90%}}
+}}{{Election box begin no change|title=2018 South Carolina Superintendent of Education election}}
+{{Election box winning candidate with party link no change|party=South Carolina Republican Party|candidate=[[Molly Spearman]] (incumbent)|votes=998,057|percentage=98.14%|change=}}
+{{Election box candidate with party link no change|party=Write-ins|candidate=[[Write-in candidate|Write-in]]|votes=18,866|percentage=1.86%|change=}}
+{{Election box total no change|votes=1,016,923|percentage=100.00%}}{{Election box hold with party link no swing|winner=South Carolina Republican Party}}
+{{Election box end}}
+{{Clear}}
+
+==Commissioner of Agriculture==
+[[File:2018 South Carolina Agriculture Commissioner election results map by county.svg|alt=Final results by county|thumb|250x250px|Final results by county: {{collapsible list
+| title = {{legend|#e81b22|Weathers}}|{{legend|#ffb2b2|40–50%}}|{{legend|#E27F7F|50–60%}}|{{legend|#D75D5D|60–70%}}|{{legend|#D72F30|70–80%}}
+|{{legend|#c21b18|80–90%}}}}]]
+Incumbent Republican Commissioner of Agriculture Hugh Weathers, who was appointed to the position in September 2004, won re-election to a fourth full term in office.<ref name=":0" />{{Election box begin no change|title=2018 South Carolina Commissioner of 
+Agriculture election}}
+{{Election box winning candidate with party link no change|candidate=[[Hugh Weathers]] (incumbent)|party=Republican Party (United States)|votes=1,015,366|percentage=75.70%|change=}}
+{{Election box candidate with party link no change|party=Green Party (United States)|candidate=David Edmond|votes=202,238|percentage=15.08%|change=}}
+{{Election box candidate with party link no change|party=United Citizens Party|candidate=Chris Nelums|votes=118,671|percentage=8.85%|change=}}
+{{Election box write-in with party link no change|votes=5,025|percentage=0.37%|change=}}
+{{Election box total no change|votes=1,341,300|percentage=100.00%|change=N/A}}
+{{Election box hold with party link no swing|winner=Republican Party (United States)}}
+{{Election box end}}
+{{Clear}}
+
+== State legislature ==
+{{main|2018 South Carolina House of Representatives election}}
+
+All 124 seats in the [[South Carolina House of Representatives]] were up for election in 2018. On election day 2018, [[Republican Party of South Carolina|Republicans]] controlled 80 seats as compared to the [[South Carolina Democratic Party|Democrats]]' 44. Although four seats flipped party, there was no net change in the composition of the state House because Republicans flipped Districts 42 and 97 while Democrats flipped Districts 15 and 117. Republicans maintained their 80-to-44-seat majority in the South Carolina House following the 2018 election.
+
+== Notes ==
+{{noteslist}}
+
+== References ==
+{{Reflist|30em}}
+
+==External links==
+*[https://votesmart.org/election/2018/S/SC/ Candidates] at [[Vote Smart]] 
+*[https://ballotpedia.org/South_Carolina_elections,_2018 Candidates] at [[Ballotpedia]]
+*[https://www.followthemoney.org/tools/election-overview?s=SC&y=2018 Campaign finance] at [[OpenSecrets]]
+
+'''Official Attorney General campaign websites'''
+*[https://web.archive.org/web/20181021151215/https://www.anastopouloforag.com/ Constance Anastopoulo (D) for Attorney General]
+*[http://www.wilsonforag.com/ Alan Wilson (R) for Attorney General]
+
+'''Official Secretary of State campaign websites'''
+*[https://hammond4sc.com/ Mark Hammond (R) for Secretary of State]
+*[http://melvinwhittenburg.org/ Melvin Whittenburg (D) for Secretary of State]
+
+'''Official State Treasurer campaign websites'''
+*[https://web.archive.org/web/20181021151155/https://www.rosalynglenn.com/ Rosalyn Glenn (D) for Treasurer]
+*[https://www.curtisloftis.com/ Curtis Loftis (R) for Treasurer]
+*[https://workforsc.org/ Sarah Work (I) for Treasurer]
+
+'''Official Superintendent of Education campaign websites'''
+*[https://mollyspearman.com/ Molly Spearman (R) for Superintendent]
+
+'''Official Commissioner of Agriculture campaign websites'''
+*[https://www.hughweathers.com/ Hugh Weathers (R) for Agriculture Commissioner]
+
+{{SCGovElections}}
+{{2018 United States elections}}
+
+[[Category:2018 elections in South Carolina| ]]
+[[Category:2018 elections in the United States by state or territory|South Carolina]]

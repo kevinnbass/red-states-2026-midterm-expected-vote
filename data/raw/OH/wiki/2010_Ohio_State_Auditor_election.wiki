@@ -1,0 +1,146 @@
+{{Short description|none}}
+{{Infobox election
+| election_date = {{Start date|2010|11|02}}
+| election_name = 2010 Ohio State Auditor election
+| country = Ohio
+| type = presidential
+| ongoing = no
+| previous_election = 2006 Ohio State Auditor election
+| previous_year = 2006
+| next_election = 2014 Ohio State Auditor election
+| next_year = 2014
+| candidate1 = '''[[Dave Yost]]'''
+| party1 = Republican Party (United States)
+| party2 = Democratic Party (United States)
+| candidate2 = [[David Pepper (politician)|David Pepper]]
+| image2 = David A Pepper (City Club of Cleveland) (cropped).jpg
+| image1 = Dave Yost, Sept 15, 2014 (cropped).jpg
+| popular_vote1 = '''1,882,010'''
+| percentage1 = '''50.22%'''
+| popular_vote2 = 1,683,330
+| percentage2 = 44.91%
+| map_image          = 2010 Ohio State Auditor election results map by county.svg
+| map_size           = 210px
+| map_caption = County results<br />'''Yost:''' {{legend0|#ffb2b2|40-50%}} {{legend0|#e27f7f|50-60%}} {{legend0|#d75d5d|60-70%}} {{legend0|#d72f30|70-80%}}<br />'''Pepper:''' {{legend0|#a5b0ff|40-50%}} {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}}
+| title              = [[Ohio State Auditor|State Auditor]]
+| before_election    = [[Mary Taylor (Ohio politician)|Mary Taylor]]
+| before_party       = Republican Party (United States)
+| after_election     = [[Dave Yost]]
+| after_party        = Republican Party (United States)
+}}
+{{ElectionsOH}}
+The '''2010 Ohio State Auditor election''' was held on November 2, 2010, to elect the [[Ohio State Auditor]], concurrently with elections to the [[2010 United States Senate election in Ohio|United States Senate]], [[2010 United States House of Representatives elections in Ohio|U.S. House of Representatives]], [[2010 Ohio gubernatorial election|governor]], and other [[2010 Ohio elections|state]] and [[2010 United States elections#Local elections|local]] elections. Primary elections were held on May 4, 2010.<ref>{{Cite web |title=2010 Elections Results |url=https://www.ohiosos.gov/elections/election-results-and-data/2010-elections-results/ |access-date=November 3, 2025 |website=Ohio Secretary of State}}</ref>
+
+Incumbent [[Republican Party (United States)|Republican]] state auditor [[Mary Taylor (Ohio politician)|Mary Taylor]] originally announced she would seek re-election, but instead was [[2010 Ohio gubernatorial election|the successful]] Republican nominee for lieutenant governor after being picked by [[John Kasich]] as his running mate in January 2010.<ref>{{Cite web |date=May 15, 2009 |title=Taylor to seek re-election, not Senate seat |url=https://www.dispatch.com/story/news/2009/05/15/taylor-to-seek-re-election/23356632007/ |url-access=subscription |access-date=November 3, 2025 |website=The Columbus Dispatch |quote=State Auditor Mary Taylor has decided to run for re-election and forgo a bid for the U.S. Senate in 2010.}}</ref><ref name=":0">{{Cite web |date=January 12, 2010 |title=Ohio Auditor Mary Taylor won't seek re-election, instead will run for lieutenant governor |url=https://www.cleveland.com/open/2010/01/ohio_auditor_mary_taylor_to_se.html |access-date=November 3, 2025 |website=The Plain Dealer}}</ref> [[Delaware County, Ohio|Delaware County]] prosecutor [[Dave Yost]] won the Republican primary against state representative [[Seth Morgan (politician)|Seth Morgan]], and [[Hamilton County, Ohio|Hamilton County]] commissioner [[David Pepper (politician)|David Pepper]] won the [[Democratic Party (United States)|Democratic]] primary unopposed.<ref>{{Cite web |date=May 5, 2010 |title=Republican primary for state auditor |url=https://www.wcbe.org/news/2010-05-05/republican-primary-for-state-auditor |access-date=November 3, 2025 |website=WCBE 90.5 FM}}</ref> Yost would go on to win the general election.<ref>{{Cite web |date=November 3, 2010 |title=GOP's Yost to become Ohio's next state auditor |url=https://www.cantonrep.com/story/news/state/2010/11/03/gop-s-yost-to-become/42550133007/ |access-date=November 3, 2025 |website=The Canton Repository}}</ref>
+
+== Republican primary ==
+=== Candidates ===
+==== Nominee ====
+* [[Dave Yost]], prosecutor of [[Delaware County, Ohio|Delaware County]] and former auditor of Delaware County (1999–2003)<ref>{{Cite web |last=Naymik |first=Mark |date=January 25, 2010 |title=Delaware County Prosecutor David Yost leaves Ohio attorney general race for auditor's race |url=https://www.cleveland.com/naymik/2010/01/delaware_county_prosecutor_dav.html |access-date=November 3, 2025 |website=The Plain Dealer}}</ref>
+
+==== Eliminated in primary ====
+* [[Seth Morgan (politician)|Seth Morgan]], state representative from the 36th district (2009–present)<ref>{{Cite web |date=January 20, 2010 |title=Republican state Rep. Morgan running for auditor |url=https://www.dispatch.com/story/news/2010/01/21/republican-state-rep-morgan-running/23594815007/ |access-date=November 3, 2025 |website=The Columbus Dispatch}}</ref>
+
+==== Withdrew ====
+* [[Mary Taylor (Ohio politician)|Mary Taylor]], incumbent state auditor (2007–present) and former state representative from the 43rd district (2003–2006) ''([[2010 Ohio gubernatorial election|ran for lieutenant governor]])''<ref name=":0" />
+=== Results ===
+{{Election box begin no change
+| title = Republican primary results<ref>{{Cite web |title=Auditor of State - Republican: May 4, 2010 |url=https://www.ohiosos.gov/elections/election-results-and-data/2010-elections-results/auditor-of-state---republican-may-4-2010/ |access-date=November 3, 2025 |website=Ohio Secretary of State}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Dave Yost]]
+| party = Ohio Republican Party 
+| votes = 457,820
+| percentage = 64.88
+}}
+{{Election box candidate with party link no change
+|candidate = [[Seth Morgan (politician)|Seth Morgan]]
+|party = Ohio Republican Party
+|votes = 247,848
+|percentage = 35.12
+}}
+{{Election box total no change
+|votes = 705,668
+|percentage = 100.0
+}}
+{{Election box end}}
+
+== Democratic primary ==
+=== Candidates ===
+==== Nominee ====
+* [[David Pepper (politician)|David Pepper]], commissioner of [[Hamilton County, Ohio|Hamilton County]]<ref>{{Cite web |title=Pepper to run for auditor |url=https://www.dispatch.com/story/news/2009/05/11/pepper-to-run-for-auditor/24109653007/ |access-date=November 3, 2025 |website=The Columbus Dispatch |quote=Hamilton County Commissioner David Pepper is expected to announce his Democratic candidacy for state auditor at a news conference Tuesday.}}</ref>
+=== Results ===
+{{Election box begin no change
+| title = Democratic primary results<ref>{{Cite web |title=Auditor of State - Democratic: May 4, 2010 |url=https://www.ohiosos.gov/elections/election-results-and-data/2010-elections-results/auditor-of-state---democratic-may-4-2010/ |access-date=November 3, 2025 |website=Ohio Secretary of State}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[David Pepper (politician)|David Pepper]]
+| party = Ohio Democratic Party 
+| votes = 514,220
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 514,220
+| percentage = 100.0
+}}
+{{Election box end}}
+
+== Libertarian primary ==
+=== Candidates ===
+==== Nominee ====
+* Michael Howard, accountant and former staffer to the [[Ohio State Auditor]]<ref>{{Cite web |date=April 21, 2010 |title=Westerville political novice enters state auditor's race |url=https://www.dispatch.com/story/news/2010/04/21/westerville-political-novice-enters-state/23153757007/ |url-access=subscription |access-date=November 3, 2025 |website=The Columbus Dispatch |quote=The Westerville resident, who has not been active in politics for more than 30 years, has thrown himself into the Nov. 2 race for Ohio auditor as a Libertarian candidate.}}</ref>
+=== Results ===
+{{Election box begin no change
+| title = Libertarian primary results<ref>{{Cite web |title=Auditor of State - Libertarian: May 4, 2010 |url=https://www.ohiosos.gov/elections/election-results-and-data/2010-elections-results/auditor-of-state---libertarian-may-4-2010/ |access-date=November 3, 2025 |website=Ohio Secretary of State}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Michael Howard
+| party = Libertarian Party (United States)
+| votes = 4,263
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 4,263
+| percentage = 100.0
+}}
+{{Election box end}}
+
+== General election ==
+=== Results ===
+{{Election box begin no change
+| title = 2010 Ohio State Auditor election<ref name="genresults">{{Cite web |title=Auditor of State: November 2, 2010 |url=https://www.ohiosos.gov/elections/election-results-and-data/2010-elections-results/auditor-of-state-november-2-2010/ |access-date=November 3, 2025 |website=Ohio Secretary of State}}</ref>
+}}
+{{Election box winning candidate with party link no change|
+|party = Ohio Republican Party
+|candidate = [[Dave Yost]]
+|votes = 1,882,010
+|percentage = 50.22
+}}
+{{Election box candidate with party link no change|
+|party = Ohio Democratic Party
+|candidate = [[David Pepper (politician)|David Pepper]]
+|votes = 1,683,330
+|percentage = 44.91
+}}
+{{Election box candidate with party link no change
+|candidate = Michael Howard
+|party = Libertarian Party (United States)
+|votes = 182,534
+|percentage = 4.87
+}}
+{{Election box total no change
+|votes = 3,747,874
+|percentage = 100.0
+}}
+{{Election box hold with party link no swing|
+  |winner     = Republican Party (United States)
+}}
+{{Election box end}}
+
+== References ==
+{{Reflist}}
+
+{{2010 United States elections}}
+
+[[Category:2010 elections in Ohio|State Auditor]]
+[[Category:2010 United States state auditor elections|Ohio]]

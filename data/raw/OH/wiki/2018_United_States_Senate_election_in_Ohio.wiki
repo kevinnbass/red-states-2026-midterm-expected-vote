@@ -1,0 +1,2166 @@
+{{Short description|2018 U.S Senate election in Ohio}}
+{{Use American English|date=January 2026}}
+
+{{Use mdy dates|date=September 2023}}
+
+{{Infobox election
+| election_name = 2018 United States Senate election in Ohio
+| country = Ohio
+| type = presidential
+| ongoing = no
+| previous_election = 2012 United States Senate election in Ohio
+| previous_year = 2012
+| next_election = 2024 United States Senate election in Ohio
+| next_year = 2024
+| election_date = {{Start date|2018|11|6}}
+| turnout = 55.79% (registered voters) {{decrease}} 14.75pp
+| image_size = 150x150px
+| image1 = File:Sherrod Brown 117th Congress (2) (cropped).jpg
+| nominee1 = '''[[Sherrod Brown]]'''
+| party1 = Democratic Party (United States)
+| popular_vote1 = '''2,358,508'''
+| percentage1 = '''53.40%'''
+| image2 = Jim Renacci, Official Portrait, 112th Congress (cropped 3).jpg
+| nominee2 = [[Jim Renacci]]
+| party2 = Republican Party (United States)
+| popular_vote2 = 2,057,559
+| percentage2 = 46.58%
+| map = {{switcher
+|[[File:2018 United States Senate election in Ohio results map by county.svg|210px]]
+|County results 
+|[[File:2018 United States Senate election in Ohio results map by congressional district.svg|210px]]
+|Congressional district results
+|[[File:OH Senate 2018.svg|210px]]
+|Precinct results 
+|default=1
+}}
+| map_caption = '''Brown:''' {{legend0|#a5b0ff|40–50%}} {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584cde|70–80%}} {{legend0|#3933e5|80–90%}} {{legend0|#0D0596|>90%}}<br />
+'''Renacci:''' {{legend0|#ffb2b2|40–50%}} {{legend0|#E27F7F|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#D72F30|70–80%}} {{legend0|#C21B18|80–90%}} {{legend0|#A80000|>90%}}<br />'''Tie:''' {{legend0|#ae8bb1|50%}} {{legend0|#808080|No votes}}
+| title = U.S. Senator
+| before_election = [[Sherrod Brown]]
+| before_party = Democratic Party (United States)
+| after_election = [[Sherrod Brown]]
+| after_party = Democratic Party (United States)
+}}
+{{Elections in Ohio}}
+
+The '''2018 United States Senate election in Ohio''' took place on November 6, 2018. The candidate filing deadline was February 7, 2018; the primary election was held on May 8, 2018.<ref>{{Cite news|url=https://ballotpedia.org/United_States_Senate_election_in_Ohio,_2018|title=United States Senate election in Ohio, 2018 - Ballotpedia|access-date=March 3, 2017|language=en-US}}</ref> Incumbent [[United States Senate|Senator]] [[Sherrod Brown]]—the only remaining elected Democratic statewide officeholder in [[Ohio]] at the time of the election—won his bid for a third term, defeating [[Republican Party (United States)|Republican]] [[U.S. Representative]] [[Jim Renacci]] by a 6.82% margin in the general election, larger than the 6% margin in the [[2012 United States Senate election in Ohio|election six years earlier]].<ref>{{cite web|url=http://www.sanduskyregister.com/story/201707280026|title = Only remaining statewide Democrat, Sherrod Brown, behind in polls|website = [[Sandusky Register]]|last = Jackson|first = Tom|date = July 28, 2017}}</ref><ref>{{cite web|url=https://www.cincinnati.com/story/news/politics/2018/11/06/senate-race-ohio-brown-against-renacci/1896046002/|title=Democrat Sherrod Brown defeats Republican Jim Renacci for U.S. Senate seat in Ohio|website=Cincinnati.com}}</ref> That was despite Republicans winning all statewide executive offices on the same ballot, and was one of ten Democratic-held Senate seats up for election in a state won by [[Donald Trump]] in the [[2016 United States presidential election|2016 presidential election]]. Renacci conceded defeat on November 7, 2018.
+
+With Republican [[Mike DeWine]] winning the [[2018 Ohio gubernatorial election|concurrent gubernatorial election]], this was the first time since 1974 that Ohio simultaneously voted for a gubernatorial nominee and a U.S. Senate nominee of opposite parties. This is the last time the Democratic Party won a partisan statewide race in Ohio until [[2026 Ohio elections|2026]].
+
+==Democratic primary==
+===Candidates===
+====Nominee====
+* [[Sherrod Brown]], incumbent U.S. senator<ref>{{cite web|url=http://www.cleveland.com/politics/index.ssf/2017/01/sen_sherrod_brown_taps_justin.html|title=Sen. Sherrod Brown taps Justin Barasky to manage re-election campaign|work=[[The Plain Dealer]]|date=January 9, 2017|access-date=January 11, 2017|first=Henry J.|last=Gomez}}</ref>
+
+===Results===
+{{Election box begin no change
+| title = Democratic primary results<ref name="United States Senate Democratic primary election in Ohio, 2018">{{cite web|title=United States Senate Democratic primary election in Ohio, 2018|url=https://www.sos.state.oh.us/globalassets/elections/2018/pri/summarydem.xlsx|access-date=June 6, 2019|archive-date=June 6, 2019|archive-url=https://web.archive.org/web/20190606014716/https://www.sos.state.oh.us/globalassets/elections/2018/pri/summarydem.xlsx|url-status=dead}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate  = [[Sherrod Brown]] (incumbent)
+| party      = Democratic Party (United States)
+| votes      = 613,373
+| percentage = 100.00%
+}}
+{{Election box total no change
+| votes      = 613,373
+| percentage = 100.00%
+}}
+{{Election box end}}
+
+==Republican primary==
+===Candidates===
+====Nominee====
+* [[Jim Renacci]], U.S. representative<ref>{{cite web|url=https://www.cincinnati.com/story/news/politics/2018/01/10/ohios-u-s-senate-race-mitch-mcconnell-courts-j-d-vance-while-jim-renacci-looks-donald-trump-backing/1021728001/|title=U.S. Rep. Jim Renacci to leave governor's race for U.S. Senate|work=[[The Cincinnati Enquirer]]|last=Shesgreen|first=Deirdre|date=January 10, 2018}}</ref>
+
+====Eliminated in primary====
+* Melissa Ackison, businesswoman<ref>{{cite web|url=http://www.cleveland.com/metro/index.ssf/2017/09/another_candidate_to_challenge.html|title=Another candidate, with a Trump connection, will challenge Josh Mandel in U.S. Senate primary|work=[[The Plain Dealer]]|last=Koff|first=Stephen|date=September 2, 2017|access-date=September 2, 2017}}</ref>
+* Don Elijah Eckhart, candidate for the Republican nomination in [[United States Senate election in Ohio, 2016|2016]]<ref>{{cite web|url=http://www.dispatch.com/news/20170914/republican-eckhart-declares-ohio-senate-bid|title=Republican Eckhart declares Ohio Senate bid|work=[[The Columbus Dispatch]]|last=Schladen|first=Marty|date=September 14, 2017|access-date=September 16, 2017}}</ref>
+* Mike Gibbons, investment banker (founder of [[Brown Gibbons Lang & Company]])<ref>{{cite web|url=http://www.cleveland.com/open/index.ssf/2017/05/cleveland_banker_mike_gibbons.html|title=Cleveland banker Mike Gibbons to run for U.S. Senate, setting up GOP primary against Josh Mandel|work=[[The Plain Dealer]]|last=Tobias|first=Andrew J.|date=May 31, 2017|access-date=May 31, 2017}}</ref>
+* Dennis Jones<ref>{{cite web|url=https://www.fec.gov/data/candidate/S8OH00078/|title=JONES, DENNIS M MR - Candidate overview - FEC.gov|website=FEC.gov}}</ref>
+* Dan Kiley<ref>{{cite web|url=https://twitter.com/kileyforsenate/status/982048353436491776|title=Dan Kiley on Twitter|website=Twitter}}</ref>
+
+====Withdrawn====
+* [[Josh Mandel]], [[Ohio State Treasurer]] and nominee for the U.S. Senate in [[United States Senate election in Ohio, 2012|2012]]<ref>{{cite web|url=http://www.cleveland.com/open/index.ssf/2016/12/ohio_treasurer_josh_mandel_ann.html|title=Ohio Treasurer Josh Mandel announces 2018 U.S. Senate run for Sherrod Brown's seat|work=[[The Plain Dealer]]|last=Tobias|first=Andrew J.|date=December 7, 2016|access-date=December 7, 2016}}</ref><ref>{{cite news|url=http://www.cnn.com/2018/01/05/politics/josh-mandel-drops-out-ohio-senate-race-sherrod-brown/index.html|website = [[CNN]]|title = Leading Republican drops out of Ohio race to oust Sen. Sherrod Brown|last = Bradner|first = Eric|date = January 5, 2018|access-date = January 5, 2018}}</ref>
+
+====Declined====
+* [[Ken Blackwell]], former mayor of [[Cincinnati]], former [[Ohio State Treasurer]], and former [[Ohio Secretary of State]]<ref>{{cite news|url=http://www.dispatch.com/news/20170307/daily-briefing-ken-blackwell-rejects-senate-bid-forms-super-pac-to-aid-conservative-candidates|title=The Daily Briefing: Ken Blackwell rejects Senate bid, forms super-PAC to aid conservative candidates|work=[[The Columbus Dispatch]]|last=Ludlow|first=Randy|date=March 7, 2017|access-date=March 9, 2017}}</ref>
+* Rick Jones, [[Butler County, Ohio|Butler County]] sheriff<ref name=mrep>{{cite web|url=https://www.cincinnati.com/story/news/politics/2018/01/05/who-might-replace-josh-mandel-u-s-senate-race/1008332001/|title=Josh Mandel replacements: Mary Taylor out, Butler County Sheriff Rick Jones thinking about it|work=[[The Cincinnati Enquirer]]|last1=Balmert|first1=Jessie|last2=Shesgreen|first2=Deirdre|date=January 5, 2018}}</ref><ref>{{cite web|url=https://www.cincinnati.com/story/news/2018/01/10/butler-sheriff-rick-jones-im-not-running-senate/1019782001/|title=Butler Sheriff Rick Jones: I'm not running for Senate|work=[[The Cincinnati Enquirer]]|last=BieryGolick|first=Keith|date=January 10, 2018|access-date=January 10, 2018}}</ref>
+* [[John Kasich]], [[governor of Ohio]], former U.S. representative<ref>{{cite web|url=https://www.buzzfeed.com/henrygomez/john-kasich-doesnt-want-to-run-for-senate-but-some-allies|title=John Kasich Doesn't Want To Run For Senate, But Some Allies Wish He'd Reconsider|author=Henry J. Gomez|date=January 5, 2018|access-date=January 5, 2018|work=[[BuzzFeed]]}}</ref>
+* [[Mary Taylor (Ohio politician)|Mary Taylor]], [[lieutenant governor of Ohio]] ''([[2018 Ohio gubernatorial election|ran for governor]])''<ref name=mrep/>
+* [[Pat Tiberi]], U.S. representative<ref>{{cite news|url=http://www.cleveland.com/open/index.ssf/2016/04/us_rep_pat_tiberi_shows_signs.html|title=U.S. Rep. Pat Tiberi shows signs of interest in 2018 U.S. Senate run in Ohio|work=[[The Plain Dealer]]|last=Pelzer|first=Jeremy|date=April 13, 2016|access-date=July 29, 2016}}</ref><ref>{{cite news|url=http://www.chillicothegazette.com/story/news/politics/2016/04/27/tiberi-eyes-senate-bid-2018/83550220/|title=Tiberi eyes Senate bid in 2018|work=[[Chillicothe Gazette]]|last=Shesgreen|first=Deirdre|date=April 27, 2016|access-date=July 29, 2016}}</ref><ref>{{cite news|url=http://www.dispatch.com/content/stories/local/2016/05/01/tiberi-eyes-u-s--senate-for-2018.html#|title=Tiberi might challenge Sherrod Brown for U.S. Senate in 2018|work=[[The Columbus Dispatch]]|last=Wehrman|first=Jessica|date=May 1, 2016|access-date=July 29, 2016}}</ref><ref>{{cite news|url=http://www.dispatch.com/news/20170516/tiberi-wont-run-for-senate-making-mandel-leading-gop-hopeful|title=Tiberi won't run for Senate, making Mandel leading GOP hopeful|work=[[The Columbus Dispatch]]|last=Torry|first=Jack|date=May 16, 2017|access-date=May 16, 2017}}</ref>
+* [[Jim Tressel]], president of [[Youngstown State University]] and former [[Ohio State football]] coach<ref>{{cite web|url=https://www.the-downballot.com/p/morning-digest-trumps-doj-orders|title=Morning Digest: Trump's DOJ orders prosecutors to drop Eric Adams corruption charges|last1=Nir|last2=Singer|first1=David|first2=Jeff|date=February 11, 2025|access-date=February 11, 2025}}</ref>
+* [[JD Vance]], author and venture capitalist<ref>{{cite web|url=https://www.buzzfeed.com/henrygomez/key-republicans-are-encouraging-hillbilly-elegy-author-jd|title=Key Republicans Are Encouraging Hillbilly Elegy Author J.D. Vance To Run For Senate In Ohio|work=[[BuzzFeed]]|last=Gomez|first=Henry J.|date=May 25, 2017|access-date=May 26, 2017}}</ref><ref>{{cite web|url=https://www.theatlantic.com/politics/archive/2017/09/hillbilly-elegy-writer-wont-seek-office/539949/|title='Hillbilly Elegy' Writer Won't Seek Office|work=[[The Atlantic]]|last=Ball|first=Molly|date=September 14, 2017|access-date=September 15, 2017}}</ref><ref name="VanceRenacci">{{cite web|url=http://radio.wosu.org/post/portman-jd-vance-and-jim-renacci-considering-senate-campaigns#stream/0|title=Portman: J.D. Vance And Jim Renacci Considering Senate Campaigns|first=Mark|last=Urycki|date=10 January 2018 }}</ref><ref>{{cite tweet|user=JDVance1|author=J.D. Vance|number=954382304738234369|date=19 January 2018|title=Thanks to everyone who encouraged me to run, but it’s just not a good time. A bit more color below.}}</ref>
+
+===Endorsements===
+{{Endorsements box
+| title = Mike Gibbons
+| list =
+;U.S. senators
+* [[Rand Paul]], U.S. senator from Kentucky (2011–) and 2016 presidential candidate<ref name=rprp>{{cite web |title=Gibbons lands support for US Senate bid from Rand Paul |url=https://www.washingtontimes.com/news/2018/feb/16/gibbons-lands-support-for-us-senate-bid-from-rand-/ |publisher=[[The Washington Times]] |access-date=25 December 2022 |date=18 February 2022}}</ref>
+
+;Individuals
+* [[Fred Dailey]], former Ohio Agriculture Director<ref>{{cite web|url=https://www.gibbonsforohio.com/single-post/2017/11/15/Former-Ohio-Agriculture-Director-Fred-Dailey-Endorses-Mike-Gibbons-for-US-Senate/|title=Gibbons For Ohio - United States Senate|website=Gibbons For Ohio - United States Senate|access-date=2017-12-11|archive-date=2017-12-12|archive-url=https://web.archive.org/web/20171212031539/https://www.gibbonsforohio.com/single-post/2017/11/15/Former-Ohio-Agriculture-Director-Fred-Dailey-Endorses-Mike-Gibbons-for-US-Senate/|url-status=dead}}</ref>
+* [[Doug Dieken]]<ref>{{cite web|url=https://www.gibbonsforohio.com/single-post/2018/05/04/Doug-Dieken-Endorses-Mike-Gibbons-for-US-Senate|title=Doug Dieken Endorses Mike Gibbons for U.S. Senate|work=Gibbons For Ohio|date=May 4, 2018|access-date=May 12, 2018|archive-date=May 13, 2018|archive-url=https://web.archive.org/web/20180513080934/https://www.gibbonsforohio.com/single-post/2018/05/04/Doug-Dieken-Endorses-Mike-Gibbons-for-US-Senate|url-status=dead}}</ref>
+* Wes Farno, former chair of the [[Auglaize County]] Republican Party<ref>{{cite web|url=https://www.gibbonsforohio.com/single-post/2018/01/29/Conservative-Outsider-Mike-Gibbons-Announces-46-New-County-Co-Captains-Grassroots-leaders-form-the-backbone-of-campaign/|title=Gibbons For Ohio - United States Senate|website=Gibbons For Ohio - United States Senate|access-date=2018-02-02|archive-date=2018-02-02|archive-url=https://web.archive.org/web/20180202190337/https://www.gibbonsforohio.com/single-post/2018/01/29/Conservative-Outsider-Mike-Gibbons-Announces-46-New-County-Co-Captains-Grassroots-leaders-form-the-backbone-of-campaign/|url-status=dead}}</ref>
+* Charlie Frye, chair of the [[Ashtabula County]] Republican Party<ref>{{cite web|url=https://www.gibbonsforohio.com/single-post/2018/01/22/Ashtabula-County-GOP-Chairman-Endorses-Mike-Gibbons-for-US-Senate/|title=Gibbons For Ohio - United States Senate|website=Gibbons For Ohio - United States Senate|access-date=2018-02-02|archive-date=2018-02-02|archive-url=https://web.archive.org/web/20180202190339/https://www.gibbonsforohio.com/single-post/2018/01/22/Ashtabula-County-GOP-Chairman-Endorses-Mike-Gibbons-for-US-Senate/|url-status=dead}}</ref>
+* Christopher Gagin, chair of the [[Belmont County]] Republican Party<ref>{{cite web|url=https://www.gibbonsforohio.com/single-post/2017/12/07/Belmont-County-Republican-Party-Chairman-Endorses-Mike-Gibbons-for-US-Senate/|title=Gibbons For Ohio - United States Senate|website=Gibbons For Ohio - United States Senate|access-date=2017-12-11|archive-date=2017-12-12|archive-url=https://web.archive.org/web/20171212031518/https://www.gibbonsforohio.com/single-post/2017/12/07/Belmont-County-Republican-Party-Chairman-Endorses-Mike-Gibbons-for-US-Senate/|url-status=dead}}</ref>
+* Steve Hall, chair of the [[Coshocton County, Ohio|Coschocton County]] Republican Party<ref name=gibbonsforohio20180108>{{cite web|url=https://www.gibbonsforohio.com/single-post/2018/01/08/Hardin-Coshocton-Morrow-Van-Wert-County-GOP-Chairmen-Endorse-Mike-Gibbons-for-US-Senate/|title=Gibbons For Ohio - United States Senate|website=Gibbons For Ohio - United States Senate}}{{Dead link|date=May 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+* Larry Hardin, chair of the [[Morrow County, Ohio|Morrow County]] Republican Party<ref name=gibbonsforohio20180108/>
+* Richard Jones, sheriff of [[Butler County, Ohio|Butler County]]<ref>{{cite web|url=https://www.gibbonsforohio.com/single-post/2018/03/12/Sheriff-Richard-Jones-Endorses-Conservative-Outsider-Mike-Gibbons|title=Gibbons For Ohio - United States Senate|website=Gibbons For Ohio - United States Senate|access-date=2018-05-01|archive-date=2018-05-01|archive-url=https://web.archive.org/web/20180501230406/https://www.gibbonsforohio.com/single-post/2018/03/12/Sheriff-Richard-Jones-Endorses-Conservative-Outsider-Mike-Gibbons|url-status=dead}}</ref>
+* Thad Lichtensteiger, chair of the [[Van Wert County]] Republican Party<ref name=gibbonsforohio20180108/>
+* [[Bo Pelini]], [[Youngstown State Penguins football]] coach, former [[Nebraska Cornhuskers football]] coach<ref>{{cite web|url=https://www.gibbonsforohio.com/single-post/2018/04/30/Youngstown-Legend-Bo-Pelini-Endorses-Mike-Gibbons-for-US-Senate|title=Youngstown Legend Bo Pelini Endorses Mike Gibbons for U.S. Senate|work=Gibbons For Ohio|date=April 30, 2018|access-date=May 12, 2018|archive-date=May 13, 2018|archive-url=https://web.archive.org/web/20180513081033/https://www.gibbonsforohio.com/single-post/2018/04/30/Youngstown-Legend-Bo-Pelini-Endorses-Mike-Gibbons-for-US-Senate|url-status=dead}}</ref>
+* Phil Plummer, sheriff of [[Montgomery County, Ohio|Montgomery County]] and chair of [[Montgomery County, Ohio|Montgomery County]] Republican Party<ref>{{cite web|url=https://www.gibbonsforohio.com/single-post/2018/01/25/Montgomery-County-Sheriff-GOP-Chairman-Phil-Plummer-Endorses-Mike-Gibbons-for-US-Senate/|title=Gibbons For Ohio - United States Senate|website=Gibbons For Ohio - United States Senate|access-date=February 2, 2018|archive-date=July 16, 2019|archive-url=https://web.archive.org/web/20190716232411/https://www.gibbonsforohio.com/single-post/2018/01/25/Montgomery-County-Sheriff-GOP-Chairman-Phil-Plummer-Endorses-Mike-Gibbons-for-US-Senate|url-status=dead}}</ref>
+* Rob Radway, chair of the [[Hardin County, Ohio|Hardin County]] Republican Party<ref name=gibbonsforohio20180108/>
+* Ethan Reynolds, mayor of [[New Carlisle, Ohio|New Carlisle]]<ref name="gibbonsforohio.com">{{cite web|url=https://www.gibbonsforohio.com/single-post/2018/02/14/Conservative-Outsider-Mike-Gibbons-Announces-More-Endorsements/|title=Gibbons For Ohio - United States Senate|website=Gibbons For Ohio - United States Senate|access-date=2018-03-12|archive-date=2018-03-12|archive-url=https://web.archive.org/web/20180312204948/https://www.gibbonsforohio.com/single-post/2018/02/14/Conservative-Outsider-Mike-Gibbons-Announces-More-Endorsements/|url-status=dead}}</ref>
+* Jim Roberts, chair of the [[Seneca County, Ohio|Seneca County]] Republican Party<ref>{{cite web|url=https://www.gibbonsforohio.com/single-post/2017/12/04/Seneca-County-GOP-Chair-Jim-Roberts-Endorses-Mike-Gibbons-for-US-Senate/|title=Gibbons For Ohio - United States Senate|website=Gibbons For Ohio - United States Senate|access-date=2017-12-11|archive-date=2017-12-12|archive-url=https://web.archive.org/web/20171212031538/https://www.gibbonsforohio.com/single-post/2017/12/04/Seneca-County-GOP-Chair-Jim-Roberts-Endorses-Mike-Gibbons-for-US-Senate/|url-status=dead}}</ref>
+* Carolyn Robey-Warren, president of Ohio Carry<ref name="dispatch.com">{{Cite web |url=http://www.dispatch.com/opinion/20180109/letter-gibbons-has-right-stuff-to-unseat-brown/ |title=Letter: Gibbons has right stuff to unseat Brown - Opinion - the Columbus Dispatch - Columbus, OH |access-date=2018-01-16 |archive-url=https://web.archive.org/web/20180114093102/http://www.dispatch.com/opinion/20180109/letter-gibbons-has-right-stuff-to-unseat-brown |archive-date=2018-01-14 |url-status=dead }}</ref>
+
+;State representatives
+* [[Marilyn Reid]] (former)<ref>{{cite web|url=https://www.gibbonsforohio.com/single-post/2018/01/10/More-Ohio-Conservatives-Endorse-Mike-Gibbons/|title=Gibbons For Ohio - United States Senate|website=Gibbons For Ohio - United States Senate|access-date=2018-01-16|archive-date=2018-01-16|archive-url=https://web.archive.org/web/20180116135257/https://www.gibbonsforohio.com/single-post/2018/01/10/More-Ohio-Conservatives-Endorse-Mike-Gibbons/|url-status=dead}}</ref>
+* [[Andy Thompson (Ohio politician)|Andy Thompson]]<ref>{{cite web|url=https://www.gibbonsforohio.com/single-post/2018/03/21/State-Representative-Andy-Thompson-Endorses-Conservative-Outsider-Mike-Gibbons|title=Gibbons For Ohio - United States Senate|website=Gibbons For Ohio - United States Senate|access-date=2018-05-01|archive-date=2018-05-02|archive-url=https://web.archive.org/web/20180502064122/https://www.gibbonsforohio.com/single-post/2018/03/21/State-Representative-Andy-Thompson-Endorses-Conservative-Outsider-Mike-Gibbons|url-status=dead}}</ref>
+
+;State senators
+* [[Randy Gardner (politician)|Randy Gardner]] (Majority Leader)<ref>{{cite web|url=https://www.gibbonsforohio.com/single-post/2018/05/02/Ohio-Senate-Majority-Leader-Randy-Gardner-Endorses-Mike-Gibbons-for-US-Senate|title=Ohio Senate Majority Leader Randy Gardner Endorses Mike Gibbons for U.S. Senate|work=Gibbons For Ohio|date=May 2, 2018|access-date=May 12, 2018|archive-date=May 13, 2018|archive-url=https://web.archive.org/web/20180513080902/https://www.gibbonsforohio.com/single-post/2018/05/02/Ohio-Senate-Majority-Leader-Randy-Gardner-Endorses-Mike-Gibbons-for-US-Senate|url-status=dead}}</ref>
+* [[Frank Hoagland]]<ref>{{cite web|url=https://www.gibbonsforohio.com/single-post/2018/04/18/State-Senator-Frank-Hoagland-Endorses-Mike-Gibbons|title=Gibbons For Ohio - United States Senate|website=Gibbons For Ohio - United States Senate|access-date=2018-05-01|archive-date=2018-05-01|archive-url=https://web.archive.org/web/20180501230314/https://www.gibbonsforohio.com/single-post/2018/04/18/State-Senator-Frank-Hoagland-Endorses-Mike-Gibbons|url-status=dead}}</ref>
+* [[Jay Hottinger]]<ref>{{cite web|url=https://www.gibbonsforohio.com/single-post/2017/12/18/State-Senator-Jay-Hottinger-Endorses-Mike-Gibbons-for-US-Senate/|title=Gibbons For Ohio - United States Senate|website=Gibbons For Ohio - United States Senate|access-date=2018-01-16|archive-date=2018-01-16|archive-url=https://web.archive.org/web/20180116135812/https://www.gibbonsforohio.com/single-post/2017/12/18/State-Senator-Jay-Hottinger-Endorses-Mike-Gibbons-for-US-Senate/|url-status=dead}}</ref>
+* [[Matt Huffman]]<ref>{{cite web|url=https://www.gibbonsforohio.com/single-post/2018/01/31/State-Senator-Matt-Huffman-Endorses-Mike-Gibbons-for-US-Senate/|title=Gibbons For Ohio - United States Senate|website=Gibbons For Ohio - United States Senate}}{{Dead link|date=May 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+* [[Joy Padgett]] (former), current chairwoman of Ohio Women for Trump<ref>{{cite web|url=https://www.gibbonsforohio.com/single-post/2017/12/13/Chair-of-Ohio-Women-for-Trump-Joy-Padgett-Endorses-Mike-Gibbons-for-US-Senate/|title=Gibbons For Ohio - United States Senate|website=Gibbons For Ohio - United States Senate|access-date=2018-01-16|archive-date=2018-01-16|archive-url=https://web.archive.org/web/20180116135708/https://www.gibbonsforohio.com/single-post/2017/12/13/Chair-of-Ohio-Women-for-Trump-Joy-Padgett-Endorses-Mike-Gibbons-for-US-Senate/|url-status=dead}}</ref>
+
+;County commissioners
+* Jeff Benton, [[Delaware County, Ohio|Delaware County]] commissioner<ref>{{cite web|url=https://www.gibbonsforohio.com/single-post/2017/12/20/Delaware-County-Commissioner-Jeff-Benton-Endorses-Mike-Gibbons-for-US-Senate/|title=Gibbons For Ohio - United States Senate|website=Gibbons For Ohio - United States Senate|access-date=2018-01-16|archive-date=2018-01-16|archive-url=https://web.archive.org/web/20180116140001/https://www.gibbonsforohio.com/single-post/2017/12/20/Delaware-County-Commissioner-Jeff-Benton-Endorses-Mike-Gibbons-for-US-Senate/|url-status=dead}}</ref>
+* Rodney Creech, [[Preble County]] commissioner<ref name="gibbonsforohio.com"/>
+* Mike Kerschner, [[Seneca County, Ohio|Seneca County]] commissioner<ref name=gibbonsforohio20180103>{{cite web|url=https://www.gibbonsforohio.com/single-post/2018/01/03/Crawford-County-Commissioners-Doug-Weisenauer-Jenny-Vermillion-Endorse-Mike-Gibbons-for-US-Senate/|title=Gibbons For Ohio - United States Senate|website=Gibbons For Ohio - United States Senate|access-date=2018-01-16|archive-date=2018-01-16|archive-url=https://web.archive.org/web/20180116135228/https://www.gibbonsforohio.com/single-post/2018/01/03/Crawford-County-Commissioners-Doug-Weisenauer-Jenny-Vermillion-Endorse-Mike-Gibbons-for-US-Senate/|url-status=dead}}</ref>
+* Shayne Thomas, [[Seneca County, Ohio|Seneca County]] commissioner<ref name=gibbonsforohio20180103/>
+* Jenny Vermillion, [[Crawford County, Ohio|Crawford County]] commissioner<ref name=gibbonsforohio20180103/>
+* Doug Weisenauer, [[Crawford County, Ohio|Crawford County]] commissioner<ref name=gibbonsforohio20180103/>
+
+;Organizations
+* America's Liberty PAC<ref>{{cite web|url=https://www.gibbonsforohio.com/single-post/2018/03/01/ICYMI-Rand-Paul-Endorsed-Super-PAC-Supports-Mike-Gibbons-for-US-Senate|title=Gibbons For Ohio - United States Senate|website=Gibbons For Ohio - United States Senate|access-date=2018-05-01|archive-date=2018-05-01|archive-url=https://web.archive.org/web/20180501225825/https://www.gibbonsforohio.com/single-post/2018/03/01/ICYMI-Rand-Paul-Endorsed-Super-PAC-Supports-Mike-Gibbons-for-US-Senate|url-status=dead}}</ref>
+* Citizens for Trump<ref>{{cite web|url=https://citizensfortrump.com/2017/10/17/citizens-trump-proudly-endorses-mike-gibbons-u-s-senate-ohio/|title=Citizens for Trump|website=citizensfortrump.com|access-date=2017-11-03|archive-url=https://web.archive.org/web/20171107023723/https://citizensfortrump.com/2017/10/17/citizens-trump-proudly-endorses-mike-gibbons-u-s-senate-ohio/|archive-date=2017-11-07|url-status=dead}}</ref>
+* Cuyahoga Valley Republicans<ref>{{cite web|url=https://www.gibbonsforohio.com/single-post/2018/04/06/Cuyahoga-Valley-Republicans-Endorse-Mike-Gibbons|title=Gibbons For Ohio - United States Senate|website=Gibbons For Ohio - United States Senate|access-date=2018-05-01|archive-date=2018-05-01|archive-url=https://web.archive.org/web/20180501230121/https://www.gibbonsforohio.com/single-post/2018/04/06/Cuyahoga-Valley-Republicans-Endorse-Mike-Gibbons|url-status=dead}}</ref>
+* Ohio Carry<ref name="dispatch.com"/>
+* Right to Life Action Coalition of Ohio<ref>{{cite web|url=https://www.gibbonsforohio.com/single-post/2018/04/02/Right-to-Life-Action-Coalition-of-Ohio-endorses-Mike-Gibbons/|title=Gibbons For Ohio - United States Senate|website=Gibbons For Ohio - United States Senate|access-date=April 29, 2018|archive-date=July 16, 2019|archive-url=https://web.archive.org/web/20190716232423/https://www.gibbonsforohio.com/single-post/2018/04/02/Right-to-Life-Action-Coalition-of-Ohio-endorses-Mike-Gibbons|url-status=dead}}</ref>
+* [[Tea Party Express]]<ref>{{cite web|url=http://www.teapartyexpress.org/9316/tea-party-express-endorses-mike-gibbons-for-u-s-senate-in-ohio|title=Tea Party Express Endorses Mike Gibbons for U.S. Senate in Ohio|work=Tea Party Express|date=5 May 2018 }}</ref>
+
+;County parties
+* [[Clermont County]] Republican Party<ref>{{cite web|url=https://www.gibbonsforohio.com/single-post/2018/01/18/Conservative-Outsider-Mike-Gibbons-Receives-Endorsement-of-Clermont-County-Republican-Party-for-US-Senate/|title=Gibbons For Ohio - United States Senate|website=Gibbons For Ohio - United States Senate|access-date=2018-01-19|archive-date=2018-01-19|archive-url=https://web.archive.org/web/20180119120508/https://www.gibbonsforohio.com/single-post/2018/01/18/Conservative-Outsider-Mike-Gibbons-Receives-Endorsement-of-Clermont-County-Republican-Party-for-US-Senate/|url-status=dead}}</ref>
+* [[Defiance County]] Republican Party<ref>{{Cite web|url=https://twitter.com/MikeGibbonsOH/status/959235002910302208/|title=Mike Gibbons on Twitter}}</ref>
+* [[Franklin County, Ohio|Franklin County]] Republican Party<ref>{{Cite web |url=http://www.cleveland.com/open/index.ssf/2017/12/franklin_county_gop_endorses_m.html/ |title=Franklin County GOP endorses Mike Gibbons for U.S. Senate over Josh Mandel &#124; cleveland.com |access-date=2017-12-07 |archive-url=https://web.archive.org/web/20171207062904/http://www.cleveland.com/open/index.ssf/2017/12/franklin_county_gop_endorses_m.html |archive-date=2017-12-07 |url-status=dead }}</ref>
+* [[Knox County, Ohio|Knox County]] Republican Party<ref>{{cite web|url=https://www.gibbonsforohio.com/single-post/2018/02/01/Knox-County-Republican-Party-Endorses-Mike-Gibbons/|title=Gibbons For Ohio - United States Senate|website=Gibbons For Ohio - United States Senate|access-date=2018-02-02|archive-date=2018-02-02|archive-url=https://web.archive.org/web/20180202190341/https://www.gibbonsforohio.com/single-post/2018/02/01/Knox-County-Republican-Party-Endorses-Mike-Gibbons/|url-status=dead}}</ref>
+* [[Madison County, Ohio|Madison County]] Republican Party<ref>{{cite web|url=https://www.gibbonsforohio.com/single-post/2018/03/07/Madison-County-Republican-Party-Endorses-Mike-Gibbons-for-Senate/|title=Gibbons For Ohio - United States Senate|website=Gibbons For Ohio - United States Senate|access-date=2018-03-12|archive-date=2018-03-12|archive-url=https://web.archive.org/web/20180312205017/https://www.gibbonsforohio.com/single-post/2018/03/07/Madison-County-Republican-Party-Endorses-Mike-Gibbons-for-Senate/|url-status=dead}}</ref>
+* [[Miami County, Ohio|Miami County]] Republican Party<ref>{{cite web|url=https://www.gibbonsforohio.com/single-post/2018/03/11/Mike-Gibbons-Endorsed-by-Miami-County-Republican-Party/|title=Gibbons For Ohio - United States Senate|website=Gibbons For Ohio - United States Senate|access-date=2018-03-12|archive-date=2018-03-12|archive-url=https://web.archive.org/web/20180312204950/https://www.gibbonsforohio.com/single-post/2018/03/11/Mike-Gibbons-Endorsed-by-Miami-County-Republican-Party/|url-status=dead}}</ref>
+}}
+
+{{Endorsements box
+| title = Josh Mandel (withdrawn)
+| list =
+;U.S. senators
+* [[Tom Cotton]], U.S. senator (R-AR)<ref>{{cite tweet|user=JoshMandelOhio|author=Josh Mandel|number=806630774636244992|date=7 December 2016|title=Proud to have the support @TomCottonAR - I look forward to joining the fight with him in the United States Senate.}}</ref>
+* [[Ted Cruz]], U.S. senator (R-TX), and [[Ted Cruz presidential campaign, 2016|2016 presidential candidate]]<ref>{{cite news|url=http://www.cleveland.com/open/index.ssf/2017/05/ted_cruz_endorses_josh_mandel.html|title=Ted Cruz endorses Josh Mandel for U.S. Senate|work=[[The Plain Dealer]]|last=Tobias|first=Andrew J.|date=May 30, 2017|access-date=May 31, 2017}}</ref>
+* [[Mike Lee]], U.S. senator (R-UT)<ref>{{cite tweet|user=MikeLeeforUtah|author=Mike Lee|number=870320392690335744|date=1 June 2017|title=I am excited to endorse @JoshMandelOhio for U.S. Senate. He is the conservative warrior Ohio needs to lead us to a stronger tomorrow. #ohsen}}</ref>
+* [[Rob Portman]], U.S. senator (R-OH)<ref>{{cite news|url=http://www.cincinnati.com/story/news/politics/2017/05/24/portman-backs-mandel-us-senate-seat-ohio/341645001/|title=Portman backs Mandel for US Senate seat in Ohio|work=[[The Cincinnati Enquirer]]|last=Smyth|first=Julie Carr|date=May 24, 2017|access-date=May 29, 2017}}</ref>
+* [[Marco Rubio]], U.S. senator (R-FL), and [[Marco Rubio presidential campaign, 2016|2016 presidential candidate]]<ref>{{cite tweet|user=marcorubio|author=Marco Rubio|number=806621829238575112|date=7 December 2016|title=Proud to stand with my friend @JoshMandelOhio -}}</ref>
+* [[Pat Toomey]], U.S. senator (R-PA)<ref>{{cite news|url=http://toledoblade.typepad.com/bladeslices/2017/09/josh-mandel-gets-pa-senators-backing-while-gibbons-campaigns-in-nw-ohio.html|title=Josh Mandel gets Pa. senator's backing while Gibbons campaigns in NW Ohio|work=[[The Blade (Toledo, Ohio)|The Blade]]|last=Troy|first=Tom|date=September 13, 2017|access-date=September 21, 2017|archive-url=https://web.archive.org/web/20170920132357/http://toledoblade.typepad.com/bladeslices/2017/09/josh-mandel-gets-pa-senators-backing-while-gibbons-campaigns-in-nw-ohio.html|archive-date=September 20, 2017|url-status=dead}}</ref>
+
+;Individuals
+* [[Mike Cernovich]], conservative activist and writer<ref name=controversial>{{cite news|url=http://www.cleveland.com/metro/index.ssf/2017/10/controversial_figures_launch_s.html|title=Backing Josh Mandel, controversial figures launch super PAC|work=[[The Plain Dealer]]|last=Koff|first=Stephen|date=October 2, 2017|access-date=October 3, 2017}}</ref>
+* [[Jack Posobiec]], conservative activist<ref name=controversial/>
+
+;Labor unions
+* CPPA – Cleveland Police Patrolmen's Association<ref>{{cite news|url=http://www.whio.com/news/local/cleveland-police-union-backs-gop-mandel-senate-race/H3vrsar5Xl0u71NW5anp3H/|title=Cleveland police union backs GOP's Mandel in US Senate race|work=[[WHIO-TV]]|date=October 17, 2017|access-date=October 17, 2017|archive-url=https://web.archive.org/web/20171018071257/http://www.whio.com/news/local/cleveland-police-union-backs-gop-mandel-senate-race/H3vrsar5Xl0u71NW5anp3H/|archive-date=October 18, 2017|url-status=dead|df=mdy-all}}</ref>
+
+;Organizations
+* [[Citizens United (organization)|Citizens United]]<ref>{{cite news|url=http://www.cleveland.com/open/index.ssf/2017/04/citizens_united_pac_endorses_j.html|title=Citizens United PAC endorses Josh Mandel in 2018 Ohio Senate race|work=[[The Plain Dealer]]|last=Tobias|first=Andrew J.|date=April 18, 2017|access-date=April 23, 2017}}</ref>
+* [[Club for Growth]]<ref>{{cite news|url=https://morningconsult.com/2016/12/21/club-for-growth-josh-mandel-ohio-senate-race/|title=Club for Growth Backs Josh Mandel for 2018 Ohio Senate Race|work=[[Morning Consult]]|last=Yokley|first=Eli|date=December 21, 2016|access-date=December 23, 2016}}</ref>
+* [[FreedomWorks]]<ref>{{cite news|url=http://www.freedomworkspac.org/news/freedomworks-pac-endorses-josh-mandel-for-ohios-u-s-senate-seat/|title=FreedomWorks PAC Endorses Josh Mandel for Ohio's U.S. Senate Seat|work=[[FreedomWorks]]|date=December 7, 2016|access-date=April 14, 2017|archive-url=https://web.archive.org/web/20170410213828/http://www.freedomworkspac.org/news/freedomworks-pac-endorses-josh-mandel-for-ohios-u-s-senate-seat/|archive-date=April 10, 2017|url-status=dead|df=mdy-all}}</ref>
+* [[Senate Conservatives Fund]]<ref>{{cite news|url=https://www.senateconservatives.com/post/3458|title=First 2018 Senate Endorsement|work=[[Senate Conservatives Fund]]|date=December 7, 2016|access-date=December 10, 2016}}</ref>
+* [[Tea Party Express]]<ref>{{cite news|url=http://www.teapartyexpress.org/9252/tea-party-express-endorses-josh-mandel-for-u-s-senate|title=Tea Party Express Endorses Josh Mandel for U.S. Senate|work=[[Tea Party Express]]|date=June 7, 2017|access-date=September 5, 2017}}</ref>
+}}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size
+! Margin<br />of error
+! style="width:75px;"| Melissa<br />Ackison
+! style="width:75px;"| Don<br />Eckhart
+! style="width:75px;"| Mike<br />Gibbons
+! style="width:75px;"| Dan<br />Kiley
+! style="width:75px;"| Jim<br />Renacci
+! Undecided
+|-
+|[[Baldwin Wallace University]]<ref>{{Cite web|url=https://www.cleveland.com/open/index.ssf/2018/05/mike_dewine_richard_cordray_up.html|title=Mike DeWine, Richard Cordray up in new BW poll of governor's race}}</ref>
+| align=center| April 24 – May 2, 2018
+| align=center| 323
+| align=center| –
+| align=center| 4%
+| align=center| 1%
+| align=center| 11%
+| align=center| 4%
+| {{party shading/Republican}} align=center| '''25%'''
+| {{party shading/Undecided}} align=center| '''55%'''
+|-
+|[[Fallon Research]]<ref>{{Cite web|url=https://www.scribd.com/document/376201337/1984-Society-Republican-Poll?secret_password=5lCULRh8Cp6vN7V6JXfd|title=1984 Society Republican Poll|website=www.scribd.com}}</ref>
+| align=center| April 4–7, 2018
+| align=center| 502
+| align=center| ± 4.4%
+| align=center| 3%
+| align=center| 2%
+| align=center| 7%
+| align=center| 1%
+| {{party shading/Republican}} align=center| '''21%'''
+| {{party shading/Undecided}} align=center| '''65%'''
+|-
+|[[OnMessage|OnMessage (R-Renacci)]]<ref>{{Cite web|url=http://jimrenacci.com/poll-renacci-takes-massive-lead-ohio-primary/|title=Poll: Renacci Takes Massive Lead In Ohio Primary ⋆ Jim Renacci for US Senate|date=March 21, 2018}}</ref>
+| align=center| March 20, 2018
+| align=center| –
+| align=center| –
+| align=center| 3%
+| align=center| 3%
+| align=center| 8%
+| align=center| 3%
+| {{party shading/Republican}} align=center| '''36%'''
+| {{party shading/Undecided}} align=center| '''47%'''
+|-
+|[[SurveyUSA]]<ref name="SurveyUSA">{{Cite web|url=https://results.surveyusa.com/client/PollReport.aspx?g=b21c66fb-ba89-4b8c-9171-30457f6997d2|title=SurveyUSA Election Poll #23824|website=results.surveyusa.com}}</ref>
+| align=center| March 16–20, 2018
+| align=center| 541
+| align=center| ± 5.7%
+| align=center| 5%
+| align=center| 5%
+| align=center| 10%
+| align=center| 1%
+| {{party shading/Republican}} align=center| '''21%'''
+| {{party shading/Undecided}} align=center| '''58%'''
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''with Josh Mandel'''<br />
+{| class="wikitable"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size
+! Margin<br />of error
+! style="width:75px;"| Melissa<br />Ackison
+! style="width:75px;"| Michael<br />Gibbons
+! style="width:75px;"| Josh<br />Mandel
+! Undecided
+|-
+|[[Remington Research Group|Remington Research Group (R-Mandel)]]<ref>{{Cite web|url=https://thehill.com/homenews/campaign/353077-mandel-leads-gop-primary-for-ohio-senate-seat-internal-poll/|title=Mandel leads GOP primary for Ohio Senate seat: internal poll|first=Ben|last=Kamisar|date=September 29, 2017}}</ref>
+| align=center| September 26–28, 2017
+| align=center| 1,268
+| align=center| ± 2.8%
+| align=center| 5%
+| align=center| 5%
+| {{party shading/Republican}} align=center| '''50%'''
+| align=center| 40%
+|}
+
+'''with Matt Huffman'''<br />
+{| class="wikitable"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size
+! Margin<br />of error
+! style="width:75px;"| Matt<br />Huffman
+! style="width:75px;"| Josh<br />Mandel
+! Undecided
+|-
+|[[Club for Growth]]<ref name="Club for Growth">{{Cite web|url=http://www.cleveland.com/open/index.ssf/2016/12/early_poll_shows_josh_mandel_w.html|title=Early poll shows Josh Mandel with big lead in 2018 Republican Ohio primary for U.S. Senate}}</ref>
+| align=center| December 11–12, 2016
+| align=center| 600
+| align=center| ± 4.0%
+| align=center| 8%
+| {{party shading/Republican}} align=center| '''62%'''
+| align=center| 30%
+|}
+
+'''with Pat Tiberi'''<br />
+{| class="wikitable"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size
+! Margin<br />of error
+! style="width:75px;"| Josh<br />Mandel
+! style="width:75px;"| Pat<br />Tiberi
+! Undecided
+|-
+|[[Club for Growth]]<ref name="Club for Growth"/>
+| align=center| December 11–12, 2016
+| align=center| 600
+| align=center| ± ?%
+| {{party shading/Republican}} align=center| '''60%'''
+| align=center| 12%
+| align=center| 27%
+|}
+{{hidden end}}
+
+===Results===
+[[File:Ohio U.S. Senate Republican primary, 2018.svg|thumb|200px|Results by county:
+{{collapsible list
+| title = Renacci
+|{{legend|#d40000|70–80%}}
+|{{legend|#cc2f4a|60–70%}}
+|{{legend|#e27f90|50–60%}}
+|{{legend|#f2b3be|40–50%}}
+|{{legend|#ffccd0|<40%}}
+}}
+{{collapsible list
+| title = Gibbons
+|{{legend|#ffccaa|<40%}}
+|{{legend|#ffb380|40–50%}}
+|{{legend|#ff9955|50–60%}}
+}}
+{{collapsible list
+| title = Ackison
+|{{legend|#b6ffa8|<40%}}
+}}
+]]
+
+{{Election box begin no change
+| title = Republican primary results<ref name="United States Senate Republican primary election in Ohio, 2018">{{cite web|title=United States Senate Republican primary election in Ohio, 2018|url=https://www.sos.state.oh.us/globalassets/elections/2018/pri/summaryrep.xlsx}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate  = [[Jim Renacci]]
+| party      = Republican Party (United States)
+| votes      = 363,622
+| percentage = 47.34%
+}}
+{{Election box candidate with party link no change
+| candidate  = Mike Gibbons
+| party      = Republican Party (United States)
+| votes      = 243,426
+| percentage = 31.69%
+}}
+{{Election box candidate with party link no change
+| candidate  = Melissa Ackison
+| party      = Republican Party (United States)
+| votes      = 100,543
+| percentage = 13.09%
+}}
+{{Election box candidate with party link no change
+| candidate  = Dan Kiley
+| party      = Republican Party (United States)
+| votes      = 30,684
+| percentage = 3.99%
+}}
+{{Election box candidate with party link no change
+| candidate  = Don Eckhart
+| party      = Republican Party (United States)
+| votes      = 29,796
+| percentage = 3.88%
+}}
+{{Election box write-in with party link no change
+| votes      = 78
+| percentage = 0.01%
+}}
+{{Election box total no change
+| votes      = 768,149
+| percentage = 100.00%
+}}
+{{Election box end}}
+
+==General election==
+===Candidates===
+* Sherrod Brown (D)
+* Stephen Faris (I, [[write-in]])<ref>{{cite web|url=https://www.sos.state.oh.us/media-center/press-releases/2018/2018-08-27/#gref|title=SECRETARY HUSTED ANNOUNCES OFFICIAL TITLE FOR STATE ISSUE 1, CERTIFIES OFFICIAL FORM OF 2018 GENERAL ELECTION BALLOT|website=sos.state.oh.us|access-date=2018-09-22|archive-url=https://web.archive.org/web/20180922063942/https://www.sos.state.oh.us/media-center/press-releases/2018/2018-08-27/#gref|archive-date=2018-09-22|url-status=dead}}</ref>
+* Philena Irene Farley ([[Green Party (United States)|G]], write-in)<ref>{{cite web|url=https://www.fec.gov/data/candidate/S8OH00136/|title=FARLEY, PHILENA IRENE - Candidate overview - FEC.gov|website=FEC.gov}}</ref>
+* Bruce Jaynes (L, write-in)
+* Jim Renacci (R)
+
+===Debates===
+*[https://www.c-span.org/video/?452628-1/ohio-senate-debate Complete video of debate], October 14, 2018
+*[https://www.c-span.org/video/?453293-1/ohio-senate-debate Complete video of debate], October 20, 2018
+*[https://www.c-span.org/video/?453316-1/ohio-senate-debate Complete video of debate], October 26, 2018
+
+===Endorsements===
+{{Endorsements box
+| title = Sherrod Brown (D)
+| width = 1000px
+| list =
+;U.S. executive branch officials
+* [[Madeleine Albright]], author and former U.S. Secretary of State<ref>{{cite web|url=https://twitter.com/SherrodBrown/status/1050897686147289088|title=What a great day on the campaign trail with some very special guests!|work=Twitter|author=Sherrod Brown}}</ref>
+* [[Joe Biden]], 47th vice president of the United States<ref>{{cite web|url=https://twitter.com/SherrodBrown/status/1058789463478988802|title="I've never served with a man with more principle, character, and integrity than Sherrod Brown." What an honor to be alongside Vice President @JoeBiden|work=Twitter|author=Sherrod Brown}}</ref>
+* [[Barack Obama]], 44th president of the United States<ref>{{cite web|url=https://twitter.com/SherrodBrown/status/1040754258541461505|title=Last night, I took the stage in Cleveland with President @BarackObama and Ohio's own @RichCordray & @BettySutton.|work=Twitter|author=Sherrod Brown}}</ref>
+
+;U.S. senators
+* [[Cory Booker]], [[New Jersey]] (2013-present)<ref>{{cite web|title=OH-Sen: Sen. Cory Booker (D. NJ) Helps Sherrod Brown (D) Take Down The GOP For Their Tax Scam Bill|url=https://www.dailykos.com/stories/2017/12/20/1726249/-OH-Sen-Sen-Cory-Booker-D-NJ-Helps-Sherrod-Brown-D-Take-Down-The-GOP-For-Their-Tax-Scam-Bill|website=Daily Kos|date=December 20, 2017}}</ref>
+* [[Chris Coons]], [[Delaware]] (2010-present)<ref>{{cite web|url=https://twitter.com/SherrodBrown/status/1048948229604171776|title=.@ChrisCoons is right: We can angrily scroll through Twitter or watch TV and be upset about the direction of our country ... or we can knock doors and make phone calls. There's plenty to do. Let's get to work.|work=Twitter|author=Sherrod Brown}}</ref>
+* [[Al Franken]], former [[Minnesota]] (2009-2018)<ref name=franken>{{cite news|url=https://www.minnpost.com/politics-policy/2017/08/franken-klobuchar-step-early-2018-campaign-cash-endangered-senate-colleagues|title=Franken, Klobuchar step up early with 2018 campaign cash for endangered Senate colleagues|work=[[MinnPost]]|last=Brodey|first=Sam|date=August 4, 2017|access-date=August 5, 2017}}</ref>
+* [[Kamala Harris]], [[California]] (2017-2021)<ref>{{cite news|url=http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-updates-sen-harris-goes-to-1504909471-htmlstory.html|title=Sen. Kamala Harris heads to a key presidential battleground state to fundraise for a fellow senator|work=[[Los Angeles Times]]|last=Mehta|first=Seema|date=September 8, 2017|access-date=September 10, 2017}}</ref>
+* [[Amy Klobuchar]], Minnesota (2007-present)<ref name=franken/>
+* [[Patty Murray]], [[Washington (state)|Washington]] (1993-present)<ref>{{cite web|title=OH-Sen: Sen. Patty Murray (D. WA) Helps Sherrod Brown (D) Fight Back Against Trump & Mandel (R)|url=https://www.dailykos.com/story/2017/12/27/1728042/-OH-Sen-Sen-Patty-Murray-D-WA-Helps-Sherrod-Brown-D-Fight-Back-Against-Trump-Mandel-R|website=Daily Kos|date=December 27, 2017}}</ref>
+* [[Gary Peters]], [[Michigan]] (2015-present)<ref>{{cite web|title=MI, IN, WI, MN, OH & PA-Sen: Sen. Gary Peters (D. MI) Helps Senate Dems Win Big In The Midwest|url=https://www.dailykos.com/stories/2018/2/27/1745407/-MI-IN-WI-MN-OH-PA-Sen-Sen-Gary-Peters-D-MI-Helps-Senate-Dems-Win-Big-In-The-Midwest|website=Daily Kos|date=February 27, 2018}}</ref>
+* [[Elizabeth Warren]], [[Massachusetts]] (2013-present)<ref>{{cite web|title=OH, WI, PA & MN-Sen: Warren (D. MA) Helps These Dems Continue To Stand Up To Wall Street|url=https://www.dailykos.com/stories/2018/3/9/1747743/-OH-WI-PA-MN-Sen-Warren-D-MA-Helps-These-Dems-Continue-To-Stand-Up-To-Wall-Street|website=Daily Kos|date=March 9, 2018}}</ref>
+
+;U.S. representatives
+* [[Joyce Beatty]], U.S. representative (OH-03)<ref>{{cite web|url=https://twitter.com/SherrodBrown/status/1049054548663443456|title=Thank you to everyone who joined us at our canvass kick-off and rally in Columbus with @KamalaHarris, @JoyceBeatty, @RichCordray, @BettySutton, @Donnelly4Ohio, and @RobForOhio!|work=Twitter|author=Sherrod Brown}}</ref>
+
+;Statewide officials
+* [[Justin Fairfax]], [[lieutenant governor of Virginia]] (2018-2022)<ref>{{cite web|url=https://twitter.com/FairfaxJustin/status/1010608491332100096|title=Proud to campaign for great Ohio Senator @SherrodBrown in Cincinnati! Let's take back Congress in 2018! #WeRiseTogether|work=Twitter|author=Justin Fairfax}}</ref>
+* [[Martin O'Malley]], former [[governor of Maryland]]<ref>{{cite web|url=https://twitter.com/MartinOMalley/status/1053691039813435392|title=#WinBackYourState Stark County!|work=Twitter|author=Martin O'Malley}}</ref>
+
+;Local officials
+* [[Nan Whaley]], mayor of [[Dayton]] (2014-2022)<ref>{{cite web|url=https://twitter.com/nanwhaley/status/1055965411114655745|title=Renacci = corporate first. Sherrod Brown = worker first. I know who I am with! #TeamSherrod #TeamOhio #OHSendebate|work=Twitter|author=Nan Whaley}}</ref>
+
+;Individuals
+* [[John Legend]], singer<ref>{{cite web|url=https://twitter.com/johnlegend/status/1059158403199782912|title=Great to be back in my home state of Ohio supporting amazing Democrats running for office this year. If you live in Ohio, be sure to vote @SherrodBrown for Senate, @RichCordray for Gov, yes on Issue 1 and Dem up and down the ticket!|work=Twitter|author=John Legend}}</ref>
+*[[Amy Schumer]], actress<ref>{{cite web|url=https://twitter.com/amyschumer/status/1054523400092352515|title=News|work=Twitter|author=Amy Schumer}}</ref>
+
+;Labor unions
+* [[National Education Association]]<ref>{{cite web|title=NEA Fund - Recommended Candidates|url=https://www.neafund.org/Home/Candidates|website=www.neafund.org|access-date=October 20, 2018|archive-date=August 1, 2018|archive-url=https://web.archive.org/web/20180801095844/https://www.neafund.org/Home/Candidates|url-status=dead}}</ref>
+* Ohio State [[AFL–CIO]]<ref>{{cite news|url=http://ohioaflcio.com/ohio-afl-cio-endorses-sherrod-brown-for-re-election-to-senate/|title=OHIO AFL-CIO Endorses Sherrod Brown For Re-Election To Senate|work=Ohio AFL–CIO|last=Perlman|first=Jason|date=October 18, 2017|access-date=November 3, 2017}}</ref>
+* [[United Automobile Workers]]<ref>{{cite web|last1=Rankin|first1=Rich|last2=Johnson|first2=Glenn|last3=Arnold|first3=Jerry|last4=Meadors|first4=Tim|last5=Baumhower|first5=Bruce|title=United Auto Workers Endorses Sherrod Brown for U.S. Senate {{!}} UAW|url=https://uaw.org/united-auto-workers-endorses-sherrod-brown-u-s-senate/|website=UAW|date=October 16, 2017}}</ref>
+* [[United Mine Workers of America]]<ref>{{cite web|last1=Roberts|first1=Cecile|title=UMWA endorses Brown for Senate, five U.S. Representatives in Ohio primary - UMWA|url=http://umwa.org/news-media/press/umwa-endorses-brown-for-senate-five-u-s-representatives-in-ohio-primary/|website=UMWA|date=April 13, 2018}}</ref>
+
+;Organizations
+* [[Council for a Livable World]]<ref>{{cite web|title=Sherrod Brown (D-OH) for Senate - Council for a Livable World|url=https://livableworld.org/meet-the-candidates/senate-candidates/sherrod-brown-d-oh-senate/|website=Council for a Livable World|access-date=2018-04-16|archive-date=2018-04-16|archive-url=https://web.archive.org/web/20180416200542/https://livableworld.org/meet-the-candidates/senate-candidates/sherrod-brown-d-oh-senate/|url-status=dead}}</ref>
+* [[Democracy for America]]<ref>{{cite news|url=https://thehill.com/homenews/campaign/315212-major-progressive-group-unveils-first-2018-senate-endorsements/|title=Major progressive group unveils first 2018 Senate endorsements|work=[[The Hill (newspaper)|The Hill]]|last=Hagen|first=Lisa|date=January 20, 2017|access-date=January 29, 2017}}</ref>
+* [[End Citizens United]]<ref>{{cite news|url=http://www.rollcall.com/news/politics/liberal-pac-makes-first-senate-endorsements-2018|title=Liberal PAC Makes First Senate Endorsements of 2018|work=[[Roll Call]]|last=Pathé|first=Simone|date=April 13, 2017|access-date=April 14, 2017}}{{Dead link|date=September 2026 |bot=InternetArchiveBot }}</ref>
+* Feminist Majority Political Action Committee<ref>{{cite web|url=https://feministmajoritypac.org/candidates/sherrod-brown/|title=Sherrod Brown – Feminist Majority PAC|website=feministmajoritypac.org}}</ref>
+* [[Human Rights Campaign]]<ref>{{cite news|url=https://www.hrc.org/blog/hrc-endorses-senator-sherrod-brown-for-re-election-in-ohio|title=HRC Endorses Ohio Senator Sherrod Brown for Re-election|work=[[Human Rights Campaign]]|last=Metzger|first=Ianthe|date=November 9, 2017|access-date=November 11, 2017|archive-date=November 22, 2017|archive-url=https://web.archive.org/web/20171122113225/http://www.hrc.org/blog/hrc-endorses-senator-sherrod-brown-for-re-election-in-ohio|url-status=dead}}</ref>
+* [[J Street]]<ref>{{cite web |title=2018 Senate Endorsees - JStreet |url=https://donate.jstreetpac.org/page/2018-senate-endorsees/ |access-date=2018-08-01 |archive-date=2018-06-16 |archive-url=https://web.archive.org/web/20180616125912/https://donate.jstreetpac.org/page/2018-senate-endorsees/ |url-status=dead }}</ref>
+* [[League of Conservation Voters]] Action Fund<ref name="Environmental Endorsements">{{cite web|title=Major Environmental Groups Endorse Sen. Sherrod Brown for Re-Election|url=https://www.lcv.org/article/major-environmental-groups-endorse-sen-sherrod-brown-re-election/|website=League of Conservation Voters|date=March 5, 2018}}</ref>
+* LegitAction<ref>{{cite web|url=https://legitaction.com/pac/|title=LegitPAC - LegitAction|website=legitaction.com}}</ref>
+* [[MoveOn.org]]<ref>{{cite news|url=https://front.moveon.org/health-care-heroes-senate-endorsements/|title=MoveOn Endorses Six Senators' Re-Election Bids, Backing 'Health Care Heroes' for Helping Lead Effort to Stop Trumpcare From Becoming Law, Embracing Progressive Policies in Trump Era|work=[[MoveOn.org]]|last=Stewart|first=Brian|date=August 1, 2017|access-date=September 10, 2017}}</ref>
+* [[National Committee to Preserve Social Security and Medicare]]<ref>{{cite web|url=https://www.ncpssm.org/pac/candidates-we-endorse-and-support/|title=Candidates We Endorse and Support|last=NCPSSM}}</ref>
+* [[National Organization for Women]]<ref>{{cite web|title=Federal Endorsements by the NOW PAC {{!}} National Organization for Women Political Action Committees|url=https://nowpac.org/all-federal-candidates-2018/|website=nowpac.org|date=August 23, 2017|access-date=August 1, 2018|archive-date=April 26, 2019|archive-url=https://web.archive.org/web/20190426143154/https://nowpac.org/all-federal-candidates-2018/|url-status=dead}}</ref>
+* [[Natural Resources Defense Council]]<ref name="Environmental Endorsements"/>
+* Ohio Society of CPAs<ref name=cpsoi>{{cite web|url=https://irontontribune.com/2018/08/21/ohio-cpa-group-backs-brown-faber/|title=Ohio CPA group backs Brown, Renacci, Faber|work=[[Ironton Tribune]]|last=Harrison|first=Heath|date=August 21, 2018}}</ref>
+* Ohio State Medical Association<ref>{{cite news|url=https://www.cleveland.com/open/index.ssf/2018/06/sherrod_brown_nabs_endorsement.html|title=Sherrod Brown nabs endorsement from Ohio doctors group|work=[[The Plain Dealer]]|last=Tobias|first=Andrew J.|date=June 28, 2018|access-date=July 12, 2018}}</ref>
+* [[Population Connection]]<ref>{{cite web|title=Population Connection Action Fund Endorsements|url=https://www.populationconnectionaction.org/2018-endorsements/|website=Population Connection|access-date=2018-10-27|archive-date=2018-04-05|archive-url=https://web.archive.org/web/20180405074336/http://www.populationconnectionaction.org/2018-endorsements/|url-status=dead}}</ref>
+* [[Sierra Club]]<ref>{{cite web|url=https://content.sierraclub.org/voterguide/endorsements|title=Sierra Club #ClimateVoter Guide: Endorsements|date=16 July 2012|access-date=February 16, 2018|archive-date=June 12, 2018|archive-url=https://web.archive.org/web/20180612140245/https://content.sierraclub.org/voterguide/endorsements|url-status=dead}}</ref>
+* Students for Gun Legislation
+}}
+{{Endorsements box
+| title = Jim Renacci (R)
+| width = 1000px
+| list =
+;U.S. executive branch officials
+* [[Mike Pence]], vice president of the United States<ref>{{cite web|url=https://twitter.com/mike_pence/status/994030833903300609|title=Congrats to my friend @JimRenacci on his #OHSen primary win tonight. I was for Jim Renacci before it was cool – back when we served together in the House. @RealDonaldTrump and I are with you & look forward to working with you in the US Senate. #MAGA|work=Twitter|author=Mike Pence}}</ref>
+* [[Donald Trump]], president of the United States<ref>{{cite web|url=https://twitter.com/realDonaldTrump/status/988856839893897222|title=.@JimRenacci has worked so hard on Tax Reductions, Illegal Immigration, the Border and Crime. I need Jim very badly to help our agenda and to keep MAKING AMERICA GREAT AGAIN! He will be a fantastic Senator for the Great State of Ohio, and has my full endorsement!|work=[[Twitter]]|date=April 24, 2018|access-date=April 24, 2018}}</ref>
+
+;U.S. senators
+* [[Rob Portman]], U.S. senator (R-OH)<ref>{{cite news|url=https://twitter.com/robportman/status/957978958083084288|title=. @JimRenacci has a track record of success as a job creator and battle-tested conservative leader, and I am proud to endorse him in the race for U.S. Senate.|work=Twitter|author=Rob Portman}}</ref>
+
+;Statewide office holders
+* [[Josh Mandel]], Ohio treasurer<ref>{{cite news|url=http://www.cleveland.com/open/index.ssf/2018/01/rob_portman_backs_jim_renacci.html|title=Rob Portman, Josh Mandel back Jim Renacci in Senate race|work=[[The Plain Dealer]]|author=Seth A. Richardson|date=January 29, 2018|access-date=January 30, 2018}}</ref>
+* [[Mary Taylor (Ohio politician)|Mary Taylor]], lieutenant governor of Ohio<ref>{{cite news|url=https://twitter.com/MaryTaylorOH/status/1038133073362202625|title=My friend @JimRenacci is best positioned to advance President @realDonaldTrump's economic agenda. It's time to send career politician Sherrod Brown home, so I'll be voting Renacci on Nov. 6. (even though he once dressed an actress who was supposed to be me up in a cat suit 😂)|work=Twitter|author=Mary Taylor}}</ref>
+
+;State representatives
+* Steve Hambley
+
+;U.S. representatives
+* [[Steve Chabot]] (OH-1)<ref name=jrcoh>{{cite news|url=http://www.cleveland.com/open/index.ssf/2018/01/all_sitting_gop_members_of_us.html|title=All sitting GOP members of U.S. House from Ohio endorse Jim Renacci|work=[[The Plain Dealer]]|last=Hancock|first=Laura|date=January 19, 2018|access-date=January 19, 2018}}</ref>
+* [[Warren Davidson]] (OH-8)<ref name=jrcoh/>
+* [[Bob Gibbs]] (OH-7)<ref name=jrcoh/>
+* [[Bill Johnson (Ohio politician)|Bill Johnson]] (OH-6)<ref name=jrcoh/>
+* [[Jim Jordan]] (OH-4)<ref name=jrcoh/>
+* [[David Joyce (politician)|David Joyce]] (OH-14)<ref name=jrcoh/>
+* [[Bob Latta]] (OH-5)<ref name=jrcoh/>
+* [[Steve Stivers]] (OH-15)<ref name=jrcoh/>
+* [[Mike Turner]] (OH-10)<ref name=jrcoh/>
+* [[Brad Wenstrup]] (OH-2)<ref name=jrcoh/>
+
+;Mayors
+* Rob Duncan, [[Norwalk, Ohio|Norwalk]]<ref>{{Cite web|url=https://x.com/JimRenacci/status/977245291727523840|title=Honored to have received Norwalk Mayor and Huron County Republican Party Chairman Rob Duncan's endorsement!}}</ref>
+* Bob Meilander, [[Kipton]]
+
+;Individuals
+* [[Anthony Scaramucci]], former White House Communications Director
+* [[Donald Trump Jr.]], businessman and son of U.S. President [[Donald Trump]]<ref>{{cite web|url=https://abc6onyourside.com/news/election/trump-jr-to-campaign-in-ohio-for-renacci|title=Trump Jr. to campaign in Ohio for Renacci|work=ABC6OnYourSide.com|date=September 5, 2018}}</ref>
+* [[Eric Trump]], businessman and son of U.S. President [[Donald Trump]]<ref>{{cite web|url=https://mobile.twitter.com/EricTrump/status/1058433938023165955|title=Great being in OHIO in support of @JimRenacci and @Bob_Gibbs! Two great people who will #MakeAmericaGreatAgain|work=Twitter|author=Eric Trump}}</ref>
+
+;County parties
+* [[Brown County, Ohio|Brown County]] Republican Party<ref>{{cite news|url=https://twitter.com/JimRenacci/status/966834476474159105|title=Wave of conservative momentum behind our campaign for #OHsen continues. Honored to have earned the Brown County GOP's endorsement for US Senate tonight.|work=Twitter|author=Jim Renacci}}</ref>
+* [[Cuyahoga County]] Republican Party<ref>{{cite news|url=https://twitter.com/JimRenacci/status/965335833178976257|title=Honored to have earned the Cuyahoga County Republican Party's endorsement today for U.S. Senate. Momentum & support from conservatives across Ohio continues to grow behind our campaign to defeat @SherrodBrown. #OHsen|work=Twitter|author=Jim Renacci}}</ref>
+* [[Fulton County, Ohio|Fulton County]] Republican Party<ref>{{cite news|url=https://twitter.com/JimRenacci/status/967425229097259009|title=Momentum keeps building for our campaign for Senate. Proud to have the support of Fulton County.|work=Twitter|author=Jim Renacci}}</ref>
+* [[Lake County, Ohio|Lake County]] Republican Party<ref>{{Cite web|url=https://x.com/JimRenacci/status/978449767322832896|title=As support for our common-sense conservative ideas increases throughout the state, I am honored to have the Lake County GOP standing beside me as we push to remove Sherrod Brown from office this November!}}</ref>
+* [[Preble County]] Republican Party<ref>{{cite news|url=https://twitter.com/JimRenacci/status/960692142934020096|title=Thank you Preble County GOP for the overwhelming support! #OHSEN|work=Twitter|author=Jim Renacci}}</ref>
+* [[Summit County, Ohio|Summit County]] Republican Party<ref>{{Cite web|url=https://x.com/JimRenacci/status/973344010298449920|title=Thanks Summit County GOP for your trust in my commitment to putting Ohio first. Looking forward to making Ohio red with your help this November.}}</ref>
+
+;Organizations
+* Business-Industry Political Action Committee<ref>{{cite web|url=https://www.bipacaction.org/history.html|title=History|website=BIPAC Action Fund|access-date=2018-05-01|archive-date=2018-05-01|archive-url=https://web.archive.org/web/20180501230246/https://www.bipacaction.org/history.html|url-status=dead}}</ref>
+* Cuyahoga Valley Republicans<ref>{{Cite web|url=https://x.com/JimRenacci/status/982050075672301568|title=Thank you to the Cuyahoga Valley Republicans for their endorsement! I am proud to have their support as we work together to defeat Sherrod Brown in November.}}</ref>
+* [[National Federation of Independent Business]]<ref>{{cite web|url=https://www.nfib.com/content/press-release/elections/small-business-endorses-congressman-jim-renacci-for-the-u-s-senate/|title=Small Business Endorses Congressman Jim Renacci for the U.S. Senate|work=NFIB|date=August 2, 2018|archive-url=https://web.archive.org/web/20180803014030/https://www.nfib.com/content/press-release/elections/small-business-endorses-congressman-jim-renacci-for-the-u-s-senate|archive-date=August 3, 2018|url-status=live}}</ref>
+* [[NRA Political Victory Fund]]<ref>{{cite news|url=https://www.nrapvf.org/articles/20180410/nra-endorses-jim-renacci-for-us-senate|title=NRA Endorses Jim Renacci for U.S. Senate|work=National Rifle Association|date=April 10, 2018|archive-url=https://web.archive.org/web/20180424135250/https://www.nrapvf.org/articles/20180410/nra-endorses-jim-renacci-for-us-senate|archive-date=April 24, 2018|url-status=live|quote=The National Rifle Association Political Victory Fund (NRA-PVF) is proud to endorse Rep. Jim Renacci for U.S. Senate in Ohio.}}</ref>
+* Ohio Black Republican Association<ref>{{cite news|url=https://jimrenacci.com/ohio-black-republican-association-endorses-renacci-senate/|title=Ohio Black Republican Association Endorses Renacci for Senate|work=Renacci for Senate|date=March 20, 2018|access-date=March 26, 2018|archive-url=https://web.archive.org/web/20180327025106/https://jimrenacci.com/ohio-black-republican-association-endorses-renacci-senate/|archive-date=March 27, 2018|url-status=dead|df=mdy-all}}</ref>
+* [[Ohio Right to Life]]<ref>{{cite news|url=http://www.cleveland.com/open/index.ssf/2018/03/ohio_right_to_life_endorses_an.html|title=Ohio Right to Life endorses Anthony Gonzalez in Ohio 16th District congressional race, Jim Renacci for Senate|work=The Plain Dealer|author=Andrew J. Tobias|date=March 20, 2018|archive-url=https://web.archive.org/web/20180320143759/http://www.cleveland.com/open/index.ssf/2018/03/ohio_right_to_life_endorses_an.html|archive-date=March 20, 2018|url-status=live}}</ref>
+* Ohio Society of CPAs<ref name=cpsoi/>
+* Ohioans for Concealed Carry<ref>{{cite web|url=https://twitter.com/JimRenacci/status/1043199707852374016|title=Proud to be endorsed by Ohioans for Concealed Carry. #OHSen|work=Twitter|author=Jim Renacci}}</ref>
+* [[Students for Trump]]<ref>{{cite web|url=https://twitter.com/TrumpStudents/status/1018574383776923648|title=Ohio has benefited tremendously under President Trump's policies, but liberal Sherrod Brown has obstructed every step of the way and voted against your big beautiful tax cut. Ohio must elect @JimRenacci in November!|work=Twitter|author=Students for Trump}}</ref>
+
+;State parties
+* [[Ohio Republican Party]]<ref>{{cite web|url=https://www.10tv.com/article/ohio-gop-endorses-mike-dewine-governors-race|title=Ohio GOP endorses Mike DeWine in governor's race|date=9 February 2018|access-date=9 February 2018|archive-date=9 February 2018|archive-url=https://web.archive.org/web/20180209211039/https://www.10tv.com/article/ohio-gop-endorses-mike-dewine-governors-race|url-status=dead}}</ref>
+}}
+
+===Predictions===
+{| class="wikitable" style="text-align:center"
+<!-- Colors:
+style="background:#f66" | {{sort|104|Safe R}}
+style="background:#f99" | {{sort|103|Likely R}}
+style="background:#fcc" | {{sort|102|Lean R}}
+style="background:#fdd" | {{sort|101|Tilt R}}
+{{sort|100|Tossup}}
+style="background:#ddf" | {{sort|099|Tilt D}}
+style="background:#ccf" | {{sort|098|Lean D}}
+style="background:#99f" | {{sort|097|Likely D}}
+style="background:#66f" | {{sort|096|Safe D}}
+-->
+|-
+! Source
+! Ranking
+! As of
+|-
+|[[The Cook Political Report]]<ref>{{cite web|url=https://cookpolitical.com/ratings/senate-race-ratings/187540|title=2018 Senate Race Ratings for October 26, 2018|website=The Cook Political Report|access-date=March 13, 2021}}</ref>
+| {{USRaceRating|Likely|D}}
+|October 26, 2018
+|-
+|[[Inside Elections]]<ref>{{cite web|url=https://www.insideelections.com/ratings/senate/2018-senate-ratings-november-1-2018|title=2018 Senate Ratings|website=The Rothenberg Political Report|access-date=March 13, 2021}}</ref>
+| {{USRaceRating|Safe|D}}
+|November 1, 2018
+|-
+| [[Sabato's Crystal Ball]]<ref>{{cite web|title=2018 Crystal Ball Senate race ratings|url=http://www.centerforpolitics.org/crystalball/2018-senate/|website=Sabato's Crystal Ball|access-date=June 13, 2018}}</ref>
+|{{USRaceRating|Likely|D}}
+| November 5, 2018
+|-
+|[[Fox News]]<ref>{{cite web|url=http://www.foxnews.com/politics/midterms-2018.html|title=2018 Senate Power Rankings|website=[[Fox News]] |access-date=July 10, 2018}}</ref>{{efn|The Fox News Midterm Power Rankings uniquely does not contain a category for Safe/Solid races}}
+| {{USRaceRating|Likely|D}}
+| November 5, 2018
+|-
+|[[CNN]]<ref>{{cite web|url=https://edition.cnn.com/election/2018/key-races/senate|title=Key Races: Senate|access-date=July 15, 2018}}</ref>
+| {{USRaceRating|Likely|D}}
+| November 5, 2018
+|-
+|[[RealClearPolitics]]<ref>{{cite web|url=https://www.realclearpolitics.com/epolls/2018/senate/2018_elections_senate_map.html|title=Battle for the Senate 2018|access-date=July 15, 2018}}</ref>
+| {{USRaceRating|Lean|D}}
+| November 5, 2018
+|-
+|[[FiveThirtyEight]]<ref>{{Cite news|url=https://projects.fivethirtyeight.com/2018-midterm-election-forecast/senate/ohio/|archive-url=https://web.archive.org/web/20181009233350/https://projects.fivethirtyeight.com/2018-midterm-election-forecast/senate/ohio/|url-status=dead|archive-date=October 9, 2018|title=Ohio - 2018 Senate Forecast|last=Silver|first=Nate|date=2018-09-11|work=FiveThirtyEight|access-date=2018-11-01|language=en-US}}</ref>
+|{{USRaceRating|Safe|D}}
+|November 6, 2018
+|}
+{{smalldiv|1=;Notes
+{{notelist}}}}
+
+===Polling===
+{{Chart|definition=Opinion polling for the 2018 United States Senate election in Ohio.chart|data=Opinion polling for the 2018 United States Senate election in Ohio.tab|width=700px}}
+{| class="wikitable" style="font-size:90%;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size
+! Margin<br />of error
+! style="width:100px;"| Sherrod<br />Brown (D)
+! style="width:100px;"| Jim<br />Renacci (R)
+! Other
+! Undecided
+|-
+|[[Change Research]]<ref>{{Cite web|url=https://twitter.com/ChangePolls/status/1059297413465141248|title=Change Research on Twitter}}</ref>
+| align=center| November 2–4, 2018
+| align=center| 923
+| align=center| –
+| {{party shading/Democratic}} align=center| '''53%'''
+| align=center| 43%
+| align=center| –
+| align=center| –
+|-
+|[[Research Co.]]<ref>{{Cite web|url=https://researchco.ca/wp-content/uploads/2018/11/Tables_Midterms_05Nov2018.pdf|title=Research Co.}}</ref>
+| align=center| November 1–3, 2018
+| align=center| 450
+| align=center| ± 4.6%
+| {{party shading/Democratic}} align=center| '''53%'''
+| align=center| 39%
+| align=center| –
+| align=center| 8%
+|-
+|[[Cygnal (consulting firm)|Cygnal]] (R)<ref>{{Cite web|url=http://www.cygn.al/wp-content/uploads/2018/11/42502-Cygnal-OH-Toplines_2.pdf|title=Cygnal (R)}}</ref>
+| align=center| October 30–31, 2018
+| align=center| 503
+| align=center| ± 4.4%
+| {{party shading/Democratic}} align=center| '''52%'''
+| align=center| 42%
+| align=center| –
+| align=center| 6%
+|-
+|[[Gravis Marketing]]<ref>{{Cite web|url=https://www.realclearpolitics.com/docs/Ohio_November_1_2018.pdf|title=Gravis Marketing}}</ref>
+| align=center| October 29–30, 2018
+| align=center| 789
+| align=center| ± 3.5%
+| {{party shading/Democratic}} align=center| '''46%'''
+| align=center| 37%
+| align=center| –
+| align=center| 17%
+|-
+|[[Emerson College]]<ref>{{Cite web|url=https://emerson.edu/news/|title=News & Events|website=Emerson College}}</ref>
+| align=center| October 26–28, 2018
+| align=center| 566
+| align=center| ± 4.3%
+| {{party shading/Democratic}} align=center| '''49%'''
+| align=center| 43%
+| align=center| 2%<ref>Stephen Faris (write-in) with 2%</ref>
+| align=center| 6%
+|-
+|[[Baldwin Wallace University]]<ref>[https://www.bw.edu/Assets/stories/2018/2018-Fall/late_october_survey_report%20final.pdf Baldwin Wallace University]</ref>
+| align=center| October 19–27, 2018
+| align=center| 1,051
+| align=center| ± 3.8%
+| {{party shading/Democratic}} align=center| '''51%'''
+| align=center| 32%
+| align=center| –
+| align=center| 17%
+|-
+|[[Suffolk University]]<ref>{{Cite web|url=https://www.suffolk.edu/documents/SUPRC/10_12_2018_marginals.pdf|archiveurl=https://web.archive.org/web/20181107074840/https://www.suffolk.edu/documents/SUPRC/10_12_2018_marginals.pdf|url-status=dead|title=Suffolk University|archivedate=November 7, 2018}}</ref>
+| align=center| October 4–8, 2018
+| align=center| 500
+| align=center| ± 4.4%
+| {{party shading/Democratic}} align=center| '''54%'''
+| align=center| 36%
+| align=center| 0%<ref>Stephen Faris (write-in) with 0%</ref>
+| align=center| 10%
+|-
+|[[Baldwin Wallace University]]<ref>[https://www.bw.edu/Assets/stories/2018/2018-Fall/cri-october_survey_report-final.pdf Baldwin Wallace University]</ref>
+| align=center| September 8 – October 8, 2018
+| align=center| 1,017
+| align=center| ± 3.5%
+| {{party shading/Democratic}} align=center| '''50%'''
+| align=center| 33%
+| align=center| –
+| align=center| 18%
+|-
+|[[University of Akron]]<ref>{{Cite web|url=https://uakron.edu/bliss/docs/Bliss%20Poll%202018.pdf|title=University of Akron}}</ref>
+| align=center| September 10 – October 4, 2018
+| align=center| 1,000
+| align=center| ± 3.0%
+| {{party shading/Democratic}} align=center| '''43%'''
+| align=center| 31%
+| align=center| –
+| align=center| 26%
+|-
+|[[Ipsos]]<ref>{{Cite web|url=https://fingfx.thomsonreuters.com/gfx/rngs/USA-ELECTION/010080D20RG/index.html|title=Tight U.S. Senate race|website=Reuters}}</ref>
+| align=center| September 13–21, 2018
+| align=center| 1,074
+| align=center| ± 3.0%
+| {{party shading/Democratic}} align=center| '''50%'''
+| align=center| 39%
+| align=center| 2%
+| align=center| 9%
+|-
+|[[Triton Polling & Research|Triton Polling & Research (R)]]<ref>{{Cite web|url=https://www.nationaljournal.com/s/672790/latest-poll-shows-tight-race-in-iowa/|title=Latest Poll Shows Tight Race in Iowa|website=National Journal}}</ref>
+| align=center| September 18–20, 2018
+| align=center| 1,003
+| align=center| ± 3.1%
+| {{party shading/Democratic}} align=center| '''53%'''
+| align=center| 42%
+| align=center| –
+| align=center| 5%
+|-
+| rowspan=4|[[NBC News]]/[[Marist Poll|Marist]]<ref>[http://maristpoll.marist.edu/wp-content/uploads/2018/09/NBC-News_Marist-Poll_OH-Adults-and-Registered-Voters-and-Likely-Voters_NOS-and-Tables_1909241406.pdf NBC News/Marist]</ref>
+| rowspan=4 align=center| September 16–20, 2018
+| rowspan=2 align=center| 564 LV
+| rowspan=2 align=center| ± 5.0%
+| {{party shading/Democratic}} align=center| '''49%'''
+| align=center| 35%
+| align=center| 7%<ref>Bruce Jaynes (L, write-in) with 4%, Philena Farley (G, write-in) with 2%, other with 1%</ref>
+| align=center| 8%
+|-
+| {{party shading/Democratic}} align=center| '''52%'''
+| align=center| 39%
+| align=center| 1%
+| align=center| 7%
+|-
+| rowspan=2 align=center| 796 RV
+| rowspan=2 align=center| ± 4.2%
+| {{party shading/Democratic}} align=center| '''49%'''
+| align=center| 33%
+| align=center| 10%<ref>Bruce Jaynes (L, write-in) with 6%, Philena Farley (G, write-in) with 3%, other with 1%</ref>
+| align=center| 9%
+|-
+| {{party shading/Democratic}} align=center| '''52%'''
+| align=center| 39%
+| align=center| 1%
+| align=center| 8%
+|-
+|[[Baldwin Wallace University]]<ref>[https://www.bw.edu/Assets/stories/2018/2018-Fall/09-bw-cri-september_survey_report_with-crosstabs.pdf Baldwin Wallace University]</ref>
+| align=center| September 5–15, 2018
+| align=center| 1,048
+| align=center| ± 3.6%
+| {{party shading/Democratic}} align=center| '''49%'''
+| align=center| 32%
+| align=center| –
+| align=center| 19%
+|-
+|[[Morning Consult]]<ref>{{Cite web|url=https://www.politico.com/f/?id=00000165-cb2f-db94-ab7f-cfff8b740000|title=Morning Consult}}</ref>
+| align=center| September 2–11, 2018
+| align=center| 1,592
+| align=center| ± 2.0%
+| {{party shading/Democratic}} align=center| '''47%'''
+| align=center| 31%
+| align=center| –
+| align=center| 22%
+|-
+|[[Change Research|Change Research (D-Innovation Ohio)]]<ref>{{Cite web|url=http://innovationohio.org/2018/09/06/new-poll-shows-tied-gubernatorial-race-close-races-up-and-down-the-ballot/|title=Change Research (D-Innovation Ohio)}}</ref>
+| align=center| August 31 – September 4, 2018
+| align=center| 822
+| align=center| ± 3.0%
+| {{party shading/Democratic}} align=center| '''46%'''
+| align=center| 42%
+| align=center| –
+| align=center| 12%
+|-
+|[[TRZ Communications|TRZ Communications (R-WTPC)]]<ref>{{Cite web|url=http://www.wethepeopleconvention.org/ohio-2018-general-election-poll-results/|archiveurl=https://web.archive.org/web/20180716053906/http://www.wethepeopleconvention.org/ohio-2018-general-election-poll-results/|url-status=dead|title=Ohio 2018 General Election Poll Results &#124;|archivedate=July 16, 2018|website=www.wethepeopleconvention.org}}</ref>
+| align=center| June 30 – July 10, 2018
+| align=center| 1,485
+| align=center| ± 3.0%
+| {{party shading/Democratic}} align=center| '''45%'''
+| align=center| 41%
+| align=center| –
+| align=center| 14%
+|-
+|[[SurveyMonkey]]/[[Axios (website)|Axios]]<ref>[https://drive.google.com/file/d/1aerd3_1pJ276A7rLNRQ_Y3ifiUtSraan/view SurveyMonkey/Axios]</ref>
+| align=center| June 11 – July 2, 2018
+| align=center| 951
+| align=center| ± 5.0%
+| {{party shading/Democratic}} align=center| '''52%'''
+| align=center| 44%
+| align=center| –
+| align=center| 4%
+|-
+|[[NBC News]]/[[Marist Poll|Marist]]<ref>[http://maristpoll.marist.edu/wp-content/misc/OHPolls/OH180617/Toss%20Up%20Questions_NBC%20News_Marist%20Poll_Ohio%20Nature%20of%20the%20Sample%20and%20Tables_June%202018.pdf NBC News/Marist]</ref>
+| align=center| June 17–22, 2018
+| align=center| 778
+| align=center| ± 4.4%
+| {{party shading/Democratic}} align=center| '''51%'''
+| align=center| 38%
+| align=center| 1%
+| align=center| 10%
+|-
+|[[Quinnipiac University]]<ref>[https://poll.qu.edu/images/polling/oh/oh06132018_otyd16.pdf Quinnipiac University]</ref>
+| align=center| June 7–12, 2018
+| align=center| 1,082
+| align=center| ± 3.7%
+| {{party shading/Democratic}} align=center| '''51%'''
+| align=center| 34%
+| align=center| 1%
+| align=center| 12%
+|-
+|[[Suffolk University]]<ref>{{Cite web|url=https://www.suffolk.edu/documents/SUPRC/6_18_2018_marginals.pdf|archiveurl=https://web.archive.org/web/20180729171304/https://www.suffolk.edu/documents/SUPRC/6_18_2018_marginals.pdf|url-status=dead|title=Suffolk University|archivedate=July 29, 2018}}</ref>
+| align=center| June 6–11, 2018
+| align=center| 500
+| align=center| ± 4.4%
+| {{party shading/Democratic}} align=center| '''53%'''
+| align=center| 37%
+| align=center| 2%
+| align=center| 8%
+|-
+|[[America First Action|America First Action (R)]]<ref>{{Cite web|url=https://www.a1apac.org/news/exclusive-america-first-ohio-poll-nancy-pelosi-drags-down-democratic-party-/|title=Exclusive — America First Ohio Poll: Nancy Pelosi Drags Down Democratic Party, Donald Trump Boosts GOP &#124; America First Action|website=www.a1apac.org}}</ref>
+| align=center| May 29–31, 2018
+| align=center| 400
+| align=center| ± 4.9%
+| {{party shading/Democratic}} align=center| '''45%'''
+| align=center| 41%
+| align=center| –
+| align=center| 10%
+|-
+|[[Fallon Research]]<ref>{{Cite web|url=https://www.cleveland.com/open/index.ssf/2018/06/new_poll_shows_sherrod_brown_l.html|title=Fallon Research}}</ref>
+| align=center| May 21–25, 2018
+| align=center| 800
+| align=center| ± 3.5%
+| {{party shading/Democratic}} align=center| '''48%'''
+| align=center| 34%
+| align=center| 3%<ref>Philena Farley (G, write-in) 3%</ref>
+| align=center| 15%
+|-
+|[[Grassroots Targeting|Grassroots Targeting (R-Ohio First)]]<ref name="Grassroots Targeting R-Ohio First">{{Cite web|url=https://www.politicopro.com/campaigns/whiteboard/2018/04/gop-super-pac-tariffs-lifting-trump-renacci-in-ohio-969341|title=Grassroots Targeting (R-Ohio First)}}</ref>
+| align=center| April 2018
+| align=center| 1,266
+| align=center| –
+| {{party shading/Democratic}} align=center| '''41%'''
+| align=center| 40%
+| align=center| –
+| align=center| 19%
+|-
+|[[SurveyUSA]]<ref name="SurveyUSA"/>
+| align=center| March 16–20, 2018
+| align=center| 1,408
+| align=center| ± 3.5%
+| {{party shading/Democratic}} align=center| '''52%'''
+| align=center| 38%
+| align=center| –
+| align=center| 11%
+|-
+|[[Baldwin Wallace University]]<ref name="Baldwin Wallace University">{{Cite web|url=http://www.cleveland.com/datacentral/index.ssf/2018/03/poll_shows_sherrod_brown_with.html|title=Baldwin Wallace University}}</ref>
+| align=center| February 28 – March 9, 2018
+| align=center| 1,011
+| align=center| ± 3.0%
+| {{party shading/Democratic}} align=center| '''41%'''
+| align=center| 29%
+| align=center| –
+| align=center| 30%
+|-
+|[[SurveyMonkey]]/[[Axios (website)|Axios]]<ref>{{Cite web|url=https://accounts.google.com/v3/signin/rejected?continue=https://drive.google.com/file/d/1qH6AbyU5kapsnOLZGf3ydy7MYKjbUo-A/view&dsh=S-1542372633:1791175471833919&flowEntry=ServiceLogin&flowName=GlifWebSignIn&followup=https://drive.google.com/file/d/1qH6AbyU5kapsnOLZGf3ydy7MYKjbUo-A/view&osid=1&rhlk=js&rrk=47&service=wise|title=Google Drive: Sign-in|website=accounts.google.com}}</ref>
+| align=center| February 12 – March 5, 2018
+| align=center| 1,995
+| align=center| ± 3.6%
+| {{party shading/Democratic}} align=center| '''50%'''
+| align=center| 45%
+| align=center| –
+| align=center| 5%
+|-
+|[[Grassroots Targeting|Grassroots Targeting (R-Ohio First)]]<ref name="Grassroots Targeting R-Ohio First"/>
+| align=center| February 2018
+| align=center| –
+| align=center| –
+| {{party shading/Democratic}} align=center| '''43%'''
+| align=center| 38%
+| align=center| –
+| align=center| 19%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''with Mike Gibbons'''<br />
+{| class="wikitable"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size
+! Margin<br />of error
+! style="width:100px;"| Sherrod<br />Brown (D)
+! style="width:100px;"| Mike<br />Gibbons (R)
+! Undecided
+|-
+|[[SurveyUSA]]<ref name="SurveyUSA"/>
+| align=center| March 16–20, 2018
+| align=center| 1,408
+| align=center| ± 3.5%
+| {{party shading/Democratic}} align=center| '''52%'''
+| align=center| 38%
+| align=center| 10%
+|-
+|[[Baldwin Wallace University]]<ref name="Baldwin Wallace University"/>
+| align=center| February 28 – March 9, 2018
+| align=center| 1,011
+| align=center| ± 3.0%
+| {{party shading/Democratic}} align=center| '''41%'''
+| align=center| 31%
+| align=center| 28%
+|}
+'''with Melissa Ackison'''<br />
+{| class="wikitable"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size
+! Margin<br />of error
+! style="width:100px;"| Sherrod<br />Brown (D)
+! style="width:100px;"| Melissa<br />Ackison (R)
+! Undecided
+|-
+|[[SurveyUSA]]<ref name="SurveyUSA"/>
+| align=center| March 16–20, 2018
+| align=center| 1,408
+| align=center| ± 3.5%
+| {{party shading/Democratic}} align=center| '''52%'''
+| align=center| 37%
+| align=center| 11%
+|}
+
+'''with Don Eckhart'''<br />
+{| class="wikitable"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size
+! Margin<br />of error
+! style="width:100px;"| Sherrod<br />Brown (D)
+! style="width:100px;"| Don<br />Eckhart (R)
+! Undecided
+|-
+|[[SurveyUSA]]<ref name="SurveyUSA"/>
+| align=center| March 16–20, 2018
+| align=center| 1,408
+| align=center| ± 3.5%
+| {{party shading/Democratic}} align=center| '''53%'''
+| align=center| 37%
+| align=center| 10%
+|}
+
+'''with Dan Kiley'''<br />
+{| class="wikitable"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size
+! Margin<br />of error
+! style="width:100px;"| Sherrod<br />Brown (D)
+! style="width:100px;"| Dan<br />Kiley (R)
+! Undecided
+|-
+|[[SurveyUSA]]<ref name="SurveyUSA"/>
+| align=center| March 16–20, 2018
+| align=center| 1,408
+| align=center| ± 3.5%
+| {{party shading/Democratic}} align=center| '''52%'''
+| align=center| 37%
+| align=center| 11%
+|}
+
+'''with Pat Tiberi'''<br />
+{| class="wikitable"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size
+! Margin<br />of error
+! style="width:100px;"| Sherrod<br />Brown (D)
+! style="width:100px;"| Pat<br />Tiberi (R)
+! Undecided
+|-
+|[[Gravis Marketing]]<ref name="Gravis Marketing">{{Cite web|url=https://gravismarketing.com/gravis-marketing-2018-ohio-poll-results/|title=Ohio Poll Results &#124; 2018 Political Polls|date=May 3, 2017}}</ref>
+| align=center| April 27 – May 2, 2017
+| align=center| 1,352
+| align=center| ± 2.7%
+| {{party shading/Democratic}} align=center| '''43%'''
+| align=center| 41%
+| align=center| 16%
+|}
+'''with Josh Mandel'''<br />
+{| class="wikitable"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size
+! Margin<br />of error
+! style="width:100px;"| Sherrod<br />Brown (D)
+! style="width:100px;"| Josh<br />Mandel (R)
+! Undecided
+|-
+|[[Luntz Global]]<ref>{{Cite web|url=https://drive.google.com/file/d/0BygPDvU_T-LiY3JTN1g1YlJVRGpYQjM2NHJ3V0NVTVFlaWtn/view|title=Luntz Global}}</ref>
+| align=center| June 12, 2017
+| align=center| 500
+| align=center| ± 4.4%
+| {{party shading/Democratic}} align=center| '''53%'''
+| align=center| 34%
+| align=center| 13%
+|-
+|[[Gravis Marketing]]<ref name="Gravis Marketing"/>
+| align=center| April 27 – May 2, 2017
+| align=center| 1,352
+| align=center| ± 2.7%
+| align=center| 42%
+| {{party shading/Republican}} align=center| '''45%'''
+| align=center| 13%
+|-
+|[[WPA Opinion Research|WPA Opinion Research (R)]]<ref>{{Cite web|url=https://www.scribd.com/document/333589576/OH-Sen-WPA-Research-Dec-2016|title=Ohio Senate Race: Vulnerability of Brown|website=www.scribd.com}}</ref>
+| align=center| November 29 – December 1, 2016
+| align=center| 600
+| align=center| ± 4.0%
+| align=center| 39%
+| {{party shading/Republican}} align=center| '''40%'''
+| align=center| 21%
+|-
+|[[Public Policy Polling]]<ref>{{Cite web|url=http://www.publicpolicypolling.com/pdf/2015/PPP_Release_OH_72916.pdf|title=Public Policy Polling}}</ref>
+| align=center| July 22–24, 2016
+| align=center| 1,334
+| align=center| ± 2.7%
+| {{party shading/Democratic}} align=center| '''45%'''
+| align=center| 36%
+| align=center| 18%
+|-
+|[[Public Policy Polling]]<ref>{{Cite web|url=http://www.publicpolicypolling.com/pdf/2015/PPP_Release_OH_50216.pdf|title=Public Policy Polling}}</ref>
+| align=center| April 26–27, 2016
+| align=center| 799
+| align=center| ± 3.2%
+| {{party shading/Democratic}} align=center| '''47%'''
+| align=center| 33%
+| align=center| 21%
+|}
+{{hidden end}}
+
+=== Results ===
+[[File:2018 United States Senate election in Ohio results map by township.svg|185px|Township results|thumb]]
+[[File:2018 United States Senate election by State House District.svg|210px|thumb|[[Ohio House of Representatives|State House]] district results]]
+
+{{Election box begin
+| title=United States Senate election in Ohio, 2018<ref name="United States Senate general election in Ohio, 2018">{{cite web|title=United States Senate general election in Ohio, 2018|url=https://www.sos.state.oh.us/globalassets/elections/2018/gen/2018-11-06_statewidecounty.xlsx|access-date=June 6, 2019|archive-date=June 6, 2019|archive-url=https://web.archive.org/web/20190606020902/https://www.sos.state.oh.us/globalassets/elections/2018/gen/2018-11-06_statewidecounty.xlsx|url-status=dead}}</ref>
+}}
+{{Election box winning candidate with party link
+ | party      = Democratic Party (United States)
+ | candidate  = [[Sherrod Brown]] (incumbent)
+ | votes      = 2,358,508
+ | percentage = 53.40%
+ | change     = +2.70%
+}}
+{{Election box candidate with party link|party=Republican Party (United States)|candidate=[[Jim Renacci]]|votes=2,057,559|percentage=46.58%|change=+1.88%}}
+{{Election box write-in with party link
+ | votes      = 1,017
+ | percentage = 0.02%
+ | change     = N/A
+}}
+{{Election box total
+ | votes      = 4,417,084
+ | percentage = 100.00%
+ | change     = N/A
+}}
+{{Election box hold with party link no swing
+| winner = Democratic Party (United States)
+}}
+{{Election box end}}
+
+{{align|right|{{Switcher| [[File:2012-18 Ohio senate election county swing.svg|250px]] | Margin swing by county
+|  [[File:2012-18 Ohio senate election county trend.svg|250px]] | Trend by county<br />
+{{collapsible list | title = Legend
+|{{legend|#00bdec|Democratic — +12.5−15%}}
+|{{legend|#09ceff|Democratic — +10−12.5%}}
+|{{legend|#4bdbff|Democratic — +7.5-10%}}
+|{{legend|#77e3ff|Democratic — +5−7.5%}}
+|{{legend|#aaeeff|Democratic — +2.5−5%}}
+|{{legend|#d5f6ff|Democratic — +0−2.5%}}
+|{{legend|#ffd5d5|Republican — +0−2.5%}}
+|{{legend|#ffaaaa|Republican — +2.5−5%}}
+|{{legend|#ff8080|Republican — +5−7.5%}}
+|{{legend|#ff5555|Republican — +7.5−10%}}
+|{{legend|#ff2a2a|Republican — +10−12.5%}}
+|{{legend|#ff0000|Republican — +12.5−15%}}
+|{{legend|#d40000|Republican — >15%}}}}|
+[[File:County flips between the 2012 and 2018 OH Senate elections.svg|250px]]|County flips<br />{{collapsible list| title = Legend| {{col-start}}
+{{col-2}}
+'''Democratic'''
+{{legend|#92c5de|Hold}}
+{{col-2}}
+'''Republican'''
+{{legend|#f48882|Hold}}
+{{legend|#ca0120|Flip}}
+{{col-end}}}}}}}}
+
+====By county====
+{| width="60%"  class="wikitable sortable" style="text-align:center"
+|-
+! style="text-align:center;" rowspan="2"| County
+! style="text-align:center;" colspan="2"| Sherrod Brown<br />Democratic
+! style="text-align:center;" colspan="2"| Jim Renacci<br />Republican
+! style="text-align:center;" colspan="2"| Write In<br />Other parties
+! style="text-align:center;" colspan="2"| Margin
+! style="text-align:center;" rowspan="2"| Total votes cast
+|-
+! style="text-align:center;" data-sort-type="number"| #
+! style="text-align:center;" data-sort-type="number"| %
+! style="text-align:center;" data-sort-type="number"| #
+! style="text-align:center;" data-sort-type="number"| %
+! style="text-align:center;" data-sort-type="number"| #
+! style="text-align:center;" data-sort-type="number"| %
+! style="text-align:center;" data-sort-type="number"| #
+! style="text-align:center;" data-sort-type="number"| %
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Adams County, Ohio|Adams]]
+| {{party shading/Democratic}}| 2,635
+| {{party shading/Democratic}}| 30.49%
+| {{party shading/Republican}}| '''6,000'''
+| {{party shading/Republican}}| '''69.42%'''
+| {{party shading/Others}}| 8
+| {{party shading/Others}}| 0.09%
+| {{party shading/Republican}}| -3,365
+| {{party shading/Republican}}| -38.93%
+| {{party shading/Republican}}| 8,643
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Allen County, Ohio|Allen]]
+| {{party shading/Democratic}}| 14,429
+| {{party shading/Democratic}}| 40.16%
+| {{party shading/Republican}}| '''21,492'''
+| {{party shading/Republican}}| '''59.82%'''
+| {{party shading/Others}}| 8
+| {{party shading/Others}}| 0.02%
+| {{party shading/Republican}}| -7,063
+| {{party shading/Republican}}| -19.66%
+| {{party shading/Republican}}| 35,929
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Ashland County, Ohio|Ashland]]
+| {{party shading/Democratic}}| 6,472
+| {{party shading/Democratic}}| 34.94%
+| {{party shading/Republican}}| '''12,048'''
+| {{party shading/Republican}}| '''65.04%'''
+| {{party shading/Others}}| 3
+| {{party shading/Others}}| 0.02%
+| {{party shading/Republican}}| -5,576
+| {{party shading/Republican}}| -30.10%
+| {{party shading/Republican}}| 18,523
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Ashtabula County, Ohio|Ashtabula]]
+| {{party shading/Democratic}}| '''16,473'''
+| {{party shading/Democratic}}| '''51.05%'''
+| {{party shading/Republican}}| 15,794
+| {{party shading/Republican}}| 48.95%
+| {{party shading/Others}}| 0
+| {{party shading/Others}}| 0.00%
+| {{party shading/Democratic}}| 679
+| {{party shading/Democratic}}| 2.10%
+| {{party shading/Democratic}}| 32,267
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Athens County, Ohio|Athens]]
+| {{party shading/Democratic}}| '''15,472'''
+| {{party shading/Democratic}}| '''68.45%'''
+| {{party shading/Republican}}| 7,126
+| {{party shading/Republican}}| 31.53%
+| {{party shading/Others}}| 4
+| {{party shading/Others}}| 0.02%
+| {{party shading/Democratic}}| 8,346
+| {{party shading/Democratic}}| 36.92%
+| {{party shading/Democratic}}| 22,602
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Auglaize County, Ohio|Auglaize]]
+| {{party shading/Democratic}}| 5,557
+| {{party shading/Democratic}}| 29.00%
+| {{party shading/Republican}}| '''13,603'''
+| {{party shading/Republican}}| '''70.99%'''
+| {{party shading/Others}}| 1
+| {{party shading/Others}}| 0.01%
+| {{party shading/Republican}}| -8,046
+| {{party shading/Republican}}| -41.99%
+| {{party shading/Republican}}| 19,161
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Belmont County, Ohio|Belmont]]
+| {{party shading/Democratic}}| 11,603
+| {{party shading/Democratic}}| 46.84%
+| {{party shading/Republican}}| '''13,159'''
+| {{party shading/Republican}}| '''53.13%'''
+| {{party shading/Others}}| 7
+| {{party shading/Others}}| 0.03%
+| {{party shading/Republican}}| -1,556
+| {{party shading/Republican}}| -6.29%
+| {{party shading/Republican}}| 24,769
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Brown County, Ohio|Brown]]
+| {{party shading/Democratic}}| 4,651
+| {{party shading/Democratic}}| 31.35%
+| {{party shading/Republican}}| '''10,184'''
+| {{party shading/Republican}}| '''68.63%'''
+| {{party shading/Others}}| 3
+| {{party shading/Others}}| 0.02%
+| {{party shading/Republican}}| -5,533
+| {{party shading/Republican}}| -37.28%
+| {{party shading/Republican}}| 14,838
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Butler County, Ohio|Butler]]
+| {{party shading/Democratic}}| 55,604
+| {{party shading/Democratic}}| 40.96%
+| {{party shading/Republican}}| '''80,106'''
+| {{party shading/Republican}}| '''59.02%'''
+| {{party shading/Others}}| 26
+| {{party shading/Others}}| 0.02%
+| {{party shading/Republican}}| -24,502
+| {{party shading/Republican}}| -18.06%
+| {{party shading/Republican}}| 135,736
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Carroll County, Ohio|Carroll]]
+| {{party shading/Democratic}}| 3,788
+| {{party shading/Democratic}}| 36.80%
+| {{party shading/Republican}}| '''6,503'''
+| {{party shading/Republican}}| '''63.18%'''
+| {{party shading/Others}}| 2
+| {{party shading/Others}}| 0.02%
+| {{party shading/Republican}}| -2,715
+| {{party shading/Republican}}| -26.38%
+| {{party shading/Republican}}| 10,293
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Champaign County, Ohio|Champaign]]
+| {{party shading/Democratic}}| 5,443
+| {{party shading/Democratic}}| 36.74%
+| {{party shading/Republican}}| '''9,372'''
+| {{party shading/Republican}}| '''63.26%'''
+| {{party shading/Others}}| 0
+| {{party shading/Others}}| 0.00%
+| {{party shading/Republican}}| -3,929
+| {{party shading/Republican}}| -26.52%
+| {{party shading/Republican}}| 14,815
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Clark County, Ohio|Clark]]
+| {{party shading/Democratic}}| 23,525
+| {{party shading/Democratic}}| 49.03%
+| {{party shading/Republican}}| '''24,446'''
+| {{party shading/Republican}}| '''50.95%'''
+| {{party shading/Others}}| 9
+| {{party shading/Others}}| 0.02%
+| {{party shading/Republican}}| -921
+| {{party shading/Republican}}| -1.92%
+| {{party shading/Republican}}| 47,980
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Clermont County, Ohio|Clermont]]
+| {{party shading/Democratic}}| 27,803
+| {{party shading/Democratic}}| 34.87%
+| {{party shading/Republican}}| '''51,918'''
+| {{party shading/Republican}}| '''65.12%'''
+| {{party shading/Others}}| 9
+| {{party shading/Others}}| 0.01%
+| {{party shading/Republican}}| -24,115
+| {{party shading/Republican}}| -30.25%
+| {{party shading/Republican}}| 79,730
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Clinton County, Ohio|Clinton]]
+| {{party shading/Democratic}}| 4,645
+| {{party shading/Democratic}}| 30.96%
+| {{party shading/Republican}}| '''10,356'''
+| {{party shading/Republican}}| '''69.03%'''
+| {{party shading/Others}}| 1
+| {{party shading/Others}}| 0.01%
+| {{party shading/Republican}}| -5,711
+| {{party shading/Republican}}| -38.07%
+| {{party shading/Republican}}| 15,002
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Columbiana County, Ohio|Columbiana]]
+| {{party shading/Democratic}}| 13,995
+| {{party shading/Democratic}}| 39.04%
+| {{party shading/Republican}}| '''21,849'''
+| {{party shading/Republican}}| '''60.95%'''
+| {{party shading/Others}}| 3
+| {{party shading/Others}}| 0.01%
+| {{party shading/Republican}}| -7,854
+| {{party shading/Republican}}| -21.91%
+| {{party shading/Republican}}| 35,847
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Coshocton County, Ohio|Coshocton]]
+| {{party shading/Democratic}}| 4,680
+| {{party shading/Democratic}}| 39.51%
+| {{party shading/Republican}}| '''7,163'''
+| {{party shading/Republican}}| '''60.48%'''
+| {{party shading/Others}}| 1
+| {{party shading/Others}}| 0.01%
+| {{party shading/Republican}}| -2,483
+| {{party shading/Republican}}| -20.97%
+| {{party shading/Republican}}| 11,844
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Crawford County, Ohio|Crawford]]
+| {{party shading/Democratic}}| 5,345
+| {{party shading/Democratic}}| 36.87%
+| {{party shading/Republican}}| '''9,149'''
+| {{party shading/Republican}}| '''63.11%'''
+| {{party shading/Others}}| 2
+| {{party shading/Others}}| 0.01%
+| {{party shading/Republican}}| -3,804
+| {{party shading/Republican}}| -26.24%
+| {{party shading/Republican}}| 14,496
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Cuyahoga County, Ohio|Cuyahoga]]
+| {{party shading/Democratic}}| '''350,362'''
+| {{party shading/Democratic}}| '''72.48%'''
+| {{party shading/Republican}}| 132,948
+| {{party shading/Republican}}| 27.50%
+| {{party shading/Others}}| 54
+| {{party shading/Others}}| 0.01%
+| {{party shading/Democratic}}| 217,414
+| {{party shading/Democratic}}| 44.98%
+| {{party shading/Democratic}}| 483,364
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Darke County, Ohio|Darke]]
+| {{party shading/Democratic}}| 5,569
+| {{party shading/Democratic}}| 28.57%
+| {{party shading/Republican}}| '''13,921'''
+| {{party shading/Republican}}| '''71.42%'''
+| {{party shading/Others}}| 2
+| {{party shading/Others}}| 0.01%
+| {{party shading/Republican}}| -8,352
+| {{party shading/Republican}}| -42.85%
+| {{party shading/Republican}}| 19,492
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Defiance County, Ohio|Defiance]]
+| {{party shading/Democratic}}| 5,812
+| {{party shading/Democratic}}| 42.05%
+| {{party shading/Republican}}| '''8,003'''
+| {{party shading/Republican}}| '''57.91%'''
+| {{party shading/Others}}| 5
+| {{party shading/Others}}| 0.04%
+| {{party shading/Republican}}| -2,191
+| {{party shading/Republican}}| -15.86%
+| {{party shading/Republican}}| 13,820
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Delaware County, Ohio|Delaware]]
+| {{party shading/Democratic}}| 44,743
+| {{party shading/Democratic}}| 47.43%
+| {{party shading/Republican}}| '''49,587'''
+| {{party shading/Republican}}| '''52.56%'''
+| {{party shading/Others}}| 6
+| {{party shading/Others}}| 0.01%
+| {{party shading/Republican}}| -4,844
+| {{party shading/Republican}}| -5.13%
+| {{party shading/Republican}}| 94,336
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Erie County, Ohio|Erie]]
+| {{party shading/Democratic}}| '''16,659'''
+| {{party shading/Democratic}}| '''54.98%'''
+| {{party shading/Republican}}| 13,633
+| {{party shading/Republican}}| 45.00%
+| {{party shading/Others}}| 6
+| {{party shading/Others}}| 0.02%
+| {{party shading/Democratic}}| 3,026
+| {{party shading/Democratic}}| 9.98%
+| {{party shading/Democratic}}| 30,298
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Fairfield County, Ohio|Fairfield]]
+| {{party shading/Democratic}}| 26,518
+| {{party shading/Democratic}}| 44.76%
+| {{party shading/Republican}}| '''32,707'''
+| {{party shading/Republican}}| '''55.21%'''
+| {{party shading/Others}}| 21
+| {{party shading/Others}}| 0.04%
+| {{party shading/Republican}}| -6,189
+| {{party shading/Republican}}| -10.45%
+| {{party shading/Republican}}| 59,246
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Fayette County, Ohio|Fayette]]
+| {{party shading/Democratic}}| 2,914
+| {{party shading/Democratic}}| 34.36%
+| {{party shading/Republican}}| '''5,566'''
+| {{party shading/Republican}}| '''65.63%'''
+| {{party shading/Others}}| 1
+| {{party shading/Others}}| 0.01%
+| {{party shading/Republican}}| -2,652
+| {{party shading/Republican}}| -31.27%
+| {{party shading/Republican}}| 8,481
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Franklin County, Ohio|Franklin]]
+| {{party shading/Democratic}}| '''332,825'''
+| {{party shading/Democratic}}| '''68.69%'''
+| {{party shading/Republican}}| 151,588
+| {{party shading/Republican}}| 31.29%
+| {{party shading/Others}}| 96
+| {{party shading/Others}}| 0.02%
+| {{party shading/Democratic}}| 181,237
+| {{party shading/Democratic}}| 37.40%
+| {{party shading/Democratic}}| 484,509
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Fulton County, Ohio|Fulton]]
+| {{party shading/Democratic}}| 6,707
+| {{party shading/Democratic}}| 41.49%
+| {{party shading/Republican}}| '''9,454'''
+| {{party shading/Republican}}| '''58.49%'''
+| {{party shading/Others}}| 3
+| {{party shading/Others}}| 0.02%
+| {{party shading/Republican}}| -2,747
+| {{party shading/Republican}}| -17.00%
+| {{party shading/Republican}}| 16,164
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Gallia County, Ohio|Gallia]]
+| {{party shading/Democratic}}| 3,355
+| {{party shading/Democratic}}| 34.84%
+| {{party shading/Republican}}| '''6,275'''
+| {{party shading/Republican}}| '''65.16%'''
+| {{party shading/Others}}| 0
+| {{party shading/Others}}| 0.00%
+| {{party shading/Republican}}| -2,920
+| {{party shading/Republican}}| -30.32%
+| {{party shading/Republican}}| 9,630
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Geauga]]
+| {{party shading/Democratic}}| 19,104
+| {{party shading/Democratic}}| 44.94%
+| {{party shading/Republican}}| '''23,397'''
+| {{party shading/Republican}}| '''55.04%'''
+| {{party shading/Others}}| 6
+| {{party shading/Others}}| 0.01%
+| {{party shading/Republican}}| -4,293
+| {{party shading/Republican}}| -10.10%
+| {{party shading/Republican}}| 42,507
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Greene County, Ohio|Greene]]
+| {{party shading/Democratic}}| 30,243
+| {{party shading/Democratic}}| 44.23%
+| {{party shading/Republican}}| '''38,102'''
+| {{party shading/Republican}}| '''55.72%'''
+| {{party shading/Others}}| 32
+| {{party shading/Others}}| 0.05%
+| {{party shading/Republican}}| -7,859
+| {{party shading/Republican}}| -11.49%
+| {{party shading/Republican}}| 68,377
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Guernsey County, Ohio|Guernsey]]
+| {{party shading/Democratic}}| 5,014
+| {{party shading/Democratic}}| 39.97%
+| {{party shading/Republican}}| '''7,529'''
+| {{party shading/Republican}}| '''60.02%'''
+| {{party shading/Others}}| 2
+| {{party shading/Others}}| 0.02%
+| {{party shading/Republican}}| -2,515
+| {{party shading/Republican}}| -20.05%
+| {{party shading/Republican}}| 12,545
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Hamilton County, Ohio|Hamilton]]
+| {{party shading/Democratic}}| '''200,404'''
+| {{party shading/Democratic}}| '''59.34%'''
+| {{party shading/Republican}}| 137,116
+| {{party shading/Republican}}| 40.60%
+| {{party shading/Others}}| 193
+| {{party shading/Others}}| 0.06%
+| {{party shading/Democratic}}| 63,288
+| {{party shading/Democratic}}| 18.74%
+| {{party shading/Democratic}}| 337,713
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Hancock County, Ohio|Hancock]]
+| {{party shading/Democratic}}| 10,929
+| {{party shading/Democratic}}| 38.95%
+| {{party shading/Republican}}| '''17,123'''
+| {{party shading/Republican}}| '''61.02%'''
+| {{party shading/Others}}| 9
+| {{party shading/Others}}| 0.03%
+| {{party shading/Republican}}| -6,194
+| {{party shading/Republican}}| -22.07%
+| {{party shading/Republican}}| 28,061
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Hardin County, Ohio|Hardin]]
+| {{party shading/Democratic}}| 3,497
+| {{party shading/Democratic}}| 37.19%
+| {{party shading/Republican}}| '''5,899'''
+| {{party shading/Republican}}| '''62.74%'''
+| {{party shading/Others}}| 6
+| {{party shading/Others}}| 0.06%
+| {{party shading/Republican}}| -2,402
+| {{party shading/Republican}}| -25.55%
+| {{party shading/Republican}}| 9,402
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Harrison County, Ohio|Harrison]]
+| {{party shading/Democratic}}| 2,480
+| {{party shading/Democratic}}| 42.70%
+| {{party shading/Republican}}| '''3,327'''
+| {{party shading/Republican}}| '''57.28%'''
+| {{party shading/Others}}| 1
+| {{party shading/Others}}| 0.02%
+| {{party shading/Republican}}| -847
+| {{party shading/Republican}}| -14.58%
+| {{party shading/Republican}}| 5,808
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Henry County, Ohio|Henry]]
+| {{party shading/Democratic}}| 4,468
+| {{party shading/Democratic}}| 42.24%
+| {{party shading/Republican}}| '''6,109'''
+| {{party shading/Republican}}| '''57.76%'''
+| {{party shading/Others}}| 0
+| {{party shading/Others}}| 0.00%
+| {{party shading/Republican}}| -1,641
+| {{party shading/Republican}}| -15.52%
+| {{party shading/Republican}}| 10,577
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Highland County, Ohio|Highland]]
+| {{party shading/Democratic}}| 3,939
+| {{party shading/Democratic}}| 29.25%
+| {{party shading/Republican}}| '''9,526'''
+| {{party shading/Republican}}| '''70.75%'''
+| {{party shading/Others}}| 0
+| {{party shading/Others}}| 0.00%
+| {{party shading/Republican}}| -5,587
+| {{party shading/Republican}}| -41.50%
+| {{party shading/Republican}}| 13,465
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Hocking County, Ohio|Hocking]]
+| {{party shading/Democratic}}| 4,408
+| {{party shading/Democratic}}| 44.60%
+| {{party shading/Republican}}| '''5,474'''
+| {{party shading/Republican}}| '''55.39%'''
+| {{party shading/Others}}| 1
+| {{party shading/Others}}| 0.01%
+| {{party shading/Republican}}| -1,066
+| {{party shading/Republican}}| -10.79%
+| {{party shading/Republican}}| 9,883
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Holmes County, Ohio|Holmes]]
+| {{party shading/Democratic}}| 2,059
+| {{party shading/Democratic}}| 23.35%
+| {{party shading/Republican}}| '''6,755'''
+| {{party shading/Republican}}| '''76.61%'''
+| {{party shading/Others}}| 3
+| {{party shading/Others}}| 0.03%
+| {{party shading/Republican}}| -4,696
+| {{party shading/Republican}}| -53.26%
+| {{party shading/Republican}}| 8,817
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Huron County, Ohio|Huron]]
+| {{party shading/Democratic}}| 8,274
+| {{party shading/Democratic}}| 44.02%
+| {{party shading/Republican}}| '''10,522'''
+| {{party shading/Republican}}| '''55.98%'''
+| {{party shading/Others}}| 0
+| {{party shading/Others}}| 0.00%
+| {{party shading/Republican}}| -2,248
+| {{party shading/Republican}}| -11.96%
+| {{party shading/Republican}}| 18,796
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Jackson County, Ohio|Jackson]]
+| {{party shading/Democratic}}| 3,815
+| {{party shading/Democratic}}| 37.88%
+| {{party shading/Republican}}| '''6,255'''
+| {{party shading/Republican}}| '''62.12%'''
+| {{party shading/Others}}| 0
+| {{party shading/Others}}| 0.00%
+| {{party shading/Republican}}| -2,440
+| {{party shading/Republican}}| -24.24%
+| {{party shading/Republican}}| 10,070
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Jefferson County, Ohio|Jefferson]]
+| {{party shading/Democratic}}| 11,376
+| {{party shading/Democratic}}| 46.32%
+| {{party shading/Republican}}| '''13,180'''
+| {{party shading/Republican}}| '''53.66%'''
+| {{party shading/Others}}| 6
+| {{party shading/Others}}| 0.02%
+| {{party shading/Republican}}| -1,804
+| {{party shading/Republican}}| -7.34%
+| {{party shading/Republican}}| 24,562
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Knox County, Ohio|Knox]]
+| {{party shading/Democratic}}| 8,413
+| {{party shading/Democratic}}| 37.05%
+| {{party shading/Republican}}| '''14,290'''
+| {{party shading/Republican}}| '''62.93%'''
+| {{party shading/Others}}| 4
+| {{party shading/Others}}| 0.02%
+| {{party shading/Republican}}| -5,877
+| {{party shading/Republican}}| -25.88%
+| {{party shading/Republican}}| 22,707
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Lake County, Ohio|Lake]]
+| {{party shading/Democratic}}| '''49,276'''
+| {{party shading/Democratic}}| '''52.08%'''
+| {{party shading/Republican}}| 45,313
+| {{party shading/Republican}}| 47.90%
+| {{party shading/Others}}| 18
+| {{party shading/Others}}| 0.02%
+| {{party shading/Democratic}}| 3,963
+| {{party shading/Democratic}}| 4.18%
+| {{party shading/Democratic}}| 94,607
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Lawrence County, Ohio|Lawrence]]
+| {{party shading/Democratic}}| 8,064
+| {{party shading/Democratic}}| 39.61%
+| {{party shading/Republican}}| '''12,292'''
+| {{party shading/Republican}}| '''60.37%'''
+| {{party shading/Others}}| 4
+| {{party shading/Others}}| 0.02%
+| {{party shading/Republican}}| -4,228
+| {{party shading/Republican}}| -20.76%
+| {{party shading/Republican}}| 20,360
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Licking County, Ohio|Licking]]
+| {{party shading/Democratic}}| 29,469
+| {{party shading/Democratic}}| 42.94%
+| {{party shading/Republican}}| '''39,142'''
+| {{party shading/Republican}}| '''57.04%'''
+| {{party shading/Others}}| 11
+| {{party shading/Others}}| 0.02%
+| {{party shading/Republican}}| -9,673
+| {{party shading/Republican}}| -14.10%
+| {{party shading/Republican}}| 68,622
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Logan County, Ohio|Logan]]
+| {{party shading/Democratic}}| 5,235
+| {{party shading/Democratic}}| 31.77%
+| {{party shading/Republican}}| '''11,243'''
+| {{party shading/Republican}}| '''68.23%'''
+| {{party shading/Others}}| 1
+| {{party shading/Others}}| 0.01%
+| {{party shading/Republican}}| -6,008
+| {{party shading/Republican}}| -36.46%
+| {{party shading/Republican}}| 16,479
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Lorain County, Ohio|Lorain]]
+| {{party shading/Democratic}}| '''67,452'''
+| {{party shading/Democratic}}| '''59.23%'''
+| {{party shading/Republican}}| 46,403
+| {{party shading/Republican}}| 40.75%
+| {{party shading/Others}}| 21
+| {{party shading/Others}}| 0.02%
+| {{party shading/Democratic}}| 21,049
+| {{party shading/Democratic}}| 18.48%
+| {{party shading/Democratic}}| 113,876
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Lucas County, Ohio|Lucas]]
+| {{party shading/Democratic}}| '''100,807'''
+| {{party shading/Democratic}}| '''66.74%'''
+| {{party shading/Republican}}| 50,223
+| {{party shading/Republican}}| 33.25%
+| {{party shading/Others}}| 18
+| {{party shading/Others}}| 0.01%
+| {{party shading/Democratic}}| 50,584
+| {{party shading/Democratic}}| 33.49%
+| {{party shading/Democratic}}| 151,048
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Madison County, Ohio|Madison]]
+| {{party shading/Democratic}}| 5,116
+| {{party shading/Democratic}}| 37.25%
+| {{party shading/Republican}}| '''8,617'''
+| {{party shading/Republican}}| '''62.74%'''
+| {{party shading/Others}}| 1
+| {{party shading/Others}}| 0.01%
+| {{party shading/Republican}}| -3,501
+| {{party shading/Republican}}| -25.49%
+| {{party shading/Republican}}| 13,734
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Mahoning County, Ohio|Mahoning]]
+| {{party shading/Democratic}}| '''54,594'''
+| {{party shading/Democratic}}| '''60.49%'''
+| {{party shading/Republican}}| 35,654
+| {{party shading/Republican}}| 39.50%
+| {{party shading/Others}}| 8
+| {{party shading/Others}}| 0.01%
+| {{party shading/Democratic}}| 18,940
+| {{party shading/Democratic}}| 20.99%
+| {{party shading/Democratic}}| 90,256
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Marion County, Ohio|Marion]]
+| {{party shading/Democratic}}| 8,677
+| {{party shading/Democratic}}| 42.23%
+| {{party shading/Republican}}| '''11,850'''
+| {{party shading/Republican}}| '''57.68%'''
+| {{party shading/Others}}| 19
+| {{party shading/Others}}| 0.09%
+| {{party shading/Republican}}| -3,173
+| {{party shading/Republican}}| -15.45%
+| {{party shading/Republican}}| 20,546
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Medina County, Ohio|Medina]]
+| {{party shading/Democratic}}| 34,493
+| {{party shading/Democratic}}| 46.00%
+| {{party shading/Republican}}| '''40,478'''
+| {{party shading/Republican}}| '''53.98%'''
+| {{party shading/Others}}| 15
+| {{party shading/Others}}| 0.02%
+| {{party shading/Republican}}| -5,985
+| {{party shading/Republican}}| -7.98%
+| {{party shading/Republican}}| 74,986
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Meigs County, Ohio|Meigs]]
+| {{party shading/Democratic}}| 2,898
+| {{party shading/Democratic}}| 37.04%
+| {{party shading/Republican}}| '''4,926'''
+| {{party shading/Republican}}| '''62.95%'''
+| {{party shading/Others}}| 1
+| {{party shading/Others}}| 0.01%
+| {{party shading/Republican}}| -2,028
+| {{party shading/Republican}}| -25.91%
+| {{party shading/Republican}}| 7,825
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Mercer County, Ohio|Mercer]]
+| {{party shading/Democratic}}| 4,504
+| {{party shading/Democratic}}| 26.27%
+| {{party shading/Republican}}| '''12,637'''
+| {{party shading/Republican}}| '''73.72%'''
+| {{party shading/Others}}| 2
+| {{party shading/Others}}| 0.01%
+| {{party shading/Republican}}| -8,133
+| {{party shading/Republican}}| -47.45%
+| {{party shading/Republican}}| 17,143
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Miami County, Ohio|Miami]]
+| {{party shading/Democratic}}| 14,649
+| {{party shading/Democratic}}| 35.33%
+| {{party shading/Republican}}| '''26,815'''
+| {{party shading/Republican}}| '''64.66%'''
+| {{party shading/Others}}| 5
+| {{party shading/Others}}| 0.01%
+| {{party shading/Republican}}| -12,166
+| {{party shading/Republican}}| -29.33%
+| {{party shading/Republican}}| 41,469
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Monroe County, Ohio|Monroe]]
+| {{party shading/Democratic}}| 2,518
+| {{party shading/Democratic}}| 47.66%
+| {{party shading/Republican}}| '''2,765'''
+| {{party shading/Republican}}| '''52.34%'''
+| {{party shading/Others}}| 0
+| {{party shading/Others}}| 0.00%
+| {{party shading/Republican}}| -247
+| {{party shading/Republican}}| -4.68%
+| {{party shading/Republican}}| 5,283
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Montgomery County, Ohio|Montgomery]]
+| {{party shading/Democratic}}| '''115,200'''
+| {{party shading/Democratic}}| '''56.06%'''
+| {{party shading/Republican}}| 90,242
+| {{party shading/Republican}}| 43.92%
+| {{party shading/Others}}| 40
+| {{party shading/Others}}| 0.02%
+| {{party shading/Democratic}}| 24,958
+| {{party shading/Democratic}}| 12.14%
+| {{party shading/Democratic}}| 205,482
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Morgan County, Ohio|Morgan]]
+| {{party shading/Democratic}}| 2,115
+| {{party shading/Democratic}}| 42.04%
+| {{party shading/Republican}}| '''2,916'''
+| {{party shading/Republican}}| '''57.96%'''
+| {{party shading/Others}}| 0
+| {{party shading/Others}}| 0.00%
+| {{party shading/Republican}}| -801
+| {{party shading/Republican}}| -15.92%
+| {{party shading/Republican}}| 5,031
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Morrow County, Ohio|Morrow]]
+| {{party shading/Democratic}}| 4,361
+| {{party shading/Democratic}}| 33.23%
+| {{party shading/Republican}}| '''8,761'''
+| {{party shading/Republican}}| '''66.76%'''
+| {{party shading/Others}}| 1
+| {{party shading/Others}}| 0.01%
+| {{party shading/Republican}}| -4,400
+| {{party shading/Republican}}| -33.53%
+| {{party shading/Republican}}| 13,123
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Muskingum County, Ohio|Muskingum]]
+| {{party shading/Democratic}}| 12,395
+| {{party shading/Democratic}}| 42.88%
+| {{party shading/Republican}}| '''16,504'''
+| {{party shading/Republican}}| '''57.10%'''
+| {{party shading/Others}}| 4
+| {{party shading/Others}}| 0.01%
+| {{party shading/Republican}}| -4,109
+| {{party shading/Republican}}| -14.22%
+| {{party shading/Republican}}| 28,903
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Noble County, Ohio|Noble]]
+| {{party shading/Democratic}}| 1,709
+| {{party shading/Democratic}}| 36.62%
+| {{party shading/Republican}}| '''2,958'''
+| {{party shading/Republican}}| '''63.38%'''
+| {{party shading/Others}}| 0
+| {{party shading/Others}}| 0.00%
+| {{party shading/Republican}}| -1,249
+| {{party shading/Republican}}| -26.76%
+| {{party shading/Republican}}| 4,667
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Ottawa County, Ohio|Ottawa]]
+| {{party shading/Democratic}}| '''9,477'''
+| {{party shading/Democratic}}| '''51.85%'''
+| {{party shading/Republican}}| 8,799
+| {{party shading/Republican}}| 48.14%
+| {{party shading/Others}}| 3
+| {{party shading/Others}}| 0.02%
+| {{party shading/Democratic}}| 678
+| {{party shading/Democratic}}| 3.71%
+| {{party shading/Democratic}}| 18,279
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Paulding County, Ohio|Paulding]]
+| {{party shading/Democratic}}| 2,232
+| {{party shading/Democratic}}| 32.40%
+| {{party shading/Republican}}| '''4,656'''
+| {{party shading/Republican}}| '''67.59%'''
+| {{party shading/Others}}| 1
+| {{party shading/Others}}| 0.01%
+| {{party shading/Republican}}| -2,424
+| {{party shading/Republican}}| -35.19%
+| {{party shading/Republican}}| 6,889
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Perry County, Ohio|Perry]]
+| {{party shading/Democratic}}| 4,599
+| {{party shading/Democratic}}| 40.01%
+| {{party shading/Republican}}| '''6,895'''
+| {{party shading/Republican}}| '''59.98%'''
+| {{party shading/Others}}| 1
+| {{party shading/Others}}| 0.01%
+| {{party shading/Republican}}| -2,296
+| {{party shading/Republican}}| -19.97%
+| {{party shading/Republican}}| 11,495
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Pickaway]]
+| {{party shading/Democratic}}| 7,481
+| {{party shading/Democratic}}| 37.81%
+| {{party shading/Republican}}| '''12,302'''
+| {{party shading/Republican}}| '''62.18%'''
+| {{party shading/Others}}| 2
+| {{party shading/Others}}| 0.01%
+| {{party shading/Republican}}| -4,821
+| {{party shading/Republican}}| -24.37%
+| {{party shading/Republican}}| 19,785
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Pike County, Ohio|Pike]]
+| {{party shading/Democratic}}| 3,900
+| {{party shading/Democratic}}| 44.33%
+| {{party shading/Republican}}| '''4,897'''
+| {{party shading/Republican}}| '''55.67%'''
+| {{party shading/Others}}| 0
+| {{party shading/Others}}| 0.00%
+| {{party shading/Republican}}| -997
+| {{party shading/Republican}}| -11.34%
+| {{party shading/Republican}}| 8,797
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Portage County, Ohio|Portage]]
+| {{party shading/Democratic}}| '''32,303'''
+| {{party shading/Democratic}}| '''53.34%'''
+| {{party shading/Republican}}| 28,231
+| {{party shading/Republican}}| 46.62%
+| {{party shading/Others}}| 22
+| {{party shading/Others}}| 0.04%
+| {{party shading/Democratic}}| 4,072
+| {{party shading/Democratic}}| 6.72%
+| {{party shading/Democratic}}| 60,556
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Preble County, Ohio|Preble]]
+| {{party shading/Democratic}}| 4,942
+| {{party shading/Democratic}}| 31.31%
+| {{party shading/Republican}}| '''10,838'''
+| {{party shading/Republican}}| '''68.66%'''
+| {{party shading/Others}}| 4
+| {{party shading/Others}}| 0.03%
+| {{party shading/Republican}}| -5,896
+| {{party shading/Republican}}| -37.35%
+| {{party shading/Republican}}| 15,784
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Putnam County, Ohio|Putnam]]
+| {{party shading/Democratic}}| 4,369
+| {{party shading/Democratic}}| 29.56%
+| {{party shading/Republican}}| '''10,408'''
+| {{party shading/Republican}}| '''70.41%'''
+| {{party shading/Others}}| 4
+| {{party shading/Others}}| 0.03%
+| {{party shading/Republican}}| -6,039
+| {{party shading/Republican}}| -40.85%
+| {{party shading/Republican}}| 14,781
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Richland County, Ohio|Richland]]
+| {{party shading/Democratic}}| 17,984
+| {{party shading/Democratic}}| 40.41%
+| {{party shading/Republican}}| '''26,499'''
+| {{party shading/Republican}}| '''59.55%'''
+| {{party shading/Others}}| 16
+| {{party shading/Others}}| 0.04%
+| {{party shading/Republican}}| -8,515
+| {{party shading/Republican}}| -19.14%
+| {{party shading/Republican}}| 44,499
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Ross County, Ohio|Ross]]
+| {{party shading/Democratic}}| 10,602
+| {{party shading/Democratic}}| 45.42%
+| {{party shading/Republican}}| '''12,738'''
+| {{party shading/Republican}}| '''54.57%'''
+| {{party shading/Others}}| 2
+| {{party shading/Others}}| 0.01%
+| {{party shading/Republican}}| -2,136
+| {{party shading/Republican}}| -9.15%
+| {{party shading/Republican}}| 23,342
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Sandusky County, Ohio|Sandusky]]
+| {{party shading/Democratic}}| 10,987
+| {{party shading/Democratic}}| 49.65%
+| {{party shading/Republican}}| '''11,141'''
+| {{party shading/Republican}}| '''50.34%'''
+| {{party shading/Others}}| 2
+| {{party shading/Others}}| 0.01%
+| {{party shading/Republican}}| -154
+| {{party shading/Republican}}| -0.69%
+| {{party shading/Republican}}| 22,130
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Scioto County, Ohio|Scioto]]
+| {{party shading/Democratic}}| 10,627
+| {{party shading/Democratic}}| 44.95%
+| {{party shading/Republican}}| '''13,014'''
+| {{party shading/Republican}}| '''55.05%'''
+| {{party shading/Others}}| 0
+| {{party shading/Others}}| 0.00%
+| {{party shading/Republican}}| -2,387
+| {{party shading/Republican}}| -10.10%
+| {{party shading/Republican}}| 23,641
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Seneca County, Ohio|Seneca]]
+| {{party shading/Democratic}}| 8,741
+| {{party shading/Democratic}}| 46.76%
+| {{party shading/Republican}}| '''9,945'''
+| {{party shading/Republican}}| '''53.20%'''
+| {{party shading/Others}}| 6
+| {{party shading/Others}}| 0.03%
+| {{party shading/Republican}}| -1,204
+| {{party shading/Republican}}| -6.44%
+| {{party shading/Republican}}| 18,692
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Shelby County, Ohio|Shelby]]
+| {{party shading/Democratic}}| 5,183
+| {{party shading/Democratic}}| 27.84%
+| {{party shading/Republican}}| '''13,433'''
+| {{party shading/Republican}}| '''72.16%'''
+| {{party shading/Others}}| 0
+| {{party shading/Others}}| 0.00%
+| {{party shading/Republican}}| -8,250
+| {{party shading/Republican}}| -44.32%
+| {{party shading/Republican}}| 18,616
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Stark County, Ohio|Stark]]
+| {{party shading/Democratic}}| 68,526
+| {{party shading/Democratic}}| 49.24%
+| {{party shading/Republican}}| '''70,588'''
+| {{party shading/Republican}}| '''50.72%'''
+| {{party shading/Others}}| 49
+| {{party shading/Others}}| 0.04%
+| {{party shading/Republican}}| -2,062
+| {{party shading/Republican}}| -1.48%
+| {{party shading/Republican}}| 139,163
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Summit County, Ohio|Summit]]
+| {{party shading/Democratic}}| '''129,479'''
+| {{party shading/Democratic}}| '''60.86%'''
+| {{party shading/Republican}}| 83,149
+| {{party shading/Republican}}| 39.08%
+| {{party shading/Others}}| 117
+| {{party shading/Others}}| 0.05%
+| {{party shading/Democratic}}| 46,330
+| {{party shading/Democratic}}| 21.78%
+| {{party shading/Democratic}}| 212,745
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Trumbull County, Ohio|Trumbull]]
+| {{party shading/Democratic}}| '''43,381'''
+| {{party shading/Democratic}}| '''57.93%'''
+| {{party shading/Republican}}| 31,482
+| {{party shading/Republican}}| 42.04%
+| {{party shading/Others}}| 19
+| {{party shading/Others}}| 0.03%
+| {{party shading/Democratic}}| 11,899
+| {{party shading/Democratic}}| 15.89%
+| {{party shading/Democratic}}| 74,882
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Tuscarawas County, Ohio|Tuscarawas]]
+| {{party shading/Democratic}}| 14,088
+| {{party shading/Democratic}}| 43.57%
+| {{party shading/Republican}}| '''18,244'''
+| {{party shading/Republican}}| '''56.42%'''
+| {{party shading/Others}}| 3
+| {{party shading/Others}}| 0.01%
+| {{party shading/Republican}}| -4,156
+| {{party shading/Republican}}| -12.85%
+| {{party shading/Republican}}| 32,335
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Union County, Ohio|Union]]
+| {{party shading/Democratic}}| 8,964
+| {{party shading/Democratic}}| 37.81%
+| {{party shading/Republican}}| '''14,747'''
+| {{party shading/Republican}}| '''62.19%'''
+| {{party shading/Others}}| 0
+| {{party shading/Others}}| 0.00%
+| {{party shading/Republican}}| -5,783
+| {{party shading/Republican}}| -24.38%
+| {{party shading/Republican}}| 23,711
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Van Wert County, Ohio|Van Wert]]
+| {{party shading/Democratic}}| 3,020
+| {{party shading/Democratic}}| 28.12%
+| {{party shading/Republican}}| '''7,721'''
+| {{party shading/Republican}}| '''71.88%'''
+| {{party shading/Others}}| 0
+| {{party shading/Others}}| 0.00%
+| {{party shading/Republican}}| -4,701
+| {{party shading/Republican}}| -43.76%
+| {{party shading/Republican}}| 10,741
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Vinton County, Ohio|Vinton]]
+| {{party shading/Democratic}}| 1,641
+| {{party shading/Democratic}}| 39.95%
+| {{party shading/Republican}}| '''2,467'''
+| {{party shading/Republican}}| '''60.05%'''
+| {{party shading/Others}}| 0
+| {{party shading/Others}}| 0.00%
+| {{party shading/Republican}}| -826
+| {{party shading/Republican}}| -20.10%
+| {{party shading/Republican}}| 4,108
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Warren County, Ohio|Warren]]
+| {{party shading/Democratic}}| 35,815
+| {{party shading/Democratic}}| 35.96%
+| {{party shading/Republican}}| '''63,757'''
+| {{party shading/Republican}}| '''64.02%'''
+| {{party shading/Others}}| 20
+| {{party shading/Others}}| 0.02%
+| {{party shading/Republican}}| -27,942
+| {{party shading/Republican}}| -28.06%
+| {{party shading/Republican}}| 99,592
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Washington County, Ohio|Washington]]
+| {{party shading/Democratic}}| 9,259
+| {{party shading/Democratic}}| 39.96%
+| {{party shading/Republican}}| '''13,908'''
+| {{party shading/Republican}}| '''60.03%'''
+| {{party shading/Others}}| 3
+| {{party shading/Others}}| 0.01%
+| {{party shading/Republican}}| -4,649
+| {{party shading/Republican}}| -20.07%
+| {{party shading/Republican}}| 23,170
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Wayne County, Ohio|Wayne]]
+| {{party shading/Democratic}}| 15,495
+| {{party shading/Democratic}}| 38.90%
+| {{party shading/Republican}}| '''24,324'''
+| {{party shading/Republican}}| '''61.07%'''
+| {{party shading/Others}}| 11
+| {{party shading/Others}}| 0.03%
+| {{party shading/Republican}}| -8,829
+| {{party shading/Republican}}| -22.17%
+| {{party shading/Republican}}| 39,830
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Williams County, Ohio|Williams]]
+| {{party shading/Democratic}}| 5,272
+| {{party shading/Democratic}}| 39.94%
+| {{party shading/Republican}}| '''7,927'''
+| {{party shading/Republican}}| '''60.05%'''
+| {{party shading/Others}}| 1
+| {{party shading/Others}}| 0.01%
+| {{party shading/Republican}}| -2,655
+| {{party shading/Republican}}| -20.11%
+| {{party shading/Republican}}| 13,200
+|- style="text-align:center;"
+| {{party shading/Democratic}}| [[Wood County, Ohio|Wood]]
+| {{party shading/Democratic}}| '''27,540'''
+| {{party shading/Democratic}}| '''55.45%'''
+| {{party shading/Republican}}| 22,105
+| {{party shading/Republican}}| 44.51%
+| {{party shading/Others}}| 18
+| {{party shading/Others}}| 0.04%
+| {{party shading/Democratic}}| 5,435
+| {{party shading/Democratic}}| 10.94%
+| {{party shading/Democratic}}| 49,663
+|- style="text-align:center;"
+| {{party shading/Republican}}| [[Wyandot County, Ohio|Wyandot]]
+| {{party shading/Democratic}}| 3,062
+| {{party shading/Democratic}}| 37.74%
+| {{party shading/Republican}}| '''5,051'''
+| {{party shading/Republican}}| '''62.26%'''
+| {{party shading/Others}}| 0
+| {{party shading/Others}}| 0.00%
+| {{party shading/Republican}}| -1,989
+| {{party shading/Republican}}| -24.52%
+| {{party shading/Republican}}| 8,113
+|-
+!Totals!!2,358,508!!53.40%!!2,057,559!!46.58%!!1,017!!0.02%!!300,949!!6.82%!!4,417,084
+|}
+
+'''Counties that flipped from Democratic to Republican'''
+*[[Pike County, Ohio|Pike]] (largest city: [[Waverly, Ohio|Waverly]])
+*[[Ross County, Ohio|Ross]] (largest city: [[Chillicothe, Ohio|Chillicothe]])
+*[[Scioto County, Ohio|Scioto]] (largest city: [[Portsmouth, Ohio|Portsmouth]])
+*[[Belmont County, Ohio|Belmont]] (largest city: [[Martins Ferry, Ohio|Martins Ferry]])
+*[[Jefferson County, Ohio|Jefferson]] (largest city: [[Steubenville]])
+*[[Sandusky County, Ohio|Sandusky]] (largest city: [[Fremont, Ohio|Fremont]])
+*[[Clark County, Ohio|Clark]] (largest municipality: [[Springfield, Ohio|Springfield]])
+*[[Stark County, Ohio|Stark]] (largest city: [[Canton, Ohio|Canton]])
+*[[Monroe County, Ohio|Monroe]] (largest city: [[Woodsfield]])
+
+<ref>{{Cite web|title=2018 Senatorial General Election Results - Ohio|url=https://uselectionatlas.org/RESULTS/state.php?fips=39&year=2018&f=0&off=3&elect=0&class=1|website= Dave Leip's election atlas}}</ref><ref>{{Cite web|title=2012 Senatorial General Election Results - Ohio|url=https://uselectionatlas.org/RESULTS/state.php?year=2012&fips=39&off=3&class=1&elect=0&f=0|website= Dave Leip's election atlas}}</ref>
+
+====By congressional district====
+Brown won nine of 16 congressional districts, including five that elected Republicans to the House.<ref>{{Cite web|url=https://davesredistricting.org/maps|title=DRA 2020|website=Daves Redistricting}}</ref>
+{| class="wikitable sortable"
+|-
+! District
+! Brown
+! Renacci
+! Representative
+|- align=center
+! {{party shading/Democratic}}|[[Ohio's 1st congressional district|1st]]
+| '''51%'''
+| 49%
+| {{party shading/Republican}}|[[Steve Chabot]]
+|- align=center
+! rowspan=1 {{party shading/Republican}}|[[Ohio's 2nd congressional district|2nd]]
+| 48%
+| '''52%'''
+| {{party shading/Republican}}|[[Brad Wenstrup]]
+|- align=center
+! {{party shading/Democratic}}|[[Ohio's 3rd congressional district|3rd]]
+| '''75%'''
+| 25%
+| {{party shading/Democratic}}|[[Joyce Beatty]]
+|- align=center
+! rowspan=1 {{party shading/Republican}}|[[Ohio's 4th congressional district|4th]]
+| rowspan=1|43%
+| rowspan=1|'''57%'''
+| {{party shading/Republican}}|[[Jim Jordan]]
+|- align=center
+! rowspan=1 {{party shading/Republican}}|[[Ohio's 5th congressional district|5th]]
+| rowspan=1|47%
+| rowspan=1|'''53%'''
+| {{party shading/Republican}}|[[Bob Latta]]
+|- align=center
+! {{party shading/Republican}}|[[Ohio's 6th congressional district|6th]]
+| 41%
+| '''59%'''
+| {{party shading/Republican}}|[[Bill Johnson (Ohio politician)|Bill Johnson]]
+|- align=center
+! rowspan=1 {{party shading/Republican}}|[[Ohio's 7th congressional district|7th]]
+| rowspan=1|44%
+| rowspan=1|'''56%'''
+| {{party shading/Republican}}|[[Bob Gibbs]]
+|- align=center
+! rowspan=1 {{party shading/Republican}}|[[Ohio's 8th congressional district|8th]]
+| rowspan=1|39%
+| rowspan=1|'''61%'''
+| {{party shading/Republican}}|[[Warren Davidson]]
+|- align=center
+! {{party shading/Democratic}}|[[Ohio's 9th congressional district|9th]]
+| '''68%'''
+| 32%
+| {{party shading/Democratic}}|[[Marcy Kaptur]]
+|- align=center
+! rowspan=1 {{party shading/Democratic}}|[[Ohio's 10th congressional district|10th]]
+| rowspan=1|'''53%'''
+| rowspan=1|47%
+| {{party shading/Republican}}|[[Mike Turner]]
+|- align=center
+! {{party shading/Democratic}}|[[Ohio's 11th congressional district|11th]]
+| '''84%'''
+| 16%
+| {{party shading/Democratic}}|[[Marcia Fudge]]
+|- align=center
+! {{party shading/Democratic}}|[[Ohio's 12th congressional district|12th]]
+| '''51%'''
+| 49%
+| {{party shading/Republican}}|[[Troy Balderson]]
+|- align=center
+! {{party shading/Democratic}}|[[Ohio's 13th congressional district|13th]]
+| '''62%'''
+| 38%
+| {{party shading/Democratic}}|[[Tim Ryan (Ohio politician)|Tim Ryan]]
+|- align=center
+! {{party shading/Democratic}}|[[Ohio's 14th congressional district|14th]]
+| '''53%'''
+| 47%
+| {{party shading/Republican}}|[[Dave Joyce]]
+|- align=center
+! {{party shading/Democratic}}|[[Ohio's 15th congressional district|15th]]
+| '''51%'''
+| 49%
+| {{party shading/Republican}}|[[Steve Stivers]]
+|- align=center
+! rowspan=2 {{party shading/Republican}}|[[Ohio's 16th congressional district|16th]]
+| rowspan=2|49.6%
+| rowspan=2|'''50.4%'''
+| {{party shading/Republican}}|[[Jim Renacci]] ([[115th Congress]])
+|- align=center
+| {{party shading/Republican}}|[[Anthony Gonzalez (politician)|Anthony Gonzalez]] ([[116th Congress]])
+|}
+
+==Analysis==
+The election was not particularly close, with Brown winning by 6.82%. Brown was the only [[Democratic Party (United States)|Democrat]] who won statewide in Ohio in this election cycle. He was able to win re-election by winning back most of the [[Rust Belt]], which swung [[Republican Party (United States)|Republican]] in 2016. Brown did well in [[Portage County, Ohio|Portage County]], [[Summit County, Ohio|Summit County]], and [[Trumbull County]], all very heavily pro-union counties. Brown also did well in the rust belt from [[Lucas County, Ohio|Lucas County]], home of [[Toledo, Ohio|Toledo]], all the way to [[Cuyahoga County]], home of [[Cleveland]]. Brown also trounced Renacci in [[Franklin County, Ohio|Franklin County]] and [[Hamilton County, Ohio|Hamilton County]], home of [[Columbus, Ohio|Columbus]] and [[Cincinnati]] respectively; the latter, Hamilton County, was once considered a Republican stronghold. Renacci, while performing well in most rural areas of the state, underperformed [[Mike DeWine]], the Republican Party's nominee and eventual winner for governor.
+
+Regardless, Renacci somewhat overperformed in comparison to most polling before the election, while Brown lost in several counties he had won in his previous Senate races. In particular, Brown lost ground in Appalachia compared to his 2012 run, losing the Appalachian counties of Jefferson, Belmont, Monroe, Ross, Pike, and Scioto counties. This was in line with the region's shift towards the Republican Party, as evident by Obama's inability to win these counties in his 2012 bid for the presidency of the United States, Strickland's inability to win these counties in his 2016 bid for United States Senate (despite having previously represented Appalachia in the United States House of Representatives), and Clinton's underperformance in Appalachia in her 2016 bid for the presidency of the United States relative to previous Democrats. Exit polls also show Brown had a very strong showing among minority and women voters, which was key to his victory. Brown was sworn in for a third term as the senior senator from Ohio on January 3, 2019.
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://votesmart.org/election/2018/C/OH/2018-congressional Candidates] at [[Vote Smart]]
+*[https://ballotpedia.org/United_States_Senate_election_in_Ohio,_2018 Candidates] at [[Ballotpedia]]
+*[https://www.fec.gov/data/elections/senate/OH/2018/ Campaign finance] at [[Federal Election Commission|FEC]]
+*[https://www.opensecrets.org/races/summary?cycle=2018&id=OHS1 Campaign finance] at [[OpenSecrets]]
+
+'''Official campaign websites'''
+*[https://web.archive.org/web/20181031162527/http://www.sherrodbrown.com/ Sherrod Brown (D) for Senate]
+*[https://web.archive.org/web/20180922064129/https://www.writeinfaris.com/ Stephen Faris (I) for Senate (Write-in)]
+*[https://web.archive.org/web/20181031002315/http://jimrenacci.com/ Jim Renacci (R) for Senate]
+
+{{2018 United States elections}}
+
+[[Category:2018 elections in Ohio|United States Senate]]
+[[Category:2018 United States Senate elections|Ohio]]
+[[Category:United States Senate elections in Ohio|2018]]
+[[Category:Sherrod Brown]]

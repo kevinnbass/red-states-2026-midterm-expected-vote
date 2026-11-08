@@ -1,0 +1,1042 @@
+{{Short description|none}}
+{{Use American English|date=February 2026}}
+<!-- "none" is preferred when the title is already sufficiently detailed; see [[WP:SDNONE]] -->
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 2014 South Carolina elections
+| country = South Carolina
+| type = midterm
+| ongoing = no
+| next_year = [[2016 South Carolina elections|2016]]
+| election_date = November 4, 2014
+| previous_year = [[2012 South Carolina elections|2012]]
+}}
+
+{{ElectionsSC}}
+A general election was held in the [[U.S. state]] of [[South Carolina]] on November 4, 2014. All of South Carolina's executive officers were up for election, all of the seats in the General Assembly's House of Representatives, both [[United States Senate]] seats, and all of South Carolina's seven seats in the [[United States House of Representatives]].
+
+[[Partisan primary|Primary election]]s were held on June 10, 2014, and primary runoffs were held on June 24.
+
+== State House of Representatives ==
+{{Main|2014 South Carolina House of Representatives election}}
+All 124 seats in the state House were up for election. Both major parties maintained their seat share, with the Republicans holding 78 seats and the Democrats holding 46.
+
+==Governor==
+{{main|2014 South Carolina gubernatorial election}}
+
+Incumbent [[Republican Party (United States)|Republican]] [[Governor of South Carolina|Governor]] [[Nikki Haley]] ran for re-election to a second term.<ref>{{cite web|url=https://www.politico.com/story/2013/08/nikki-haley-south-carolina-reelection-95441.html?hp=l7|title=Aide: Nikki Haley running for reelection|date=August 12, 2013|access-date=August 12, 2013|work=[[Politico]]|first=Tal|last=Kopan}}</ref>
+
+Democratic state senator [[Vincent Sheheen]], the nominee [[2010 South Carolina gubernatorial election|in 2010]] ran again.<ref>{{cite web|url=http://www.heraldonline.com/2013/04/10/4763832/sheheen-announces-another-run.html|title=Sheheen announces another run for governor|date=April 10, 2013|access-date=April 10, 2013|work=Herald Online|first=Andrew|last=Shain|url-status=dead|archive-url=https://web.archive.org/web/20140407070826/http://www.heraldonline.com/2013/04/10/4763832/sheheen-announces-another-run.html|archive-date=April 7, 2014}}</ref>
+
+Republican-turned-Independent [[Tom Ervin]], an attorney, former state representative and former circuit court judge ran, but withdrew in the final week and endorsed Sheheen.<ref>{{cite web|url=http://www.fitsnews.com/2014/03/29/nikki-haley-draws-primary-opponent/|title=Nikki Haley Draws a Primary Opponent|date=March 29, 2014|access-date=March 29, 2014|work=FITSNews}}</ref>  Other candidates included Libertarian businessman Steve French;<ref>{{cite web|url=http://www.thestate.com/2014/03/15/3327334/libertarian-joins-sc-governors.html|title=Libertarian joins SC governor's race|work=[[Our State]]|date=March 15, 2014|access-date=March 16, 2014|first=Andrew|last=Shain|archive-url=https://web.archive.org/web/20140316021507/http://www.thestate.com/2014/03/15/3327334/libertarian-joins-sc-governors.html|archive-date=March 16, 2014|url-status=dead}}</ref> and former NFL player Morgan Bruce Reeves of the [[United Citizens Party]].<ref>{{cite web|url=http://www.thestate.com/2014/03/31/3360419/sc-politics-gop-governors-take.html?sp=/99/132/312/169/|title=SC politics: GOP governors take another shot at Democrat Sheheen|date=March 31, 2014|access-date=March 31, 2014|work=Our State|archive-url=https://web.archive.org/web/20140403092741/http://www.thestate.com/2014/03/31/3360419/sc-politics-gop-governors-take.html?sp=%2F99%2F132%2F312%2F169%2F|archive-date=April 3, 2014|url-status=dead}}</ref> and [[Angry Grandpa|Charels Green]] (better known as Angry Grandpa) a semi famous YouTuber
+
+Haley won re-election.
+
+==Lieutenant governor==
+{{Infobox election
+| election_name = 2014 South Carolina lieutenant gubernatorial election
+| country = South Carolina
+| type = presidential
+| ongoing = no
+| previous_election = 2010 South Carolina elections#Lieutenant governor
+| previous_year = 2010
+| next_election = 2018 South Carolina gubernatorial election
+| next_year = 2018
+| image1 = File:Governor Henry McMaster Official Photo 2019 (cropped).jpg
+| image_size = 150x150px
+| nominee1 = '''[[Henry McMaster]]'''
+| party1 = South Carolina Republican Party
+| popular_vote1 = '''726,821'''
+| percentage1 = '''58.7%'''
+| image2 = File:Bakari Sellers (cropped) (cropped).jpg
+| nominee2 = [[Bakari Sellers]]
+| party2 = South Carolina Democratic Party
+| popular_vote2 = 508,807
+| percentage2 = 41.1%
+| map_image = 2014 South Carolina lieutenant gubernatorial election results map by county.svg
+| map_size = 230px
+| map_caption = County results<br/>'''McMaster:''' {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#D72F30|70–80%}}<br />'''Sellers:''' {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584cde|70–80%}}
+| title = Lieutenant Governor
+| before_election = [[Yancey McGill]]
+| before_party = South Carolina Democratic Party
+| after_election = [[Henry McMaster]]
+| after_party = South Carolina Republican Party
+| turnout = 
+}}
+This was the last election in which the [[List of lieutenant governors of South Carolina|lieutenant governor]] was elected separately from the governor.  Republican [[Ken Ard (politician)|Ken Ard]], who was elected in 2010, resigned the office in March 2012 while under investigation for ethics charges. He was succeeded by a fellow Republican, [[President pro tempore]] of the [[South Carolina Senate]] [[Glenn F. McConnell]]. McConnell had planned to run, but withdrew from the race in January 2014<ref>{{cite web |url=http://www.thestate.com/2014/01/06/3192682/mcconnell-why-i-will-not-seek.html |title = McConnell: Why I will not seek election as lieutenant governor {{!}} Opinion Extra {{!}} The State  |access-date=2014-04-01 |url-status=dead |archive-url=https://web.archive.org/web/20140407064239/http://www.thestate.com/2014/01/06/3192682/mcconnell-why-i-will-not-seek.html |archive-date=2014-04-07 }}</ref> and was announced as the next president of the [[College of Charleston]] in March, a position he took up in June.<ref>{{cite web|url=http://www.thestate.com/2014/03/22/3342264/mcconnell-named-college-of-charleston.html|title=McConnell named College of Charleston president|access-date=2014-04-01|archive-url=https://web.archive.org/web/20140327034609/http://www.thestate.com/2014/03/22/3342264/mcconnell-named-college-of-charleston.html|archive-date=2014-03-27|url-status=dead}}</ref>
+
+The state constitution requires that the Senate President pro tempore become lieutenant governor in the event of a vacancy but McConnell's successor as president pro tempore, Republican state senator [[John E. Courson]], expressed no desire to give up his Senate seat to serve as lieutenant governor for six months. He went as far as resigning as president pro tempore, to avoid becoming lieutenant governor, a position widely regarded as one of the weakest in the state. There was much confusion as to what would happen next, with McConnell saying he would delay his resignation so as not to leave the state "in a constitutional crisis" and Courson and Senate Judiciary Committee Chairman [[Larry A. Martin]] saying that they knew of no Senator who would want to become lieutenant governor for six months.<ref>{{cite web|url=http://www.thestate.com/2014/06/04/3487341/courson-resigns-senate-leadership.html|title=Courson resigns SC Senate leadership post in spat with Lt. Gov. McConnell (update)|access-date=2014-07-26|archive-url=https://web.archive.org/web/20140727031233/http://www.thestate.com/2014/06/04/3487341/courson-resigns-senate-leadership.html|archive-date=2014-07-27|url-status=dead}}</ref> The dispute was finally ended when Democrat [[Yancey McGill]] agreed to become Senate President pro tempore, and then lieutenant governor. After he ascended to that office, Republican [[Hugh K. Leatherman Sr.]] became the new Senate President pro tempore.<ref>{{cite web|url=http://thetandd.com/news/local/democrat-mcgill-is-s-c-s-new-lieutenant-governor/article_44e4122e-f74b-11e3-b1ca-0019bb2963f4.html|title=Democrat McGill is S.C.'s new lieutenant governor|author=SEANNA ADCOX|date=June 18, 2014 |agency=Associated Press}}</ref>
+
+Businessman Mike Campbell, who lost the runoff for lieutenant governor in 2010, businessman Pat McKinney, former attorney general of South Carolina and candidate for governor [[2010 South Carolina gubernatorial election|in 2010]] [[Henry McMaster]] and minister Ray Moore ran for the Republican nomination.<ref name=whosfiled>{{cite web|url=http://www.thestate.com/2014/03/28/3331775/election-2014-whos-filed-for-the.html|archive-url=https://archive.today/20140328202836/http://www.thestate.com/2014/03/28/3331775/election-2014-whos-filed-for-the.html|url-status=dead|archive-date=March 28, 2014|title=ELECTION 2014 (updated): Who's filed for statewide, State House, Congressional offices|publisher=[[Our State]]|last=Shain|first=Andrew|date=March 28, 2014|access-date=March 28, 2014}}</ref>
+
+{{Election box begin no change
+| title = South Carolina Lieutenant Governor Republican Primary Results, 2014<ref name="Results">{{cite web|url=http://www.enr-scvotes.org/SC/51763/133122/en/summary.html |title=Official results 2014 Statewide Primary Election June 10, 2014 |publisher=South Carolina State Election Commission |access-date=July 22, 2014}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Henry McMaster
+| party = Republican Party (United States)
+| votes = 131,546
+| percentage = 43.63
+}}
+{{Election box candidate with party link no change
+| candidate = Pat McKinney
+| party = Republican Party (United States)
+| votes = 73,451
+| percentage = 24.36
+}}
+{{Election box winning candidate with party link no change
+| candidate = Mike Campbell
+| party = Republican Party (United States)
+| votes = 72,204
+| percentage = 23.95
+}}
+{{Election box candidate with party link no change
+| candidate = Ray Moore
+| party = Republican Party (United States)
+| votes = 24,335
+| percentage = 8.07
+}}
+{{Election box total no change
+| votes = 301,536
+| percentage= 100
+}}
+{{Election box end}}
+
+As no candidate won a majority of the vote, a runoff was held. A recount had been scheduled to take place as the difference between second-placed Pat McKinney and third-placed Mike Campbell was only 0.41%, but McKinney withdrew from the race, citing personal reasons.<ref>{{cite web|url=http://www.postandcourier.com/article/20140612/PC1603/140619726|archive-url=https://web.archive.org/web/20140729220330/http://www.postandcourier.com/article/20140612/PC1603/140619726|url-status=dead|archive-date=July 29, 2014|title=Pat McKinney dropping out of Lt. Gov. race; Henry McMaster faces Mike Campbell in runoff|publisher=The Post and Courier|author=Schuyler Kropf|date=June 12, 2014|access-date=July 22, 2014}}</ref> Campbell thus faced first-placed Henry McMaster in the runoff.
+
+{{Election box begin no change
+| title = South Carolina Lieutenant Governor Republican Primary Runoff results, 2014<ref name="RunoffResults">{{cite web|url=http://www.enr-scvotes.org/SC/52366/135097/en/summary.html |title=Official results 2014 2014 Republican and Democratic Primary Runoff |publisher=South Carolina State Election Commission |access-date=July 22, 2014}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Henry McMaster
+| party = Republican Party (United States)
+| votes = 85,301
+| percentage = 63.58
+}}
+{{Election box candidate with party link no change
+| candidate = Mike Campbell
+| party = Republican Party (United States)
+| votes = 48,863
+| percentage = 36.42
+}}
+{{Election box total no change
+| votes = 134,164
+| percentage= 100
+}}
+{{Election box end}}
+
+State Representative [[Bakari Sellers]] ran for the Democrats.<ref>{{cite web|url=http://www.thestate.com/2014/06/06/3492867/mcgill-move-could-help-sc-democrats.html|title=McGill move could help SC Democrats, party chairman says|access-date=2014-07-10|archive-url=https://web.archive.org/web/20140714151246/http://www.thestate.com/2014/06/06/3492867/mcgill-move-could-help-sc-democrats.html|archive-date=2014-07-14|url-status=dead}}</ref>  McMaster won the general election.
+
+{{Election box begin | title=South Carolina Lieutenant Governor election, 2014<ref name="South Carolina General Election Results">{{cite web|url=http://www.enr-scvotes.org/SC/53424/149231/en/summary.html|title=South Carolina Election Results |work=South Carolina Board of Elections|date=November 13, 2014 |access-date=November 18, 2014}}</ref>}}
+{{Election box winning candidate with party link|
+ |party      = Republican Party (US)
+ |candidate  = [[Henry McMaster]]
+ |votes      = 726,821
+ |percentage = 58.75%
+ |change     = +3.59%
+}}
+{{Election box candidate with party link|
+ |party      = Democratic Party (US)
+ |candidate  = [[Bakari Sellers]]
+ |votes      = 508,807
+ |percentage = 41.13%
+ |change     = -3.64%
+}}
+{{Election box candidate|
+ |party      = Write-ins
+ |candidate  = 
+ |votes      = 1,514
+ |percentage = 0.12%
+ |change     =+0.04%
+}}
+{{Election box majority|
+ |votes      = 218,014
+ |percentage = 17.62%
+ |change     = +7.53%
+}}
+{{Election box turnout|
+ |votes      = 1,237,142
+ |percentage = 42.94% <!---registered voters - 2,881,052 http://www.enr-scvotes.org/SC/53424/149231/en/summary.html---->
+ |change     = -7.54%
+}}
+{{Election box gain with party link|
+  |winner     = Republican Party (US)
+|loser = Democratic Party (US)
+  |swing      = 
+}}
+{{Election box end}}
+{{Clear}}
+
+==Attorney General==
+Incumbent Republican attorney general [[Alan Wilson (politician)|Alan Wilson]] ran for re-election to a second term in office.
+{{Infobox election
+| election_date = November 4, 2014
+| election_name = 2014 South Carolina Attorney General election
+| country = South Carolina
+| type = presidential
+| vote_type = popular
+| ongoing = no
+| party_colour = yes
+| party_name = yes
+| previous_election = 2010 South Carolina elections#Attorney general 
+| previous_year = 2010
+| next_election = 2018 South Carolina elections#Attorney General
+| next_year = 2018
+| candidate1 = '''[[Alan Wilson (politician)|Alan Wilson]]'''
+| party1 = Republican Party (United States)
+| image1 = 
+File:JAG Passing Alan Wilson.jpg
+| image2= 3x4.svg
+| image_size= 150x150px
+| popular_vote1 = '''738,434'''
+| percentage1 = '''60.26%'''
+| candidate2 = Parnell Diggs
+| party2 = Democratic Party (United States)
+| percentage2 = 39.67%
+| popular_vote2 = 486,058
+| map = [[File:2014 South Carolina attorney general election results map by county.svg|230px]]
+| map_caption = County results<br />'''Wilson:''' {{legend0|#E27F7F|50–60%}} {{legend0|#D75D5D|60–70%}} {{legend0|#D72F30|70–80%}} {{legend0|#C21B18|80–90%}}<br /> '''Diggs:'''  {{legend0|#7996E2|50–60%}} {{legend0|#6674DE|60–70%}} {{legend0|#584CDE|70–80%}}
+}}
+
+Attorney, President of the [[National Federation of the Blind]] of South Carolina and candidate for [[South Carolina's 7th congressional district]] in [[United States House of Representatives elections in South Carolina, 2012#District 7|2012]] Parnell Diggs ran as the Democratic nominee.  Wilson defeated him and won re-election.
+
+{{Election box begin | title=South Carolina Attorney General election, 2014<ref name="South Carolina General Election Results"/>}}
+{{Election box winning candidate with party link|
+ |party      = Republican Party (US)
+ |candidate  = [[Alan Wilson (politician)|Alan Wilson]]
+ |votes      = 738,434
+ |percentage = 60.26%
+ |change     = +6.52%
+}}
+{{Election box candidate with party link|
+ |party      = Democratic Party (US)
+ |candidate  = Parnell Diggs
+ |votes      = 486,058
+ |percentage = 39.67%
+ |change     = -4.53%
+}}
+{{Election box candidate|
+ |party      = Write-ins
+ |candidate  = 
+ |votes      = 879
+ |percentage = 0.07%
+ |change     =+0.03%
+}}
+{{Election box majority|
+ |votes      = 252,376
+ |percentage = 17.62%
+ |change     = +8.10%
+}}
+{{Election box turnout|
+ |votes      = 1,225,371
+ |percentage = 42.53% <!---registered voters - 2,881,052 http://www.enr-scvotes.org/SC/53424/149231/en/summary.html---->
+ |change     = -7.95%
+}}
+{{Election box hold with party link|
+  |winner     = Republican Party (US)
+  |swing      =
+}}
+{{Election box end}}
+{{Clear}}
+
+==Secretary of State==
+Incumbent Republican [[Secretary of State of South Carolina|Secretary of State]] [[Mark Hammond (American politician)|Mark Hammond]] ran for re-election to a fourth term in office.
+{{Infobox election
+| election_date = November 4, 2014
+| election_name = 2014 South Carolina Secretary of State election
+| country = South Carolina
+| type = presidential
+| vote_type = popular
+| ongoing = no
+| party_colour = yes
+| party_name = yes
+| previous_election = 2010 South Carolina elections#Secretary of State
+| previous_year = 2010
+| next_election = 2018 South Carolina elections#Secretary of State
+| next_year = 2018
+| candidate1 = '''[[Mark Hammond (American politician)|Mark Hammond]]'''
+| image1 = File:Mark Hammond cropped.jpg
+| image2 = 3x4.svg 
+| image_size = 150x150px 
+| party1 = Republican Party (United States)
+| popular_vote1 = '''730,739'''
+| percentage1 = '''59.41%'''
+| candidate2 = Ginny Deerin
+| party2 = Democratic Party (United States)
+| percentage2 = 40.42%
+| popular_vote2 = 496,344
+| map = [[File:2014 South Carolina secretary of state election results map by county.svg|230px]]
+| map_caption = County results<br />'''Hammond:''' {{legend0|#E27F7F|50–60%}} {{legend0|#D75D5D|60–70%}} {{legend0|#D72F30|70–80%}}<br /> '''Deerin:'''  {{legend0|#7996E2|50–60%}} {{legend0|#6674DE|60–70%}} {{legend0|#584CDE|70–80%}}
+}}
+
+Nonprofit consultant Ginny Deerin ran as the Democratic nominee. She was endorsed by the [[Club for Growth]], a conservative political organization that usually supports Republicans. She was the first ever Democrat running for statewide office to have been endorsed by them.<ref>{{cite web|url=http://www.blufftontoday.com/bluffton-news/2014-09-21/deerin-first-democrat-endorsed-conservative-group-state-race#.VC2OkPldUTt |title=Deerin first Democrat endorsed by conservative group for state race |publisher=Bluffton Today |date=September 21, 2014 |access-date=October 21, 2014}}</ref>  However, Hammond still won re-election.
+
+{{Election box begin | title=South Carolina Secretary of State election, 2014<ref name="South Carolina General Election Results"/>}}
+{{Election box winning candidate with party link|
+ |party      = Republican Party (US)
+ |candidate  = [[Mark Hammond (American politician)|Mark Hammond]]
+ |votes      = 730,739
+ |percentage = 59.51%
+ |change     = -1.40%
+}}
+{{Election box candidate with party link|
+ |party      = Democratic Party (US)
+ |candidate  = Ginny Deerin
+ |votes      = 496,344
+ |percentage = 40.42%
+ |change     = +1.38%
+}}
+{{Election box candidate|
+ |party      = Write-ins
+ |candidate  = 
+ |votes      = 788
+ |percentage = 0.06%
+ |change     =-0.01%
+}}
+{{Election box majority|
+ |votes      = 234,395
+ |percentage = 19.09%
+ |change     = -2.78%
+}}
+{{Election box turnout|
+ |votes      = 1,227,871
+ |percentage = 42.62% <!---registered voters - 2,881,052 http://www.enr-scvotes.org/SC/53424/149231/en/summary.html---->
+ |change     = -7.48%
+}}
+{{Election box hold with party link|
+  |winner     = Republican Party (US)
+  |swing      = 
+}}
+{{Election box end}}
+
+==Treasurer==
+Incumbent Republican Treasurer [[Curtis M. Loftis Jr.]] ran for re-election to a second term in office.<ref>{{cite news|title=Loftis to seek second term as State Treasurer|url=http://www.wcnc.com/news/politics/Loftis-to-seek-second-term-as-SC-treasurer--188708091.html|access-date=March 12, 2014|newspaper=Associated Press|url-status=dead|archive-url=https://web.archive.org/web/20140313195423/http://www.wcnc.com/news/politics/Loftis-to-seek-second-term-as-SC-treasurer--188708091.html|archive-date=March 13, 2014}}</ref>
+
+{{Infobox election
+| election_date = November 4, 2014
+| election_name = 2014 South Carolina Treasurer election
+| country = South Carolina
+| type = presidential
+| vote_type = popular
+| ongoing = no
+| party_colour = yes
+| party_name = yes
+| previous_election = 2010 South Carolina elections#Treasurer
+| previous_year = 2010
+| next_election = 2018 South Carolina elections#Treasurer
+| next_year = 2018
+| candidate1 = '''[[Curtis Loftis]]'''
+| party1 = Republican Party (United States)
+| image_size = 150x150px 
+| image1 = File:Cutris Loftis (cropped).jpg
+| popular_vote1 = '''857,526'''
+| percentage1 = '''98.75%'''
+| candidate2 = 
+| image2 = File:NOTA Option Logo 3x4.svg
+| party2 = Write-ins
+| percentage2 = 1.25%
+| popular_vote2 = 10,819
+| map = [[File:2010 South Carolina state treasurer election results map by county.svg|230px]]
+| map_caption = County results<br />'''Loftis:''' {{legend0|#a80000|90-100%}}
+}}
+
+Brian Adams ran against Loftis Jr. in the Republican primary.
+
+{{Election box begin no change
+| title = South Carolina Treasurer Republican Primary results, 2014<ref name="Results"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Curtis M. Loftis Jr.
+| party = Republican Party (United States)
+| votes = 177,854
+| percentage = 62.02
+}}
+{{Election box candidate with party link no change
+| candidate = Brian Adams
+| party = Republican Party (United States)
+| votes = 108,934
+| percentage = 37.98
+}}
+{{Election box total no change
+| votes = 286,788
+| percentage= 100
+}}
+{{Election box end}}
+
+No Democrat filed to run for the office.  Loftis won re-election.
+
+{{Election box begin | title=South Carolina Treasurer election, 2014<ref name="South Carolina General Election Results"/>}}
+{{Election box winning candidate with party link|
+ |party      = Republican Party (US)
+ |candidate  = [[Curtis M. Loftis Jr.|Curtis Loftis]]
+ |votes      = 857,526
+ |percentage = 98.75%
+ |change     = -0.19%
+}}
+{{Election box candidate|
+ |party      = Write-ins
+ |candidate  = 
+ |votes      = 10,819
+ |percentage = 1.25%
+ |change     =+0.19%
+}}
+{{Election box majority|
+ |votes      = 846,707
+ |percentage = 97.50%
+ |change     = -0.38%
+}}
+{{Election box turnout|
+ |votes      = 868,345
+ |percentage = 30.14% <!---registered voters - 2,881,052 http://www.enr-scvotes.org/SC/53424/149231/en/summary.html---->
+ |change     = -4.61%
+}}
+{{Election box hold with party link|
+  |winner     = Republican Party (US)
+  |swing      = 
+}}
+{{Election box end}}
+{{Clear}}
+
+==Comptroller General==
+Incumbent Republican [[Richard Eckstrom]] ran for re-election to a fourth term in office.
+
+{{Infobox election
+| election_date = November 4, 2014
+| election_name = 2014 South Carolina Comptroller General election
+| country = South Carolina
+| type = presidential
+| vote_type = popular
+| ongoing = no
+| party_colour = yes
+| party_name = yes
+| previous_election = 2010 South Carolina elections#Comptroller General
+| previous_year = 2010
+| next_election = 2018 South Carolina elections#Comptroller General
+| next_year = 2018
+| candidate1 = '''[[Richard Eckstrom]]'''
+| party1 = Republican Party (United States)
+| image_size = 150x150px 
+| image1 = File:Richard and Mrs. Eckstrom and Pamela Evette (cropped).png
+| popular_vote1 = '''728,549'''
+| percentage1 = '''59.80%'''
+| candidate2 = Kyle Herbert
+| party2 = Democratic Party (United States)
+| image2 = 3x4.svg
+| image2_size = 150x150px
+| percentage2 = 40.14%
+| popular_vote2 = 489,066
+| map = [[File:2014 South Carolina comptroller general election results map by county.svg|230px]]
+| map_caption = County results<br />  '''Eckstrom:''' {{legend0|#E27F7F|50–60%}} {{legend0|#D75D5D|60–70%}} {{legend0|#D72F30|70–80%}}<br /> '''Herbert:''' {{legend0|#7996E2|50–60%}} {{legend0|#6674DE|60–70%}} {{legend0|#584CDE|70–80%}}
+}}
+Eckstrom was challenged in the Republican primary by Robert D. Shelley, but Shelley withdrew.
+
+Kyle Herbert was the Democratic nominee. Eckstrom won re-election.
+
+{{Election box begin | title=South Carolina Comptroller General election, 2014<ref name="South Carolina General Election Results"/>}}
+{{Election box winning candidate with party link|
+ |party      = Republican Party (US)
+ |candidate  = Richard Eckstrom
+ |votes      = 728,549
+ |percentage = 59.80%
+ |change     = +3.30%
+}}
+{{Election box candidate with party link|
+ |party      = Democratic Party (US)
+ |candidate  = Kyle Herbert
+ |votes      = 489,066
+ |percentage = 40.14%
+ |change     = -3.31%
+}}
+{{Election box candidate|
+ |party      = Write-ins
+ |candidate  = 
+ |votes      = 693
+ |percentage = 0.06%
+ |change     =+0.01%
+}}
+{{Election box majority|
+ |votes      = 239,483
+ |percentage = 19.66%
+ |change     = +6.61%
+}}
+{{Election box turnout|
+ |votes      = 1,218,308
+ |percentage = 42.49% <!---registered voters - 2,881,052 http://www.enr-scvotes.org/SC/53424/149231/en/summary.html---->
+ |change     = -7.78%
+}}
+{{Election box hold with party link|
+  |winner     = Republican Party (US)
+  |swing      = 
+}}
+{{Election box end}}
+{{Clear}}
+
+==Superintendent of Education==
+Incumbent Republican [[South Carolina Department of Education|Superintendent of Education]] [[Mick Zais]] did not run for re-election to a second term in office.<ref>{{cite web|url=http://www.thestate.com/2013/12/13/3157238/election-2014-mick-zais-wont-seek.html|title=ELECTION 2014: Mick Zais won't seek re-election for SC education superintendent|access-date=2014-04-01|archive-url=https://web.archive.org/web/20140407065242/http://www.thestate.com/2013/12/13/3157238/election-2014-mick-zais-wont-seek.html|archive-date=2014-04-07|url-status=dead}}</ref>
+
+{{Infobox election
+| election_date = November 4, 2014
+| election_name = 2014 South Carolina Superintendent of Education election
+| country = South Carolina
+| type = presidential
+| vote_type = popular
+| ongoing = no
+| party_colour = yes
+| party_name = yes
+| previous_election = 2010 South Carolina elections#Superintendent of Education
+| previous_year = 2010
+| next_election = 2018 South Carolina elections#Superintendent of Education
+| next_year = 2018
+| candidate1 = '''[[Molly Spearman]]'''
+| party1 = Republican Party (United States)
+| image_size = 150x150px
+| image1 = Molly Spearman and Kathy Maness (cropped).png
+| popular_vote1 = '''699,081'''
+| percentage1 = '''56.97%'''
+| candidate2 = Tom Thompson
+| party2 = Democratic Party (United States)
+| image2 = 3x4.svg
+| image2_size = 150x150px
+| percentage2 = 38.82%
+| popular_vote2 = 476,358
+| map = [[File:2014 South Carolina superintendent of education election results map by county.svg|230px]]
+| map_caption = County results<br />'''Spearman:''' {{legend0|#E27F7F|50–60%}} {{legend0|#D75D5D|60–70%}} {{legend0|#D72F30|70–80%}}<br />'''Thompson:''' {{legend0|#A5B0FF|40–50%}} {{legend0|#7996E2|50–60%}} {{legend0|#6674DE|60–70%}} {{legend0|#584CDE|70–80%}}
+}}
+
+[[Lee Atwater]]'s widow Sally Atwater, Anderson County School Board member Gary Burgess, [[South Carolina Department of Education]] official Meka Bosket Childs, Amy Cofield, candidate for the State House in 2010 Sheri Few, Don Jordan, Charleston County School Board member and candidate for [[South Carolina's 1st congressional district]] in [[2013 South Carolina's 1st congressional district special election|2013]] Elizabeth Moffly and former state representative Molly Mitchell Spearman ran for the Republican nomination.
+
+{{Election box begin no change
+| title = South Carolina Superintendent of Education Republican Primary results, 2014<ref name="Results"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Molly Mitchell Spearman
+| party = Republican Party (United States)
+| votes = 64,992
+| percentage = 22.45
+}}
+{{Election box winning candidate with party link no change
+| candidate = Sally Atwater
+| party = Republican Party (United States)
+| votes = 63,584
+| percentage = 21.96
+}}
+{{Election box candidate with party link no change
+| candidate = Sheri Few
+| party = Republican Party (United States)
+| votes = 56,044
+| percentage = 19.36
+}}
+{{Election box candidate with party link no change
+| candidate = Gary Burgess
+| party = Republican Party (United States)
+| votes = 31,091
+| percentage = 10.74
+}}
+{{Election box candidate with party link no change
+| candidate = Amy Cofield
+| party = Republican Party (United States)
+| votes = 20,720
+| percentage = 7.16
+}}
+{{Election box candidate with party link no change
+| candidate = Meka Bosket Childs
+| party = Republican Party (United States)
+| votes = 20,720
+| percentage = 6.71
+}}
+{{Election box candidate with party link no change
+| candidate = Elizabeth Moffly
+| party = Republican Party (United States)
+| votes = 17,421
+| percentage = 6.02
+}}
+{{Election box candidate with party link no change
+| candidate = Don Jordan
+| party = Republican Party (United States)
+| votes = 16,246
+| percentage = 5.61
+}}
+{{Election box total no change
+| votes = 289,534
+| percentage= 100
+}}
+{{Election box end}}
+
+As no candidate won a majority, a runoff was held between the top two finishers, Molly Mitchell Spearman and Sally Atwater. Atwater was considered to be the frontrunner,<ref>{{cite web |url=http://politicalwire.com/archives/2014/06/16/interview_of_the_day.html |title=Interview of the Day |publisher=Political Wire |date=June 16, 2014 |access-date=July 25, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140618210810/http://politicalwire.com/archives/2014/06/16/interview_of_the_day.html |archive-date=June 18, 2014 }}</ref> until she called conservative talk show host Russ Cassell on [[WYRD-FM|News Radio WORD]] to talk about her candidacy. In the "awkward", "evasive" and "awful, incomprehensible, it-should-force-her-to-drop-out-of-the-race" interview, she seemed unable to give answers to basic questions about sex education and the teaching of evolution, to Cassell's amazement. After Atwater hung up, Cassell concluded: "Folks, I don't want to be brutal, I don't want to be mean. What you have just heard is an example of a person running for public office on name recognition only, who is clueless." Atwater subsequently apologized for her performance and the interview, which was uploaded to [[YouTube]], went viral.<ref>{{YouTube|Bi4vBdZyQe0|Sally Atwater's terrifying interview on WORD Radio}}</ref><ref>{{cite news|url=https://www.washingtonpost.com/blogs/the-fix/wp/2014/06/16/want-to-hear-a-really-awkward-interview-with-a-politician/ |title=Want to hear a really awkward interview with a politician? |newspaper=The Washington Post |date=June 16, 2014 |access-date=July 25, 2014}}</ref><ref>{{cite web|url=http://www.patheos.com/blogs/friendlyatheist/2014/06/16/sally-atwater-r-running-for-superintendent-of-education-in-sc-cant-answer-basic-education-related-questions/ |title=Sally Atwater (R), Running for Superintendent of Education in SC, Can't Answer Basic Education-Related Questions |publisher=Patheos |date=June 16, 2014 |access-date=July 25, 2014}}</ref><ref>{{cite web|url=http://www.postandcourier.com/article/20140617/PC1603/140619398 |archive-url=https://web.archive.org/web/20140721024402/http://www.postandcourier.com/article/20140617/PC1603/140619398 |url-status=dead |archive-date=July 21, 2014 |title=Sally Atwater responds to stories about radio interview (has audio) |publisher=The Post and Courier |date=June 17, 2014 |access-date=July 25, 2014}}</ref><ref>{{cite web|url=http://www.charlestoncitypaper.com/TheBattery/archives/2014/06/19/sally-atwater-clarifies-her-stances-on-sex-ed-evolution |title=Sally Atwater clarifies her stances on sex ed, evolution |publisher=Charleston City Paper |date=June 19, 2014 |access-date=July 25, 2014}}</ref> Atwater subsequently declined to debate Spearman before the runoff, with a spokesman for Spearman saying that "given [Atwater's] debate performance in the primary and her recent radio interview on WORD-FM, we can understand why she has made this political calculation.<ref>{{cite web |url=http://www.thestate.com/2014/06/16/3512017/sally-atwater-declines-etv-debate.html |title=Sally Atwater declines ETV debate before superintendent of education runoff |publisher=The State |date=June 16, 2014 |access-date=July 25, 2014 |archive-url=https://web.archive.org/web/20140724102057/http://www.thestate.com/2014/06/16/3512017/sally-atwater-declines-etv-debate.html |archive-date=July 24, 2014 |url-status=dead }}</ref> Atwater was also the subject of a lawsuit alleging that as a teacher she "routinely harassed, physically assaulted, and psychologically tormented" a disabled student.<ref>{{cite web|url=http://www.mediaite.com/online/sally-atwater-accused-of-shoving-a-special-needs-child/ |title=Lawsuit Alleges Sally Atwater Shoved a Special Needs Child |publisher=Mediaite |date=June 21, 2014 |access-date=July 30, 2014}}</ref> Atwater's campaign dismissed the lawsuit as "baseless and frivolous".<ref>{{Cite news|url=http://www.huffingtonpost.com/2014/06/23/sally-atwater-lawsuit_n_5522253.html |title=Republican Sally Atwater Faces Lawsuit Alleging She Shoved Student Who Wanted Candy |date=June 23, 2014 |access-date=July 30, 2014|newspaper=Huffington Post |last1=McCabe |first1=David }}</ref>
+
+{{Election box begin no change
+| title = South Carolina Superintendent of Education Republican Primary Runoff results, 2014<ref name="RunoffResults"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Molly Mitchell Spearman
+| party = Republican Party (United States)
+| votes = 76,672
+| percentage = 57.16
+}}
+{{Election box candidate with party link no change
+| candidate = Sally Atwater
+| party = Republican Party (United States)
+| votes = 57,456
+| percentage = 42.84
+}}
+{{Election box total no change
+| votes = 134,164
+| percentage= 100
+}}
+{{Election box end}}
+
+===Endorsements===
+{{Endorsements box
+| title = Sally Atwater
+| list =
+'''Presidents of the United States'''
+* [[George H. W. Bush]], [[List of Presidents of the United States|41st]] [[President of The United States]]<ref>[https://thehill.com/blogs/blog-briefing-room/news/201782-george-hw-bush-endorses-widow-of-lee-atwater/ ]} {{Webarchive|url=https://web.archive.org/web/20170901080253/http://thehill.com/blogs/blog-briefing-room/news/201782-george-hw-bush-endorses-widow-of-lee-atwater |date=September 1, 2017 }}</ref>
+'''U.S. Representatives'''
+* [[Newt Gingrich]] (R-GA), former [[Speaker of the United States House of Representatives]]<ref>{{cite web|url=https://www.youtube.com/watch?v=YqdY26CJIRE|title=Former Speaker Newt Gingrich endorses Sally Atwater for SC Superintendent of Education|last=Atwater for Education|date=5 May 2014|via=YouTube}}</ref>
+}}
+
+[[South Carolina Department of Education]] official Montrio M. Belton Sr., Sheila C. Gallagher, State Representative Jerry Govan and Tom Thompson ran for the Democratic nomination.
+
+{{Election box begin no change
+| title = South Carolina Superintendent of Education Democratic Primary results, 2014<ref name="Results"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Sheila C. Gallagher
+| party = Democratic Party (United States)
+| votes = 42,186
+| percentage = 36.44
+}}
+{{Election box winning candidate with party link no change
+| candidate = Tom Thompson
+| party = Democratic Party (United States)
+| votes = 30,488
+| percentage = 26.34
+}}
+{{Election box candidate with party link no change
+| candidate = Jerry Govan
+| party = Democratic Party (United States)
+| votes = 21,824
+| percentage = 18.85
+}}
+{{Election box candidate with party link no change
+| candidate = Montrio M. Belton Sr.
+| party = Democratic Party (United States)
+| votes = 21,260
+| percentage = 18.37
+}}
+{{Election box total no change
+| votes = 115,758
+| percentage= 100
+}}
+{{Election box end}}
+
+As no candidate won a majority, a runoff was held between the top two finishers, Sheila C. Gallagher and Tom Thompson.
+
+{{Election box begin no change
+| title = South Carolina Superintendent of Education Democratic Primary Runoff results, 2014<ref name="RunoffResults"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Tom Thompson
+| party = Democratic Party (United States)
+| votes = 23,541
+| percentage = 59.13
+}}
+{{Election box candidate with party link no change
+| candidate = Sheila C. Gallagher
+| party = Democratic Party (United States)
+| votes = 16,269
+| percentage = 40.87
+}}
+{{Election box total no change
+| votes = 39,810
+| percentage= 100
+}}
+{{Election box end}}
+
+Ed Murray ran as the American Party nominee.  Spearman won the general election.
+
+{{Election box begin | title=South Carolina Superintendent of Education election, 2014<ref name="South Carolina General Election Results"/>}}
+{{Election box winning candidate with party link|
+ |party      = Republican Party (US)
+ |candidate  = Molly Spearman
+ |votes      = 699,081
+ |percentage = 56.97%
+ |change     = +5.71%
+}}
+{{Election box candidate with party link|
+ |party      = Democratic Party (US)
+ |candidate  = Tom Thompson
+ |votes      = 476,358
+ |percentage = 38.82%
+ |change     = -4.29%
+}}
+{{Election box candidate|
+ |party      = American Party
+ |candidate  = Ed Murray
+ |votes      = 46,695
+ |percentage = 3.81%
+ |change     = +3.81%
+}}
+{{Election box candidate|
+ |party      = Write-ins
+ |candidate  = 
+ |votes      = 5,055
+ |percentage = 0.41%
+ |change     =+0.37%
+}}
+{{Election box majority|
+ |votes      = 222,723
+ |percentage = 18.15%
+ |change     = +10.00%
+}}
+{{Election box turnout|
+ |votes      = 1,227,189
+ |percentage = 42.60% <!---registered voters - 2,881,052 http://www.enr-scvotes.org/SC/53424/149231/en/summary.html---->
+ |change     = -7.71%
+}}
+{{Election box hold with party link|
+  |winner     = Republican Party (US)
+  |swing      = 
+}}
+{{Election box end}}
+{{Clear}}
+
+==Commissioner of Agriculture==
+Incumbent Republican Commissioner of Agriculture Hugh Weathers, who was appointed to the position in September 2004, ran for re-election to a third full term in office.
+
+Joe Farmer ran against Weathers in the Republican primary.
+
+{{Election box begin no change
+| title = South Carolina Commissioner of Agriculture Republican Primary results, 2014<ref name="Results"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Hugh Weathers
+| party = Republican Party (United States)
+| votes = 184,621
+| percentage = 65.06
+}}
+{{Election box candidate with party link no change
+| candidate = Joe Farmer
+| party = Republican Party (United States)
+| votes = 99,155
+| percentage = 34.94
+}}
+{{Election box total no change
+| votes = 283,776
+| percentage= 100
+}}
+{{Election box end}}
+
+Emile DeFelice of the American Party and David Edmond of the [[United Citizens Party]] also ran. No Democrat filed to run for the office.  Weathers won re-election.
+[[File:2014 South Carolina commissioner of agriculture election results map by county.svg|230px|thumb|Results by county
+{{collapsible list
+|title=Weathers:
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+|{{legend|#C21B18|80–90%}}
+}}
+]]
+{{Election box begin | title=South Carolina Commissioner of Agriculture election, 2014<ref name="South Carolina General Election Results"/>}}
+{{Election box winning candidate with party link|
+ |party      = Republican Party (US)
+ |candidate  = Hugh Weathers
+ |votes      = 759,640
+ |percentage = 79.66%
+ |change     = +19.55%
+}}
+{{Election box candidate with party link|
+ |party      = United Citizens Party
+ |candidate  = Dave Edmond
+ |votes      = 106,223
+ |percentage = 11.14%
+ |change     = +11.14%
+}}
+{{Election box candidate|
+ |party      = American Party
+ |candidate  = Emile DeFelice
+ |votes      = 84,831
+ |percentage = 8.90%
+ |change     = +8.90%
+}}
+{{Election box candidate|
+ |party      = Write-ins
+ |candidate  = 
+ |votes      = 2,922
+ |percentage = 0.31%
+ |change     =+0.27%
+}}
+{{Election box majority|
+ |votes      = 653,417
+ |percentage = 68.52%
+ |change     = +48.46%
+}}
+{{Election box turnout|
+ |votes      = 953,616
+ |percentage = 33.10% <!---registered voters - 2,881,052 http://www.enr-scvotes.org/SC/53424/149231/en/summary.html---->
+ |change     = -16.82%
+}}
+{{Election box hold with party link|
+  |winner     = Republican Party (US)
+  |swing      = 
+}}
+{{Election box end}}
+{{Clear}}
+
+==Adjutant General==
+Incumbent Republican [[South Carolina Adjutant General|Adjutant General]] Robert E. Livingston Jr. ran for re-election to a second term in office.
+
+James Breazeale ran against Livingston Jr. in the Republican primary.
+
+{{Election box begin no change
+| title = South Carolina Adjutant General Republican primary, 2014<ref name="Results"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Robert E. Livingston Jr.
+| party = Republican Party (United States)
+| votes = 209,484
+| percentage = 75.75
+}}
+{{Election box candidate with party link no change
+| candidate = James Breazeale
+| party = Republican Party (United States)
+| votes = 67,077
+| percentage = 24.25
+}}
+{{Election box total no change
+| votes = 276,561
+| percentage= 100
+}}
+{{Election box end}}
+
+No Democrat filed to run for the office.  Livigston won re-election.  Because South Carolina voters approved Amendment 2 in the 2014 general election, this was the last time that the adjutant general was popularly elected.  Because South Carolina was the only state in the union to elect its adjutant general, this was the final time that a state adjutant general stood for election in the United States, barring future state constitutional changes.
+[[File:2010 South Carolina state treasurer election results map by county.svg|230px|thumb|Results by county
+{{collapsible list
+|title=Livingston:
+|{{legend|#A80000|90–100%}}
+}}
+]]
+
+{{Election box begin | title=South Carolina Adjutant General election, 2014<ref name="South Carolina General Election Results"/>}}
+{{Election box winning candidate with party link|
+ |party      = Republican Party (US)
+ |candidate  = Bob Livingston
+ |votes      = 858,106
+ |percentage = 98.97%
+ |change     = -0.28%
+}}
+
+{{Election box candidate|
+ |party      = Write-ins
+ |candidate  = 
+ |votes      = 8,896
+ |percentage = 1.03%
+ |change     =+0.28%
+}}
+{{Election box majority|
+ |votes      = 849,210
+ |percentage = 97.94%
+ |change     = -0.56%
+}}
+{{Election box turnout|
+ |votes      = 867,002
+ |percentage = 30.10% <!---registered voters - 2,881,052 http://www.enr-scvotes.org/SC/53424/149231/en/summary.html---->
+ |change     = -4.27%
+}}
+{{Election box hold with party link|
+  |winner     = Republican Party (US)
+  |swing      = 
+}}
+{{Election box end}}
+{{Clear}}
+
+==United States Senate==
+'''Regularly scheduled election'''<br />
+{{main|United States Senate election in South Carolina, 2014}}
+Incumbent Republican senator [[Lindsey Graham]] is running for re-election to a third term in office.<ref name=thestate>{{cite web |last=Rosen |first=James |url=http://www.thestate.com/2012/02/19/2159087/graham-i-expect-a-primary-challenge.html#.ULDuhYfoSIw |title=WASHINGTON: Graham: 'I expect' a primary challenge &#124; News |publisher=Our State |access-date=February 14, 2014 |archive-url=https://web.archive.org/web/20140221123003/http://www.thestate.com/2012/02/19/2159087/graham-i-expect-a-primary-challenge.html#.ULDuhYfoSIw |archive-date=February 21, 2014 |url-status=dead }}</ref> He faced six challengers in the Republican primary: pastor and businessman Det Bowers,<ref>{{cite web|url=http://politicalticker.blogs.cnn.com/2014/02/04/pastor-joins-crowded-gop-race-to-unseat-lindsey-graham/|archive-url=https://web.archive.org/web/20140204210850/http://politicalticker.blogs.cnn.com/2014/02/04/pastor-joins-crowded-gop-race-to-unseat-lindsey-graham/|url-status=dead|archive-date=February 4, 2014|title=Pastor joins crowded GOP race to unseat Lindsey Graham|date=February 4, 2014|access-date=February 4, 2014|work=[[CNN]]|last=Hamby|first=Peter}}</ref> State Senator [[Lee Bright]],<ref name=MaceBright>{{cite web|url=http://www.thestate.com/2013/08/01/2894539/mace-bright-expected-to-face-graham.html|title=First Citadel female grad, Sen. Bright will take on Graham|date=August 1, 2013|access-date=August 2, 2013|work=Our State|first=Andrew|last=Shain|archive-url=https://web.archive.org/web/20130804061001/http://www.thestate.com/2013/08/01/2894539/mace-bright-expected-to-face-graham.html|archive-date=August 4, 2013|url-status=dead|df=mdy-all}}</ref> businessman and candidate for [[South Carolina's 3rd congressional district]] in [[United States House of Representatives elections in South Carolina, 2010#District 3|2010]] Richard Cash,<ref>{{cite news|url=http://www.greenvilleonline.com/viewart/20130416/NEWS/304160068/Republican-Cash-run-against-Graham-2014|title=Republican Cash to run against Graham in 2014|date=April 16, 2013|access-date=April 16, 2013|agency=Associated Press|publisher=[[The Greenville News]]}}{{dead link|date=May 2023|bot=medic}}{{cbignore|bot=medic}}</ref> attorney, [[Lieutenant colonel (United States)|Lieutenant Colonel]] in the [[United States Army Reserve]] and candidate for [[Lieutenant Governor of South Carolina|lieutenant governor]] in [[2010 South Carolina elections|2010]] Bill Connor,<ref>{{cite web|url=http://www.thestate.com/2013/11/08/3085217/bill-connor-becomes-lindsey-grahams.html|title=SC Senate race: Bill Connor becomes Lindsey Graham's 4th GOP opponent|date=November 8, 2013|access-date=November 10, 2013|work=[[Our State]]|last=Self|first=Jamie|archive-url=https://web.archive.org/web/20131110030416/http://www.thestate.com/2013/11/08/3085217/bill-connor-becomes-lindsey-grahams.html|archive-date=November 10, 2013|url-status=dead}}</ref> attorney Benjamin Dunn<ref>{{cite web|url=http://www.thestate.com/2014/03/13/3324965/despite-ambiguously-gay-barb-four.html|title=Despite 'ambiguously gay' barb, four Graham foes unite|date=March 13, 2014|access-date=March 18, 2014|work=[[Our State]]|last=Self|first=Jamie|archive-url=https://web.archive.org/web/20140317105503/http://www.thestate.com/2014/03/13/3324965/despite-ambiguously-gay-barb-four.html|archive-date=March 17, 2014|url-status=dead}}</ref> and businesswoman and author [[Nancy Mace]].<ref name=MaceBright/> Graham won the primary with 56% of the vote, negating the need for a runoff.
+
+State Senator [[Brad Hutto]] defeated entrepreneur [[Jay Stamper]] in the Democratic primary.<ref name="WLTX">{{cite web|title= Brad Hutto wins democratic primary |url=http://www.wltx.com/story/news/local/2014/06/10/brad-hutto-wins-democratic-primary/10306321/|publisher=WTLX|date=June 10, 2014|access-date=February 12, 2015|url-status=dead|archive-url=https://archive.today/20150212135102/http://www.wltx.com/story/news/local/2014/06/10/brad-hutto-wins-democratic-primary/10306321/|archive-date=February 12, 2015}}</ref>
+
+Former Republican state treasurer [[Thomas Ravenel]] is running as an independent.<ref name=charm>{{cite web|author=Schuyler Kropf|url=http://www.thestate.com/2014/04/08/3374664/southern-charm-recap-thomas-ravenel.html|title=Southern Charm recap: Thomas Ravenel and the U.S. Senate?|publisher=The State|date=April 8, 2014|access-date=April 8, 2014|archive-url=https://web.archive.org/web/20140408223518/http://www.thestate.com/2014/04/08/3374664/southern-charm-recap-thomas-ravenel.html|archive-date=April 8, 2014|url-status=dead}}</ref> Libertarian Victor Kocher<ref name=whosfiled/><ref>{{cite web|url=http://thetandd.com/news/hutto-seeking-u-s-senate-seat/article_2e0e788c-b6af-11e3-aa50-0019bb2963f4.html|title=Hutto seeking U.S. Senate seat|date=March 29, 2014|access-date=April 1, 2014|work=Fort Mill Times}}</ref> is also running.
+
+'''Special election'''<br />
+{{main|United States Senate special election in South Carolina, 2014}}
+Incumbent Republican senator [[Tim Scott]], who was appointed to the office in January 2013 after [[Jim DeMint]] resigned, is running for election to the remaining part of the term. The seat will be up for election to a six-year term in 2016.
+
+Scott defeated Randall Young in the Republican primary.<ref name=whosfiled/>
+
+[[Richland County, South Carolina|Richland County]] Councilwoman [[Joyce Dickerson]]<ref>{{cite web|url=http://northeastcolumbia.wistv.com/news/politics/76633-county-council-member-run-us-senate-seat|title=County council member to run for U.S. Senate seat|date=October 3, 2013|access-date=October 30, 2013|work=wistv|author=Renee Standera|url-status=dead|archive-url=https://web.archive.org/web/20131102025523/http://northeastcolumbia.wistv.com/news/politics/76633-county-council-member-run-us-senate-seat|archive-date=November 2, 2013}}</ref> defeated former [[York County, South Carolina|York County]] Councilman Sidney Moore<ref>{{cite news|url=http://www.heraldonline.com/2014/03/27/5813780/former-york-county-council-member.html|title=Former York County Council member to run for Scott's U.S. Senate seat|work=[[The Herald (Rock Hill)|The Herald]]|last=Zou|first=Jie Jenny|date=March 27, 2014|access-date=March 27, 2014|archive-url=https://web.archive.org/web/20140328061555/http://www.heraldonline.com/2014/03/27/5813780/former-york-county-council-member.html|archive-date=March 28, 2014|url-status=dead}}</ref> and attorney and candidate for [[South Carolina's 7th congressional district]] in [[United States House of Representatives elections in South Carolina, 2012#District 7|2012]] Harry Pavilack<ref>{{cite news | title=Exclusive: Another unknown Democrat seeks US Senate seat in SC | author=Jamie Self | date=September 14, 2013 | publisher=Our State | url=http://www.thestate.com/2013/09/14/2980396/exclusive-another-unknown-democrat.html | url-status=dead | archive-url=https://web.archive.org/web/20131101074218/http://www.thestate.com/2013/09/14/2980396/exclusive-another-unknown-democrat.html | archive-date=November 1, 2013 }}</ref> for the Democratic nomination.
+
+Independents Brandon Armstrong, a painting contractor,<ref>{{cite web|url=http://www.thestate.com/2013/11/27/3126271/election-2014-independent-collecting.html|title=ELECTION 2014: Independent collecting signatures to run against Tim Scott|date=November 27, 2013|access-date=February 5, 2014|work=[[Our State]]|first=Jamie|last=Sel|archive-url=https://web.archive.org/web/20140221114045/http://www.thestate.com/2013/11/27/3126271/election-2014-independent-collecting.html|archive-date=February 21, 2014|url-status=dead}}</ref> and Jill Bossi, former Vice President of the [[American Red Cross]],<ref>{{cite web|url=http://www.fortmilltimes.com/2014/03/24/3371394/tega-cay-exec-running-for-us-senate.html|title=Tega Cay exec running for U.S. Senate|date=March 24, 2014|access-date=March 26, 2014|work=Fort Mill Times}}</ref> are also running.
+
+==United States House of Representatives==
+{{main|United States House of Representatives elections in South Carolina, 2014}}
+
+All of South Carolina's seven seats in the [[United States House of Representatives]] will be up for election in 2014.
+
+==Advisory Questions and Referendums==
+
+Several advisory questions were placed on the primary election ballots to advise the major state parties on the positions of their membership on major policy questions.  In the general election, voters also voted on two constitutional amendments.  All passed with heavy majorities.
+
+===Primary Advisory Questions===
+
+Democratic Advisory Question One asked primary voters whether each state, rather than Congress, should determine whether to allow and how to regulate online gaming.
+[[File:2014 South Carolina Democratic Question 1 results map by county.svg|230px|thumb|Democratic Question 1 Results by county
+{{collapsible list
+|title=Yes:
+|{{legend|#28497C|80–90%}}
+|{{legend|#47729E|70–80%}}
+|{{legend|#7D9CBB|60–70%}}
+}}
+]]
+
+{{referendum results
+| caption = Democratic Question 1
+| for = 89365
+| against = 34131
+| turnout        = 4.35 
+| electorate     = 2836470
+| source         = [http://www.enr-scvotes.org/SC/51763/133986/en/summary.html – Official Results]
+}}
+{{Clear}}
+
+Democratic Advisory Question Two asked whether gaming laws should be "modified" to fund transportation needs in the state, rather than tax increases.
+[[File:2014 South Carolina Democratic Question 2 results map by county.svg|230px|thumb|Democratic Question 2 Results by county
+{{collapsible list
+|title=Yes:
+|{{legend|#28497C|80–90%}}
+|{{legend|#47729E|70–80%}}
+}}
+]]
+
+{{referendum results
+| caption = Democratic Question 2
+| for = 99667
+| against = 24143
+| turnout        = 4.36 
+| electorate     = 2836470
+| source         = [http://www.enr-scvotes.org/SC/51763/133986/en/summary.html – Official Results]
+}}
+{{Clear}}
+
+Democratic Advisory Question Three asked whether medical marijuana should be legalized for the treatment of "severe, chronic illnesses."
+[[File:2014 South Carolina Democratic Question 3 results map by county.svg|230px|thumb|Democratic Question 3 Results by county
+{{collapsible list
+|title=Yes:
+|{{legend|#28497C|80–90%}}
+|{{legend|#47729E|70–80%}}
+|{{legend|#7D9CBB|60–70%}}
+}}
+]]
+
+{{referendum results
+| caption = Democratic Question 3
+| for = 94961
+| against = 31172
+| turnout        = 4.45 
+| electorate     = 2836470
+| source         = [http://www.enr-scvotes.org/SC/51763/133986/en/summary.html – Official Results]
+}}
+{{Clear}}
+
+Republican Question 1 asked whether the "privileges and immunities" of South Carolina citizens under the state constitution should be extended to unborn fetuses.
+[[File:2014 South Carolina Republican Question 1 results map by county.svg|230px|thumb|Republican Question 1 Results by county
+{{collapsible list
+|title=Yes:
+|{{legend|#28497C|80–90%}}
+|{{legend|#47729E|70–80%}}
+|{{legend|#7D9CBB|60–70%}}
+}}
+{{collapsible list
+|title=No Vote:
+|{{legend|#808080}}
+}}
+]]
+
+{{referendum results
+| caption = Republican Question 1
+| for = 240453
+| against = 65273
+| turnout        = 10.78 
+| electorate     = 2836470
+| source         = [http://www.enr-scvotes.org/SC/51763/133986/en/summary.html – Official Results]
+}}
+{{Clear}}
+
+Republican Question 2 asked whether the state income tax should be reduced by 1.4% a year until it no longer exists.
+[[File:2014 South Carolina Republican Question 2 results map by county.svg|230px|thumb|Republican Question 2 Results by county
+{{collapsible list
+|title=Yes:
+|{{legend|#28497C|80–90%}}
+|{{legend|#47729E|70–80%}}
+|{{legend|#7D9CBB|60–70%}}
+}}
+{{collapsible list
+|title=No Vote:
+|{{legend|#808080}}
+}}
+]]
+
+{{referendum results
+| caption = Republican Question 2
+| for = 245441
+| against = 61908
+| turnout        = 10.84 
+| electorate     = 2836470
+| source         = [http://www.enr-scvotes.org/SC/51763/133986/en/summary.html – Official Results]
+}}
+{{Clear}}
+
+===Constitutional amendments===
+
+In the general election, voters voted on two amendments.
+
+Amendment One amended the state's constitution to allow non-profit organizations to hold raffles for fundraising purposes.  It passed.
+[[File:2014 South Carolina Amendment 1 results map by county.svg|230px|thumb|Amendment 1 Results by county
+{{collapsible list
+|title=Yes:
+|{{legend|#28497C|80–90%}}
+|{{legend|#47729E|70–80%}}
+}}
+]]
+{{referendum results
+| caption = Amendment 1
+| for = 989991
+| against = 206862
+| turnout        = 41.54 
+| electorate     = 2881052
+| source         = [http://www.enr-scvotes.org/SC/53424/149231/en/summary.html# – Official Results]
+}}
+{{Clear}}
+
+Amendment Two amended the state's constitution to make the adjutant general appointed by the governor, rather than popularly elected.  It passed.
+[[File:2014 South Carolina Amendment 2 results map by county.svg|230px|thumb|Amendment 2 Results by county
+{{collapsible list
+|title=Yes:
+|{{legend|#7D9CBB|60–70%}}
+|{{legend|#B6C8D9|50–60%}}
+}}
+{{collapsible list
+|title=No:
+|{{legend|#DEDEBD|50–60%}}
+}}
+]]
+
+{{referendum results
+| caption = Amendment 2
+| for = 666963
+| against = 515970
+| turnout        = 41.06 
+| electorate     = 2881052
+| source         = [http://www.enr-scvotes.org/SC/53424/149231/en/summary.html# – Official Results]
+}}
+{{Clear}}
+
+==References==
+{{Reflist|30em}}
+
+{{SCGovElections}}
+{{2014 United States elections}}
+
+[[Category:2014 elections in South Carolina| ]]
+[[Category:2014 elections in the United States by state or territory|South Carolina]]

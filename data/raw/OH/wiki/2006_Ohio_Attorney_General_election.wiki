@@ -1,0 +1,940 @@
+{{Short description|none}}
+{{Use American English|date=September 2025}}
+{{Infobox election
+| election_date = {{Start date|2006|11|07}}
+| election_name = 2006 Ohio Attorney General election
+| country = Ohio
+| type = presidential
+| ongoing = no
+| previous_election = 2002 Ohio Attorney General election
+| previous_year = 2002
+| next_election = 2008 Ohio Attorney General special election
+| next_year = 2008 (special)
+| image1 = Marc E. Dann - Ohio Senate 126th General Assembly 2006 - DPLA - bb02896c4b8cfc4ca292faff08e94fc8 (page 16) (cropped).jpg
+| nominee1 = '''[[Marc Dann]]'''
+| party1 = Democratic Party (United States)
+| popular_vote1 = '''2,035,825'''
+| percentage1 = '''52.61%'''
+| image2 = Betty Montgomery.jpg
+| nominee2 = [[Betty Montgomery]]
+| party2 = Republican Party (United States)
+| popular_vote2 = 1,833,846
+| percentage2 = 47.39%
+| map_image = [[File:2006 Ohio attorney general election results map by county.svg|210px]]
+| map_caption = County results<br/>'''Dann:''' {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584cde|70–80%}}<br />'''Montgomery:''' {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}}
+| title = Attorney General
+| before_election = [[Jim Petro]]
+| before_party = Republican Party (United States)
+| after_election = [[Marc Dann]]
+| after_party = Democratic Party (United States)
+}}
+{{ElectionsOH}}
+
+The '''2006 Ohio Attorney General election''' was held on November 7, 2006, to elect the [[Ohio Attorney General]]. [[Democratic Party (United States)|Democratic]] state senator and attorney [[Marc Dann]] defeated [[Republican Party (United States)|Republican]] [[Ohio State Auditor|State Auditor]] and former attorney general [[Betty Montgomery]] with 52.61% of the vote in what was considered an [[Upset (competition)|upset]].<ref>{{Cite web |last=Bischoff |first=Laura |date=July 24, 2025 |title=The rise, fall and return of Democrat Marc Dann |url=https://www.dispatch.com/story/news/state/2025/07/24/former-ohio-attorney-general-marc-dann-rebuilt-his-career/84460292007/ |url-access=subscription |access-date=September 13, 2025 |website=The Columbus Dispatch}}</ref> The election was held concurrently with a [[2006 United States Senate election in Ohio|U.S. Senate election]], [[2006 Ohio gubernatorial election|gubernatorial election]], and other statewide races. Primary elections were held on May 2, 2006.
+
+Dann would go on to resign as attorney general on May 14, 2008, following the discovery of an [[extramarital affair]] and claims of [[sexual harassment]].<ref>{{Cite web |last1=Leckrone |first1=Jim |last2=Pierog |first2=Karen |last3=Walsh |first3=Eric |date=May 14, 2008 |title=Ohio attorney general resigns in wake of scandal |url=https://www.reuters.com/article/world/us-politics/ohio-attorney-general-resigns-in-wake-of-scandal-idUSN14180629/ |access-date=September 13, 2025 |website=Reuters}}</ref> Dean was succeeded by [[Nancy H. Rogers]] in late May 2008 after being appointed by Governor [[Ted Strickland]], but did not seek a full term in the following [[2008 Ohio Attorney General special election|special election]].<ref>{{Cite web |last=Jindra |first=Christine |date=May 28, 2008 |title=Dean of Ohio State law school Nancy Rogers to head Ohio attorney general's office |url=https://www.cleveland.com/openers/2008/05/_susan_tave_zelman_will.html |url-access=limited |access-date=September 13, 2025 |website=cleveland.com}}</ref>
+
+== Republican primary ==
+=== Nominee ===
+* [[Betty Montgomery]], [[Ohio State Auditor]] (2003-2007) and former attorney general (1995-2003)
+=== Defeated in primary ===
+* [[Tim Grendell]], state senator from the [[Ohio's 18th senatorial district|18th]] district (2005-2011) and former state representative from the 98th district (2001-2005)
+=== Withdrew ===
+* Ron O'Brien, [[Franklin County, Ohio|Franklin County]] Prosecutor (1997-2021)<ref>{{Cite web |last1=Eder |first1=Steve |last2=Drew |first2=James |date=January 28, 2006 |title=O'Brien exits, leaving 2 in GOP attorney general race |url=https://www.toledoblade.com/news/state/2006/01/28/O-Brien-exits-leaving-2-in-GOP-attorney-general-race/stories/200601280034 |access-date=September 13, 2025 |website=Toledo Blade}}</ref>
+=== Results ===
+{{Election box begin no change
+|title      = Republican primary results<ref>{{Cite web |title=Republican Attorney General: May 2, 2006 |url=https://www.ohiosos.gov/elections/election-results-and-data/2006-elections-results/republican-attorney-general-may-2-2006/ |access-date=September 13, 2025 |website=Ohio Secretary of State}}</ref>
+}}
+{{Election box winning candidate with party link no change
+|party = Ohio Republican Party
+|candidate = [[Betty Montgomery]]
+|votes = 583,845
+|percentage = 73.36%
+}}{{Election box candidate with party link no change
+|party = Ohio Republican Party
+|candidate = [[Tim Grendell]]
+|votes = 212,064
+|percentage= 26.64%
+}}{{Election box total no change
+|votes = 795,909
+|percentage = 100.0%
+}}{{Election box end}}
+
+== Democratic primary ==
+=== Nominee ===
+* [[Marc Dann]], state senator from the [[Ohio's 32nd senatorial district|32nd]] district (2003-2006)
+=== Defeated in primary ===
+* Subodh Chandra, attorney and prosecutor
+=== Results ===
+{{Election box begin no change
+|title = Democratic primary results<ref>{{Cite web |title=Democratic Attorney General: May 2, 2006 |url=https://www.ohiosos.gov/elections/election-results-and-data/2006-elections-results/democratic-attorney-general-may-2-2006/ |access-date=September 13, 2025 |website=Ohio Secretary of State}}</ref>
+}}
+{{Election box winning candidate with party link no change
+|party = Ohio Democratic Party
+|candidate = [[Marc Dann]]
+|votes = 492,799
+|percentage = 70.95%
+}}{{Election box candidate with party link no change
+|party = Ohio Democratic Party
+|candidate = Subodh Chandra
+|votes = 201,738
+|percentage = 29.05%
+}}{{Election box total no change
+|votes = 694,537
+|percentage = 100.0%
+}}{{Election box end}}
+
+== General election ==
+=== Results ===
+{{Election box begin | title=Ohio Attorney General election, 2006<ref name="results">{{Cite web |title=Attorney General: November 7, 2006 |url=https://www.sos.state.oh.us/elections/election-results-and-data/2006-elections-results/attorney-general-november-7-2006/ |access-date=September 13, 2025 |website=Ohio Secretary of State}}</ref>
+}}
+{{Election box winning candidate with party link|
+|party = Ohio Democratic Party
+|candidate = [[Marc Dann]]
+|votes = 2,035,825
+|percentage = 52.61%
+|change = +16.73%
+}}
+{{Election box candidate with party link|
+|party=Ohio Republican Party
+|candidate=[[Betty Montgomery]]
+|votes=1,833,846
+|percentage=47.39%
+|change=-16.73%}}
+{{Election box total no change
+|votes = 3,869,671
+|percentage = 100.0%
+}}
+{{Election box gain with party link no swing|
+  |winner     = Democratic Party (United States)
+  |loser      = Republican Party (United States)
+}}
+{{Election box end}}
+==== By county ====
+{| class="wikitable sortable" width="60%"
+|+2006 Ohio Attorney General election (by county)<ref name="results" />
+! rowspan="2" |County
+! colspan="2" |Marc Dann
+Democratic
+! colspan="2" |Betty Montgomery
+Republican
+! colspan="2" |Margin
+! rowspan="2" |Total votes cast
+|-
+! data-sort-type="number" style="text-align:center;" |#
+! data-sort-type="number" style="text-align:center;" |%
+! data-sort-type="number" style="text-align:center;" |#
+! data-sort-type="number" style="text-align:center;" |%
+! data-sort-type="number" style="text-align:center;" |#
+! data-sort-type="number" style="text-align:center;" |%
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Adams County, Ohio|Adams]]
+|{{party shading/Democratic}}|3,380
+|{{party shading/Democratic}}|43.97%
+|{{party shading/Republican}}|4,307
+|{{party shading/Republican}}|56.03%
+|{{party shading/Republican}}| -927
+|{{party shading/Republican}}| -12.06%
+|{{party shading/Republican}}|7,687
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Allen County, Ohio|Allen]]
+|{{party shading/Democratic}}|15,522
+|{{party shading/Democratic}}|42.63%
+|{{party shading/Republican}}|20,887
+|{{party shading/Republican}}|57.37%
+|{{party shading/Republican}}| -5,365
+|{{party shading/Republican}}| -14.74%
+|{{party shading/Republican}}|36,409
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Ashland County, Ohio|Ashland]]
+|{{party shading/Democratic}}|8,689
+|{{party shading/Democratic}}|47.42%
+|{{party shading/Republican}}|9,637
+|{{party shading/Republican}}|52.58%
+|{{party shading/Republican}}| -948
+|{{party shading/Republican}}| -5.06%
+|{{party shading/Republican}}|18,326
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Ashtabula County, Ohio|Ashtabula]]
+|{{party shading/Democratic}}|20,960
+|{{party shading/Democratic}}|61.71%
+|{{party shading/Republican}}|13,004
+|{{party shading/Republican}}|38.29%
+|{{party shading/Democratic}}|7,956
+|{{party shading/Democratic}}|23.42%
+|{{party shading/Democratic}}|33,964
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Athens County, Ohio|Athens]]
+|{{party shading/Democratic}}|13,051
+|{{party shading/Democratic}}|67.09%
+|{{party shading/Republican}}|6,404
+|{{party shading/Republican}}|32.91%
+|{{party shading/Democratic}}|6,647
+|{{party shading/Democratic}}|34.18%
+|{{party shading/Democratic}}|19,455
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Auglaize County, Ohio|Auglaize]]
+|{{party shading/Democratic}}|6,704
+|{{party shading/Democratic}}|40.36%
+|{{party shading/Republican}}|9,907
+|{{party shading/Republican}}|59.64%
+|{{party shading/Republican}}| -3,203
+|{{party shading/Republican}}| -19.28%
+|{{party shading/Republican}}|16,611
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Belmont County, Ohio|Belmont]]
+|{{party shading/Democratic}}|15,473
+|{{party shading/Democratic}}|67.60%
+|{{party shading/Republican}}|7,415
+|{{party shading/Republican}}|32.40%
+|{{party shading/Democratic}}|8,058
+|{{party shading/Democratic}}|35.20%
+|{{party shading/Democratic}}|22,888
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Brown County, Ohio|Brown]]
+|{{party shading/Democratic}}|6,610
+|{{party shading/Democratic}}|47.87%
+|{{party shading/Republican}}|7,198
+|{{party shading/Republican}}|52.13%
+|{{party shading/Republican}}| -588
+|{{party shading/Republican}}| -4.26%
+|{{party shading/Republican}}|13,808
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Butler County, Ohio|Butler]]
+|{{party shading/Democratic}}|43,089
+|{{party shading/Democratic}}|40.91%
+|{{party shading/Republican}}|62,247
+|{{party shading/Republican}}|59.09%
+|{{party shading/Republican}}| -19,158
+|{{party shading/Republican}}| -18.18%
+|{{party shading/Republican}}|105,336
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Carroll County, Ohio|Carroll]]
+|{{party shading/Democratic}}|5,485
+|{{party shading/Democratic}}|56.02%
+|{{party shading/Republican}}|4,307
+|{{party shading/Republican}}|43.98%
+|{{party shading/Democratic}}|1,178
+|{{party shading/Democratic}}|12.04%
+|{{party shading/Democratic}}|9,792
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Champaign County, Ohio|Champaign]]
+|{{party shading/Democratic}}|6,064
+|{{party shading/Democratic}}|42.97%
+|{{party shading/Republican}}|8,048
+|{{party shading/Republican}}|57.03%
+|{{party shading/Republican}}| -1,984
+|{{party shading/Republican}}| -14.06%
+|{{party shading/Republican}}|14,112
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Clark County, Ohio|Clark]]
+|{{party shading/Democratic}}|24,471
+|{{party shading/Democratic}}|50.36%
+|{{party shading/Republican}}|24,125
+|{{party shading/Republican}}|49.64%
+|{{party shading/Democratic}}|346
+|{{party shading/Democratic}}|0.72%
+|{{party shading/Democratic}}|48,596
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Clermont County, Ohio|Clermont]]
+|{{party shading/Democratic}}|24,112
+|{{party shading/Democratic}}|37.34%
+|{{party shading/Republican}}|40,460
+|{{party shading/Republican}}|62.66%
+|{{party shading/Republican}}| -16,348
+|{{party shading/Republican}}| -25.32%
+|{{party shading/Republican}}|64,572
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Clinton County, Ohio|Clinton]]
+|{{party shading/Democratic}}|5,197
+|{{party shading/Democratic}}|41.38%
+|{{party shading/Republican}}|7,361
+|{{party shading/Republican}}|58.62%
+|{{party shading/Republican}}| -2,164
+|{{party shading/Republican}}| -17.24%
+|{{party shading/Republican}}|12,558
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Columbiana County, Ohio|Columbiana]]
+|{{party shading/Democratic}}|22,012
+|{{party shading/Democratic}}|60.55%
+|{{party shading/Republican}}|14,342
+|{{party shading/Republican}}|39.45%
+|{{party shading/Democratic}}|7,670
+|{{party shading/Democratic}}|21.10%
+|{{party shading/Democratic}}|36,354
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Coshocton County, Ohio|Coshocton]]
+|{{party shading/Democratic}}|6,560
+|{{party shading/Democratic}}|49.83%
+|{{party shading/Republican}}|6,604
+|{{party shading/Republican}}|50.17%
+|{{party shading/Republican}}| -44
+|{{party shading/Republican}}| -0.34%
+|{{party shading/Republican}}|13,164
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Crawford County, Ohio|Crawford]]
+|{{party shading/Democratic}}|7,815
+|{{party shading/Democratic}}|47.77%
+|{{party shading/Republican}}|8,546
+|{{party shading/Republican}}|52.23%
+|{{party shading/Republican}}| -731
+|{{party shading/Republican}}| -4.46%
+|{{party shading/Republican}}|16,361
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Cuyahoga County, Ohio|Cuyahoga]]
+|{{party shading/Democratic}}|260,645
+|{{party shading/Democratic}}|64.38%
+|{{party shading/Republican}}|144,202
+|{{party shading/Republican}}|35.62%
+|{{party shading/Democratic}}|116,443
+|{{party shading/Democratic}}|28.76%
+|{{party shading/Democratic}}|404,847
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Darke County, Ohio|Darke]]
+|{{party shading/Democratic}}|7,512
+|{{party shading/Democratic}}|41.75%
+|{{party shading/Republican}}|10,479
+|{{party shading/Republican}}|58.25%
+|{{party shading/Republican}}| -2,967
+|{{party shading/Republican}}| -16.50%
+|{{party shading/Republican}}|17,991
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Defiance County, Ohio|Defiance]]
+|{{party shading/Democratic}}|6,759
+|{{party shading/Democratic}}|50.58%
+|{{party shading/Republican}}|6,604
+|{{party shading/Republican}}|49.42%
+|{{party shading/Democratic}}|155
+|{{party shading/Democratic}}|1.16%
+|{{party shading/Democratic}}|13,363
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Delaware County, Ohio|Delaware]]
+|{{party shading/Democratic}}|23,394
+|{{party shading/Democratic}}|36.52%
+|{{party shading/Republican}}|40,669
+|{{party shading/Republican}}|63.48%
+|{{party shading/Republican}}| -17,275
+|{{party shading/Republican}}| -26.96%
+|{{party shading/Republican}}|64,063
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Erie County, Ohio|Erie]]
+|{{party shading/Democratic}}|17,794
+|{{party shading/Democratic}}|59.22%
+|{{party shading/Republican}}|12,252
+|{{party shading/Republican}}|40.78%
+|{{party shading/Democratic}}|5,542
+|{{party shading/Democratic}}|18.44%
+|{{party shading/Democratic}}|30,046
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Fairfield County, Ohio|Fairfield]]
+|{{party shading/Democratic}}|22,424
+|{{party shading/Democratic}}|42.34%
+|{{party shading/Republican}}|30,538
+|{{party shading/Republican}}|57.66%
+|{{party shading/Republican}}| -8,114
+|{{party shading/Republican}}| -15.32%
+|{{party shading/Republican}}|52,962
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Franklin County, Ohio|Franklin]]
+|{{party shading/Democratic}}|187,191
+|{{party shading/Democratic}}|51.07%
+|{{party shading/Republican}}|179,370
+|{{party shading/Republican}}|48.93%
+|{{party shading/Democratic}}|7,821
+|{{party shading/Democratic}}|2.14%
+|{{party shading/Democratic}}|366,561
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Fulton County, Ohio|Fulton]]
+|{{party shading/Democratic}}|7,607
+|{{party shading/Democratic}}|47.87%
+|{{party shading/Republican}}|8,283
+|{{party shading/Republican}}|52.13%
+|{{party shading/Republican}}| -676
+|{{party shading/Republican}}| -4.26%
+|{{party shading/Republican}}|15,890
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Gallia County, Ohio|Gallia]]
+|{{party shading/Democratic}}|4,181
+|{{party shading/Democratic}}|42.73%
+|{{party shading/Republican}}|5,604
+|{{party shading/Republican}}|57.27%
+|{{party shading/Republican}}| -1,423
+|{{party shading/Republican}}| -14.54%
+|{{party shading/Republican}}|9,785
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Geauga County, Ohio|Geauga]]
+|{{party shading/Democratic}}|18,361
+|{{party shading/Democratic}}|47.14%
+|{{party shading/Republican}}|20,587
+|{{party shading/Republican}}|52.86%
+|{{party shading/Republican}}| -2,226
+|{{party shading/Republican}}| -5.72%
+|{{party shading/Republican}}|38,948
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Greene County, Ohio|Greene]]
+|{{party shading/Democratic}}|23,347
+|{{party shading/Democratic}}|40.67%
+|{{party shading/Republican}}|34,054
+|{{party shading/Republican}}|59.33%
+|{{party shading/Republican}}| -10,707
+|{{party shading/Republican}}| -18.66%
+|{{party shading/Republican}}|57,401
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Guernsey County, Ohio|Guernsey]]
+|{{party shading/Democratic}}|6,837
+|{{party shading/Democratic}}|52.55%
+|{{party shading/Republican}}|6,174
+|{{party shading/Republican}}|47.45%
+|{{party shading/Democratic}}|663
+|{{party shading/Democratic}}|5.10%
+|{{party shading/Democratic}}|13,011
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Hamilton County, Ohio|Hamilton]]
+|{{party shading/Democratic}}|133,075
+|{{party shading/Democratic}}|47.24%
+|{{party shading/Republican}}|148,647
+|{{party shading/Republican}}|52.76%
+|{{party shading/Republican}}| -15,572
+|{{party shading/Republican}}| -5.52%
+|{{party shading/Republican}}|281,722
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Hancock County, Ohio|Hancock]]
+|{{party shading/Democratic}}|10,077
+|{{party shading/Democratic}}|40.86%
+|{{party shading/Republican}}|14,584
+|{{party shading/Republican}}|59.14%
+|{{party shading/Republican}}| -4,507
+|{{party shading/Republican}}| -18.28%
+|{{party shading/Republican}}|24,661
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Hardin County, Ohio|Hardin]]
+|{{party shading/Democratic}}|4,405
+|{{party shading/Democratic}}|46.93%
+|{{party shading/Republican}}|4,981
+|{{party shading/Republican}}|53.07%
+|{{party shading/Republican}}| -576
+|{{party shading/Republican}}| -6.14%
+|{{party shading/Republican}}|9,386
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Harrison County, Ohio|Harrison]]
+|{{party shading/Democratic}}|3,479
+|{{party shading/Democratic}}|59.39%
+|{{party shading/Republican}}|2,379
+|{{party shading/Republican}}|40.61%
+|{{party shading/Democratic}}|1,100
+|{{party shading/Democratic}}|18.78%
+|{{party shading/Democratic}}|5,858
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Henry County, Ohio|Henry]]
+|{{party shading/Democratic}}|5,157
+|{{party shading/Democratic}}|46.30%
+|{{party shading/Republican}}|5,982
+|{{party shading/Republican}}|53.70%
+|{{party shading/Republican}}| -825
+|{{party shading/Republican}}| -7.40%
+|{{party shading/Republican}}|11,139
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Highland County, Ohio|Highland]]
+|{{party shading/Democratic}}|5,589
+|{{party shading/Democratic}}|44.80%
+|{{party shading/Republican}}|6,886
+|{{party shading/Republican}}|55.20%
+|{{party shading/Republican}}| -1,297
+|{{party shading/Republican}}| -10.40%
+|{{party shading/Republican}}|12,475
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Hocking County, Ohio|Hocking]]
+|{{party shading/Democratic}}|5,190
+|{{party shading/Democratic}}|54.03%
+|{{party shading/Republican}}|4,414
+|{{party shading/Republican}}|45.97%
+|{{party shading/Democratic}}|776
+|{{party shading/Democratic}}|8.06%
+|{{party shading/Democratic}}|9,604
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Holmes County, Ohio|Holmes]]
+|{{party shading/Democratic}}|2,811
+|{{party shading/Democratic}}|36.44%
+|{{party shading/Republican}}|4,902
+|{{party shading/Republican}}|63.56%
+|{{party shading/Republican}}| -2,091
+|{{party shading/Republican}}| -27.12%
+|{{party shading/Republican}}|7,713
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Huron County, Ohio|Huron]]
+|{{party shading/Democratic}}|9,647
+|{{party shading/Democratic}}|53.95%
+|{{party shading/Republican}}|8,236
+|{{party shading/Republican}}|46.05%
+|{{party shading/Democratic}}|1,411
+|{{party shading/Democratic}}|7.90%
+|{{party shading/Democratic}}|17,883
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Jackson County, Ohio|Jackson]]
+|{{party shading/Democratic}}|4,366
+|{{party shading/Democratic}}|46.80%
+|{{party shading/Republican}}|4,963
+|{{party shading/Republican}}|53.20%
+|{{party shading/Republican}}| -597
+|{{party shading/Republican}}| -6.40%
+|{{party shading/Republican}}|9,329
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Jefferson County, Ohio|Jefferson]]
+|{{party shading/Democratic}}|16,006
+|{{party shading/Democratic}}|64.47%
+|{{party shading/Republican}}|8,821
+|{{party shading/Republican}}|35.53%
+|{{party shading/Democratic}}|7,185
+|{{party shading/Democratic}}|28.94%
+|{{party shading/Democratic}}|24,827
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Knox County, Ohio|Knox]]
+|{{party shading/Democratic}}|8,648
+|{{party shading/Democratic}}|42.03%
+|{{party shading/Republican}}|11,927
+|{{party shading/Republican}}|57.97%
+|{{party shading/Republican}}| -3,279
+|{{party shading/Republican}}| -15.94%
+|{{party shading/Republican}}|20,575
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Lake County, Ohio|Lake]]
+|{{party shading/Democratic}}|46,319
+|{{party shading/Democratic}}|53.26%
+|{{party shading/Republican}}|40,646
+|{{party shading/Republican}}|46.74%
+|{{party shading/Democratic}}|5,673
+|{{party shading/Democratic}}|6.52%
+|{{party shading/Democratic}}|86,965
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Lawrence County, Ohio|Lawrence]]
+|{{party shading/Democratic}}|9,546
+|{{party shading/Democratic}}|53.80%
+|{{party shading/Republican}}|8,196
+|{{party shading/Republican}}|46.20%
+|{{party shading/Democratic}}|1,350
+|{{party shading/Democratic}}|7.60%
+|{{party shading/Democratic}}|17,742
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Licking County, Ohio|Licking]]
+|{{party shading/Democratic}}|25,559
+|{{party shading/Democratic}}|43.85%
+|{{party shading/Republican}}|32,727
+|{{party shading/Republican}}|56.15%
+|{{party shading/Republican}}| -7,168
+|{{party shading/Republican}}| -12.30%
+|{{party shading/Republican}}|58,286
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Logan County, Ohio|Logan]]
+|{{party shading/Democratic}}|6,306
+|{{party shading/Democratic}}|39.41%
+|{{party shading/Republican}}|9,697
+|{{party shading/Republican}}|60.59%
+|{{party shading/Republican}}| -3,391
+|{{party shading/Republican}}| -21.18%
+|{{party shading/Republican}}|16,003
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Lorain County, Ohio|Lorain]]
+|{{party shading/Democratic}}|58,880
+|{{party shading/Democratic}}|59.76%
+|{{party shading/Republican}}|39,642
+|{{party shading/Republican}}|40.24%
+|{{party shading/Democratic}}|19,238
+|{{party shading/Democratic}}|19.52%
+|{{party shading/Democratic}}|98,522
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Lucas County, Ohio|Lucas]]
+|{{party shading/Democratic}}|82,729
+|{{party shading/Democratic}}|64.05%
+|{{party shading/Republican}}|46,441
+|{{party shading/Republican}}|35.95%
+|{{party shading/Democratic}}|36,288
+|{{party shading/Democratic}}|28.10%
+|{{party shading/Democratic}}|129,170
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Madison County, Ohio|Madison]]
+|{{party shading/Democratic}}|4,972
+|{{party shading/Democratic}}|36.95%
+|{{party shading/Republican}}|8,484
+|{{party shading/Republican}}|63.05%
+|{{party shading/Republican}}| -3,512
+|{{party shading/Republican}}| -26.10%
+|{{party shading/Republican}}|13,456
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Mahoning County, Ohio|Mahoning]]
+|{{party shading/Democratic}}|69,034
+|{{party shading/Democratic}}|74.27%
+|{{party shading/Republican}}|23,916
+|{{party shading/Republican}}|25.73%
+|{{party shading/Democratic}}|45,118
+|{{party shading/Democratic}}|48.54%
+|{{party shading/Democratic}}|92,950
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Marion County, Ohio|Marion]]
+|{{party shading/Democratic}}|9,947
+|{{party shading/Democratic}}|46.97%
+|{{party shading/Republican}}|11,233
+|{{party shading/Republican}}|53.03%
+|{{party shading/Republican}}| -1,286
+|{{party shading/Republican}}| -6.06%
+|{{party shading/Republican}}|21,180
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Medina County, Ohio|Medina]]
+|{{party shading/Democratic}}|31,768
+|{{party shading/Democratic}}|50.09%
+|{{party shading/Republican}}|31,652
+|{{party shading/Republican}}|49.91%
+|{{party shading/Democratic}}|116
+|{{party shading/Democratic}}|0.18%
+|{{party shading/Democratic}}|63,420
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Meigs County, Ohio|Meigs]]
+|{{party shading/Democratic}}|3,591
+|{{party shading/Democratic}}|47.67%
+|{{party shading/Republican}}|3,942
+|{{party shading/Republican}}|52.33%
+|{{party shading/Republican}}| -351
+|{{party shading/Republican}}| -4.66%
+|{{party shading/Republican}}|7,533
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Mercer County, Ohio|Mercer]]
+|{{party shading/Democratic}}|5,488
+|{{party shading/Democratic}}|36.69%
+|{{party shading/Republican}}|9,470
+|{{party shading/Republican}}|63.31%
+|{{party shading/Republican}}| -3,982
+|{{party shading/Republican}}| -26.62%
+|{{party shading/Republican}}|14,958
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Miami County, Ohio|Miami]]
+|{{party shading/Democratic}}|14,064
+|{{party shading/Democratic}}|41.62%
+|{{party shading/Republican}}|19,728
+|{{party shading/Republican}}|58.38%
+|{{party shading/Republican}}| -5,664
+|{{party shading/Republican}}| -16.76%
+|{{party shading/Republican}}|33,792
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Monroe County, Ohio|Monroe]]
+|{{party shading/Democratic}}|4,029
+|{{party shading/Democratic}}|69.24%
+|{{party shading/Republican}}|1,790
+|{{party shading/Republican}}|30.76%
+|{{party shading/Democratic}}|2,239
+|{{party shading/Democratic}}|38.48%
+|{{party shading/Democratic}}|5,819
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Montgomery County, Ohio|Montgomery]]
+|{{party shading/Democratic}}|88,537
+|{{party shading/Democratic}}|49.47%
+|{{party shading/Republican}}|90,421
+|{{party shading/Republican}}|50.53%
+|{{party shading/Republican}}| -1,884
+|{{party shading/Republican}}| -1.06%
+|{{party shading/Republican}}|178,958
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Morgan County, Ohio|Morgan]]
+|{{party shading/Democratic}}|2,487
+|{{party shading/Democratic}}|49.16%
+|{{party shading/Republican}}|2,572
+|{{party shading/Republican}}|50.84%
+|{{party shading/Republican}}| -85
+|{{party shading/Republican}}| -1.68%
+|{{party shading/Republican}}|5,059
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Morrow County, Ohio|Morrow]]
+|{{party shading/Democratic}}|5,340
+|{{party shading/Democratic}}|43.81%
+|{{party shading/Republican}}|6,850
+|{{party shading/Republican}}|56.19%
+|{{party shading/Republican}}| -1,510
+|{{party shading/Republican}}| -12.38%
+|{{party shading/Republican}}|12,190
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Muskingum County, Ohio|Muskingum]]
+|{{party shading/Democratic}}|13,935
+|{{party shading/Democratic}}|49.79%
+|{{party shading/Republican}}|14,050
+|{{party shading/Republican}}|50.21%
+|{{party shading/Republican}}| -115
+|{{party shading/Republican}}| -0.42%
+|{{party shading/Republican}}|27,985
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Noble County, Ohio|Noble]]
+|{{party shading/Democratic}}|2,458
+|{{party shading/Democratic}}|48.96%
+|{{party shading/Republican}}|2,563
+|{{party shading/Republican}}|51.04%
+|{{party shading/Republican}}| -105
+|{{party shading/Republican}}| -2.08%
+|{{party shading/Republican}}|5,021
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Ottawa County, Ohio|Ottawa]]
+|{{party shading/Democratic}}|9,741
+|{{party shading/Democratic}}|55.63%
+|{{party shading/Republican}}|7,768
+|{{party shading/Republican}}|44.37%
+|{{party shading/Democratic}}|1,973
+|{{party shading/Democratic}}|11.26%
+|{{party shading/Democratic}}|17,509
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Paulding County, Ohio|Paulding]]
+|{{party shading/Democratic}}|3,457
+|{{party shading/Democratic}}|46.95%
+|{{party shading/Republican}}|3,906
+|{{party shading/Republican}}|53.05%
+|{{party shading/Republican}}| -449
+|{{party shading/Republican}}| -6.10%
+|{{party shading/Republican}}|7,363
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Perry County, Ohio|Perry]]
+|{{party shading/Democratic}}|6,220
+|{{party shading/Democratic}}|56.43%
+|{{party shading/Republican}}|4,803
+|{{party shading/Republican}}|43.57%
+|{{party shading/Democratic}}|1,417
+|{{party shading/Democratic}}|12.86%
+|{{party shading/Democratic}}|11,023
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Pickaway County, Ohio|Pickaway]]
+|{{party shading/Democratic}}|7,736
+|{{party shading/Democratic}}|43.61%
+|{{party shading/Republican}}|10,005
+|{{party shading/Republican}}|56.39%
+|{{party shading/Republican}}| -2,269
+|{{party shading/Republican}}| -12.78%
+|{{party shading/Republican}}|17,741
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Pike County, Ohio|Pike]]
+|{{party shading/Democratic}}|4,938
+|{{party shading/Democratic}}|58.72%
+|{{party shading/Republican}}|3,471
+|{{party shading/Republican}}|41.28%
+|{{party shading/Democratic}}|1,467
+|{{party shading/Democratic}}|17.44%
+|{{party shading/Democratic}}|8,409
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Portage County, Ohio|Portage]]
+|{{party shading/Democratic}}|31,625
+|{{party shading/Democratic}}|58.92%
+|{{party shading/Republican}}|22,048
+|{{party shading/Republican}}|41.08%
+|{{party shading/Democratic}}|9,577
+|{{party shading/Democratic}}|17.84%
+|{{party shading/Democratic}}|53,673
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Preble County, Ohio|Preble]]
+|{{party shading/Democratic}}|6,714
+|{{party shading/Democratic}}|43.45%
+|{{party shading/Republican}}|8,738
+|{{party shading/Republican}}|56.55%
+|{{party shading/Republican}}| -2,024
+|{{party shading/Republican}}| -13.10%
+|{{party shading/Republican}}|15,452
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Putnam County, Ohio|Putnam]]
+|{{party shading/Democratic}}|5,975
+|{{party shading/Democratic}}|42.99%
+|{{party shading/Republican}}|7,924
+|{{party shading/Republican}}|57.01%
+|{{party shading/Republican}}| -1,949
+|{{party shading/Republican}}| -14.02%
+|{{party shading/Republican}}|13,899
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Richland County, Ohio|Richland]]
+|{{party shading/Democratic}}|22,657
+|{{party shading/Democratic}}|50.81%
+|{{party shading/Republican}}|21,931
+|{{party shading/Republican}}|49.19%
+|{{party shading/Democratic}}|726
+|{{party shading/Democratic}}|1.62%
+|{{party shading/Democratic}}|44,588
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Ross County, Ohio|Scioto]]
+|{{party shading/Democratic}}|11,832
+|{{party shading/Democratic}}|50.74%
+|{{party shading/Republican}}|11,487
+|{{party shading/Republican}}|49.26%
+|{{party shading/Democratic}}|345
+|{{party shading/Democratic}}|1.48%
+|{{party shading/Democratic}}|23,319
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Sandusky County, Ohio|Sandusky]]
+|{{party shading/Democratic}}|11,680
+|{{party shading/Democratic}}|53.86%
+|{{party shading/Republican}}|10,005
+|{{party shading/Republican}}|46.14%
+|{{party shading/Democratic}}|1,675
+|{{party shading/Democratic}}|7.72%
+|{{party shading/Democratic}}|21,685
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Scioto County, Ohio|Scioto]]
+|{{party shading/Democratic}}|14,342
+|{{party shading/Democratic}}|56.21%
+|{{party shading/Republican}}|11,173
+|{{party shading/Republican}}|43.79%
+|{{party shading/Democratic}}|3,169
+|{{party shading/Democratic}}|12.42%
+|{{party shading/Democratic}}|25,515
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Seneca County, Ohio|Seneca]]
+|{{party shading/Democratic}}|10,943
+|{{party shading/Democratic}}|54.73%
+|{{party shading/Republican}}|9,053
+|{{party shading/Republican}}|45.27%
+|{{party shading/Democratic}}|1,890
+|{{party shading/Democratic}}|9.46%
+|{{party shading/Democratic}}|19,996
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Shelby County, Ohio|Shelby]]
+|{{party shading/Democratic}}|6,646
+|{{party shading/Democratic}}|41.02%
+|{{party shading/Republican}}|9,556
+|{{party shading/Republican}}|58.98%
+|{{party shading/Republican}}| -2,910
+|{{party shading/Republican}}| -17.96%
+|{{party shading/Republican}}|16,202
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Stark County, Ohio|Stark]]
+|{{party shading/Democratic}}|75,584
+|{{party shading/Democratic}}|55.17%
+|{{party shading/Republican}}|61,424
+|{{party shading/Republican}}|44.83%
+|{{party shading/Democratic}}|14,160
+|{{party shading/Democratic}}|10.34%
+|{{party shading/Democratic}}|137,008
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Summit County, Ohio|Summit]]
+|{{party shading/Democratic}}|114,859
+|{{party shading/Democratic}}|58.82%
+|{{party shading/Republican}}|80,427
+|{{party shading/Republican}}|41.18%
+|{{party shading/Democratic}}|34,432
+|{{party shading/Democratic}}|17.64%
+|{{party shading/Democratic}}|195,286
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Trumbull County, Ohio|Trumbull]]
+|{{party shading/Democratic}}|58,913
+|{{party shading/Democratic}}|74.86%
+|{{party shading/Republican}}|19,783
+|{{party shading/Republican}}|25.24%
+|{{party shading/Democratic}}|39,130
+|{{party shading/Democratic}}|49.62%
+|{{party shading/Democratic}}|78,696
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Tuscarawas County, Ohio|Tuscarawas]]
+|{{party shading/Democratic}}|16,441
+|{{party shading/Democratic}}|54.41%
+|{{party shading/Republican}}|13,776
+|{{party shading/Republican}}|45.59%
+|{{party shading/Democratic}}|2,665
+|{{party shading/Democratic}}|8.82%
+|{{party shading/Democratic}}|30,217
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Union County, Ohio|Union]]
+|{{party shading/Democratic}}|5,890
+|{{party shading/Democratic}}|35.19%
+|{{party shading/Republican}}|10,849
+|{{party shading/Republican}}|64.81%
+|{{party shading/Republican}}| -4,959
+|{{party shading/Republican}}| -29.62%
+|{{party shading/Republican}}|16,739
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Van Wert County, Ohio|Van Wert]]
+|{{party shading/Democratic}}|3,958
+|{{party shading/Democratic}}|38.50%
+|{{party shading/Republican}}|6,323
+|{{party shading/Republican}}|61.50%
+|{{party shading/Republican}}| -2,365
+|{{party shading/Republican}}| -23.00%
+|{{party shading/Republican}}|10,281
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Vinton County, Ohio|Vinton]]
+|{{party shading/Democratic}}|2,212
+|{{party shading/Democratic}}|50.84%
+|{{party shading/Republican}}|2,139
+|{{party shading/Republican}}|49.16%
+|{{party shading/Democratic}}|73
+|{{party shading/Democratic}}|1.68%
+|{{party shading/Democratic}}|4,351
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Warren County, Ohio|Warren]]
+|{{party shading/Democratic}}|24,122
+|{{party shading/Democratic}}|35.53%
+|{{party shading/Republican}}|43,773
+|{{party shading/Republican}}|64.47%
+|{{party shading/Republican}}| -19,651
+|{{party shading/Republican}}| -28.94%
+|{{party shading/Republican}}|67,895
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Washington County, Ohio|Washington]]
+|{{party shading/Democratic}}|10,542
+|{{party shading/Democratic}}|48.43%
+|{{party shading/Republican}}|11,227
+|{{party shading/Republican}}|51.57%
+|{{party shading/Republican}}| -685
+|{{party shading/Republican}}| -3.14%
+|{{party shading/Republican}}|21,769
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Wayne County, Ohio|Wayne]]
+|{{party shading/Democratic}}|16,915
+|{{party shading/Democratic}}|45.60%
+|{{party shading/Republican}}|20,178
+|{{party shading/Republican}}|54.40%
+|{{party shading/Republican}}| -3,263
+|{{party shading/Republican}}| -8.80%
+|{{party shading/Republican}}|37,093
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Williams County, Ohio|Williams]]
+|{{party shading/Democratic}}|6,477
+|{{party shading/Democratic}}|50.38%
+|{{party shading/Republican}}|6,380
+|{{party shading/Republican}}|49.62%
+|{{party shading/Democratic}}|97
+|{{party shading/Democratic}}|0.76%
+|{{party shading/Democratic}}|12,857
+|- style="text-align:center;"
+|{{party shading/Democratic}}|[[Wood County, Ohio|Wood]]
+|{{party shading/Democratic}}|23,401
+|{{party shading/Democratic}}|51.47%
+|{{party shading/Republican}}|22,065
+|{{party shading/Republican}}|48.53%
+|{{party shading/Democratic}}|1,336
+|{{party shading/Democratic}}|2.94%
+|{{party shading/Democratic}}|45,466
+|- style="text-align:center;"
+|{{party shading/Republican}}|[[Wyandot County, Ohio|Wyandot]]
+|{{party shading/Democratic}}|3,858
+|{{party shading/Democratic}}|47.87%
+|{{party shading/Republican}}|4,201
+|{{party shading/Republican}}|52.13%
+|{{party shading/Republican}}| -343
+|{{party shading/Republican}}| -4.26%
+|{{party shading/Republican}}|8,059
+|- style="text-align:center;"
+!Totals
+!2,035,825
+!52.61%
+!1,833,846
+!47.39%
+!201,979
+!5.22%
+!3,869,671
+|}
+
+== See also ==
+* [[2006 United States elections]]
+
+== References ==
+
+{{reflist}}
+
+== External links ==
+'''Official campaign websites (archived)'''
+*[https://web.archive.org/web/20061105110144/http://www.dannforohio.com/welcome.php Marc Dann (D) for Ohio Attorney General]
+*[https://web.archive.org/web/20061028071452/http://bettymontgomery.com/index.cfm Betty Montgomery (R) for Ohio Attorney General]
+
+{{2006 United States elections}}
+
+[[Category:2006 elections in Ohio]]
+[[Category:Ohio Attorney General elections]]
+[[Category:2006 United States state attorney general elections|Ohio Attorney General election]]

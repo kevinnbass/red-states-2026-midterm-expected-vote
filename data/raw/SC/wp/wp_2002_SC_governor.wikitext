@@ -1,0 +1,259 @@
+{{Short description|none}}
+{{Use American English|date=January 2025}}
+<!-- "none" is preferred when the title is already sufficiently detailed; see [[WP:SDNONE]] -->
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name      = 2002 South Carolina gubernatorial election
+| country            = South Carolina
+| type               = presidential
+| ongoing            = no
+| previous_election  = 1998 South Carolina gubernatorial election
+| previous_year      = 1998
+| next_election      = 2006 South Carolina gubernatorial election
+| next_year          = 2006
+| election_date      = November 5, 2002
+| image1             = File:Mark Sanford, Congressional photo.jpg
+| image_size = 150x150px
+| nominee1           = '''[[Mark Sanford]]'''
+| party1             = Republican Party (United States)
+| popular_vote1      = '''585,422'''
+| percentage1        =  '''52.85%'''
+| image2             = Image:Portrait of Jim Hodges.jpg
+| nominee2           = [[Jim Hodges]]
+| party2             = Democratic Party (United States)
+| popular_vote2      = 521,140	
+| percentage2        = 47.05%
+| map_image          = 2002 South Carolina gubernatorial election results map by county.svg
+| map_size           = 230px
+| map_caption        = County results<br />'''Sanford''': {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}}<br />'''Hodges''': {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584cde|70–80%}}
+| title              = Governor
+| before_election    = [[Jim Hodges]]
+| before_party       = Democratic Party (United States)
+| after_election     = [[Mark Sanford]]
+| after_party        = Republican Party (United States)
+}}
+{{ElectionsSC}}
+The '''2002 South Carolina gubernatorial election''' was held on November 5, 2002, to select the [[Governor of South Carolina|governor]] of the state of [[South Carolina]]. [[Mark Sanford]], the [[Republican Party (United States)|Republican]] nominee, defeated incumbent [[Democratic Party (United States)|Democratic]] governor [[Jim Hodges]] to become the [[List of governors of South Carolina|115th governor]] of South Carolina. Hodges became only the third incumbent governor and the first Democratic governor in South Carolina history to lose re-election. With Sanford's election, Republicans won a trifecta in the state for the first time since 1877.
+
+==Democratic primary==
+[[Governor of South Carolina|Governor]] [[Jim Hodges]] faced no opposition from [[South Carolina Democratic Party|South Carolina Democrats]] and avoided a [[Partisan primary|primary election]].
+
+==Republican primary==
+The [[South Carolina Republican Party]] held their [[Partisan primary|primary]] on June 11, 2002, and the runoff on June 25, 2002. The contest became a race between [[Lieutenant Governor of South Carolina|Lieutenant Governor]] [[Bob Peeler]] from [[the Upstate]] and [[Mark Sanford]], a former [[United States House of Representatives|representative]] of the [[South Carolina's 1st congressional district|1st congressional district]] in the [[South Carolina Low Country|Lowcountry]]. Sanford received the support of the candidates eliminated from the runoff election and easily defeated Peeler.
+
+{{Election box begin no change
+| title = Republican primary results<ref name="scv1">{{cite web |url=http://www.scvotes.org/statistics/election_returns_from_primaries_and_general_elections_statewide |title=Election Returns from Primaries and General Elections (Statewide): &#124; SCVotes.org |access-date=2010-10-31 |url-status=dead |archive-url=https://web.archive.org/web/20101103130944/http://www.scvotes.org/statistics/election_returns_from_primaries_and_general_elections_statewide |archive-date=2010-11-03 }}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Mark Sanford
+| party = Republican Party (United States)
+| votes = 122,143
+| percentage = 38.62
+}}
+{{Election box winning candidate with party link no change
+| candidate = Bob Peeler
+| party = Republican Party (United States)
+| votes = 119,026
+| percentage = 37.64
+}}
+{{Election box candidate with party link no change
+| candidate = [[Charlie Condon]]
+| party = Republican Party (United States)
+| votes = 49,469
+| percentage = 15.64
+}}
+{{Election box candidate with party link no change
+| candidate = Ken Wingate
+| party = Republican Party (United States)
+| votes = 12,366
+| percentage = 3.91
+}}
+{{Election box candidate with party link no change
+| candidate = [[Jim Miles (politician)|Jim Miles]]
+| party = Republican Party (United States)
+| votes = 8,566
+| percentage = 2.71
+}}
+{{Election box candidate with party link no change
+| candidate = Reb Sutherland
+| party = Republican Party (United States)
+| votes = 2,770
+| percentage = 0.88
+}}
+{{Election box candidate with party link no change
+| candidate = Bill Branton
+| party = Republican Party (United States)
+| votes = 1,915
+| percentage = 0.61
+}}
+{{Election box total no change
+| votes = 316,255
+| percentage = 100
+}}
+{{Election box end}}
+
+{{Election box begin no change
+| title = Republican primary runoff results<ref name="scv1"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Mark Sanford
+| party = Republican Party (United States)
+| votes = 183,820
+| percentage = 60.13
+}}
+{{Election box candidate with party link no change
+| candidate = Bob Peeler
+| party = Republican Party (United States)
+| votes = 121,881
+| percentage = 39.87
+}}
+{{Election box total no change
+| votes = 305,701
+| percentage = 100
+}}
+{{Election box end}}
+
+==General election==
+
+===Predictions===
+{| class="wikitable"
+!Source
+!Ranking
+!As of
+|-
+|[[The Cook Political Report]]<ref>{{Cite web|url=http://www.cookpolitical.com:80/display.cfm?section=political&edit_id=225|archive-url=https://web.archive.org/web/20021208065752/http://www.cookpolitical.com/display.cfm?section=political&edit_id=225|archive-date=December 8, 2002|title=Governor Updated October 31, 2002 {{!}} The Cook Political Report|website=The Cook Political Report|language=en|date=October 31, 2002|access-date=September 18, 2018|url-status=dead|df=mdy-all}}</ref>
+| {{USRaceRating|Tossup}}
+|October 31, 2002
+|-
+|[[Sabato's Crystal Ball]]<ref>{{Cite web|url=http://www.centerforpolitics.org:80/crystalball/governor_all.htm|archive-url=https://web.archive.org/web/20021212142349/http://www.centerforpolitics.org/crystalball/governor_all.htm|archive-date=December 12, 2002|title=Governors Races|website=www.centerforpolitics.org|language=en-US|date=November 4, 2002|access-date=September 18, 2018|url-status=dead|df=mdy-all}}</ref>
+| {{USRaceRating|Lean|R|Flip}}
+|November 4, 2002
+|}
+
+===Polling===
+{| class="wikitable" style="font-size:90%"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=key|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />{{nowrap|of error}}
+! style="width:100px;"| Jim<br />Hodges (D)
+! style="width:100px;"| Mark<br />Sanford (R)
+! Other /<br />Undecided
+|-
+|[[SurveyUSA]]<ref>[https://www.surveyusa.com/2002Elec.html SurveyUSA]</ref>
+| align=center| November 1–3, 2002
+| align=center| 764 (LV)
+| align=center| ± 3.6%
+| {{party shading/Democratic}} align=center| '''52%'''
+| align=center| 46%
+| align=center| 2%
+|}
+
+===Results===
+The general election was held on November 5, 2002, and Mark Sanford was elected as the next [[governor of South Carolina]]. [[Voter turnout|Turnout]] was higher than in the previous gubernatorial election because of the competitive nature of the race between the two parties. Activist and author [[Kevin Alexander Gray]] was a gubernatorial candidate representing the South Carolina [[United Citizens Party|United Citizens’ Party]] & [[Green Party (United States)|Green Party]]. He did not have the required signatures to be on the ballot, and consequently ran as a write-in candidate.<ref>O'Cain, Susan (July 16, 2002). "Gray to run as write in candidate". ''WLTX-TV''. Retrieved June 1, 2023.</ref>
+
+{{align|right|{{Switcher|[[File:1998-2002 South Carolina gubernatorial election swing by margin.svg|300px]]|Swing by county
+<br />{{collapsible list| title = Legend
+|{{legend|#00a1c8|Democratic —+30−40%}}
+|{{legend|#00bdec|Democratic —+25−30%}}
+|{{legend|#09ceff|Democratic—+20%−25%}}
+|{{legend|#4bdbff|Democratic—+15-20%}}
+|{{legend|#77e3ff|Democratic—+10-15%}}
+|{{legend|#AAEEFF|Democratic—+5-10%}}
+|{{legend|#D5F6FF|Democratic—+<5%}}
+|{{legend|#FFD5D5|Republican—+<5%}}
+|{{legend|#FFAAAA|Republican—+5-10%}}
+|{{legend|#FF8080|Republican—+10-15%}}
+|{{legend|#FF5555|Republican—+15-20%}}
+|{{legend|#FF2A2A|Republican—+20-25%}}
+|{{legend|#FF0000|Republican—+25−30%}}
+|{{legend|#D40000|Republican—+30-35%}}
+|{{legend|#b80000|Republican—+35-40%}}}}
+|[[File:County trend in the 2002 South Carolina gubernatorial election.svg|300px]]|Trend relative to the state by county|
+[[File:SC Gov county flips 1998-2002.svg|300px]]|County flips<br>{{collapsible list| title = Legend| {{col-start}}
+{{col-2}}
+'''Democratic'''
+{{legend|#92c5de|Hold}}
+{{col-2}}
+'''Republican'''
+{{legend|#f48882|Hold}}
+{{legend|#ca0120|Flip}}
+{{col-end}}}}}}}}
+
+{{Election box begin | title=South Carolina gubernatorial election, 2002}}
+ {{Election box winning candidate with party link|
+   |party      = Republican Party (United States)
+   |candidate  = [[Mark Sanford]]
+   |votes      = 585,422
+   |percentage = 52.85%
+   |change     = +7.64
+ }}
+ {{Election box candidate with party link|
+   |party      = Democratic Party (United States)
+   |candidate  = [[Jim Hodges]] (incumbent)
+   |votes      = 521,140
+   |percentage = 47.05%
+   |change     = -6.18
+ }}
+{{Election box write-in with party link|
+  |votes      = 1,163
+  |percentage = 0.10%
+  |change     = -0.10
+}}
+{{Election box majority|
+  |votes      = 64,282
+  |percentage = 5.80%
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,107,725
+  |percentage = 54.1% <!--2,047,368 registered voters-->
+  |change     = +1.10
+}}
+|-
+| {{party color cell|Republican Party (United States)}}
+| colspan=5 |[[Republican Party (United States)|Republican]] '''gain''' from [[Democratic Party (United States)|Democratic]]
+|-
+{{Election box end}}
+'''Counties that flipped from Democratic to Republican'''
+*[[Georgetown County, South Carolina|Georgetown]] (largest city: [[Murrells Inlet, South Carolina|Murrells Inlet]])
+*[[Barnwell County, South Carolina|Barnwell]] (largest city: [[Barnwell, South Carolina|Barnwell]])
+*[[Berkeley County, South Carolina|Berkeley]] (largest city: [[Goose Creek, South Carolina|Goose Creek]])
+*[[Horry County, South Carolina|Horry]] (largest town: [[Myrtle Beach, South Carolina|Myrtle Beach]])
+*[[Dorchester County, South Carolina|Dorchester]] (largest city: [[North Charleston, South Carolina|North Charleston]])
+*[[Edgefield County, South Carolina|Edgefield]] (largest city: [[Edgefield, South Carolina|Edgefield]])
+*[[Florence County, South Carolina|Florence]] (largest city: [[Florence, South Carolina|Florence]])
+*[[Greenwood County, South Carolina|Greenwood]] (largest city: [[Greenwood, South Carolina|Greenwood]])
+*[[Kershaw County, South Carolina|Kershaw]] (largest city: [[Camden, South Carolina|Cmaden]])
+*[[Laurens County, South Carolina|Laurens]] (largest city: [[Laurens, South Carolina|Laurens]])
+*[[Newberry County, South Carolina|Newberry]] (largest city: [[Newberry, South Carolina|Newberry]])
+*[[Saluda County, South Carolina|Saluda]] (largest city: [[Saluda, South Carolina|Saluda]])
+
+==See also==
+*[[Governor of South Carolina]]
+*[[List of governors of South Carolina]]
+*[[South Carolina gubernatorial elections]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.sciway.net/hist/governors/hodges.html SCIway biography of Governor James Hovis Hodges]
+*[https://web.archive.org/web/20060913184100/http://www.state.sc.us/scsec/returns.html South Carolina election returns]
+
+{{sequence|
+ prev=[[South Carolina gubernatorial election, 1998|1998]]|
+ list=[[South Carolina gubernatorial elections]]|
+ next=[[South Carolina gubernatorial election, 2006|2006]]
+}}
+{{SCGovElections}}
+{{United States general elections, 2002}}
+
+{{DEFAULTSORT:South Carolina Gubernatorial Election, 2002}}
+[[Category:2002 United States gubernatorial elections]]
+[[Category:South Carolina gubernatorial elections|2002]]
+[[Category:2002 elections in South Carolina]]

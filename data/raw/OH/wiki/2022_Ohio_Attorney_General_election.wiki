@@ -1,0 +1,285 @@
+{{Short description|none}}
+{{for|related races|2022 United States attorney general elections}}
+{{Use American English|date=February 2026}}
+{{use mdy dates|date=May 2022}}
+{{Infobox election
+| election_name = 2022 Ohio Attorney General election
+| country = Ohio
+| type = presidential
+| ongoing = no
+| previous_election = 2018 Ohio Attorney General election
+| previous_year = 2018
+| next_election = 2026 Ohio Attorney General election
+| next_year = 2026
+| election_date = November 8, 2022
+| turnout = 
+| image1 = File:Dave Yost at Federalist Society 1 (cropped).jpg
+| nominee1 = '''[[Dave Yost]]'''
+| party1 = Republican Party (United States)
+| popular_vote1 = '''2,484,753'''
+| percentage1 = '''60.13%'''
+| image2 = 3x4.svg 
+| nominee2 = [[Jeffrey Crossman]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 1,647,644
+| percentage2 = 39.87%
+| map_image = {{switcher |[[File:2022 Ohio attorney general election results map by county.svg|210px]] |County results |[[File:2022 Ohio attorney general election results map by congressional district.svg|210px]] |Congressional district results |[[File:OH Attorney General 2022.svg|210px]] |Precinct results |default=1}}
+| map_size = 200px
+| map_caption = '''Yost:''' {{legend0|#E27F7F|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#D72F30|70–80%}} {{legend0|#C21B18|80–90%}} {{legend0|#A80000|>90%}}<br />'''Crossman:''' {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584cde|70–80%}} {{legend0|#3933e5|80–90%}} {{legend0|#0D0596|>90%}}<br />'''Tie:''' {{legend0|#ae8bb1|50%}} {{legend0|#808080|No votes}}
+| title = [[Ohio Attorney General|Attorney General]]
+| before_election = [[Dave Yost]]
+| before_party = Republican Party (United States)
+| after_election = [[Dave Yost]]
+| after_party = Republican Party (United States)
+}}
+{{ElectionsOH}}
+
+The '''2022 Ohio Attorney General election''' took place on November 8, 2022, to elect the [[Ohio Attorney General|Attorney General]] of the [[U.S. state|state]] of [[Ohio]]. David Yost was re-elected to a second term in a landslide, defeating [[Democratic Party (United States)|Democratic]] opponent [[Jeffrey Crossman]] by a comfortable 20 percentage points. The election coincided with various other [[2022 United States elections|federal]] and [[2022 Ohio elections|state elections]], including that for [[2022 Ohio gubernatorial election|governor of Ohio]].
+
+==Republican primary==
+===Candidates===
+====Nominee====
+* [[Dave Yost]], incumbent attorney general<ref>{{cite web|url=https://www.cleveland.com/open/2021/02/ohio-attorney-general-dave-yost-announces-he-will-run-for-re-election-instead-of-us-senate.html|title=Ohio Attorney General Dave Yost announces he will run for re-election instead of U.S. Senate|work=[[The Plain Dealer]]|last=Richardson|first=Seth A.|date=February 1, 2021|access-date=December 19, 2021}}</ref>
+
+===Endorsements===
+{{Endorsements box
+| title = Dave Yost
+| width = 50em
+| list =
+'''U.S. Executive Branch officials'''
+* [[Donald Trump]], [[List of presidents of the United States|45th]] [[President of the United States]] (2017–2021)<ref name="Trump">{{cite web |title=Endorsement of Attorney General Dave Yost |url=https://www.donaldjtrump.com/news/news-vtagzz3r3p1974 |website=www.donaldjtrump.com |access-date=3 May 2022 |date=29 April 2022 |archive-date=May 3, 2022 |archive-url=https://web.archive.org/web/20220503200658/https://www.donaldjtrump.com/news/news-vtagzz3r3p1974 |url-status=dead }}</ref>
+
+'''Organizations'''
+*[[Ohio Republican Party]]<ref name="OhioGOP">{{Cite web|last=Pelzer|first=Jeremy|date=February 18, 2022|title=Ohio Republican Party endorses Gov. Mike DeWine in GOP primary|url=https://www.cleveland.com/news/2022/02/ohio-republican-party-endorses-gov-mike-dewine-in-gop-primary.html|website=[[The Plain Dealer]]|access-date=February 18, 2022}}</ref>
+}}
+
+===Results===
+{{Election box begin no change|title=Republican primary results<ref name="primary">{{cite news |title=Election Night Reporting |publisher=Ohio Decides |work=Ohio Secretary of State |access-date=May 17, 2022 |url=https://liveresults.ohiosos.gov/}}</ref>}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Dave Yost]] (incumbent)|votes=870,124|percentage=100.00}}
+{{Election box total no change|votes=870,124|percentage=100.00}}
+{{Election box end}}
+
+==Democratic primary==
+===Candidates===
+====Nominee====
+* [[Jeffrey Crossman]], [[Ohio House of Representatives|state representative]] from the 15th district<ref>{{cite web|url=https://www.cleveland.com/news/2021/12/parma-state-rep-jeff-crossman-announces-run-for-ohio-attorney-general.html|title=Parma state Rep. Jeff Crossman announces run for Ohio attorney general|work=[[The Plain Dealer]]|last=Tobias|first=Andrew J.|date=December 16, 2021|access-date=December 19, 2021}}</ref>
+
+===Endorsements===
+{{Endorsements box
+| title = Jeffrey Crossman
+| width = 50em
+| list =
+'''Organizations'''
+*[[Ohio Democratic Party]]<ref name="OhioDems">{{cite web |title=Ohio Democratic Party Executive Committee Votes to Endorse Candidates in Statewide Races |work=Ohio Democratic Party |date=March 16, 2022 |access-date=May 17, 2022 |location=[[Columbus, Ohio]] |url=https://ohiodems.org/ohio-democratic-party-executive-committee-votes-to-endorse-candidates-in-statewide-races/}}</ref>
+*[[Young Democrats of America|Young Democrats]] of [[Portage County, Ohio|Portage County]]<ref name="PortageYoungDems">{{cite news |title=Young Democrats make endorsement in Portage, statewide races |date=March 19, 2022 |access-date=May 17, 2022 |url=https://www.record-courier.com/story/news/2022/03/19/young-dems-make-endorsement-portage-statewide-races/7089883001/}}</ref>
+}}
+
+===Results===
+{{Election box begin no change|title=Democratic primary results<ref name="primary" />}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Jeffrey Crossman]]|votes=433,014|percentage=100.00}}
+{{Election box total no change|votes=433,014|percentage=100.00}}
+{{Election box end}}
+
+==General election==
+=== Predictions ===
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{cite web |title=The Attorneys General: A Dozen Races Dot the Competitive Landscape |url=https://centerforpolitics.org/crystalball/articles/the-attorneys-general-a-dozen-races-dot-the-competitive-landscape/ |website=Sabato's Crystal Ball |date=September 14, 2022 |access-date=September 15, 2022}}</ref>
+|{{USRaceRating|Safe|R}}
+| September 14, 2022
+|-
+| align="left" |[[Elections Daily]]<ref name="Elections Daily">{{cite web |title=Elections Daily Secretary of State Ratings |url=https://elections-daily.com/2022/11/07/elections-daily-secretary-of-state-ratings/ |last=Solomon |first=Zack |website=Elections Daily |date=November 7, 2022 |access-date=November 29, 2022}}</ref>
+|{{USRaceRating|Safe|R}}
+|November 1, 2022
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+| title = Dave Yost (R)
+| width = 50em
+| list =
+'''Organizations'''
+*American Conservative Union<ref>{{cite web |title=The Conservative Political Action Coalition (CPAC) announced its endorsement of Dave Yost for Ohio Attorney General.|url=https://www.conservative.org/2022/07/07/cpac-endorses-dave-yost/ |website=American Conservative Union |date=July 7, 2022 |access-date=7 July 2022}}</ref>
+*NFIB Ohio PAC<ref>{{cite web | title=NFIB Ohio PAC Endorses Yost for 2nd Term as Attorney General. | url=https://www.nfib.com/content/news/ohio/nfib-ohio-pac-endorses-yost-for-2nd-term-as-attorney-general/ |website=NFIB
+|date=July 21, 2022 |access-date=1 June 2024}}</ref>
+
+'''Newspapers'''
+*''[[The Plain Dealer]]''<ref>{{cite web | url=https://www.cleveland.com/opinion/2022/10/dave-yost-for-ohio-attorney-general-endorsement-editorial.html | title=Dave Yost for Ohio attorney general: Endorsement editorial | date=October 30, 2022 }}</ref>
+}}
+=== Polling ===
+'''Graphical summary'''<br />
+{{Graph:Chart
+ | width=700
+ | height=400
+ | xAxisTitle=
+ | yAxisTitle=%support
+ | xAxisAngle = -40
+ | legend=Candidate
+ | interpolate = bundle
+ | size = 77
+ | xType = date
+ | y1Title=Yost
+ | y2Title=Crossman
+ | y3Title=Other/Undecided
+ | type=line
+ |xGrid=
+ | x= 2022/08/16
+ | y1= 53, 55, 54, 59
+ | y2= 37, 33, 29, 35
+ | y3= 10
+ | colors = #E81B23, #3333FF, #DDDDDD
+ | showSymbols = 1
+ | yGrid = true
+ | linewidth = 2.0
+}}
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size
+! Margin<br />of error
+! style="width:100px;"| Dave<br />Yost (R)
+! style="width:100px;"| Jeffrey<br />Crossman (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[The Trafalgar Group]]<ref>[https://www.thetrafalgargroup.org/wp-content/uploads/2022/09/TRF-OH-Gen-Poll-Report-0913.pdf The Trafalgar Group]</ref>
+|August 16–18, 2022
+|1,087 (LV)
+|±&nbsp;2.9%
+|{{party shading/Republican}}|'''53%'''
+|37%
+|
+|10%
+|}
+
+===Results===
+[[File:2022 Ohio Attorney General election by State Senate District.svg|200px|thumb |State Senate district results]] [[File:2022 Ohio Attorney General election by State House District.svg|200px|State House district results|thumb]]
+{{Election box begin |title=2022 Ohio Attorney General election}}
+{{Election box winning candidate with party link
+  |party      = Republican Party (United States)
+  |candidate  = [[Dave Yost]] (incumbent)
+  |votes      = 2,484,753
+  |percentage = 60.13%
+  |change     = +7.97
+}}{{Election box candidate with party link
+  |party      = Democratic Party (United States)
+  |candidate  = [[Jeffrey Crossman]]
+  |votes      = 1,647,644
+  |percentage = 39.87%
+  |change     = -7.97
+}}{{Election box total
+  |votes      = 4,132,397
+  |percentage = 100.00%
+}}
+{{Election box hold with party link no swing
+| winner = Republican Party (United States)
+}}
+{{Election box end}}
+
+====By congressional district====
+Yost won 13 of 15 congressional districts, including three that elected Democrats.<ref>{{cite web | title=Dra 2020 | url=https://davesredistricting.org/maps#viewmap::64d56870-70ea-4f4d-b667-9a4fd60ac511 }}</ref>
+{|class=wikitable sortable
+! District
+! Yost
+! Crossman
+! Representative
+|- align=center
+! rowspan=2 {{party shading/Republican}}|{{ushr|Ohio|1|1st}}
+| rowspan=2|'''52%'''
+| rowspan=2|48%
+| {{party shading/Republican}}|[[Steve Chabot]] ([[117th United States Congress|117th Congress]])
+|- align=center
+| {{party shading/Democratic}}|[[Greg Landsman]] ([[118th United States Congress|118th Congress]])
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|2|2nd}}
+| '''76%'''
+| 24%
+| {{party shading/Republican}}|[[Brad Wenstrup]]
+|- align=center
+! {{party shading/Democratic}}|{{ushr|Ohio|3|3rd}}
+| 35%
+| '''65%'''
+| {{party shading/Democratic}}|[[Joyce Beatty]]
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|4|4th}}
+| '''73%'''
+| 27%
+| {{party shading/Republican}}|[[Jim Jordan]]
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|5|5th}}
+| '''69%'''
+| 31%
+| {{party shading/Republican}}|[[Bob Latta]]
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|6|6th}}
+| '''70%'''
+| 30%
+| {{party shading/Republican}}|[[Bill Johnson (Ohio politician)|Bill Johnson]]
+|- align=center
+! rowspan=2 {{party shading/Republican}}|{{ushr|Ohio|7|7th}}
+| rowspan=2|'''60%'''
+| rowspan=2|40%
+| {{party shading/Republican}}|[[Bob Gibbs]] ([[117th United States Congress|117th Congress]])
+|- align=center
+| {{party shading/Republican}}|[[Max Miller (politician)|Max Miller]] ([[118th United States Congress|118th Congress]])
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|8|8th}}
+| '''67%'''
+| 33%
+| {{party shading/Republican}}|[[Warren Davidson]]
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|9|9th}}
+| '''58%'''
+| 42%
+| {{party shading/Democratic}}|[[Marcy Kaptur]]
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|10|10th}}
+| '''59%'''
+| 41%
+| {{party shading/Republican}}|[[Mike Turner]]
+|- align=center
+! {{party shading/Democratic}}|{{ushr|Ohio|11|11th}}
+| 27%
+| '''73%'''
+| {{party shading/Democratic}}|[[Shontel Brown]]
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|12|12th}}
+| '''71%'''
+| 29%
+| {{party shading/Republican}}|[[Troy Balderson]]
+|- align=center
+! rowspan=2 {{party shading/Republican}}|{{ushr|Ohio|13|13th}}
+| rowspan=2|'''55%'''
+| rowspan=2|45%
+| {{party shading/Democratic}}|[[Tim Ryan (Ohio politician)|Tim Ryan]] ([[117th United States Congress|117th Congress]])
+|- align=center
+| {{party shading/Democratic}}|[[Emilia Sykes]] ([[118th United States Congress|118th Congress]])
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|14|14th}}
+| '''63%'''
+| 37%
+| {{party shading/Republican}}|[[David Joyce (politician)|David Joyce]]
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|15|15th}}
+| '''60%'''
+| 40%
+| {{party shading/Republican}}|[[Mike Carey (politician)|Mike Carey]]
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+'''Official campaign websites'''
+* [https://crossmanforohio.com/ Jeff Crossman (D) for Attorney General]
+* [https://daveyost.com/ Dave Yost (R) for Attorney General]
+
+{{2022 United States elections}}
+
+[[Category:2022 elections in Ohio|Attorney General]]
+[[Category:2022 United States state attorney general elections|Ohio]]
+[[Category:Ohio Attorney General elections]]

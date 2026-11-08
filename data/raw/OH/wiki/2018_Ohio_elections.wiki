@@ -1,0 +1,2444 @@
+{{Short description|none}}
+{{Use American English|date=February 2026}}
+{{Infobox election
+| country = Ohio
+| ongoing = no
+| next_year = [[2020 Ohio elections|2020]]
+| election_date = November 6, 2018
+| previous_year = [[2016 Ohio elections|2016]]
+}}
+
+{{Use mdy dates|date=April 2019}}
+{{Elections in Ohio}}
+The '''2018 Ohio general elections''' were held on November 6, 2018, throughout [[Ohio]].
+
+{{Toclimit|limit=3}}
+
+==Federal==
+===Senate===
+{{Main|2018 United States Senate election in Ohio}}
+Democratic [[United States Senate|U.S. Senator]] [[Sherrod Brown]]—the only elected Democratic statewide officeholder in Ohio as of July 2017<ref>{{cite web|url=http://www.sanduskyregister.com/story/201707280026|title = Only remaining statewide Democrat, Sherrod Brown, behind in polls|website = [[Sandusky Register]]|last = Jackson|first = Tom|date = July 28, 2017}}</ref>—won re-election to a third term, defeating Republican [[United States House of Representatives|U.S. Representative]] [[Jim Renacci]] in the general election.<ref>{{Cite web|url=https://www.cincinnati.com/story/news/politics/2018/11/06/senate-race-ohio-brown-against-renacci/1896046002/|title=Democrat Sherrod Brown defeats Republican Jim Renacci for U.S. Senate seat in Ohio}}</ref>
+
+===House of Representatives===
+{{Main|2018 United States House of Representatives elections in Ohio}}
+
+All of Ohio's 16 seats in the [[United States House of Representatives]] were up for election in 2018.
+
+==Governor and lieutenant governor==
+{{Main|2018 Ohio gubernatorial election}}
+
+Incumbent Republican governor [[John Kasich]] and lieutenant governor [[Mary Taylor (Ohio politician)|Mary Taylor]] were term-limited and could not run for a third consecutive term.
+
+===Results===
+{{Election box begin no change
+| title = Ohio gubernatorial election, 2018
+}}
+{{Election box winning candidate with party link no change
+| candidate  = [[Mike DeWine]] / [[Jon Husted]]
+| party      = Ohio Republican Party 
+| votes      = 2,235,825
+| percentage = 50.40
+}}
+{{Election box candidate with party link no change
+| candidate  = [[Richard Cordray]] / [[Betty Sutton]]
+| party      = Ohio Democratic Party 
+| votes      =  2,070,046
+| percentage = 46.67
+}}
+{{Election box candidate with party link no change
+| candidate  = Travis Irvine / Todd Grayson
+| party      = Libertarian Party (United States)
+| votes      = 80,055
+| percentage = 1.80
+}}
+{{Election box candidate with party link no change
+| candidate  = Constance Gadell-Newton / Brett R. Joseph
+| party      = Green Party (United States)
+| votes      = 49,536
+| percentage = 1.12
+}}
+{{Election box candidate with party link no change
+| candidate  = Write-ins
+| party      = n/a
+| votes      = 358
+| percentage = 0.00
+}}
+{{Election box total no change
+| votes      = 4,435,820
+| percentage = 100.0
+}}
+{{Election box hold with party link no swing
+|winner = Ohio Republican Party
+}}
+{{Election box end}}
+{{Clear}}
+
+==Attorney general==
+{{Main|2018 Ohio Attorney General election}}
+
+Incumbent Republican [[Ohio Attorney General|attorney general]] [[Mike DeWine]] was term-limited and could not run for a third consecutive term.
+
+===Results===
+{{Election box begin no change
+| title = Ohio Attorney General election, 2018
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Dave Yost]]
+| party = Ohio Republican Party
+| votes = 2,276,414
+| percentage = 52.17
+}}
+{{Election box candidate with party link no change
+| candidate = [[Steve Dettelbach]]
+| party = Ohio Democratic Party 
+| votes = 2,086,715
+| percentage = 47.83
+}}
+{{Election box total no change
+| votes = 4,363,129
+| percentage = 100.0
+}}
+{{Election box hold with party link no change|
+  |winner     = Ohio Republican Party
+}}
+{{Election box end}}
+{{Clear}}
+
+==Secretary of state==
+{{Infobox election
+| election_name = 2018 Ohio Secretary of State election
+| country = Ohio
+| type = presidential
+| ongoing = no
+| turnout = 
+| previous_election = 2014 Ohio Secretary of State election
+| previous_year = 2014
+| next_election = 2022 Ohio Secretary of State election
+| next_year = 2022
+| election_date = November 6, 2018
+| image1 = LaRose-6 (cropped).JPG
+| nominee1 = '''[[Frank LaRose]]'''
+| party1 = Republican Party (United States)
+| popular_vote1 = '''2,214,273'''
+| percentage1 = '''50.67%'''
+| image2 = File:Kathleen Clyde (cropped).jpg
+| nominee2 = [[Kathleen Clyde]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 2,052,098
+| percentage2 = 46.96%
+| map_image = {{switcher 
+|[[File:2018 Ohio Secretary of State election results map by county.svg|210px]]
+|County results
+|[[File:2018 Ohio secretary of state election results map by congressional district.svg|210px]]
+|Congressional district results
+|[[File:18ohsos.svg|210px]]
+|Precinct results
+}}
+| map_caption = '''LaRose:''' {{legend0|#FFB2B2|40–50%}} {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#d72f30|70–80%}} {{legend0|#c21b18|80–90%}} {{legend0|#A80000|90%+}}
+
+'''Clyde:''' {{legend0|#a5b0ff|40–50%}} {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584CDE	|70–80%}} {{legend0|#3933E5	|80–90%}} {{legend0|#0D0596|90%+}}
+
+'''Tie:''' {{legend0|#D2B1D9|40–50%}} {{legend0|#808080|No data}}
+| title = [[Ohio Secretary of State|Secretary of State]]
+| before_election = [[Jon Husted]]
+| before_party = Republican Party (United States)
+| after_election = [[Frank LaRose]]
+| after_party = Republican Party (United States)
+}}
+{{main|2018 Ohio Secretary of State election}}
+
+Incumbent Republican [[Ohio Secretary of State|secretary of state]] [[Jon Husted]] was term-limited and could not run for a third consecutive term.
+
+===Republican primary===
+====Candidates====
+=====Declared=====
+* [[Frank LaRose]], state senator<ref name=larose>{{cite web|url=http://www.dispatch.com/news/20170516/ohio-sen-frank-larose-declares-run-for-secretary-of-state|title=Ohio Sen. Frank LaRose declares run for secretary of state|work=The Columbus Dispatch|last=Schladen|first=Marty|date=May 16, 2017|access-date=May 17, 2017}}</ref>
+
+=====Withdrawn=====
+* [[Dorothy Pelanda]], state representative<ref name=dorothypelanda>{{cite web|url=http://www.cleveland.com/politics/index.ssf/2017/03/dorothy_pelanda_to_run_for_ohi.html|title=Dorothy Pelanda to run for Ohio secretary of state|work=The Plain Dealer|last=Gomez|first=Henry J.|date=March 1, 2017|access-date=March 3, 2017}}</ref><ref>{{cite web|url=http://www.cleveland.com/open/index.ssf/2017/10/dorothy_pelanda_ends_campaign.html|title=Dorothy Pelanda ends campaign to become Ohio's secretary of state|date=October 16, 2017|access-date=May 21, 2018}}</ref>
+
+====Results====
+{{Election box begin no change
+| title = Republican primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = Frank LaRose
+| party = Ohio Republican Party
+| votes = 606,697
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 606,697
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Candidates====
+=====Declared=====
+* [[Kathleen Clyde]], state representative<ref name=kathleenclyde>{{cite web|url=http://www.dispatch.com/news/20170516/democrat-kathleen-clyde-declares-for-secretary-of-state|title=Democrat Kathleen Clyde declares for secretary of state|work=The Columbus Dispatch|last=Schladen|first=Marty|date=May 16, 2017|access-date=May 17, 2017}}</ref>
+
+====Results====
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = Kathleen Clyde
+| party = Ohio Democratic Party 
+| votes = 514,959
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 514,959
+| percentage = 100.0 
+}}
+{{Election box end}}
+
+===General election===
+
+==== Predictions ====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+|[[Governing (magazine)|''Governing'']]<ref>{{Cite web |last=Jacobson |first=Louis |date=October 11, 2018 |title=Democrats Maintain the Edge in Secretary of State Races |url=https://www.governing.com/archive/gov-2018-secretary-state-races-elections.html |access-date=October 20, 2025}}</ref>
+|{{USRaceRating|Tossup}}
+|October 11, 2018
+|}
+====Endorsements====
+{{Endorsements box | 
+title = Kathleen Clyde (D) | 
+list = 
+'''U.S. executive branch officials''' 
+* [[Barack Obama]], 44th [[president of the United States]]<ref name="obama tweet1">{{cite tweet |author=[[Barack Obama]] |user=BarackObama |number=1024691241093607425 |date=August 1, 2018 |title=Today I'm proud to endorse such a wide and impressive array of Democratic candidates – leaders as diverse, patriotic, and big-hearted as the America they're running to represent |access-date=August 1, 2018}}</ref>
+
+'''Newspapers'''
+* ''[[Plain Dealer]]''
+}}
+
+{{Endorsements box | 
+title = Frank LaRose (R) | 
+list = 
+'''Organizations'''
+* [[Fraternal Order of Police]] of Ohio<ref>{{cite web|url=https://franklarose.com/larose-announces-fop-ohio-endorsement/|title=LaRose Announces FOP Ohio Endorsement|work=Frank LaRose for Ohio Secretary of State.|access-date=September 6, 2018|archive-url=https://web.archive.org/web/20180907032346/https://franklarose.com/larose-announces-fop-ohio-endorsement/|archive-date=September 7, 2018|url-status=dead}}</ref>
+* Ohio Chamber of Commerce<ref name=lrsyst>{{cite web |author=Rich Thompson |work=Ohio Chamber Blog – All for Ohio |url=http://allforohio.com/2018/08/29/ohio-chamber-backs-yost-for-attorney-general-and-larose-for-secretary-of-state/ |date=August 29, 2018 |title=OHIO CHAMBER BACKS YOST FOR ATTORNEY GENERAL AND LAROSE FOR SECRETARY OF STATE }}</ref>}}
+
+====Polling====
+{| class=wikitable
+|- valign= bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size
+! Margin of<br />error
+! style="width:100px;"|Frank<br />LaRose (R)
+! style="width:100px;"|Kathleen<br />Clyde (D)
+! Undecided
+|-
+|[[Baldwin Wallace University]]<ref name="Baldwin Wallace University">[https://www.bw.edu/Assets/stories/2018/2018-Fall/late_october_survey_report%20final.pdf Baldwin Wallace University]</ref>
+| align=center| October 19–27, 2018
+| align=center| 1,051
+| align=center| ± 3.8%
+| align=center| 33%
+| {{party shading/Democratic}} align=center| '''39%'''
+| align=center| 21%
+|-
+|[[Change Research]] (D-Innovation Ohio)<ref name="Change Research D-Innovation Ohio">[http://innovationohio.org/2018/09/06/new-poll-shows-tied-gubernatorial-race-close-races-up-and-down-the-ballot/ Change Research (D-Innovation Ohio)]</ref>
+| align=center| August 31 – September 4, 2018
+| align=center| 822
+| align=center| ± 3.0%
+| {{party shading/Republican}} align=center| '''42%'''
+| align=center| 40%
+| align=center| 18%
+|-
+|[[Fallon Research]]<ref name="Fallon Research">[https://www.cleveland.com/open/index.ssf/2018/06/new_poll_shows_sherrod_brown_l.html Fallon Research]</ref>
+| align=center| May 21–25, 2018
+| align=center| 800
+| align=center| ± 3.5%
+| {{party shading/Republican}} align=center| '''32%'''
+| align=center| 31%
+| {{party shading/Undecided}} align=center| '''37%'''
+|-
+|[[Public Policy Polling]] (D-ODP)<ref>{{Cite web |url=https://ohiodems.org/ppp-survey-clyde-leading-in-ohio-secretary-of-state-race/ |title=Public Policy Polling (D-ODP) |access-date=May 24, 2018 |archive-date=May 25, 2018 |archive-url=https://web.archive.org/web/20180525132453/https://ohiodems.org/ppp-survey-clyde-leading-in-ohio-secretary-of-state-race/ |url-status=dead }}</ref>
+| align=center| April 25–26, 2018
+| align=center| 770
+| align=center| ± 3.5%
+| align=center| 40%
+| {{party shading/Democratic}} align=center| '''43%'''
+| align=center| 17%
+{{election box end}}
+
+====Results====
+{{Election box begin no change
+| title = Ohio Secretary of State election, 2018
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Frank LaRose]]
+| party = Republican Party (United States)
+| votes = 2,214,273
+| percentage = 50.67
+}}
+{{Election box candidate with party link no change
+| candidate = [[Kathleen Clyde]]
+| party = Democratic Party (United States)
+| votes = 2,052,098
+| percentage = 46.96
+}}
+{{Election box candidate with party link no change
+| candidate = Dustin Nanna
+| party = Libertarian Party (United States)
+| votes = 103,506
+| percentage = 2.37
+}}
+{{Election box candidate with party link no change
+| candidate  = Write-ins
+| party      = n/a
+| votes      = 79
+| percentage = 0.00
+}}
+
+{{Election box total no change
+| votes = 4,369,956
+| percentage = 100.0
+}}
+{{Election box hold with party link no change|
+  |winner     = Ohio Republican Party
+}}
+{{Election box end}}
+
+==Treasurer==
+{{Infobox election
+| election_name = 2018 Ohio State Treasurer election
+| country = Ohio
+| type = presidential
+| ongoing = no
+| turnout = 
+| previous_election = 2014 Ohio elections#Treasurer
+| previous_year = 2014
+| next_election = 2022 Ohio State Treasurer election
+| next_year = 2022
+| election_date = November 6, 2018
+| image1 = File:Rob Portman and Robert Sprague (cropped).jpg
+| nominee1 = '''[[Robert Sprague]]'''
+| party1 = Republican Party (United States)
+| popular_vote1 = '''2,308,425'''
+| percentage1 = '''53.28%'''
+| image2 = [[File:No image.svg|x110px]]
+| nominee2 = Rob Richardson Jr.
+| party2 = Democratic Party (United States)
+| popular_vote2 = 2,024,194
+| percentage2 = 46.72%
+| map_image = {{switcher |[[File:2018 Ohio State Treasurer election results map by county.svg|210px]] |County results |<!-- Please do not remove this map as it shows the correct congressional district results for this election in addition to the concurrent attorney general election -->[[File:2018 Ohio attorney general election results map by congressional district.svg|210px]] |Congressional district results |[[File:18ohtres.svg|210px]] |Precinct results}}
+| map_caption = '''Sprague:''' {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#d72f30|70–80%}} {{legend0|#c21b18|80–90%}} {{legend0|#A80000|90%+}}
+'''Richardson:''' {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584CDE|70–80%}} {{legend0|#3933E5|80–90%}} {{legend0|#0D0596|90%+}}
+'''Tie:''' {{legend0|#AE8BB1|50%}} {{legend0|#808080|No data}}
+| title = [[Ohio State Treasurer|State Treasurer]]
+| before_election = [[Josh Mandel]]
+| before_party = Republican Party (United States)
+| after_election = [[Robert Sprague]]
+| after_party = Republican Party (United States)
+}}
+
+Incumbent Republican [[Ohio State Treasurer|state treasurer]] [[Josh Mandel]] was term-limited and could not run for a third consecutive term.
+
+===Republican primary===
+====Candidates====
+=====Declared=====
+* Sandra "Sandy" O'Brien, former [[Ashtabula County, Ohio|Ashtabula County]] auditor<ref>{{Cite news|url=http://www.cleveland.com/opinion/index.ssf/2017/12/what_to_do_about_bill_oneill_t.html|title=What to do about Ohio Supreme Court Justice Bill O'Neill, the Democratic candidate for governor who declines to step down till January, just one issue in race: Thomas Suddes|work=cleveland.com|access-date=December 11, 2017|language=en-US}}</ref><ref>{{Cite news|url=http://www.cleveland.com/open/index.ssf/2017/12/sandy_obrien_announces_bid_for.html|title=Sandy O'Brien announces bid for Ohio treasurer|work=cleveland.com|access-date=December 11, 2017|language=en-US}}</ref>
+* [[Robert Sprague]], state representative<ref name=robertsprague>{{cite web|url=http://www.dispatch.com/news/20170306/findlay-gop-lawmaker-robert-sprague-enters-ohio-treasurers-race-mingo-likely-will-follow|title=Findlay GOP lawmaker Robert Sprague enters Ohio treasurer's race; Mingo likely will follow|work=The Columbus Dispatch|last=Siegel|first=Jim|date=March 6, 2017|access-date=March 7, 2017}}</ref>
+
+=====Withdrawn=====
+* Clarence Mingo, [[Franklin County, Ohio|Franklin County]] Auditor<ref>{{cite web|url=http://www.cleveland.com/politics/index.ssf/2017/03/franklin_county_auditor_claren.html|title=Franklin County Auditor Clarence Mingo enters Ohio treasurer's race|work=The Plain Dealer|last=Pelzer|first=Jeremy|date=March 30, 2017|access-date=April 2, 2017}}</ref><ref>{{cite news|url=http://www.cleveland.com/politics/index.ssf/2017/10/clarence_mingo_drops_out_of_oh.html|title=Clarence Mingo drops out of Ohio treasurer's race|work=The Plain Dealer|last=Pelzer|first=Jeremy|date=October 17, 2017|access-date=October 25, 2017}}</ref>
+
+=====Declined=====
+* [[Keith Faber]], state representative and former Ohio Senate president (running for state auditor)<ref name=ohiodelegation>{{cite web|url=http://www.toledoblade.com/Politics/2016/07/27/Ohio-delegation-considers-its-options-for-state-offices-Party-officials-look-to-future-of-its-campaigns.html|title=Ohio delegation considers its options for state offices|work=The Plain Dealer|last=Provance|first=Jim|date=July 27, 2016|access-date=December 11, 2016}}</ref><ref name=faberauditor>{{cite web|url=http://www.dispatch.com/news/20170131/keith-faber-confirms-run-for-state-auditor|title=Keith Faber confirms run for state auditor|work=The Columbus Dispatch|last=Ludlow|first=Randy|date=January 31, 2017|access-date=February 2, 2017}}</ref>
+
+====Results====
+{{Election box begin no change
+| title = Republican primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = Robert Sprague
+| party = Ohio Republican Party
+| votes = 412,312
+| percentage = 57.5
+}}
+{{Election box candidate with party link no change
+| candidate = Sandra O'Brien
+| party = Ohio Republican Party 
+| votes = 304,540
+| percentage = 42.5
+}}
+{{Election box total no change
+| votes = 716,852
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Candidates====
+=====Declared=====
+* Rob Richardson Jr., former chair of the [[University of Cincinnati]] board of trustees and candidate for [[List of mayors of Cincinnati|mayor]] of [[Cincinnati]] in [[Cincinnati mayoral election, 2017|2017]]<ref>{{cite web|url=http://www.cincinnati.com/story/news/politics/2017/06/26/richardson-jr-pursues-ohio-treasurer-job/428548001/|title=Rob Richardson Jr. pursues Ohio treasurer job|work=[[The Cincinnati Enquirer]]|last=Coolidge|first=Sharon|date=June 26, 2017|access-date=June 26, 2017}}</ref>
+
+=====Withdrawn=====
+* Neil Patel, president and chairman of the Central Ohio Chapter of the Federation of Indian Associations<ref>{{Cite news|url=http://www.dispatch.com/news/20180126/westerville-democrat-plans-run-for-state-treasurer|title=Westerville Democrat plans run for state treasurer|last=Dispatch|first=Bennett Leckrone The Columbus|work=The Columbus Dispatch|access-date=January 30, 2018|language=en}}</ref>
+
+=====Declined=====
+* Jeremy Blake, [[Newark, Ohio|Newark]] city councilman (running for state representative)<ref>{{cite web|url=http://www.newarkadvocate.com/story/news/local/2017/05/11/newark-councilman-blake-considers-run-ohio-treasurer/101462228/|title=Newark councilman Blake considers run for Ohio treasurer|work=[[The Advocate (Newark)|The Newark Advocate]]|last=DeVito|first=Maria|date=May 11, 2017|access-date=May 11, 2017}}</ref><ref name=jeremyblake>{{cite web|url=http://www.newarkadvocate.com/story/news/local/2017/07/05/newark-city-council-member-jeremy-blake-run-ohio-house-representatives/450914001/|title=Newark City Council member Jeremy Blake to run for Ohio House of Representatives|work=[[The Advocate (Newark)|The Newark Advocate]]|last=DeVito|first=Maria|date=July 5, 2017|access-date=July 12, 2017}}</ref>
+
+====Results====
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = Rob Richardson
+| party = Ohio Democratic Party 
+| votes = 500,640
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 500,640
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Endorsements====
+{{Endorsements box | 
+title = Robert Sprague (R) | 
+list = 
+'''Organizations''' 
+* Ohio Society of CPAs<ref name=hdhysp>{{cite web|url=https://www.ohiocpa.com/advocacy/advocacy-news/2018/05/31/dewine-husted-yost-sprague-earn-oscpa-endorsements|title=DeWine, Husted, Yost & Sprague earn OSCPA endorsements|work=Ohio Society of CPAs|access-date=September 3, 2018|archive-date=September 4, 2018|archive-url=https://web.archive.org/web/20180904011554/https://www.ohiocpa.com/advocacy/advocacy-news/2018/05/31/dewine-husted-yost-sprague-earn-oscpa-endorsements|url-status=dead}}</ref>
+
+'''Newspapers'''
+* ''[[Plain Dealer]]''
+}}
+
+====Polling====
+{| class=wikitable
+|- valign= bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size
+! Margin of<br />error
+! style="width:100px;"|Robert<br />Sprague (R)
+! style="width:100px;"|Rob<br />Richardson (D)
+! style="width:100px;"|Paul<br />Curry (G)
+! Undecided
+|-
+|[[Baldwin Wallace University]]<ref name="Baldwin Wallace University"/>
+| align=center| October 19–27, 2018
+| align=center| 1,051
+| align=center| ± 3.8%
+| align=center| 36%
+| {{party shading/Democratic}} align=center| '''38%'''
+| align=center| –
+| align=center| 22%
+|-
+|[[Change Research]] (D-Innovation Ohio)<ref name="Change Research D-Innovation Ohio"/>
+| align=center| August 31 – September 4, 2018
+| align=center| 822
+| align=center| ± 3.0%
+| {{party shading/Republican}} align=center| '''41%'''
+| align=center| 38%
+| align=center| —
+| align=center| 21%
+|-
+|[[Fallon Research]]<ref name="Fallon Research"/>
+| align=center| May 21–25, 2018
+| align=center| 800
+| align=center| ± 3.5%
+| {{party shading/Republican}} align=center| '''33%'''
+| align=center| 30%
+| align=center| 5%
+| align=center| 32%
+{{election box end}}
+
+====Results====
+{{Election box begin no change
+| title = Ohio State Treasurer election, 2018
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Robert Sprague]]
+| party = Ohio Republican Party 
+| votes = 2,308,425
+| percentage = 53.28
+}}
+{{Election box candidate with party link no change
+| candidate = Rob Richardson
+| party = Ohio Democratic Party 
+| votes = 2,024,194
+| percentage = 46.72
+}}
+{{Election box total no change
+| votes = 4,332,619
+| percentage = 100.0
+}}
+{{Election box hold with party link no change|
+  |winner     = Ohio Republican Party
+}}
+{{Election box end}}
+
+==Auditor==
+{{Main|2018 Ohio State Auditor election}}
+
+Incumbent Republican [[Ohio State Auditor|state auditor]] [[Dave Yost]] was term-limited and could not run for a third consecutive term.
+
+=== Results ===
+{{Election box begin no change
+| title = Ohio State Auditor election, 2018
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Keith Faber]]
+| party = Ohio Republican Party 
+| votes = 2,156,663
+| percentage = 49.68
+}}
+{{Election box candidate with party link no change
+| candidate = [[Zach Space]]
+| party = Democratic Party (United States)
+| votes = 2,008,295
+| percentage = 46.26
+}}
+{{Election box candidate with party link no change
+| candidate = Robert Coogan
+| party = Libertarian Party (United States)
+| votes = 175,962
+| percentage = 4.05
+}}
+{{Election box total no change
+| votes = 4,340,920
+| percentage = 100.0
+}}
+{{Election box hold with party link no change|
+  |winner     = Ohio Republican Party
+}}
+{{Election box end}}
+
+==General Assembly==
+===Senate===
+{{Main|2018 Ohio Senate election}}
+
+The 17 odd-numbered districts out of 33 seats in the [[Ohio Senate]] were up for election in 2018. Before the election, nine of these seats were held by Republicans, seven were held by Democrats, and one was vacant.
+
+{| class="wikitable sortable"
+
+|- valign=bottom
+! colspan=1 | Senatorial district
+! colspan=3 | Incumbent
+! colspan=2 | This race
+|- valign=bottom
+! District
+! Senator
+! Party
+! First<br />elected
+! Incumbent status
+! Candidates
+|-
+! [[Ohio's 1st senatorial district|1]]
+| [[Rob McColley]]
+|{{Party shading/Republican}} | Republican
+|2017 (appointed)
+|Running
+|Adam Papin (Democratic)<ref>{{Cite news|url=http://www.bryantimes.com/news/local/adam-papin-declares-for-state-senate/article_305fcd6a-cf8a-5a1b-a294-f58d09108ee1.html|title=Adam Papin declares for State Senate|work=Bryan Times|access-date=November 6, 2017}}</ref> 26.73% 32,765 
+'''[[Rob McColley]] (Republican)'''<ref name=":0">{{Cite news|url=https://www.nytimes.com/interactive/2018/05/08/us/elections/results-ohio-primary-elections.html|title=Ohio Primary Election Results|work=The New York Times |date=May 8, 2018 |access-date=August 3, 2018|language=en}}</ref> 73.26% 89,810
+|-
+! [[Ohio's 3rd senatorial district|3]]
+| [[Kevin Bacon (politician)|Kevin Bacon]]
+| {{Party shading/Republican}} | Republican
+| 2010
+| Not running (term-limited)
+| '''[[Tina Maharath]] (Democratic)'''<ref name=":0" /> 50.27% 66,438
+Anne Gonzales (Republican)<ref name=":0" /> 49.73% 65,733
+|-
+! [[Ohio's 5th senatorial district|5]]
+| [[Bill Beagle]]
+| {{Party shading/Republican}} | Republican
+| 2010
+| Not running (term-limited)
+| Paul Bradley (Democratic)<ref name="sarabitter">{{cite web|url=http://www.daytondailynews.com/news/local-govt--politics/who-running-local-state-house-and-senate-ballot-this-year/zSG6O6tifEEd0oPo2DbSVJ/|title=Who is running?: 18 local state House and Senate races on ballot this year|work=[[Dayton Daily News]]|date=February 8, 2018|access-date=February 15, 2018}}</ref><br /> 47.08% 55,669
+'''[[Steve Huffman (Ohio politician)|Steve Huffman]]''' (Republican)<ref name=stevehuffman>{{cite web|url=http://tdn-net.com/news/22961/huffman-to-run-for-ohio-senate-seat|title=Huffman to run for Ohio Senate seat|work=[[Troy Daily News]]|date=May 20, 2017|access-date=May 21, 2017}}</ref> 52.92% 62,574
+|-
+! [[Ohio's 7th senatorial district|7]]
+| [[Steve Wilson (Ohio politician)|Steve Wilson]]
+| {{Party shading/Republican}} | Republican
+| 2017 (appointed)
+| Running
+| Sara Bitter (Democratic)<ref name="sarabitter"/> 38.02% 60,344
+'''[[Steve Wilson (Ohio politician)|Steve Wilson]]''' (Republican)<ref>{{cite web|url=http://www.mydaytondailynews.com/news/local-govt--politics/retired-banker-new-senator-warren-county/fZ3U9EMdKDNdx2uueCO0LM/|title=Retired banker new senator in Warren County|work=[[Dayton Daily News]]|last=Budd|first=Lawrence|date=January 26, 2017|access-date=September 15, 2017}}</ref> 61.98% 98,370
+|-
+! [[Ohio's 9th senatorial district|9]]
+| [[Cecil Thomas (politician)|Cecil Thomas]]
+| {{Party shading/Democratic}} | Democratic
+| 2014
+| Running
+| [[Cecil Thomas (politician)|Cecil Thomas]] (Democratic)<ref name=":0" /> 76.29% 99,205 
+Tom Chandler (Republican) 23.71% 30,833
+|-
+! [[Ohio's 11th senatorial district|11]]
+| [[Edna Brown]]
+| {{Party shading/Democratic}} | Democratic
+| 2010
+| Not running (term-limited)
+|'''[[Teresa Fedor]] (Democratic)'''<ref name="teresafedor">{{cite web|url=http://www.toledoblade.com/local/2018/01/30/Democrats-pick-Ashford-over-Fedor-for-state-senate.html|title=Democrats pick Ashford over Fedor for state Senate|date=January 30, 2018|work=[[Toledo Blade]]|access-date=February 15, 2018}}</ref> 69.42% 73,934
+Ernest McCarthy (Republican)<ref name=":0" /> 30.58% 32,567
+|-
+! [[Ohio's 13th senatorial district|13]]
+| [[Gayle Manning]]
+| {{Party shading/Republican}} | Republican
+| 2010
+| Not running (term-limited)
+| Sharon Sweda (Democratic)<ref name=":0" /> 44.23% 58,159
+'''Nathan Manning (Republican)'''<ref name=":0" /> 52.70% 69,286
+Homer Taft (Libertarian)  3.07% 4,037
+
+|-
+! [[Ohio's 15th senatorial district|15]]
+| [[Charleta Tavares]]
+| {{Party shading/Democratic}} | Democratic
+| 2010
+| Not running (term-limited)
+| '''[[Hearcel Craig]] (Democratic)'''<ref name=hearcelcraig>{{cite web|url=http://www.dispatch.com/news/20170803/craig-to-run-for-senate-seat-setting-up-likely-primary|title=Craig to run for Senate seat, setting up likely primary|work=[[Columbus Dispatch]]|date=August 3, 2017|access-date=February 15, 2018}}</ref> 82.52% 107,505
+Jordan Garcea (Republican)<ref name=":0" /> 17.48% 22,778 
+|-
+! [[Ohio's 17th senatorial district|17]]
+| [[Bob Peterson (Ohio politician)|Bob Peterson]]
+| {{Party shading/Republican}} | Republican
+| 2012 (appointed)
+| Running
+| Scott Dailey (Democratic)<ref name=scottdailey>{{cite web|url=http://www.chillicothegazette.com/story/news/politics/elections/2018/02/07/school-levy-few-primary-contests-may-ballot-ross-county/316547002/|title=School levy, few primary contests on May ballot in Ross County|work=[[Chillicothe Gazette]]|date=February 8, 2018|access-date=February 15, 2018}}</ref> 29.59% 33,573
+'''Bob Peterson (Republican)'''<ref name=":0" /> 70.41% 79,880
+|-
+! [[Ohio's 19th senatorial district|19]]
+| [[Kris Jordan]]
+| {{Party shading/Republican}} | Republican
+| 2010
+| Not running (term-limited)
+| Louise Valentine (Democratic)<ref name=louisevalentine>{{cite web|url=http://www.ohiodeladems.org/2018-candidates|title=Ohio 2018 Democratic candidates|work=Delaware County Democratic party|date=February 8, 2018|access-date=February 15, 2018|archive-url=https://web.archive.org/web/20180216025303/http://www.ohiodeladems.org/2018-candidates|archive-date=February 16, 2018|url-status=dead}}</ref> 47.71% 77,247
+'''[[Andrew Brenner]] (Republican)'''<ref name="tiberiseat">{{cite web|url=http://www.cleveland.com/open/index.ssf/2017/10/heres_whos_interested_in_runni.html|title=Here's who's interested in running for Pat Tiberi's congressional seat|last=Pelzer|first=Jeremy|date=October 19, 2017|work=The Plain Dealer|access-date=November 5, 2017}}</ref> 50.41% 81,623
+Gary Cox (Green)  1.88% 3,041
+|-
+! [[Ohio's 21st senatorial district|21]]
+| [[Sandra Williams (American politician)|Sandra Williams]]
+| {{Party shading/Democratic}} | Democratic
+| 2014
+| Running
+| '''[[Sandra Williams (American politician)|Sandra Williams]] (Democratic)'''<ref name=":0" /> 87.72% 97,282 
+Thomas Pekarek (Republican) 12.28% 13,621
+|-
+! [[Ohio's 23rd senatorial district|23]]
+| [[Michael J. Skindell]]
+| {{Party shading/Democratic}} | Democratic
+| 2010
+| Not running (term-limited)
+| '''[[Nickie Antonio]] (Democratic)'''<ref>{{cite web|url=https://patch.com/ohio/lakewood-oh/lakewoods-nickie-antonio-running-ohio-senate|title=Lakewood's Nickie Antonio Running For Ohio Senate|date=December 4, 2017|access-date=May 21, 2018}}</ref> 65.41% 69,907 
+Steve Flores (Republican) 34.59% 36,968 
+|-
+! [[Ohio's 25th senatorial district|25]]
+| [[Kenny Yuko]]
+| {{Party shading/Democratic}} | Democratic
+| 2014
+| Running
+| '''[[Kenny Yuko]] (Democratic)'''<ref name=":0" /> 75% 97,503 
+William Faehnrich (Republican) 25% 32,506
+|-
+! [[Ohio's 27th senatorial district|27]]
+| [[Frank LaRose]]
+| {{Party shading/Republican}} | Republican
+| 2010
+| Not running (term-limited; running for secretary of state)<ref name=larose/>
+|Adam VanHo (Democratic)<ref>{{cite web|url=https://www.ohio.com/akron/news/local/republicans-pile-up-to-replace-term-limited-state-lawmaker|title=Republicans pile up to replace term-limited state lawmaker|last=dlivingston|access-date=May 21, 2018}}</ref> 41.54% 59.711
+'''[[Kristina Roegner]] (Republican)'''<ref name=":0" /> 58.46% 84,031
+|-
+! [[Ohio's 29th senatorial district|29]]
+| [[Scott Oelslager]]
+| {{Party shading/Republican}} | Republican
+| 2010
+| Not running (term-limited)
+| Lauren Friedman (Democratic)<ref name=laurenfriedman>{{cite web|url=http://www.the-review.com/news/20180208/trading-places-again-schuring-oelslager-seek-another-job-swap|title=Trading places again? Schuring, Oelslager seek another job swap|work=Alliance Review|date=February 8, 2018|access-date=February 15, 2018|archive-date=February 15, 2018|archive-url=https://web.archive.org/web/20180215204738/http://www.the-review.com/news/20180208/trading-places-again-schuring-oelslager-seek-another-job-swap|url-status=dead}}</ref> 40.30% 50,932
+'''Kirk Schuring (Republican)'''<ref name=":0" /> 59.70% 75,449
+|-
+! [[Ohio's 31st senatorial district|31]]
+| [[Jay Hottinger]]
+| {{Party shading/Republican}} | Republican
+| 2014
+| Running
+| Melinda Miller (Democratic)<ref name=melindamiller>{{cite web|url=http://www.newarkadvocate.com/story/news/local/2018/02/07/heath-brewery-co-founder-runs-licking-commissioner/316815002/|title=Heath brewery co-founder runs for Licking commissioner|work=Newark Advocate|date=February 7, 2018|access-date=February 15, 2018}}</ref> 33.11% 42,578
+'''Jay Hottinger (Republican)'''<ref name=":0" /> 66.89% 86,019
+|-
+! [[Ohio's 33rd senatorial district|33]]
+| [[Joe Schiavoni]]
+| {{Party shading/Democratic}} | Democratic
+| 2009 (appointed)
+| Not running (term-limited; running for governor)<ref name=schiavoni>{{cite web|url=http://www.cleveland.com/politics/index.ssf/2017/03/joe_schiavoni_makes_run_for_go.html|title=Joe Schiavoni makes run for governor official|work=The Plain Dealer|last=Gomez|first=Henry J.|date=March 1, 2017|access-date=March 2, 2017}}</ref> Republican gain
+| [[John Boccieri]] (Democratic)<ref name=boccieri>{{cite web|url=http://www.vindy.com/news/2017/sep/04/boccieri-announces-bid-state-senate/|title=Boccieri announces bid for state senate|work=[[The Vindicator]]|date=September 4, 2017|access-date=September 8, 2017|archive-date=September 7, 2017|archive-url=https://web.archive.org/web/20170907094807/http://www.vindy.com/news/2017/sep/04/boccieri-announces-bid-state-senate/|url-status=dead}}</ref> 47.58% 60,575<br />'''Michael Rulli (Republican)'''<ref>{{cite web|url=http://www.vindy.com/news/2017/aug/24/michael-rulli-announces-33rd-ohio-senate-bid/|title=Michael Rulli announces 33rd Ohio Senate bid|work=[[The Vindicator]]|date=August 24, 2017|access-date=September 8, 2017|archive-date=September 9, 2017|archive-url=https://web.archive.org/web/20170909005801/http://www.vindy.com/news/2017/aug/24/michael-rulli-announces-33rd-ohio-senate-bid/|url-status=dead}}</ref> 52.42% 66,731
+|}
+
+===House of Representatives===
+{{Main|2018 Ohio House of Representatives election}}
+
+All 99 seats in the [[Ohio House of Representatives]] were up for election in 2018. Before the election, 65 of these seats were held by Republicans, 33 were held by Democrats, and one seat was vacant.
+
+{| class="wikitable sortable"
+
+|- valign=bottom
+! colspan=1 | House district
+! colspan=3 | Incumbent
+! colspan=2 | This race
+|- valign=bottom
+! District
+! Representative
+! Party
+! First<br />elected
+! Incumbent status
+! Candidates
+|-
+! 1
+| [[Scott Wiggam]]
+| {{Party shading/Republican}} | Republican
+| 2016
+| Running
+| Kevin Barnet (Democratic)<ref>{{cite web|url=https://www.crowdpac.com/campaigns/256398/kevin-barnet|title=A snowflake in a sea of red, but "winter is coming"|work=CrowdPac|date=February 8, 2018|access-date=February 15, 2018|archive-date=February 15, 2018|archive-url=https://web.archive.org/web/20180215204202/https://www.crowdpac.com/campaigns/256398/kevin-barnet|url-status=dead}}</ref> 29%
+'''Scott Wiggam (Republican)'''<ref name=":0" /> 66%
+|-
+! 2
+| [[Mark Romanchuk]]
+| {{Party shading/Republican}} | Republican
+| 2012
+| Running
+| Lane Winters (Democratic)<ref name="auto">{{cite web|url=http://www.mansfieldnewsjournal.com/story/news/2018/02/08/candidates-issues-may-8-primary-ballot/319172002/|title=Candidates, issues on the May 8 primary ballot|date=February 8, 2018|work=Mansfield News Journal|access-date=February 15, 2018}}</ref> 30%
+'''Mark Romanchuk (Republican)'''<ref name=":0" /> 68%
+|-
+! 3
+| [[Theresa Gavarone]]
+| {{Party shading/Republican}} | Republican
+| 2016 (appointed)
+| Running
+| Daniel Gordon (Democratic)<ref name="auto1">{{cite web|url=http://thecourier.com/local-news/2018/02/08/primary-election-races-set-for-ohio-house-senate-seats/|title=Primary election races set for Ohio House, Senate seats|date=February 8, 2018|work=The Courier|access-date=February 15, 2018|archive-date=February 15, 2018|archive-url=https://web.archive.org/web/20180215221226/http://thecourier.com/local-news/2018/02/08/primary-election-races-set-for-ohio-house-senate-seats/|url-status=dead}}</ref> 38%
+'''Theresa Gavarone (Republican)'''<ref name=":0" /> 62%
+|-
+! 4
+| [[Robert R. Cupp]]
+| {{Party shading/Republican}} | Republican
+| 2014
+| Running
+|Tristam Cheeseman (Democratic) 27%
+
+'''Robert R. Cupp (Republican)'''<ref name=":0" /> 73%
+|-
+! 5
+| [[Tim Ginter]]
+| {{Party shading/Republican}} | Republican
+| 2014
+| Running
+| John Dyce (Democratic)<ref>{{cite web|url=http://www.reviewonline.com/news/local-news/2018/02/ginter-dyce-set-for-rematch/|title=Ginter, Dyce set for rematch|work=The Review|date=February 7, 2018|access-date=February 15, 2018}}</ref> 30%
+'''Tim Ginter (Republican)'''<ref name=":0" /> 70%
+|-
+! 6
+| [[Marlene Anielski]]
+| {{Party shading/Republican}} | Republican
+| 2010
+| {{Party shading/Democratic}}| Not running (term-limited) Democratic gain
+| '''Phil Robinson (Democratic)'''<ref>{{cite web|url=http://www.cleveland.com/metro/index.ssf/2015/12/cuyahoga_county_democratic_par_1.html|title=Cuyahoga County Democratic Party does not endorse in prosecutor's race|work=The Plain Dealer|date=February 7, 2018|access-date=February 15, 2018}}</ref> 51%
+Jim Trakas (Republican)<ref name=":0" /> 49%
+|-
+! 7
+| [[Tom Patton]]
+| {{Party shading/Republican}} | Republican
+| 2016
+| Running
+| Aziz Ahmed (Democratic)<ref>{{cite web|url=https://boe.cuyahogacounty.us/pdf_boe/en-US/2018/CPS/2018%20Candidate%20List.pdf|title=Candidate List|work=Cuyahoga County Board of Elections|date=February 7, 2018|access-date=February 15, 2018}}</ref><br /> 39%
+'''[[Tom Patton]] (Republican)'''<ref>{{cite web|url=http://www.cleveland.com/open/index.ssf/2017/11/state_rep_tom_patton_dropping.html|title=State Rep. Tom Patton dropping congressional run|work=The Plain Dealer|last=Tobias|first=Andrew J.|date=November 14, 2017|access-date=November 22, 2017}}</ref> 61%
+|-
+! 8
+| [[Kent Smith (American politician)|Kent Smith]]
+| {{Party shading/Democratic}} | Democratic
+| 2014
+| Running
+|'''Kent Smith (Democratic)'''<ref name=":0" /> 100%
+|-
+! 9
+| [[Janine Boyd]]
+| {{Party shading/Democratic}} | Democratic
+| 2014
+| Running
+|'''Janine Boyd (Democratic)'''<ref name=":0" /> 88%
+
+Joe Miller (Republican)<ref name=":0" /> 12%
+|-
+! 10
+| [[Bill Patmon]]
+| {{Party shading/Democratic}} | Democratic
+| 2010
+| Not running (term-limited)
+|'''Terrence Upchurch (Democratic)'''<ref name=":0" /> 100%
+|-
+! 11
+| [[Stephanie Howse]]
+| {{Party shading/Democratic}} | Democratic
+| 2014
+| Running
+|'''Stephanie Howse (Democratic)'''<ref name=":0" /> 87%
+Shalira Taylor (Republican) 13%
+|-
+! 12
+| [[John E. Barnes, Jr.]]
+| {{Party shading/Democratic}} | Democratic
+| 2010
+| Not running (term-limited)
+|'''Juanita Brent (Democratic)'''<ref name=":0" /> 100%
+|-
+! 13
+| [[Nickie Antonio]]
+| {{Party shading/Democratic}} | Democratic
+| 2010
+| Not running (term-limited)
+| '''[[Mike Skindell]] (Democratic)'''<ref>{{cite web|url=http://lakewoodobserver.com/read/2018/01/09/state-senator-michael-j-skindell-officially-kicks-off-ohio-house|title=State Senator Michael J. Skindell Officially Kicks Off Ohio House Legislative Campaign|work=Lakewood Observer|date=January 9, 2018|access-date=February 15, 2018}}</ref> 78%
+Jay Carson (Republican)<ref name=":0" /> 22%
+|-
+! 14
+| [[Martin J. Sweeney]]
+| {{Party shading/Democratic}} | Democratic
+| 2014
+| Not running (running for Ohio Senate)
+| '''Bride Sweeney (Democratic)'''<ref name="auto2">{{cite web|url=http://www.cleveland.com/naymik/index.ssf/2018/02/chatter_martin_j_sweeneys_daug.html|title=CLE Chatter: Martin J. Sweeney's daughter wants his House seat|date=February 9, 2018|work=The Plain Dealer|access-date=February 15, 2018}}</ref> 72%
+Ryan McClain (Libertarian) 28%
+|-
+! 15
+| [[Nicholas J. Celebrezze]]
+| {{Party shading/Democratic}} | Democratic
+| 2012 (appointed)
+| Running
+|'''Jeffrey Crossman (Democratic)''' 56%
+Kevin Kussmaul (Republican) 44%
+|-
+! 16
+| [[David Greenspan (politician)|David Greenspan]]
+| {{Party shading/Republican}} | Republican
+| 2016
+| Running
+|Cassimir Svigeli (Democratic)<ref name=":0" /> 46%
+
+'''David Greenspan (Republican)'''<ref name=":0" /> 54%
+|-
+! 17
+| [[Adam Miller (Ohio politician)|Adam Miller]]
+| {{Party shading/Democratic}} | Democratic
+| 2016
+| Running
+|'''Adam Miller (Democratic)'''<ref name=":0" /> 60%
+
+John Rush (Republican)<ref name=":0" /> 40%
+|-
+! 18
+| [[Kristin Boggs]]
+| {{Party shading/Democratic}} | Democratic
+| 2016 (appointed)
+| Running
+|'''Kristin Boggs (Democratic)'''<ref name=":0" /> 80%
+
+David Todd (Republican)<ref name=":0" /> 20%
+|-
+! 19
+| [[Anne Gonzales]]
+| {{Party shading/Republican}} | Republican
+| 2010
+| Not running (term-limited)
+| '''Mary Lightbody (Democratic)'''<ref name=":0" /> 55%
+Tim Barhorst (Republican)<ref name=":0" /> 45%
+|-
+! 20
+| [[Richard Brown (Ohio politician)|Richard Brown]]
+| {{Party shading/Democratic}} | Democratic
+| 2017 (appointed)
+| Running
+|'''Richard Brown (Democratic)'''<ref name=":0" /> 58%
+
+Bobby Mitchell (Republican)<ref name=":0" /> 42%
+|-
+! 21
+| [[Mike Duffey]]
+| {{Party shading/Republican}} | Republican
+| 2010
+| Not running (term-limited)
+| '''Beth Liston (Democratic)'''<ref name="natedowds">{{cite web|url=http://www.dispatch.com/news/20180207/ohioans-face-possibly-historic-election-year|title=Ohioans face possibly historic election year|date=February 7, 2018|work=[[Columbus Dispatch]]|access-date=February 15, 2018}}</ref><br />Stu Harris (Republican)<ref name=":0" /> 57%
+Stu Harris (Republican) 43%
+|-
+! 22
+| [[David J. Leland]]
+| {{Party shading/Democratic}} | Democratic
+| 2014
+| Running
+|'''David J. Leland (Democratic)'''<ref name=":0" /> 73%
+
+Doug Moody (Republican) 27%
+|-
+! 23
+| [[Laura Lanese]]
+| {{Party shading/Republican}} | Republican
+| 2016
+| Running
+|Russell Harris (Democratic)<ref name=":0" /> 44%
+
+'''Laura Lanese (Republican)'''<ref name=":0" /> 56%
+|-
+! 24
+| [[Jim Hughes (politician)|Jim Hughes]]
+| {{Party shading/Republican}} | Republican
+| 2016
+| {{Party shading/Democratic}}|  Not running (running for Court of Common Pleas)<ref>{{Cite news|url=http://www.thisweeknews.com/news/20180122/state-rep-hughes-to-run-for-common-pleas-bench|title=State Rep. Hughes to run for common-pleas bench|last=Siegel|first=Jim|work=ThisWeek Community News|access-date=February 7, 2018|language=en}}</ref> Democratic gain
+| '''Allison Russo (Democratic)'''<ref name=natedowds/> 57%
+Erik Yassenof (Republican)<ref name=":0" /> 43%
+|-
+! 25
+| [[Bernadine Kent]]
+| {{Party shading/Democratic}} | Democratic
+| 2016
+| Running
+|'''Bernadine Kent (Democratic)'''<ref name=":0" /> 84%
+
+Debbie Staggs (Republican)<ref name=":0" /> 16%
+|-
+! 26
+| [[Hearcel Craig]]
+| {{Party shading/Democratic}} | Democratic
+| 2014
+| Not running (running for Ohio Senate)<ref>{{cite web|url=http://www.dispatch.com/news/20170803/craig-to-run-for-senate-seat-setting-up-likely-primary|title=OCraig to run for Senate seat, setting up likely primary|work=[[Columbus Dispatch]]|date=August 4, 2017|access-date=February 15, 2018}}</ref>
+| '''Erica Crawley (Democratic)'''<ref name=":0" /> 82%
+Shareeque Sadiq (Republican)<ref name=":0" /> 15%
+Steve Dodge (Green) 2%
+|-
+! 27
+| [[Tom Brinkman]]
+| {{Party shading/Republican}} | Republican
+| 2014
+| Running
+| Christine Fisher (Democratic)<ref name="ham county1">{{cite web|url=http://boe.hamilton-co.org/files/files/elections/May%202018/Pri18_Candidate_Issues_List.pdf|title=Hamilton County Candidates and Issues
+|work=Hamilton County Board of Elections|date=February 8, 2018|access-date=February 15, 2018}}</ref> 46%
+'''Tom Brinkman (Republican)'''<ref name=":0" /> 54%
+|-
+! 28
+| [[Jonathan Dever]]
+| {{Party shading/Republican}} | Republican
+| 2014
+| {{Party shading/Democratic}}|  Running <br /> Democratic gain
+| '''Jessica Miranda (Democratic)'''<ref>{{cite web|url=https://www.cincinnati.com/story/news/local/blue-ash/2016/02/02/candidate-jessica-miranda-address-blue-ash-dems/79709458/|title=Candidate Jessica Miranda to address Blue Ash Dems|work=The Cincinnati Enquirer|date=February 2, 2018|access-date=February 15, 2018}}</ref> 50% <br />Jonathan Dever (Republican)<ref name=":0" /> 50%
+|-
+! 29
+| [[Louis Blessing]]
+| {{Party shading/Republican}} | Republican
+| 2012
+| Running
+| Carrie Davis (Democratic)<ref name="ham county1"/> 35%
+'''Louis Blessing (Republican)'''<ref name=":0" /> 65%
+|-
+! 30
+| [[Bill Seitz]]
+| {{Party shading/Republican}} | Republican
+| 2016
+| Running
+| Clayton Adams (Democratic)<ref>{{cite web|url=https://www.cincinnati.com/story/news/2018/02/09/ohio-state-rep-bill-seitz-retiring/323049002/|title=Bill Seitz tells election officials he's 'retiring' – opening door to collecting pension and salary simultaneously|work=The Cincinnati Enquirer|date=February 9, 2018|access-date=February 15, 2018}}</ref> 30%
+'''Bill Seitz (Republican)'''<ref name=":0" /> 70%
+|-
+! 31
+| [[Brigid Kelly]]
+| {{Party shading/Democratic}} | Democratic
+| 2016
+| Running
+|'''Brigid Kelly (Democratic)'''<ref name=":0" /> 100%
+|-
+! 32
+| [[Catherine Ingram]]
+| {{Party shading/Democratic}} | Democratic
+| 2016
+| Running
+|'''Catherine Ingram (Democratic)'''<ref name=":0" /> 79%
+
+Marilyn Tunnat (Republican)<ref name=":0" /> 21%
+|-
+! 33
+| [[Alicia Reece]]
+| {{Party shading/Democratic}} | Democratic
+| 2010 (appointed)
+| Not running (term-limited)
+| '''Sedrick Denson (Democratic)'''<ref name="auto4">{{cite web|url=https://www.cincinnati.com/story/news/2018/02/07/what-you-see-ballot-year-five-takeaways-filing-day/314690002/|title=Dusty Rhodes has a serious opponent and other takeaways from Ohio election filing day|work=The Cincinnati Enquirer|date=February 7, 2018|access-date=February 15, 2018}}</ref> 75%
+Judith Boyce (Republican) 25%
+|-
+! 34
+| [[Emilia Sykes]]
+| {{Party shading/Democratic}} | Democratic
+| 2014
+| Running
+|'''Emilia Sykes (Democratic)'''<ref name=":0" /> 78%
+
+Josh Sines (Republican)<ref name=":0" /> 22%
+|-
+! 35
+| [[Tavia Galonski]]
+| {{Party shading/Democratic}} | Democratic
+| 2014
+| Running
+|'''Tavia Galonski (Democratic)'''<ref name=":0" /> 61%
+
+Osita Obierika (Republican)<ref name=":0" /> 34% 
+Kevin Fay (Green) 5%
+|-
+! 36
+| [[Anthony DeVitis]]
+| {{Party shading/Republican}} | Republican
+| 2011 (appointed)
+| Running
+| Tim Piatt (Democratic)<ref name="auto5">{{cite web|url=https://www.ohio.com/akron/news/local/may-primary-ballot-shapes-up-as-party-hopefuls-meet-filing-deadlines-for-federal-and-state-races|title=May primary ballot shapes up as party hopefuls meet filing deadlines for federal and state races|work=[[Akron Beacon Journal]]|date=February 7, 2018|access-date=February 15, 2018}}</ref> 45% <br />'''Anthony DeVittis (Republican)'''<ref name=":0" /> 55%
+|-
+! 37
+| [[Kristina Roegner]]
+| {{Party shading/Republican}} | Republican
+| 2010
+| {{Party shading/Democratic}}|  Not running (term-limited) Democratic gain
+| '''Casey Weinstein (Democratic)'''<ref>{{cite web|url=https://www.ohio.com/akron/news/local/democrats-are-testing-the-strength-of-ohio-republicans-in-2018|title=Democrats are testing the strength of Ohio Republicans in 2018|work=[[Akron Beacon Journal]]|date=January 6, 2018|access-date=February 15, 2018}}</ref> 51%
+Mike Rasor (Republican)<ref name=":0" /> 49%
+|-
+! 38
+| [[Marilyn Slaby]]
+| {{Party shading/Republican}} | Republican
+| 2012 (appointed)
+| Not running (retiring)
+| Elliot Kolkovich (Democratic)<ref>{{cite web|url=https://www.ohio.com/akron/news/local/may-primary-ballot-shapes-up-as-party-hopefuls-meet-filing-deadlines-for-federal-and-state-races|title=May primary ballot shapes up as party hopefuls meet filing deadlines for federal and state races|work=[[Akron Beacon Journal]]|date=February 8, 2018|access-date=February 15, 2018}}</ref> 43%
+'''Bill Roemer (Republican)'''<ref name=":0" /> 57%
+|-
+! 39
+| [[Fred Strahorn]]
+| {{Party shading/Democratic}} | Democratic
+| 2012
+| Running
+|'''Fred Strahorn (Democratic)'''<ref name=":0" /> 100%
+|-
+! 40
+| [[Michael Henne]]
+| {{Party shading/Republican}} | Republican
+| 2010
+| Not running (term-limited)
+| Ryan Taylor (Democratic)<ref name=":0" /> 38%
+'''Phil Plummer (Republican)'''<ref name=":0" /> 62%
+|-
+! 41
+| [[Jim Butler (Ohio politician)|Jim Butler]]
+| {{Party shading/Republican}} | Republican
+| 2011 (appointed)
+| Running
+| John McManus (Democratic)<ref>{{Cite news|url=http://www.daytondailynews.com/news/local/dayton-school-board-vice-president-announces-run-for-state-legislature/7cj8nbk0Bvaiz63AE30YxM/?ecmp=daytondaily_social_twitter_2014_politics_sfp|title=Dayton school board vice president announces run for state legislature|work=[[Dayton Daily News]]|date=February 6, 2018|access-date=February 8, 2018}}</ref> 45%
+'''Jim Butler (Republican)'''<ref name=":0" /> 55%
+|-
+! 42
+| [[Niraj Antani]]
+| {{Party shading/Republican}} | Republican
+| 2014 (appointed)
+| Running
+| Zach Dickerson (Democratic)<ref name="auto6">{{Cite news|url=http://www.daytondailynews.com/news/incumbent-miamisburg-state-rep-faces-primary-battle-for-1st-time/KUp65GPuGsq9e2W4ho1tWO/|title=Incumbent Miamisburg state rep faces primary battle for 1st time|date=February 8, 2018|work=[[Dayton Daily News]]|access-date=February 15, 2018}}</ref> 40% <br />'''Niraj Antani (Republican)'''<ref name=":0" /> 60%
+|-
+! 43
+| [[Jeff Rezabek]]
+| {{Party shading/Republican}} | Republican
+| 2014
+| Not running (running for Judge)<ref name="auto7">{{Cite news|url=http://www.daytondailynews.com/news/local-govt--politics/rezabek-seek-judgeship-opens-hot-race-for-ohio-house-seat-and-dan-foley-confirms-running/E8pA1pcL9jsjqn4G8GG8YK/|title=Rezabek to seek judgeship, opens up hot race for Ohio House seat and Dan Foley confirms he's running|work=[[Dayton Daily News]]|date=January 18, 2018|access-date=February 15, 2018|archive-date=February 15, 2018|archive-url=https://web.archive.org/web/20180215114948/http://www.daytondailynews.com/news/local-govt--politics/rezabek-seek-judgeship-opens-hot-race-for-ohio-house-seat-and-dan-foley-confirms-running/E8pA1pcL9jsjqn4G8GG8YK/|url-status=dead}}</ref>
+| Dan Foley (Democratic)<ref name="auto7"/> 49%
+'''Todd Smith (Republican)'''<ref name=":0" /> 51%
+|-
+! 44
+| [[Michael Ashford]]
+| {{Party shading/Democratic}} | Democratic
+| 2010
+| Not running (term-limited)
+| '''[[Paula Hicks-Hudson]] (Democratic)'''<ref>{{Cite news|url=http://www.toledoblade.com/local/2018/01/05/Mayor-Hicks-Hudson-seeks-Democratic-endorsement-for-House-race.html|title=Former Mayor seeks Democratic endorsement for Ohio House race|work=Toledo Blade|date=January 5, 2018|access-date=February 15, 2018}}</ref><br />Kenneth Cousino (Republican)<ref name=":0" /> 100%
+|-
+! 45
+| [[Teresa Fedor]]
+| {{Party shading/Democratic}} | Democratic
+| 2010
+| Not running (term-limited)
+| '''Lisa Sobecki (Democratic)'''<ref name="auto8">{{Cite news|url=http://www.toledoblade.com/Politics/2018/02/07/More-candidates-enter-crowded-field-for-Ohio-governor.html|title=More candidates enter crowded field for Ohio governor|date=February 7, 2018|work=Toledo Blade|access-date=February 15, 2018}}</ref> 64%
+David Davenport (Republican)<ref name=":0" /> 36%
+|-
+! 46
+| [[Michael Sheehy]]
+| {{Party shading/Democratic}} | Democratic
+| 2013 (appointed)
+| Running
+|'''Michael Sheehy (Democratic)'''<ref name=":0" /> 100%
+|-
+! 47
+| [[Derek Merrin]]
+| {{Party shading/Republican}} | Republican
+| 2016 (appointed)
+| Running
+| Gary Newnham (Democratic)<ref name="auto8"/> 42%
+'''Derek Merrin (Republican)'''<ref name=":0" /> 58%
+|-
+! 48
+| [[Kirk Schuring]]
+| {{Party shading/Republican}} | Republican
+| 2010
+| Not running (term-limited)
+| Lorraine Wilburn (Democratic)<ref>{{Cite news|url=http://www.the-review.com/news/20180208/trading-places-again-schuring-oelslager-seek-another-job-swap|title=Trading places again? Schuring, Oelslager seek another job swap|work=Alliance Review|date=February 8, 2018|access-date=February 15, 2018|archive-date=February 15, 2018|archive-url=https://web.archive.org/web/20180215204738/http://www.the-review.com/news/20180208/trading-places-again-schuring-oelslager-seek-another-job-swap|url-status=dead}}</ref> 36%
+'''Scott Oelslager (Republican)'''<ref name=":0" /> 64%
+|-
+! 49
+| [[Tom West (Ohio politician)|Thomas West]]
+| {{Party shading/Democratic}} | Democratic
+| 2016
+| Running
+|'''Thomas West (Democratic)'''<ref name=":0" /> 58%
+
+James Haavisto (Republican)<ref name=":0" /> 42%
+|-
+! 50
+| [[Christina Hagan]]
+| {{Party shading/Republican}} | Republican
+| 2011 (appointed)
+| Not running (running for U.S. representative)<ref>{{cite web|url=http://www.cleveland.com/open/index.ssf/2017/04/state_rep_christina_hagan_anno.html|title=State Rep. Christina Hagan announces run for Ohio's 16th congressional district|work=The Plain Dealer|last=Tobias|first=Andrew J.|date=April 3, 2017|access-date=August 19, 2017}}</ref>
+| Cassie Gabelt (Democratic)<ref name="auto9">{{Cite news|url=http://www.cantonrep.com/news/20180207/whos-on-may-8-ballot-in-stark|title=Who's on the May 8 ballot in Stark?|work=[[Canton Repository]]|date=February 7, 2018|access-date=February 15, 2018}}</ref> 34% <br />'''Reggie Stoltzfus (Republican)'''<ref>{{cite web|url=http://www.cantonrep.com/news/20170814/paris-township-trustee-seeks-ohio-house-seat|title=Paris Township trustee seeks Ohio House seat|work=[[The Repository]]|last=Wang|first=Robert|date=August 14, 2017|access-date=August 19, 2017}}</ref> 64%
+|-
+! 51
+| [[Wes Retherford]]
+| {{Party shading/Republican}} | Republican
+| 2012
+| Not running (defeated in primary)<ref name=":0" />
+| Susan Vaughn (Democratic)<ref>{{Cite news|url=http://www.journal-news.com/news/hamilton-resident-former-reality-show-star-run-against-retherford/Z5Pll95VCvPcRlxOr2YepK/|title=Hamilton resident, former reality show star to run against Retherford|work=journal-news|access-date=November 30, 2017}}</ref> 40%
+'''Sara Carruthers (Republican)'''<ref name=":0" /> 60%
+|-
+! 52
+| [[George Lang (Ohio politician)|George Lang]]
+| {{Party shading/Republican}} | Republican
+| 2017 (appointed)
+| Running
+| Kathy Wyenandt (Democratic)<ref>{{Cite news|url=https://www.cincinnati.com/story/news/local/liberty-township/2018/02/13/kathy-wyenandt-files-run-ohio-52nd-district/333354002/|title=Democrat Kathy Wyenandt files to run in Ohio 52nd District|work=The Cincinnati Enquirer|date=February 13, 2018|access-date=February 15, 2018}}</ref> 41%
+'''George Lang (Republican)'''<ref name=":0" /> 59%
+|-
+! 53
+| [[Candice Keller]]
+| {{Party shading/Republican}} | Republican
+| 2016 (appointed)
+| Running
+| Rebecca Howard (Democratic)<ref>{{Cite news|url=http://www.butlercountyelections.org/Candidate%20Petition%20Activity%20-%20Democratic%20Candidates.pdf|archive-url=https://web.archive.org/web/20180216030236/http://www.butlercountyelections.org/Candidate%20Petition%20Activity%20-%20Democratic%20Candidates.pdf|url-status=usurped|archive-date=February 16, 2018|title=Democratic Candidates|work=Butler County Board of Elections|date=February 8, 2018|access-date=February 15, 2018}}</ref> 36%
+'''Candice Keller (Republican)'''<ref name=":0" /> 64%
+|-
+! 54
+| [[Paul Zeltwanger]]
+| {{Party shading/Republican}} | Republican
+| 2014
+| Running
+| Nikki Foster (Democratic)<ref name="auto10">{{Cite news|url=http://www.daytondailynews.com/news/local-govt--politics/who-running-local-state-house-and-senate-ballot-this-year/zSG6O6tifEEd0oPo2DbSVJ/|title=Who is running?: 18 local state House and Senate races on ballot this year|work=[[Dayton Daily News]]|date=February 8, 2018|access-date=February 15, 2018}}</ref> 39% 
+'''Paul Zeltwanger (Republican)'''<ref name=":0" /> 61%
+|-
+! 55
+| [[Nathan Manning]]
+| {{Party shading/Republican}} | Republican
+| 2014
+| Not running (running for Ohio Senate)
+| Kelly Kraus Mencke (Democratic)<ref name="auto11">{{Cite news|url=http://www.chroniclet.com/elections/2018/02/08/May-primary-will-feature-crowded-domestic-relations-judge-39-s-race.html|title=May primary will feature crowded domestic relations judge's race|work=Elyria Chronicle|date=February 8, 2018|access-date=February 15, 2018}}</ref> 45%
+'''Gayle Manning (Republican)'''<ref name=":0" /> 55%
+|-
+! 56
+| [[Dan Ramos]]
+| {{Party shading/Democratic}} | Democratic
+| 2010
+| Not running (term-limited)
+| '''Joe Miller (Democratic)'''<ref name="auto11"/> 63%
+Rob Weber (Republican) 37%
+|-
+! 57
+| [[Dick Stein]]
+| {{Party shading/Republican}} | Republican
+| 2016
+| Running
+| James Johnson (Democratic)<ref name="auto11"/> 37%
+'''Dick Stein (Republican)'''<ref name=":0" /> 63%
+|-
+! 58
+| [[Michele Lepore-Hagan]]
+| {{Party shading/Democratic}} | Democratic
+| 2014
+| Running
+|'''Michele Lepore-Hagan (Democratic)'''<ref name=":0" /> 70%
+
+David Simon (Republican)<ref name=":0" /> 30%
+|-
+! 59
+| [[John Boccieri]]
+| {{Party shading/Democratic}} | Democratic
+| 2015 (appointed)
+| {{Party shading/Republican}}|  Not running (running for state senator)<ref name=boccieri/> <br />Republican gain
+| Eric Ungaro (Democratic)<ref name="boardmanpoland">{{cite web|url=http://www.vindy.com/news/2017/sep/08/-township-trustees-throw-hat-in-ring-for/?mobile|title=A Boardman and a Poland trustee say they will run next year for the Ohio House|last=Skolnick|first=David|date=September 8, 2017|work=[[The Vindicator]]|access-date=September 8, 2017|archive-date=September 9, 2017|archive-url=https://web.archive.org/web/20170909004704/http://www.vindy.com/news/2017/sep/08/-township-trustees-throw-hat-in-ring-for/?mobile|url-status=dead}}</ref> 49.6%
+'''Don Manning (Republican)'''<ref name=":0" /> 50.4%
+|-
+! 60
+| [[John Rogers (Ohio politician)|John Rogers]]
+| {{Party shading/Democratic}} | Democratic
+| 2012
+| Running
+|'''John Rogers (Democratic)'''<ref name=":0" /> 54%
+Mike Zuren (Republican) 46%
+|-
+! 61
+| [[Ron Young (politician)|Ron Young]]
+| {{Party shading/Republican}} | Republican
+| 2010
+| Not running (term-limited)
+| Rick Walker (Democratic)<ref>{{Cite news|url=http://www.news-herald.com/general-news/20161007/rick-walker-candidate-for-ohio-house-61st-district-november-2016-general-election|title=Rick Walker, candidate for Ohio House 61st District, November 2016 general election|work=The News-Herald|access-date=February 15, 2018|archive-date=February 16, 2018|archive-url=https://web.archive.org/web/20180216025438/http://www.news-herald.com/general-news/20161007/rick-walker-candidate-for-ohio-house-61st-district-november-2016-general-election|url-status=dead}}</ref> 40%
+'''Jamie Callender (Republican)'''<ref name=":0" /> 60%
+|-
+! 62
+| [[Scott Lipps (politician)|Scott Lipps]]
+| {{Party shading/Republican}} | Republican
+| 2016
+| Running
+| Jim Staton (Democratic)<ref name="auto10"/> 26%
+'''Scott Lipps (Republican)'''<ref name=":0" /> 74%
+|-
+! 63
+| [[Glenn Holmes]]
+| {{Party shading/Democratic}} | Democratic
+| 2016
+| Running
+|'''Glenn Holmes (Democratic)'''<ref name=":0" /> 56%
+
+Jim Hughes (Republican)<ref name=":0" /> 44% 
+|-
+! 64
+| [[Michael O'Brien (Ohio politician)|Michael O'Brien]]
+| {{Party shading/Democratic}} | Democratic
+| 2014
+| Running
+|'''Michael O'Brien (Democratic)'''<ref name=":0" /> 55%
+
+Martha Yoder (Republican)<ref name=":0" /> 45%
+|-
+! 65
+| [[John Becker (politician)|John Becker]]
+| {{Party shading/Republican}} | Republican
+| 2012
+| Running
+|Patricia Lawrence (Democratic)<ref name=":0" /> 33%
+
+'''John Becker (Republican)'''<ref name=":0" /> 67%
+|-
+! 66
+| [[Doug Green (Ohio politician)|Doug Green]]
+| {{Party shading/Republican}} | Republican
+| 2012
+| Running
+|Jeff Richards (Democratic)<ref name=":0" /> 25%
+
+'''Doug Green (Republican)'''<ref name=":0" /> 75%
+|-
+! 67
+| [[Andrew Brenner]]
+| {{Party shading/Republican}} | Republican
+| 2010
+| Not running (term-limited; running for state senator)<ref name=tiberiseat/>
+| Cory Hoffman (Democratic)<ref>{{Cite news|url=http://www.ohiodeladems.org/2018-candidates|title=OHIO 2018 DEMOCRATIC CANDIDATES|work=Delaware County Democratic Party|date=February 8, 2018|access-date=February 15, 2018|archive-url=https://web.archive.org/web/20180216025303/http://www.ohiodeladems.org/2018-candidates|archive-date=February 16, 2018|url-status=dead}}</ref> 44%
+'''Kris Jordan (Republican)'''<ref name=":0" /> 56%
+|-
+! 68
+| [[Rick Carfagna]]
+| {{Party shading/Republican}} | Republican
+| 2016
+| Running
+|Kathleen Tate (Democratic)<ref name=":0" /> 34%
+
+'''Rick Carfagna (Republican)'''<ref name=":0" /> 64%
+Patrick Glasgow (Libertarian) 2%
+|-
+! 69
+| [[Steve Hambley]]
+| {{Party shading/Republican}} | Republican
+| 2014
+| Running
+|Carol Brenstuhl (Democratic)<ref name=":0" /> 36%
+
+'''Steve Hambley (Republican)'''<ref name=":0" /> 64%
+|-
+! 70
+| [[Darrell Kick]]
+| {{Party shading/Republican}} | Republican
+| 2016
+| Running
+|Steve Johnson (Democratic)<ref name=":0" /> 35%
+
+'''Darrell Kick (Republican)'''<ref name=":0" /> 65%
+|-
+! 71
+| [[Scott Ryan (Ohio politician)|Scott Ryan]]
+| {{Party shading/Republican}} | Republican
+| 2014
+|Running
+| Jeremy Blake (Democratic)<ref>{{Cite news|url=http://www.newarkadvocate.com/story/news/local/2017/07/05/newark-city-council-member-jeremy-blake-run-ohio-house-representatives/450914001/|title=Newark City Council member Jeremy Blake to run for Ohio House of Representatives|work=Newark Advocate|date=February 8, 2018|access-date=February 15, 2018}}</ref> 38%
+'''Scott Ryan (Republican)'''<ref name=":0" /> 62%
+|-
+! 72
+| [[Larry Householder]]
+| {{Party shading/Republican}} | Republican
+| 2016
+| Running
+| Tyler Shipley (Democratic)<ref>{{Cite news|url=http://www.newarkadvocate.com/story/news/local/2018/02/07/heath-brewery-co-founder-runs-licking-commissioner/316815002/|title=Heath brewery co-founder runs for Licking commissioner|work=Newark Advocate|date=February 8, 2018|access-date=February 15, 2018}}</ref> 31%
+'''Larry Householder (Republican)'''<ref name=":0" /> 69%
+|-
+! 73
+| [[Rick Perales]]
+| {{Party shading/Republican}} | Republican
+| 2012
+| Running
+|Kim McCarthy (Democratic)<ref name=":0" /> 40%
+
+'''Rick Perales (Republican)'''<ref name=":0" /> 60%
+|-
+! 74
+| [[Bill Dean (legislator)|Bill Dean]]
+| {{Party shading/Republican}} | Republican
+| 2016 (appointed)
+|Running
+|Anne Gorman (Democratic)<ref name=":0" /> 32%
+
+'''Bill Dean (Republican)'''<ref name=":0" /> 68%
+|-
+! 75
+| [[Kathleen Clyde]]
+| {{Party shading/Democratic}} | Democratic
+| 2010
+| Not running (term-limited; running for secretary of state)<ref name=kathleenclyde/>
+| '''Randi Clites (Democratic)'''<ref name="auto12">{{Cite news|url=http://www.record-courier.com/news/20180207/candidates-file-for-portage-county-primary-ballot|title=Candidates file for Portage County primary ballot|date=February 7, 2018|work=The Record-Courier|access-date=February 15, 2018|archive-date=February 16, 2018|archive-url=https://web.archive.org/web/20180216030111/http://www.record-courier.com/news/20180207/candidates-file-for-portage-county-primary-ballot|url-status=dead}}</ref> 52% <br />Jim Lutz (Republican)<ref name="auto12"/><br />Austin Bashore (write-in) (Green)<ref name="auto12"/><ref>{{cite news|url=https://www.co.portage.oh.us/sites/portagecountyoh/files/uploads/fwab_-_45_day_notice_-_11.6.18.pdf|title=Candidates file for Portage County}}{{Dead link|date=September 2026 |bot=InternetArchiveBot }}</ref> 48% 
+|-
+! 76
+| [[Sarah LaTourette]]
+| {{Party shading/Republican}} | Republican
+| 2014
+| Running
+| John Kennedy (Democratic)<ref name="auto12"/> 38%
+'''Sarah LaTourette (Republican)'''<ref name=":0" /> 62%
+|-
+! 77
+| [[Tim Schaffer]]
+| {{Party shading/Republican}} | Republican
+| 2014
+| Running
+|Brett Pransky (Democratic)<ref name=":0" /> 36%
+
+'''Tim Schaffer (Republican)'''<ref name=":0" /> 62%
+Kryssi Wichers (Libertarian) 2%
+|-
+! 78
+| [[Ron Hood]]
+| {{Party shading/Republican}} | Republican
+| 2012
+| Running
+|Amber Daniels (Democratic)<ref name=":0" /> 32%
+
+'''Ron Hood (Republican)'''<ref name=":0" /> 68%
+|-
+! 79
+| [[Kyle Koehler]]
+| {{Party shading/Republican}} | Republican
+| 2014
+|Running
+|Amanda Finfrock (Democratic)<ref name=":0" /> 40%
+
+'''Kyle Koehler (Republican)'''<ref name=":0" /> 60%
+|-
+! 80
+| [[Steve Huffman (Ohio politician)|Steve Huffman]]
+| {{Party shading/Republican}} | Republican
+| 2014
+| Not running (running for state senator)<ref name=stevehuffman/>
+| Scott Zimmerman (Democratic)<ref name="auto10"/> 25%
+'''Jena Powell (Republican)'''<ref name=":0" /> 75%
+|-
+! 81
+|[[Jim Hoops|James Hoops]]
+| {{Party shading/Republican}} | Republican
+| 2014
+| Running
+|Janet Breneman (Democratic)<ref name=":0" /> 25%
+
+'''James Hoops (Republican)''' 75%
+|-
+! 82
+| [[Craig Riedel]]
+| {{Party shading/Republican}} | Republican
+| 2016
+| Running
+| Aden Baker (Democratic)<ref>{{Cite web|url=http://www.timesbulletin.com/Content/News/Community-News/Article/Baker-to-run-for-state-representative-in-2018/2/1170/212317|title=Baker to run for state representative in 2018 – Times Bulletin|website=www.timesbulletin.com|language=en-us|access-date=October 27, 2017|archive-date=October 27, 2017|archive-url=https://web.archive.org/web/20171027181227/http://www.timesbulletin.com/Content/News/Community-News/Article/Baker-to-run-for-state-representative-in-2018/2/1170/212317|url-status=dead}}</ref> 26%
+'''Craig Riedel (Republican)'''<ref name=":0" /> 74%
+|-
+! 83
+| [[Robert Sprague]]
+| {{Party shading/Republican}} | Republican
+| 2011 (appointed)
+| Not running (running for treasurer)<ref name=robertsprague/>
+| Mary Harshfield (Democratic)<ref name=":0" /> 31%
+'''Jon Cross (Republican)'''<ref name=":0" /> 69%
+|-
+! 84
+| [[Keith Faber]]
+| {{Party shading/Republican}} | Republican
+| 2016
+| Not running (running for auditor)<ref name=faberauditor/>
+|Joseph Monbeck (Democratic)<ref name=":0" /> 18%
+
+'''Susan Manchester (Republican)'''<ref name=":0" /> 82%
+|-
+! 85
+| [[Nino Vitale]]
+| {{Party shading/Republican}} | Republican
+| 2014
+| Running
+| Garrett Baldwin (Democratic)<ref name=":0" /> 27%
+
+'''Nino Vitale (Republican)'''<ref name=":0" /> 73%
+|-
+|-
+! 86
+| [[Dorothy Pelanda]]
+| {{Party shading/Republican}} | Republican
+| 2011 (appointed)
+| Not running (running for secretary of state)<ref name=dorothypelanda/>
+|Glenn Coble (Democratic)<ref name=":0" /> 28%
+
+'''Tracy Richardson (Republican)''' 69%
+Taylor Hoffman (Libertarian) 3%
+|-
+! 87
+| Riordan McClain
+| {{Party shading/Republican}} | Republican
+|2018 (Appointed)
+| 
+|Mary Pierce-Broadwater (Democratic)<ref name=":0" /> 27%
+
+'''Riordan McClain (Republican)'''<ref name=":0" /> 73%
+|-
+! 88
+| [[Bill Reineke]]
+| {{Party shading/Republican}} | Republican
+| 2014
+| Running
+|[[Donald Trump sexual misconduct allegations|Rachel Crooks]] (Democratic)<ref>{{Cite news|url=https://www.politico.com/story/2018/02/05/rachel-crooks-trump-accuser-ohio-legislature-389960|title=Trump accuser running for Ohio state legislature|work=POLITICO|access-date=February 7, 2018}}</ref> 34%
+'''Bill Reineke (Republican)'''<ref name=":0" /> 66%
+|-
+! 89
+| [[Steve Arndt]]
+| {{Party shading/Republican}} | Republican
+| 2015 (appointed)
+| Running
+| Joe Helle (Democratic)<ref>{{cite web|url=http://www.sanduskyregister.com/story/201707140036|title=Oak Harbor mayor to run for state representative
+|work=[[Sandusky Register]]|last=Jackson|first=Tom|date=July 14, 2017|access-date=September 4, 2017}}</ref> 35%
+'''Steve Arndt (Republican)'''<ref name=":0" /> 65%
+|-
+! 90
+| [[Terry Johnson (Ohio politician)|Terry Johnson]]
+| {{Party shading/Republican}} | Republican
+| 2010
+| Not running (term-limited)
+|Adrienne Buckler (Democratic)<ref name=":0" /> 39%
+
+'''Brian Baldridge (Republican)'''<ref name=":0" /> 61%
+|-
+! 91
+| Shane Wilkin
+| {{Party shading/Republican}} | Republican
+| 2018 (appointed)
+| Running
+
+| Justin Grimes (Democratic)<ref name=":0" /> 26%
+'''Shane Wilkin  (Republican)'''<ref name=":0" /> 74%
+|-
+! 92
+| [[Gary Scherer]]
+| {{Party shading/Republican}} | Republican
+| 2012 (appointed)
+| Running
+|Beth Workman (Democratic)<ref name=":0" />
+
+Gary Scherer (Republican)<ref name=":0" />
+|-
+! 93
+| [[Ryan Smith (Ohio politician)|Ryan Smith]]
+| {{Party shading/Republican}} | Republican
+| 2012 (appointed)
+| Running
+|Jim Rumley (Democratic)<ref name=":0" /> 36%
+
+'''Ryan Smith (Republican)'''<ref name=":0" /> 64%
+|-
+! 94
+| [[Jay Edwards (politician)|Jay Edwards]]
+| {{Party shading/Republican}} | Republican
+| 2016
+| Running
+| Taylor Sappington (Democratic)<ref>{{cite web|url=https://www.athensnews.com/news/election/nelsonville-s-sappington-announces-bid-for-th-ohio-house-rep/article_a1c94d7c-cd5f-11e7-b702-7b915460dad0.html|title=Nelsonville's Sappington announces bid for 94th Ohio House rep seat|work=The Athens News|date=November 19, 2017|access-date=February 15, 2018}}</ref> 42%
+'''Jay Edwards (Republican)'''<ref name=":0" /> 58%
+|-
+! 95
+| [[Andy Thompson (Ohio politician)|Andy Thompson]]
+| {{Party shading/Republican}} | Republican
+| 2010
+| Not running (term-limited)
+| Dan Milleson (Democratic)<ref>{{cite web|url=http://www.timesreporter.com/news/20171123/harrison-county-native-dan-milleson-seeks-95th-house-district-seat|title=Harrison County native Dan Milleson seeks 95th House District seat|work=The Athens News|date=November 23, 2017|access-date=February 15, 2018|archive-date=February 16, 2018|archive-url=https://web.archive.org/web/20180216030629/http://www.timesreporter.com/news/20171123/harrison-county-native-dan-milleson-seeks-95th-house-district-seat|url-status=dead}}</ref> 34%
+D'''on Jones (Republican)'''<ref name=":0" /> 66%
+|-
+! 96
+| [[Jack Cera]]
+| {{Party shading/Democratic}} | Democratic
+| 2011 (appointed)
+| Running
+|'''Jack Cera (Democratic)'''<ref name=":0" /> 100%
+|-
+! 97
+| [[Brian Hill (Ohio politician)|Brian Hill]]
+| {{Party shading/Republican}} | Republican
+| 2011 (appointed)
+| Running
+|Kristine Geis (Democratic)<ref name=":0" /> 32%
+
+'''Brian Hill (Republican)'''<ref name=":0" /> 68%
+|-
+! 98
+| [[Al Landis]]
+| {{Party shading/Republican}} | Republican
+| 2010
+| Not running (term-limited)
+|Jeremiah Johnson (Democratic)<ref name=":0" /> 32%
+
+'''Brett Hillyer (Republican)'''<ref name=":0" /> 68%
+|-
+! 99
+| [[John Patterson (Ohio state representative)|John Patterson]]
+| {{Party shading/Democratic}} | Democratic
+| 2012
+| Running
+|'''John Patterson (Democratic)'''<ref name=":0" /> 53%
+
+Michael Pircio (Republican)<ref name=":0" /> 47%
+|}
+
+==Supreme Court==
+{{Infobox election
+| election_name = 2018 Ohio Supreme Court elections
+| country = Ohio
+| type = legislative
+| ongoing = no
+| previous_election = 2016 Ohio elections#Supreme Court
+| previous_year = 2016
+| next_election = 2020 Ohio elections#Supreme Court
+| next_year = 2020
+| seats_for_election = 2 seats of the [[Supreme Court of Ohio]]
+| election_date = {{Start date|2018|11|6}}
+| party1 = Ohio Republican Party
+| last_election1 = 7
+| seats1 = 0
+| seat_change1 = {{loss}} 2
+| popular_vote1 = 
+| percentage1 = 
+| swing1 = 
+| party2 = Ohio Democratic Party
+| last_election2 = 0
+| seats2 = '''2'''
+| seat_change2 = {{gain}} 2
+| popular_vote2 = 
+| percentage2 = 
+| swing2 = 
+| map_image = 
+| map_caption = 
+}}
+
+{{further|Ohio Supreme Court elections}}
+While judicial races in Ohio are technically non-partisan (party affiliations are not listed on the ballot), candidates run in party primaries. Terms are six years, and justices may run for re-election an unlimited number of times before their 70th birthday.
+
+===Associate justice (term commencing 01/01/2019)===
+
+{{Infobox election
+| election_name = 2018 Ohio Supreme Court election (O'Donnell seat)
+| country = Ohio
+| type = presidential
+| ongoing = no
+| turnout = 
+| previous_election = 2012 Ohio elections
+| previous_year = 2012
+| next_election = 2024 Ohio elections
+| next_year = 2024
+| election_date = November 6, 2018
+| image1 = 
+| nominee1 = '''[[Michael P. Donnelly (judge)|Michael Donnelly]]'''
+| color1 = c0c0c0
+| popular_vote1 = '''2,170,227'''
+| percentage1 = '''61.0%'''
+| image2 = 
+| nominee2 = Craig Baldwin
+| color2 = c0c0c0
+| popular_vote2 = 1,385,435
+| percentage2 = 39.0%
+| map_image = File:2018 Ohio Supreme Court, O'Donnell seat, map by county.svg
+| map_size = 200px
+| map_caption = County results<br />'''Donnelly:''' {{legend0|#51C2C2|50–60%}} {{legend0|#2AACAC|60–70%}} {{legend0|#009696|70–80%}}<br />'''Baldwin:''' {{legend0|#FF9A50|50–60%}} {{legend0|#EE8E50|60–70%}}
+| title = [[Supreme Court of Ohio|Justice]]
+| before_election = [[Terrence O'Donnell]]
+| before_party = Republican Party (United States)
+| after_election = [[Michael P. Donnelly (judge)|Michael Donnelly]]
+| after_party = Democratic Party (United States)
+}}
+
+Incumbent Associate Justice [[Terrence O'Donnell]], a Republican, did not seek reelection as he had reached the mandatory retirement age.
+
+====Republican primary====
+=====Candidates=====
+*Craig Baldwin, incumbent judge of the [[Ohio Court of Appeals]] for the 5th District<ref name="sc1">{{cite web |last1=Bruner |first1=Bethany |title=From file room to Supreme Court: Baldwin making run to state's highest bench |url=https://www.newarkadvocate.com/story/news/local/2018/01/11/file-room-supreme-court-baldwin-making-run-states-highest-bench/1016747001/ |website=Newark Advocate |date=January 11, 2018}}</ref>
+
+=====Results=====
+{{Election box begin no change
+| title = Republican primary results<ref name="OHgenr"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Craig Baldwin
+| party = Ohio Republican Party 
+| votes = 595,000
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 595,000
+| percentage = 100.0%
+}}
+{{Election box end}}
+
+====Democratic primary====
+=====Candidates=====
+* [[Michael P. Donnelly (judge)|Michael P. Donnelly]], [[Cuyahoga County]] Court of Common Pleas judge<ref>{{cite web |last1=Helberg |first1=Todd |title=Donnelly campaigns in Defiance for supreme court seat |url=https://www.crescent-news.com/news/local_news/donnelly-campaigns-in-defiance-for-supreme-court-seat/article_45d83cf4-85a5-512f-96d4-42f3b162526e.html | website= The Crescent-News|date=October 19, 2018}}</ref>
+
+=====Results=====
+{{Election box begin no change
+| title = Democratic primary results<ref name="OHgenr">{{cite web |title=2018 OFFICIAL ELECTIONS RESULTS |url=https://www.ohiosos.gov/elections/election-results-and-data/2018-official-elections-results/ |website=Ohio Secretary of State |access-date=May 1, 2021 }}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Michael P. Donnelly (judge)|Michael P. Donnelly]]
+| party = Ohio Democratic Party 
+| votes = 501,831
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 501,831
+| percentage = 100.0%
+}}
+{{Election box end}}
+
+====General election====
+=====Results=====
+{{Election box begin no change
+| title = 2018 Ohio Supreme Court associate justice (term commencing 01/01/2019) election<ref name="OHgenr"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Michael P. Donnelly (judge)|Michael P. Donnelly]]
+| party = Nonpartisan politician
+| votes = 2,170,227
+| percentage = 61.04%
+}}
+{{Election box candidate with party link no change
+| candidate = Craig Baldwin
+| party = Nonpartisan politician
+| votes = 1,385,435
+| percentage = 38.96%
+}}
+{{Election box total no change
+| votes = 3,555,662
+| percentage = 100.0%
+}}
+{{Election box gain with party link without swing
+|winner = Ohio Democratic Party 
+|loser = Ohio Republican Party 
+}}
+{{Election box end}}
+
+===Associate justice (term commencing 01/02/2019)===
+{{Infobox election
+| election_name = 2018 Ohio Supreme Court election (DeGenaro seat)
+| country = Ohio
+| type = presidential
+| ongoing = no
+| turnout = 
+| previous_election = 2012 Ohio elections
+| previous_year = 2012
+| next_election = 2024 Ohio elections
+| next_year = 2024
+| election_date = November 6, 2018
+| image1 = 
+| nominee1 = '''[[Melody J. Stewart]]'''
+| party1 = Nonpartisan politician
+| alliance1 = Democratic Party (United States)
+| popular_vote1 = '''1,853,418'''
+| percentage1 = '''52.6%'''
+| image2 = 
+| nominee2 = [[Mary DeGenaro]]
+| party2 = Nonpartisan politician
+| alliance2 = Republican Party (United States)
+| popular_vote2 = 1,667,258
+| percentage2 = 47.4%
+| map_image = File:2018 Ohio SC Seat 6 election.svg
+| map_size = 200px
+| map_caption = County results<br />'''Stewart:''' {{legend0|#51C2C2|50–60%}} {{legend0|#2AACAC|60–70%}}<br />'''DeGenaro:''' {{legend0|#FF9A50|50–60%}} {{legend0|#EE8E50|60–70%}}
+| title = [[Supreme Court of Ohio|Justice]]
+| before_election = [[Mary DeGenaro]]
+| before_party = Republican Party (United States)
+| after_election = [[Melody J. Stewart]]
+| after_party = Democratic Party (United States)
+}}
+Incumbent Associate Justice [[Mary DeGenaro]], a Republican, sought a full-term after being appointed by Governor [[John Kasich]], following the resignation of Justice [[William O'Neill (Ohio judge)|William O' Neill]], a Democrat.<ref>{{Cite web |url=http://www.cleveland.com/metro/index.ssf/2018/01/kasich_chooses_youngstown_judg.html |title=Kasich chooses Youngstown judge Mary DeGenaro for Ohio Supreme Court seat |last=Borchardt |first=Jackie |date=January 25, 2018 |website=cleveland.com |access-date=January 28, 2018}}</ref>
+
+====Republican primary====
+=====Candidates=====
+*[[Mary DeGenaro]], incumbent associate justice of the Supreme Court of Ohio<ref name="sc1"/>
+
+=====Results=====
+{{Election box begin no change
+| title = Republican primary results<ref name="OHgenr"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Mary DeGenaro]] (incumbent)
+| party = Ohio Republican Party 
+| votes = 581,244
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 581,244
+| percentage = 100.0
+}}
+{{Election box end}}
+
+====Democratic primary====
+=====Candidates=====
+*[[Melody J. Stewart]], incumbent judge of the Ohio Court of Appeals for the 8th District<ref>{{cite web |last1=Pelzer |first1=Jeremy |title=Appeals Court Judge Melody Stewart enters race for Ohio Supreme Court |url=https://apnews.com/article/courts-ohio-ohio-supreme-court-5e54f9dfbc9d4af88120fdca7ae991ff |website=[[Associated Press]] |date=January 30, 2018}}</ref>
+
+=====Results=====
+{{Election box begin no change
+| title = Democratic primary results<ref name="OHgenr"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Melody J. Stewart]]
+| party = Ohio Democratic Party 
+| votes = 500,084
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 500,084
+| percentage = 100.0%
+}}
+{{Election box end}}
+
+====General election====
+=====Results=====
+{{Election box begin no change
+| title = 2018 Ohio Supreme Court Associate Justice (term commencing 01/02/2019) election<ref name="OHgenr"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Melody J. Stewart]]
+| party = Nonpartisan politician
+| votes = 1,853,418
+| percentage = 52.64%
+}}
+{{Election box candidate with party link no change
+| candidate = [[Mary DeGenaro]] (incumbent)
+| party = Nonpartisan politician
+| votes = 1,667,258
+| percentage = 47.36%
+}}
+{{Election box total no change
+| votes = 3,520,676
+| percentage = 100.0%
+}}
+{{Election box gain with party link without swing
+|winner = Ohio Democratic Party 
+|loser = Ohio Republican Party 
+}}
+{{Election box end}}
+
+==Court of Appeals==
+{{further|Ohio District Courts of Appeals}}
+The Ohio District Courts of Appeals consists of 69 judges in 12 districts. Judges serve a six-year term. Approximately 1/3 of these positions were up for election in 2018.
+
+===District 1===
+====Term commencing 02/09/2019====
+{{Election box begin no change
+| title = 2018 Ohio Court of Appeals 1st District (term commencing 02/09/2019) election<ref name="OHgenr"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Pierre Bergeron
+| party = Nonpartisan politician
+| votes = 146,560
+| percentage = 51.56%
+}}
+{{Election box candidate with party link no change
+| candidate = Charles Miller (incumbent)
+| party = Nonpartisan politician
+| votes = 137,664
+| percentage = 48.44%
+}}
+{{Election box total no change
+| votes = 284,224
+| percentage = 100.0%
+}}
+{{Election box gain with party link without swing
+|winner = Ohio Democratic Party 
+|loser = Ohio Republican Party
+}}
+{{Election box end}}
+
+====Term commencing 02/10/2019====
+{{Election box begin no change
+| title = 2018 Ohio Court of Appeals 1st District (term commencing 02/10/2019) election<ref name="OHgenr"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Marilyn Zayas (incumbent)
+| party = Nonpartisan politician
+| votes = 175,094
+| percentage = 60.42%
+}}
+{{Election box candidate with party link no change
+| candidate = Dale Stalf
+| party = Nonpartisan politician
+| votes = 114,704
+| percentage = 39.58%
+}}
+{{Election box total no change
+| votes = 289,798
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Democratic Party 
+}}
+{{Election box end}}
+
+====Term commencing 02/11/2019====
+{{Election box begin no change
+| title = 2018 Ohio Court of Appeals 1st District (term commencing 02/11/2019) election<ref name="OHgenr"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Candace Crouse
+| party = Nonpartisan politician
+| votes = 159,122
+| percentage = 53.27%
+}}
+{{Election box candidate with party link no change
+| candidate = Dennis Deters (incumbent)
+| party = Nonpartisan politician
+| votes = 139,570
+| percentage = 46.73%
+}}
+{{Election box total no change
+| votes = 298,692
+| percentage = 100.0%
+}}
+{{Election box gain with party link without swing
+|winner = Ohio Democratic Party 
+|loser = Ohio Republican Party
+}}
+{{Election box end}}
+
+====Term commencing 02/12/2019====
+{{Election box begin no change
+| title = 2018 Ohio Court of Appeals 1st District (term commencing 02/12/2019) election<ref name="OHgenr"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Robert C. Winkler 
+| party = Nonpartisan politician
+| votes = 154,546
+| percentage = 51.47%
+}}
+{{Election box candidate with party link no change
+| candidate = Ginger Bock
+| party = Nonpartisan politician
+| votes = 145,695
+| percentage = 48.53%
+}}
+{{Election box total no change
+| votes = 300,241
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Republican Party 
+}}
+{{Election box end}}
+
+===District 2===
+====Term commencing 02/09/2019====
+{{Election box begin no change
+| title = 2018 Ohio Court of Appeals 2nd District (term commencing 02/09/2019)<ref name="OHgenr"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Jeffrey M. Welbaum (incumbent)
+| party = Nonpartisan politician
+| votes = 259,674
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 259,674
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Republican Party 
+}}
+{{Election box end}}
+
+===District 3===
+====Term commencing 02/09/2019====
+{{Election box begin no change
+| title = 2018 Ohio Court of Appeals 3rd District (term commencing 02/09/2019)<ref name="OHgenr"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = John R. Williamowksi (incumbent)
+| party = Nonpartisan politician
+| votes = 201,757
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 201,757
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Republican Party 
+}}
+{{Election box end}}
+
+===District 4===
+====Term commencing 02/09/2019====
+{{Election box begin no change
+| title = 2018 Ohio Court of Appeals 4th District (term commencing 02/09/2019)<ref name="OHgenr"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Jason P. Smith
+| party = Nonpartisan politician
+| votes = 86,992
+| percentage = 52.7
+}}
+{{Election box candidate with party link no change
+| candidate = Marie Hoover (incumbent)
+| party = Nonpartisan politician
+| votes = 78,092
+| percentage = 47.3
+}}
+{{Election box total no change
+| votes = 165,084
+| percentage = 100.0%
+}}
+{{Election box gain with party link without swing
+|winner = Ohio Republican Party 
+|loser = Ohio Democratic Party
+}}
+{{Election box end}}
+
+====Term commencing 02/10/2019====
+{{Election box begin no change
+| title = 2018 Ohio Court of Appeals 4th District (term commencing 02/10/2019)<ref name="OHgenr"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Mike Hess
+| party = Nonpartisan politician
+| votes = 102,284
+| percentage = 61.06%
+}}
+{{Election box candidate with party link no change
+| candidate = Valarie K. Gerlach
+| party = Nonpartisan politician
+| votes = 65,229
+| percentage = 38.94%
+}}
+{{Election box total no change
+| votes = 167,513
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Republican Party 
+}}
+{{Election box end}}
+
+===District 5===
+====Term commencing 02/09/2019====
+{{Election box begin no change
+| title = 2018 Ohio Court of Appeals 5th District (term commencing 02/09/2019) election<ref name="OHgenr"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = John W. Wise (incumbent)
+| party = Nonpartisan politician
+| votes = 372,384
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes =372,384
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Republican Party 
+}}
+{{Election box end}}
+
+====Term commencing 02/10/2019====
+{{Election box begin no change
+| title = 2018 Ohio Court of Appeals 5th District (term commencing 02/10/2019) election<ref name="OHgenr"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Scott Gwin (incumbent)
+| party = Nonpartisan politician
+| votes = 358,832
+| percentage =100.0%
+}}
+{{Election box total no change
+| votes = 358,832
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Democratic Party 
+}}
+{{Election box end}}
+
+====Term commencing 02/11/2019====
+{{Election box begin no change
+| title = 2018 Ohio Court of Appeals 5th District (term commencing 02/11/2019) election<ref name="OHgenr"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Patricia A. Delaney (incumbent)
+| party = Nonpartisan politician
+| votes = 254,699
+| percentage = 59.52%
+}}
+{{Election box candidate with party link no change
+| candidate = Andrew King
+| party = Nonpartisan politician
+| votes = 173,237
+| percentage = 40.48%
+}}
+{{Election box total no change
+| votes = 427,936
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Democratic Party 
+}}
+{{Election box end}}
+
+===District 6===
+====Term commencing 02/09/2019====
+{{Election box begin no change
+| title = 2018 Ohio Court of Appeals 6th District (term commencing 02/09/2019) election<ref name="OHgenr"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Gene A. Zmuda
+| party = Nonpartisan politician
+| votes = 144,884
+| percentage = 55.41%
+}}
+{{Election box candidate with party link no change
+| candidate = Joel M. Kuhlman
+| party = Nonpartisan politician
+| votes = 116,577
+| percentage = 44.59%
+}}
+{{Election box total no change
+| votes = 261,461
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Republican Party 
+}}
+{{Election box end}}
+
+===District 7===
+====Term commencing 02/09/2019====
+{{Election box begin no change
+| title = 2018 Ohio Court of Appeals 7th District (term commencing 02/09/2019) election<ref name="OHgenr"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = David A. D'Apolito
+| party = Nonpartisan politician
+| votes = 88,253
+| percentage = 51.11%
+}}
+{{Election box candidate with party link no change
+| candidate = Kathleen Bartlett 
+| party = Nonpartisan politician
+| votes = 84,409
+| percentage = 48.89%
+}}
+{{Election box total no change
+| votes = 172,662
+| percentage = 100.0%
+}}
+{{Election box gain with party link without swing
+|winner = Ohio Democratic Party 
+|loser = Ohio Republican Party
+}}
+{{Election box end}}
+
+===District 8===
+====Term commencing 01/01/2019====
+{{Election box begin no change
+| title = 2018 Ohio Court of Appeals 8th District (term commencing 01/01/2019) election<ref name="OHgenr"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Frank D. Celebrezze Jr (incumbent)
+| party = Nonpartisan politician
+| votes = 276,766
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 276,766
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Democratic Party 
+}}
+{{Election box end}}
+
+====Term commencing 01/02/2019====
+{{Election box begin no change
+| title = 2018 Ohio Court of Appeals 8th District (term commencing 01/02/2019) election<ref name="OHgenr"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Michelle J. Sheehan
+| party = Nonpartisan politician
+| votes = 281,204
+| percentage = 74.17%
+}}
+{{Election box candidate with party link no change
+| candidate = Raymond C. Headen
+| party = Nonpartisan politician
+| votes =  97,916
+| percentage = 25.83%
+}}
+{{Election box total no change
+| votes = 379,120
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Democratic Party 
+}}
+{{Election box end}}
+
+====Term commencing 01/03/2019====
+{{Election box begin no change
+| title = 2018 Ohio Court of Appeals 8th District (term commencing 01/03/2019) election<ref name="OHgenr"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Eileen T. Gallagher (incumbent)
+| party = Nonpartisan politician
+| votes = 275,986
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 275,986
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Democratic Party 
+}}
+{{Election box end}}
+
+====Term commencing 02/09/2019====
+{{Election box begin no change
+| title = 2018 Ohio Court of Appeals 8th District (term commencing 02/09/2019) election<ref name="OHgenr"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Mary J. Boyle (incumbent)
+| party = Nonpartisan politician
+| votes = 274,395
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes =274,395
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Democratic Party 
+}}
+{{Election box end}}
+
+===District 9===
+====Term commencing 02/09/2019====
+{{Election box begin no change
+| title = 2018 Ohio Court of Appeals 9th District (term commencing 02/09/2019) election<ref name="OHgenr"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Jennifer Hensal (incumbent)
+| party = Nonpartisan politician
+| votes = 179,997
+| percentage = 52.24%
+}}
+{{Election box candidate with party link no change
+| candidate = Diana Colavecchio
+| party = Nonpartisan politician
+| votes = 164,567
+| percentage = 47,76%
+}}
+{{Election box total no change
+| votes = 344,564
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Republican Party 
+}}
+{{Election box end}}
+
+===District 10===
+====Term commencing 02/09/2019====
+{{Election box begin no change
+| title = 2018 Ohio Court of Appeals 10th District (term commencing 02/09/2019) election<ref name="OHgenr"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Laurel Beatty Blunt 
+| party = Nonpartisan politician
+| votes =  317,597
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 317,597
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Democratic Party 
+}}
+{{Election box end}}
+
+====Term commencing 02/10/2019====
+{{Election box begin no change
+| title = 2018 Ohio Court of Appeals 10th District (term commencing 02/10/2019) election<ref name="OHgenr"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Betsy Luper Schuster (incumbent)
+| party = Nonpartisan politician
+| votes = 252,537
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 252,537
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Republican Party 
+}}
+{{Election box end}}
+
+===District 11===
+====Term commencing 02/09/2019====
+{{Election box begin no change
+| title = 2018 Ohio Court of Appeals 11th District (term commencing 02/09/2019) election<ref name="OHgenr"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Matt Lynch
+| party = Nonpartisan politician
+| votes =  142,373
+| percentage = 55.53%
+}}
+{{Election box candidate with party link no change
+| candidate = Darya Klammer
+| party = Nonpartisan politician
+| votes =  114,022
+| percentage = 44.47%
+}}
+{{Election box total no change
+| votes = 256,395
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Republican Party 
+}}
+{{Election box end}}
+
+====Term commencing 02/10/2019====
+{{Election box begin no change
+| title = 2018 Ohio Court of Appeals 11th District (term commencing 02/10/2019) election<ref name="OHgenr"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Mary Jane Trapp
+| party = Nonpartisan politician
+| votes = 134,620
+| percentage = 53.84%
+}}
+{{Election box candidate with party link no change
+| candidate = Casey O'Brien
+| party = Nonpartisan politician
+| votes = 115,425
+| percentage = 46.16%
+}}
+{{Election box total no change
+| votes = 250,045
+| percentage = 100.0%
+}}
+{{Election box gain with party link without swing
+|winner = Ohio Democratic Party 
+|loser = Ohio Republican Party
+}}
+{{Election box end}}
+
+===District 12===
+====Term commencing 02/09/2019====
+{{Election box begin no change
+| title = 2018 Ohio Court of Appeals 12th District (term commencing 02/09/2019) election<ref name="OHgenr"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Stephen W. Powell (incumbent)
+| party = Nonpartisan politician
+| votes =  260,804
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 260,804
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Republican Party 
+}}
+{{Election box end}}
+
+==State Board of Education==
+{{Election box begin no party no change
+| title = Ohio State Board of Education District 2<ref name=ballotpedia>{{Cite web|url=https://ballotpedia.org/Ohio_State_Board_of_Education_election,_2018|title = Ohio State Board of Education election, 2018}}</ref>
+}}
+{{Election box winning candidate no party no change
+| candidate = [[Kirsten Hill]]
+| votes = 47,424
+| percentage = 17.8
+}}
+{{Election box candidate no party no change
+| candidate = [[Jeanine Donaldson]]
+| votes = 46,341
+| percentage = 17.4
+}}
+{{Election box candidate no party no change
+| candidate = [[Sue Larimer]]
+| votes = 42,867
+| percentage = 16.1
+}}
+{{Election box candidate no party no change
+| candidate = [[Annette Shine]]
+| votes = 35,960
+| percentage = 13.5
+}}
+{{Election box candidate no party no change
+| candidate = [[Vicki Donovan-Lyle]]
+| votes = 34,981
+| percentage = 13.1
+}}
+{{Election box candidate no party no change
+| candidate = [[Charles Froehlich]] (incumbent)
+| votes = 30,864
+| percentage = 11.6
+}}
+{{Election box candidate no party no change
+| candidate = [[W. Roger Knight]]
+| votes = 28,341
+| percentage = 10.6
+}}
+{{Election box total no party no change
+| votes = 266,778
+| percentage = 100.0
+}}
+{{Election box end}}
+{{Election box begin no party no change
+| title = Ohio State Board of Education District 3<ref name=ballotpedia />
+}}
+{{Election box winning candidate no party no change
+| candidate = [[Charlotte McGuire]] (incumbent)
+| votes = 130,512
+| percentage = 42.5
+}}
+{{Election box candidate no party no change
+| candidate = [[Dawn Wojcik]]
+| votes = 91,136
+| percentage = 29.7
+}}
+{{Election box candidate no party no change
+| candidate = [[Matthew McGowan]]
+| votes = 85,673
+| percentage = 27.9
+}}
+{{Election box total no party no change
+| votes = 307,321
+| percentage = 100.0
+}}
+{{Election box end}}
+{{Election box begin no party no change
+| title = Ohio State Board of Education District 4<ref name=ballotpedia />
+}}
+{{Election box winning candidate no party no change
+| candidate = [[Jenny Kilgore]]
+| votes = 179,765
+| percentage = 50.4
+}}
+{{Election box candidate no party no change
+| candidate = [[Pat Bruns]] (incumbent)
+| votes = 176,894
+| percentage = 49.6
+}}
+{{Election box total no party no change
+| votes = 356,659
+| percentage = 100.0
+}}
+{{Election box end}}
+{{Election box begin no party no change
+| title = Ohio State Board of Education District 7<ref name=ballotpedia />
+}}
+{{Election box winning candidate no party no change
+| candidate = [[Sarah Fowler]] (incumbent)
+| votes = 259,997
+| percentage = 100.0
+}}
+{{Election box end}}
+{{Election box begin no party no change
+| title = Ohio State Board of Education District 8<ref name=ballotpedia />
+}}
+{{Election box winning candidate no party no change
+| candidate = [[John Hagan (Ohio politician)|John Hagan]]
+| votes = 128,854
+| percentage = 42.0
+}}
+{{Election box candidate no party no change
+| candidate = [[Kathleen Purdy]]
+| votes = 101,706
+| percentage = 33.2
+}}
+{{Election box candidate no party no change
+| candidate = [[Melissa Dahman]]
+| votes = 76,104
+| percentage = 24.8
+}}
+{{Election box total no party no change
+| votes = 306,664
+| percentage = 100.0
+}}
+{{Election box end}}
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://votesmart.org/election/2018/S/OH/ Candidates] at [[Vote Smart]] 
+*[https://ballotpedia.org/Ohio_elections,_2018 Candidates] at [[Ballotpedia]]
+*[https://www.followthemoney.org/tools/election-overview?s=OH&y=2018 Campaign finance] at [[OpenSecrets]]
+
+'''Official campaign websites for attorney general candidates'''
+*[https://web.archive.org/web/20170823212204/http://steveforohio.com/ Steve Dettelbach (D) for Attorney General]
+*[https://daveyost.com/ Dave Yost (R) for Attorney General]
+
+'''Official campaign websites for secretary of state candidates'''
+*[http://kathleenclyde.com/ Kathleen Clyde (D) for Secretary of State] {{Webarchive|url=https://web.archive.org/web/20170526111101/http://kathleenclyde.com/ |date=May 26, 2017 }}
+*[https://www.franklarose.com/ Frank LaRose (R) for Secretary of State]
+
+'''Official campaign websites for treasurer candidates'''
+*[https://www.robforohio.com/ Rob Richardson (D) for Treasurer]
+*[http://spragueforohio.com/ Robert Sprague (R) for Treasurer]
+
+'''Official campaign websites for auditor candidates'''
+*[http://keithfaber.org/ Keith Faber (R) for Auditor]
+*[https://web.archive.org/web/20170827170756/https://www.zackspaceforohio.com/ Zack Space (D) for Auditor]
+
+{{2018 United States elections}}
+
+{{DEFAULTSORT:Ohio General Election, 2018}}
+[[Category:2018 elections in Ohio| ]]
+[[Category:2018 elections in the United States by state or territory]]

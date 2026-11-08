@@ -1,0 +1,170 @@
+{{Short description|none}}
+{{Use mdy dates|date=February 2026}}
+{{Use American English|date=February 2026}}
+{{infobox election
+| election_name      = 2006 Ohio State Treasurer election
+| country            = Ohio
+| type               = presidential
+| ongoing            = no
+| turnout            =
+| previous_election  = 2002 Ohio State Treasurer election
+| previous_year      = 2002
+| next_election      = 2010 Ohio State Treasurer election
+| next_year          = 2010
+| election_date      = November 7, 2006
+| image1             = File:Richard Cordray.jpg
+| image_size = 150x150px
+| nominee1           = '''[[Richard Cordray]]'''
+| party1             = Democratic Party (United States)
+| popular_vote1      = '''2,223,282'''
+| percentage1        = '''57.87%'''
+| image2             = File:Sandra O'Brien (cropped).jpg
+| nominee2           = [[Sandra O'Brien]]
+| party2             = Republican Party (United States)
+| popular_vote2      = 1,618,625
+| percentage2        = 42.13%
+| map_image          = 2006 Ohio State Treasurer election results map by county.svg
+| map_size           = 210px
+| map_caption = County results<br />'''Cordray:''' {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584cde|70–80%}}<br />'''O'Brien:''' {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}}
+| title              = [[Ohio State Treasurer|State Treasurer]]
+| before_election    = [[Jennette Bradley]]
+| before_party       = Republican Party (United States)
+| after_election     = [[Richard Cordray]]
+| after_party        = Democratic Party (United States)
+|}}
+{{ElectionsOH}}
+The '''2006 Ohio State Treasurer election''' was held on November 7, 2006. The Democratic nominee, [[Franklin County, Ohio|Franklin County]] Treasurer [[Richard Cordray]], defeated Republican challenger [[Ashtabula County, Ohio|Ashtabula County]] Auditor [[Sandra O'Brien]] by a wide margin of 15 points. Cordray would not serve out a full term as treasurer, as he would go on to resign in 2009 in order to take office after winning the [[2008 Ohio Attorney General special election]] held following [[Marc Dann]]'s resignation.
+
+As of 2025, this is the last time Democrats have won the office of Ohio State Treasurer.
+
+== Background ==
+Following [[Joe Deters]]' victory in the 2002 Ohio State Treasurer election, he went on to resign in 2004 after winning election to the office of [[Hamilton County, Ohio|Hamilton County]] Prosecutor. To fill the vacancy, Governor [[Bob Taft]] appointed Lieutenant Governor [[Jennette Bradley]] to the office.
+
+== Republican primary ==
+
+=== Candidates ===
+*[[Jennette Bradley]], incumbent State Treasurer
+*[[Sandra O'Brien]], [[Ashtabula County, Ohio|Ashtabula County]] Auditor
+
+=== Campaign ===
+The Republican primary was held on May 2, 2006. The incumbent State Treasurer Jennette Bradley faced a primary challenge from Ashtabula County Auditor Sandra O'Brien. Bradley ran a lax campaign, with her advisors telling her to save her funds until the election. O'Brien attacked Bradley for her more left-leaning views, such as being pro-choice, and positioned herself as the more conservative candidate.<ref name="Ideastream">{{cite web |url=https://www.ideastream.org/2006-10-19/state-treasurer-candidates-debate |title=State Treasurer Candidates Debate <nowiki>|</nowiki> Ideastream Public Media|date=October 19, 2006}}</ref> In the end, O'Brien won an upset victory over Bradley, narrowly defeating her by three points.
+
+=== Results ===
+{{Election box begin no change
+| title = Republican primary results<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/2006-elections-results/republican-treasurer-of-state-may-2-2006/ |title=Republican Treasurer of State: May 2, 2006 - Ohio Secretary of State |website=Ohio Secretary of State |archive-url=https://web.archive.org/web/20221005175458/https://www.ohiosos.gov/elections/election-results-and-data/2006-elections-results/republican-treasurer-of-state-may-2-2006/ |archive-date=2022-10-05}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Sandra O'Brien
+| party = Republican Party (United States)
+| votes = 341,531
+| percentage = 51.68
+}}
+{{Election box candidate with party link no change
+| candidate = Jennette Bradley (incumbent)
+| party = Republican Party (United States)
+| votes = 319,280
+| percentage = 48.32
+}}
+{{Election box total no change
+| votes = 660,811
+| percentage= 100
+}}
+{{Election box end}}
+
+== Democratic primary ==
+
+=== Candidates ===
+*[[Richard Cordray]], [[Franklin County, Ohio|Franklin County]] Treasurer
+
+=== Campaign ===
+The Democratic primary was held on May 2, 2006. Cordray was initially challenged for the Democratic nomination by [[Montgomery County, Ohio|Montgomery County]] Treasurer Hugh Quill, but Quill withdrew from the race before the primaries.<ref>{{cite web |url=https://www.ohiosos.gov/globalassets/elections/directives/2006/dir2006-44.pdf |title=Withdrawal of Statewide Candidacy: HUGH QUILL (Democratic Ballot) "REMOVAL OF NAMES OF WITHDRAWN CANDIDATES FROM THE BALLOT” |website=Ohio Secretary of State}}</ref>
+
+=== Results ===
+{{Election box begin no change
+| title = Democratic primary results<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/2006-elections-results/treasurer-of-state-november-7-2006/ |title=Democratic Treasurer of State: May 2, 2006 - Ohio Secretary of State |website=Ohio Secretary of State |archive-url=https://web.archive.org/web/20210922014743/https://www.ohiosos.gov/elections/election-results-and-data/2006-elections-results/democratic-treasurer-of-state-may-2-2006/ |archive-date=2021-09-22}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Richard Cordray
+| party = Democratic Party (United States)
+| votes = 499,341
+| percentage = 100
+}}
+{{Election box total no change
+| votes = 499,341
+| percentage= 100
+}}
+{{Election box end}}
+
+== General election ==
+
+=== Campaign ===
+Cordray substantially outraised O'Brien, by the time of the October debate having raised over $1.5 million, while O'Brien trailed far behind at only $25,000.<ref name="Ideastream" />
+
+=== Candidates ===
+*[[Richard Cordray]], [[Franklin County, Ohio|Franklin County]] Treasurer (Democratic)
+*[[Sandra O'Brien]], [[Ashtabula County, Ohio|Ashtabula County]] Auditor (Republican)
+
+=== Debates ===
+* [https://flash.ulib.csuohio.edu/cmp/cityclubvideo/program1141a.html Complete video of debate], October 18, 2006
+
+=== Endorsements ===
+{{Endorsements box|title=Richard Cordray (D)|list=
+;Newspapers
+*[[The Blade (Toledo, Ohio)|The Blade]]<ref>{{Cite web|url=https://www.toledoblade.com/local/politics/2006/10/25/Blade-Endorsement-Cordray-for-Ohio-Treasurer/stories/200610250025|title=Blade Endorsement: Cordray for Ohio Treasurer <nowiki>|</nowiki> The Blade|date=October 25, 2006|access-date=October 5, 2025|website=The Blade |archive-date=2025-10-05 |archive-url=https://web.archive.org/web/20251005164311/https://www.toledoblade.com/local/politics/2006/10/25/Blade-Endorsement-Cordray-for-Ohio-Treasurer/stories/200610250025}}</ref>
+*[[Morning Journal]]<ref>{{Cite web|url=https://www.morningjournal.com/2006/10/13/richard-cordray-best-choice-for-ohio-voters-in-state-treasurer-race/|title=Richard Cordray best choice for Ohio voters in state treasurer race|date=October 13, 2006|access-date=October 5, 2025|website=Morning Journal |archive-date=2022-08-14 |archive-url=https://web.archive.org/web/20220814000052/https://www.morningjournal.com/2006/10/13/richard-cordray-best-choice-for-ohio-voters-in-state-treasurer-race/}}</ref>
+;Individuals
+*Former [[United States Senate|Senator]] [[John Glenn]] (1974-1999)<ref>{{Cite web|url=https://www.youtube.com/watch?v=5oiwabVjsh0|title=Richard Cordray for State Treasurer with Senator John Glenn |access-date=October 5, 2025|website=YouTube}}</ref>}}
+
+{{Endorsements box|title=Sandra O'Brien (R)|list=;Organizations
+*Ohio Buckeyes Firearms Association<ref>{{Cite web|url=https://www.buckeyefirearms.org/why-sandra-o%E2%80%99brien-won|title=Why Sandra O'Brien Won <nowiki>|</nowiki> Buckeyes Firearms Association|author=Chris Chumita|date=May 8, 2006|access-date=October 5, 2025|website=Ohio Buckeyes Firearms Association |archive-date=2025-10-05 |archive-url=https://web.archive.org/web/20251005155641/https://www.buckeyefirearms.org/why-sandra-o%E2%80%99brien-won}}</ref>}}
+
+=== Results ===
+The election was not close, with Cordray winning by 15 points, sweeping 51 of Ohio's 88 counties.
+{{Election box begin | title=2006 Ohio State Treasurer election<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/2006-elections-results/treasurer-of-state-november-7-2006/ |title=Treasurer of State: November 7, 2006 - Ohio Secretary of State |date= |website=Ohio Secretary of State |access-date=October 5, 2025 |archive-date=2021-12-03 |archive-url=https://web.archive.org/web/20211203165056/https://www.ohiosos.gov/elections/election-results-and-data/2006-elections-results/treasurer-of-state-november-7-2006/ |url-status=live}}</ref>
+}}
+{{Election box winning candidate with party link|
+ |party = Democratic Party (United States)
+ |candidate = [[Richard Cordray]]
+ |votes = 2,223,282
+ |percentage = 57.87%
+ |change = +11.19%
+}}
+{{Election box candidate with party link|
+ |party = Republican Party (United States)
+ |candidate = [[Sandra O'Brien]]
+ |votes = 1,618,625
+ |percentage = 42.13%
+ |change = -11.19%
+}}
+{{Election box majority|
+ |votes = '''604,657'''
+ |percentage = '''15.74%'''
+ |change = +9.1%
+}}
+{{Election box turnout|
+ |votes = '''3,841,907'''
+ |percentage =
+ |change =
+}}
+{{Election box gain with party link|
+  |winner     = Democratic Party (United States)
+  |loser      = Republican Party (United States)
+  |swing      =
+}}
+{{Election box end}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+'''Official campaign websites (archived)'''
+*[https://web.archive.org/web/20060821020404/http://www.cordraycommittee.com/index.php Richard Cordray (D) for Ohio State Treasurer]
+*[https://web.archive.org/web/20051119143313/http://www.hughquill.com:80/ Hugh Quill (D) for Ohio State Treasurer]
+*[https://web.archive.org/web/20061107081533/http://www.sandraobrien.com:80/ Sandra O'Brien (R) for Ohio State Treasurer]
+*[https://web.archive.org/web/20060209050054/http://bradleyforohio.com/ Jennette Bradley (R) for Ohio State Treasurer]
+
+{{2006 United States elections}}
+
+[[Category:2006 elections in Ohio|State Treasurer]]
+[[Category:2006 United States state treasurer elections|Ohio]]
+[[Category:Ohio State Treasurer elections]]

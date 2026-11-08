@@ -1,0 +1,124 @@
+{{Short description|none}}
+{{Use mdy dates|date=February 2026}}
+{{Use American English|date=February 2026}}
+{{infobox election
+| election_name      = 1998 Ohio State Treasurer election
+| country            = Ohio
+| type               = presidential
+| ongoing            = no
+| turnout            =
+| previous_election  = 1994 Ohio State Treasurer election
+| previous_year      = 1994
+| next_election      = 2002 Ohio State Treasurer election
+| next_year          = 2002
+| election_date      = November 3, 1998
+| image1             = 3x4.svg
+| image_size = 150x150px
+| nominee1           = '''[[Joe Deters]]'''
+| party1             = Republican Party (United States)
+| popular_vote1      = '''1,719,143'''
+| percentage1        = '''53.86%'''
+| image2             = 3x4.svg
+| nominee2           = John A. Donofrio	
+| party2             = Democratic Party (United States)
+| popular_vote2      = 1,472,940
+| percentage2        = 46.14%
+| map_image          = 1998 Ohio State Treasurer election results map by county.svg
+| map_size           = 210px
+| map_caption = County results<br />'''Deters:''' {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#d72f30|70–80%}}<br />'''Donofrio:''' {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}}
+| title              = [[Ohio State Treasurer|State Treasurer]]
+| before_election    = [[Ken Blackwell]]
+| before_party       = Republican Party (United States)
+| after_election     = [[Joe Deters]]
+| after_party        = Republican Party (United States)
+|}}
+{{ElectionsOH}}
+The '''1998 Ohio State Treasurer election''' was held on November 3, 1998, to elect the [[Ohio State Treasurer]]. Primaries were held on May 3, 1998. Incumbent Republican Ohio State Treasurer [[Ken Blackwell]] chose not to run for re-election, instead running for [[Ohio Secretary of State]]. Republican [[Hamilton County, Ohio|Hamilton County]] Prosecuting Attorney [[Joe Deters]] won the election, defeating Democratic [[Summit County, Ohio|Summit County]] Treasurer John A. Donofrio by seven percentage points.
+
+== Republican primary ==
+=== Candidates ===
+*[[Joe Deters]], [[Hamilton County, Ohio|Hamilton County]] Prosecuting Attorney
+=== Campaign ===
+Deters won the Republican nomination unopposed.
+=== Results ===
+{{Election box begin no change
+| title = Republican primary results<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/1990-1999-official-election-results/republican-overview-may-3-1998/ |title=Republican Overview: May 3, 1998 - Ohio Secretary of State |website=Ohio Secretary of State |access-date=November 1, 2025}}</ref>
+}}
+{{Election box winning candidate with party link no change
+ | candidate  = [[Joe Deters]]
+ | party      = Republican Party (United States)
+ | votes      = 589,802
+ | percentage = 100%
+}}
+{{Election box total no change
+ | votes      =  589,802
+ | percentage = 100.00%
+}}
+{{Election box end}}
+
+== Democratic primary ==
+=== Candidates ===
+*John A. Donofrio, [[Summit County, Ohio|Summit County]] Treasurer
+*Helen Knipe Smith, former [[Cleveland City Council]] member
+=== Campaign ===
+Donofrio won the nomination by a comfortable margin, defeating former Cleveland City Council member Helen Knipe Smith by eight percentage points.
+=== Results ===
+{{Election box begin no change
+| title = Democratic primary results<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/1990-1999-official-election-results/democratic-overview-may-3-1998/ |title=Democratic Overview: May 3, 1998 - Ohio Secretary of State |website=Ohio Secretary of State |access-date=November 1, 2025}}</ref>
+}}
+{{Election box winning candidate with party link no change
+ | candidate  = John A. Donofrio
+ | party      = Democratic Party (United States)
+ | votes      = 380,314
+ | percentage = 54.25%
+}}
+{{Election box candidate with party link no change
+ | candidate  = Helen Knipe Smith
+ | party      = Democratic Party (United States)
+ | votes      = 320,775
+ | percentage = 45.75%
+}}
+{{Election box total no change
+ | votes      =  701,089
+ | percentage = 100.00%
+}}
+{{Election box end}}
+
+== General election ==
+=== Candidates ===
+*[[Joe Deters]], [[Hamilton County, Ohio|Hamilton County]] Prosecuting Attorney (Republican)
+*John A. Donofrio, [[Summit County, Ohio|Summit County]] Treasurer (Democratic)
+=== Results ===
+{{Election box begin | title=1998 Ohio State Treasurer election results<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/1990-1999-official-election-results/overview-november-3-1998/ |title=Overview: November 3, 1998 - Ohio Secretary of State |website=Ohio Secretary of State |access-date=October 28, 2025}}</ref>
+}}
+{{Election box winning candidate with party link|
+ |party = Republican Party (United States)
+ |candidate = [[Joe Deters]]
+ |votes = 1,719,143
+ |percentage = 53.86%
+ |change = -0.12%
+}}
+{{Election box candidate with party link|
+ |party = Democratic Party (United States)
+ |candidate = John A. Donofrio
+ |votes = 1,472,940
+ |percentage = 46.14%
+ |change = +3.82%
+}}
+{{Election box total no change
+ | votes      =  3,192,083
+ | percentage = 100.00%
+}}
+{{Election box hold with party link no swing
+ | winner = Republican Party (United States)
+}}
+{{Election box end}}
+
+== References ==
+{{reflist}}
+
+{{United States elections, 1998}}
+
+[[Category:1998 elections in Ohio|State Treasurer]]
+[[Category:1998 United States state treasurer elections]]
+[[Category:Ohio State Treasurer elections]]

@@ -1,0 +1,6 @@
+wayback-get: Archive backoff, waiting 345s
+200 d776e2c9929fe415400a8e536e717baaaee9c0ce76196529540efbd3d53bb08c miss https://web.archive.org/cdx/search/cdx?url=sos.state.oh.us/sos/elections/Research/electResultsMain/&matchType=prefix&collapse=urlkey&filter=statuscode:200&output=json&limit=3000
+wayback-get: Archive backoff, waiting 1790s
+200 364b0b133e2841ba01b2ff5eed45c872ca99f85b690234a8646229105685ce88 miss https://web.archive.org/cdx/search/cdx?url=ohiosos.gov/globalassets/elections/&matchType=prefix&collapse=urlkey&filter=statuscode:200&output=json&limit=3000
+wayback-get: Archive backoff, waiting 1766s
+200 f9dc28706850b3386b96b6c776c145d3f757746ea1c3d15aee916253fcba07d9 miss https://web.archive.org/cdx/search/cdx?url=ohiosos.gov/elections/election-results-and-data/&matchType=prefix&collapse=urlkey&filter=statuscode:200&output=json&limit=3000

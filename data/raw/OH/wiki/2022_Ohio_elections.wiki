@@ -1,0 +1,1272 @@
+{{Short description|none}}
+{{Use American English|date=February 2026}}
+{{Use mdy dates|date=August 2024}}
+{{Infobox election
+| election_name = 2022 Ohio elections
+| country       = Ohio
+| type          = midterm
+| ongoing       = no
+| next_year     = [[2024 Ohio elections|2024]]
+| election_date = November 8, 2022
+| previous_year = [[2020 Ohio elections|2020]]
+}}
+{{Elections in Ohio}}
+The '''2022 Ohio general elections''' took place on November 8, 2022, throughout the US state of [[Ohio]].
+
+{{Toclimit|limit=3}}
+
+== Federal ==
+=== Senate ===
+{{Main|2022 United States Senate election in Ohio}}
+Incumbent Republican senator [[Rob Portman]] announced he was retiring.<ref>{{cite web|url=https://www.politico.com/news/2021/01/25/rob-portman-wont-seek-reelection-462146|title=Portman's exit signals uncertainty for Senate GOP|work=[[Politico]]|last1=Burgess|first1=Everett|last2=Arkin|first2=James|date=January 25, 2021|access-date=December 21, 2021}}</ref>
+
+Republican and Democratic primaries were held on May 3, 2022. U.S. Senate 2022 candidates elected during the primary were Congressman Tim Ryan (D) and J.D. Vance (R).<ref>{{Cite news |date=2022-05-13 |title=Ohio Primary Election Results |language=en-US |work=The New York Times |url=https://www.nytimes.com/interactive/2022/05/03/us/elections/results-ohio.html |access-date=2022-09-04 |issn=0362-4331}}</ref> In the general election, Republican [[JD Vance]] won the open seat, defeating Democratic U.S. Representative [[Tim Ryan (Ohio politician)|Tim Ryan]] by 6.12%.<ref>{{Cite web |last=Kinery |first=Emma |title=Republican J.D. Vance defeats Democrat Tim Ryan in Ohio Senate race, NBC News projects |url=https://www.cnbc.com/2022/11/08/ohio-senate-results-jd-vance-beats-tim-ryan-nbc-news-projects.html |access-date=2022-11-11 |website=CNBC |language=en}}</ref> Vance won 53% of the votes compared to Ryan's 47%.
+
+=== House of Representatives ===
+{{Main|2022 United States House of Representatives elections in Ohio}}
+All of Ohio's 15 seats in the [[United States House of Representatives]] were up for election in 2022.
+
+== Governor and lieutenant governor ==
+{{Main|2022 Ohio gubernatorial election}}
+Incumbent Republican governor [[Mike DeWine]] and lieutenant governor [[Jon Husted]] were re-elected to a second term, defeating Democratic governor candidate [[Nan Whaley]] and lieutenant governor candidate [[Cheryl Stephens]].<ref>{{Cite web |last=Staff |first=WSAZ News |title=Incumbent DeWine wins re-election as Ohio governor |url=https://www.wsaz.com/2022/11/09/incumbent-dewine-wins-reelection-ohio-governor/ |access-date=2022-11-11 |website=www.wsaz.com |date=November 9, 2022 |language=en}}</ref>
+
+== Attorney general ==
+{{Main|2022 Ohio Attorney General election}}
+Incumbent Republican [[Ohio Attorney General|attorney general]] [[Dave Yost]] was re-elected to a second term defeating Democratic [[Ohio House of Representatives|state Representative]] [[Jeffrey Crossman|Jeff Crossman]].<ref>{{Cite web |title=Republican Dave Yost wins Ohio attorney general race |url=https://www.dispatch.com/story/news/politics/elections/2022/11/09/dave-yost-leading-jeff-crossman-in-ohio-attorney-general-election-results-2022/69561883007/ |access-date=2022-11-12 |website=The Columbus Dispatch |language=en-US}}</ref>
+
+== Secretary of state ==
+{{Main|2022 Ohio Secretary of State election}}
+
+[[Ohio Secretary of State]] [[Frank LaRose]] was re-elected to a second term defeating Democrat Chelsea Clark.<ref>{{Cite web |title=Frank LaRose defeats 2 challengers in Ohio secretary of state race |url=https://www.dispatch.com/story/news/politics/elections/2022/11/09/frank-larose-ohio-secretary-of-state-2022-election/69571380007/ |access-date=2022-11-12 |website=The Columbus Dispatch |language=en-US}}</ref>
+
+== Treasurer ==
+{{main|2022 Ohio State Treasurer election}}
+Incumbent Republican [[Ohio State Treasurer|state treasurer]] [[Robert Sprague]] ran for re-election to a second term in office and was challenged by Democrat Scott Schertzer.<ref name="filings">{{Cite news |date=February 3, 2022 |title=Filings for the 2022 Primary Election Released |work=Ohio Secretary of State |url=https://www.ohiosos.gov/media-center/press-releases/2022/2022-02-03/ |url-status=dead |access-date=February 4, 2022 |archive-url=https://web.archive.org/web/20220204045311/https://www.ohiosos.gov/media-center/press-releases/2022/2022-02-03/ |archive-date=February 4, 2022}}</ref> Sprague easily won the general election.
+
+=== Results ===
+{{Election box begin no change|title=Ohio State Treasurer election, 2022}}
+{{Election box winning candidate with party link no change|candidate=[[Robert Sprague]] (incumbent)|party=Republican Party (United States)|votes=2,390,542|percentage=58.55%}}
+{{Election box candidate with party link no change|candidate=Scott Schertzer|party=Democratic Party (United States)|votes=1,692,160|percentage=41.45%}}
+{{Election box total no change|votes=4,082,702|percentage=100.00%}}
+{{Election box hold with party link without swing|winner=Republican Party (United States)}}
+{{Election box end}}
+== Auditor ==
+{{Infobox election
+| election_name     = 2022 Ohio State Auditor election
+| country           = Ohio
+| type              = presidential
+| ongoing           = no
+| turnout           =
+| previous_election = 2018 Ohio State Auditor election
+| previous_year     = 2018
+| next_election     = 2026 Ohio State Auditor election
+| next_year         = 2026
+| election_date     = November 8, 2022
+| image1            = File:Ohio Senate 130th General Asselmbly 2013-2014 - DPLA - 4dd33bcc8c6b71853ab731d33616f568 (page 2) (cropped).jpg
+| nominee1          = '''[[Keith Faber]]'''
+| party1            = Republican Party (United States)
+| popular_vote1     = '''2,397,207'''
+| percentage1       = '''58.75%'''
+| image2            = 3x4.svg
+| nominee2          = Taylor Sappington
+| party2            = Democratic Party (United States)
+| popular_vote2     = 1,683,216
+| percentage2       = 41.25%
+| map_image         = {{switcher |[[File:2022 Ohio state auditor election results map by county.svg|210px]] |County results |<!-- Please do not remove this map as it shows the correct congressional district results for this election in addition to the concurrent secretary of state election -->[[File:2022 Ohio secretary of state election results map by congressional district.svg|210px]] |Congressional district results}}
+| map_caption       = '''Faber:''' {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#d72f30|70–80%}} {{legend0|#c21b18|80–90%}}<br>
+'''Sappington:''' {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584cde|70–80%}}
+| title             = [[Ohio State Auditor|State Auditor]]
+| before_election   = [[Keith Faber]]
+| before_party      = Republican Party (United States)
+| after_election    = [[Keith Faber]]
+| after_party       = Republican Party (United States)
+}}
+
+Incumbent Republican [[Ohio State Auditor|state auditor]] [[Keith Faber]] easily won re-election.
+
+=== Republican primary ===
+==== Candidates ====
+===== Declared =====
+* [[Keith Faber]], incumbent [[Ohio State Auditor|state auditor]]<ref name=filings/>
+
+==== Endorsements ====
+{{Endorsements box
+| title = Keith Faber
+| width = 50em
+| list =
+'''Organizations'''
+*[[Ohio Republican Party]]<ref name="Pelzer">{{Cite web|last=Pelzer|first=Jeremy|date=February 18, 2022|title=Ohio Republican Party endorses Gov. Mike DeWine in GOP primary|url=https://www.cleveland.com/news/2022/02/ohio-republican-party-endorses-gov-mike-dewine-in-gop-primary.html|website=[[The Plain Dealer]]|access-date=February 18, 2022}}</ref>
+}}
+
+====Results====
+{{Election box begin no change
+| title = Republican primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = Keith Faber 
+| party = Ohio Republican Party
+| votes = 809,636
+| percentage = 100.00%
+}}
+{{Election box total no change
+| votes = 809,636
+| percentage = 100.00%
+}}
+{{Election box end}}
+
+=== Democratic primary ===
+==== Candidates ====
+===== Declared =====
+* Taylor Sappington, [[Nelsonville, Ohio|Nelsonville]] city auditor<ref>{{cite web|url=https://www.cleveland.com/news/2022/01/democrat-taylor-sappington-files-initial-paperwork-to-run-for-ohio-state-auditor.html|title=Democrat Taylor Sappington files initial paperwork to run for Ohio state auditor|work=[[The Plain Dealer]]|last=Pelzer|first=Jeremy|date=January 28, 2022|access-date=January 30, 2022}}</ref><ref name=filings/>
+
+====Results====
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = Taylor Sappington
+| party = Ohio Democratic Party
+| votes = 426,699
+| percentage = 100.00%
+}}
+{{Election box total no change
+| votes = 426,699
+| percentage = 100.00%
+}}
+{{Election box end}}
+
+=== General election ===
+
+==== Results ====
+{{Election box begin no change|title=Ohio State Treasurer election, 2022}}
+{{Election box winning candidate with party link no change|candidate=[[Keith Faber]] (incumbent)|party=Republican Party (United States)|votes=2,397,207|percentage=58.75%}}
+{{Election box candidate with party link no change|candidate=Taylor Sappington|party=Democratic Party (United States)|votes=1,683,216|percentage=41.25%}}
+{{Election box total no change|votes=4,080,423|percentage=100.00%}}
+{{Election box hold with party link without swing|winner=Republican Party (United States)}}
+{{Election box end}}
+
+== General Assembly ==
+=== Senate ===
+{{Main|2022 Ohio Senate election}}
+The 17 odd-numbered districts out of 33 seats in the [[Ohio Senate]] were up for election in 2022. Prior to the election, ten of these seats were held by Republicans and seven were held by Democrats.
+
+=== House of Representatives ===
+{{Main|2022 Ohio House of Representatives election}}
+All 99 seats in the [[Ohio House of Representatives]] were up for election in 2022. Prior to the election, sixty-four of these seats were held by Republicans and thirty-five were held by Democrats.
+
+== Supreme Court ==
+{{Infobox election
+| election_name      = 2022 Ohio Supreme Court elections
+| country            = Ohio
+| type               = legislative
+| ongoing            = no
+| previous_election  = 2020 Ohio elections#Supreme Court
+| previous_year      = 2020
+| next_election      = 2024 Ohio elections#Supreme Court
+| next_year          = 2024
+| seats_for_election = 3 seats of the [[Supreme Court of Ohio]]
+| election_date      = {{Start date|2022|11|8}}
+| party1             = Ohio Republican Party 
+| last_election1     = 4
+| seats1             = 3
+| seat_change1       = {{steady}}
+| popular_vote1      = 
+| percentage1        =
+| swing1             = 
+| party2             = Ohio Democratic Party
+| last_election2     = 3
+| seats2             = 0
+| seat_change2       = {{steady}}
+| popular_vote2      = 
+| percentage2        = 
+| swing2             = 
+| map_image          = 
+| map_caption        = 
+}}
+
+{{further|Ohio Supreme Court elections}}
+Although Supreme Court elections were nonpartisan in the past, the [[Ohio General Assembly]] passed a bill in June 2021 to make [[Ohio Supreme Court]] and [[Ohio Court of Appeals]] elections display the party label on the candidates.<ref>{{cite web |title=Bill requiring party labels for Ohio judicial candidates clears legislature |url=https://www.cleveland.com/open/2021/06/bill-requiring-party-labels-for-ohio-judicial-candidates-clears-legislature.html |website=[[The Plain Dealer]] |date=June 27, 2021}}</ref>
+
+===Chief Justice===
+
+====Republican primary====
+=====Candidates=====
+====== Declared ======
+* [[Sharon L. Kennedy]], incumbent Associate Justice of the Supreme Court of Ohio (2012–present)<ref>{{cite web|url=https://www.limaohio.com/news/462482/justice-kennedy-talks-2022-with-ohio-republicans|title=Justice Kennedy talks 2022 with Ohio Republicans|work=[[The Lima News]]|last=Hubert|first=Trevor|date=June 4, 2021|access-date=December 21, 2021}}</ref>
+
+======Withdrew======
+* [[Pat DeWine]], incumbent Associate Justice of the Supreme Court of Ohio (2017–present) ''(running for re-election)''<ref name=chiefjustice>{{cite web|url=https://ohiocapitaljournal.com/2021/06/09/the-race-for-ohio-supreme-court-chief-justice-is-on/|title=The race for Ohio Supreme Court chief justice is on|work=[[Ohio Capital Journal]]|last=Buchanan|first=Tyler|date=June 9, 2021|access-date=December 21, 2021}}</ref><ref name=PatDeWine>{{cite web|url=https://www.dispatch.com/story/news/2021/08/31/ohio-supreme-court-chief-race-narrows-pat-dewine-dropping-out/5663431001/|title=Pat DeWine drops out of race for Ohio Supreme Court chief justice, will run for reelection|work=[[The Columbus Dispatch]]|last=Bischoff|first=Laura A.|date=August 31, 2021|access-date=December 21, 2021}}</ref>
+
+====== Declined ======
+* [[Maureen O'Connor (judge)|Maureen O'Connor]], incumbent chief justice of the Supreme Court of Ohio (2011–present) ''(retiring due to age limit)''
+
+===== Endorsements =====
+{{Endorsements box
+| title = Sharon Kennedy
+| list =
+'''Organizations'''
+* [[Ohio Republican Party]]<ref name=ORPendsup>{{cite web|url=https://www.cleveland.com/open/2021/09/ohio-republican-party-leaders-endorse-state-supreme-court-candidates-debate-party-audit.html|title=Ohio Republican Party leaders endorse state Supreme Court candidates, debate party audit|work=[[The Plain Dealer]]|last=Pelzer|first=Jeremy|date=September 13, 2021|access-date=December 21, 2021}}</ref>
+}}
+
+=====Results=====
+{{Election box begin no change
+| title = Republican primary results<ref name="sc1">{{cite web |title=2022 OFFICIAL ELECTION RESULTS |url=https://www.ohiosos.gov/elections/election-results-and-data/2022-official-election-results/ |website=Ohio Secretary of State}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Sharon Kennedy 
+| party = Ohio Republican Party
+| votes = 814,717
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 814,717
+| percentage = 100.0%
+}}
+{{Election box end}}
+
+==== Democratic primary ====
+===== Candidates =====
+====== Declared ======
+* [[Jennifer Brunner]], incumbent Associate Justice of the Supreme Court of Ohio (2021–present)<ref>{{cite web|url=https://www.dispatch.com/story/news/2021/06/08/democrat-supreme-court-justice-jennifer-brunner-announces-future-plans/7593987002/|title=Democrat Jennifer Brunner running for chief justice of Ohio Supreme Court|work=[[The Columbus Dispatch]]|last=Bischoff|first=Laura A.|date=June 8, 2021|access-date=December 21, 2021}}</ref><ref name=chiefjustice />
+
+===== Endorsements =====
+{{Endorsements box
+| title = Jennifer Brunner
+| list =
+'''Labor unions'''
+* LIUNA - [[Laborers' International Union of North America]] Local 758<ref name="AFL–CIO"/>
+* Ohio [[AFL–CIO]]<ref name="AFL–CIO">{{cite web|url=https://chroniclet.com/news/291693/ohio-afl-cio-endorses-brunner-for-supreme-court-chief-justice/|title=Ohio AFL-CIO endorses Brunner for Supreme Court chief justice|work=The Chronicle-Telegram|date=February 12, 2022|access-date=February 12, 2022}}</ref>
+
+'''Organizations'''
+*[[Ohio Democratic Party]]<ref name=odp>{{Cite web|last=BeMiller|first=Haley|date=February 17, 2022|title=Ohio Democratic Party endorses Tim Ryan for U.S. Senate, stays neutral in governor's race|url=https://www.dispatch.com/story/news/2022/02/17/ohio-democratic-party-endorse-senate-governor-races/6782561001/|website=[[The Columbus Dispatch]]|access-date=February 18, 2022}}</ref>
+}}
+
+=====Results=====
+{{Election box begin no change
+| title = Democratic primary results<ref name="sc1"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Jennifer Brunner
+| party = Ohio Democratic Party
+| votes = 445,711
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 445,711
+| percentage = 100.0%
+}}
+{{Election box end}}
+
+====General election====
+{{Infobox election
+| election_name     = 2022 Ohio Chief Justice election
+| country           = Ohio
+| type              = presidential
+| ongoing           = no
+| turnout           =
+| previous_election = 2016 Ohio elections#Supreme Court
+| previous_year     = 2016
+| next_election     = 2028 Ohio elections#Supreme Court
+| next_year         = 2028
+| election_date     = November 8, 2022
+| image1            = 3x4.svg
+| nominee1          = '''[[Sharon Kennedy]]'''
+| party1            = Republican Party (United States)
+| popular_vote1     = '''2,307,415'''
+| percentage1       = '''56.08%'''
+| image2            = 20080310 Jennifer Brunner (cropped).jpg
+| nominee2          = [[Jennifer Brunner]]
+| party2            = Democratic Party (United States)
+| popular_vote2     = 1,807,133
+| percentage2       = 43.92%
+| map_image         = {{switcher |[[File:Ohio Chief Justice 2022.svg|210px]] |County results |[[File:2022 Ohio Supreme Court chief justice election results map by congressional district.svg|210px]] |Congressional district results |default=1}}
+| map_caption       = '''Kennedy:''' {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#d72f30|70–80%}} {{legend0|#c21b18|80–90%}}<br />'''Brunner:''' {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584cde|70–80%}}
+| title             = [[List_of_justices_of_the_Ohio_Supreme_Court#Chief_justices_(since_1913)|Chief Justice]]
+| before_election   = [[Maureen O'Connor (judge)|Maureen O'Connor]]
+| before_party      = Republican Party (United States)
+| after_election    = [[Sharon Kennedy]]
+| after_party       = Republican Party (United States)
+}}
+=====Polling=====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Sharon<br />Kennedy (R)
+! style="width:100px;"| Jennifer<br />Brunner (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Baldwin Wallace University]]<ref name="Baldwin Wallace University">[https://www.bw.edu/Assets/community-research-institute/october_ohio_pulse_poll_3_final.pdf Baldwin Wallace University]</ref>
+|October 20–23, 2022
+|1,068 (LV)
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''50%'''
+|43%
+|–
+|7%
+|-
+|style="text-align:left;"|[[Siena College]]<ref>[https://scri.siena.edu/wp-content/uploads/2022/10/OH1022-Crosstabs.pdf Siena College]</ref>
+|October 14–19, 2022
+|644 (LV)
+|±&nbsp;5.1%
+|{{party shading/Republican}}|'''42%'''
+|41%
+|2%{{efn|"Another candidate" with 1%; "Not going to vote" with 1%}}
+|15%
+|-
+|style="text-align:left;"|[[Ohio Northern University]]/[[Luc.id|Lucid]]<ref>[https://www.onu.edu/sites/default/files/northernpoll_full_documentsm.pdf Ohio Northern University/Lucid]</ref>
+|October 11–15, 2022
+|668 (LV)
+|±&nbsp;3.8%
+|{{party shading/Republican}}|'''49%'''
+|35%
+|1%{{efn|"Other" with 1%}}
+|16%
+|-
+|style="text-align:left;"|[[Siena College]]<ref>[https://scri.siena.edu/wp-content/uploads/2022/09/Spectrum-Ohio-Sept-2022-PR-final.pdf Siena College]</ref>
+|September 18–22, 2022
+|642 (LV)
+|±&nbsp;4.4%
+|'''40%'''
+|'''40%'''
+|1%{{efn|"Not going to vote" with 1%}}
+|18%
+|-
+|style="text-align:left;"|[[Suffolk University]]<ref name="Suffolk University">[https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2022/9_15_2022_ohio_complete_marginals.pdf?la=en&hash=09A889409CE4028296FBC5BC896470AE05063502 Suffolk University]</ref>
+|September 5–7, 2022
+|500 (LV)
+|±&nbsp;4.4%
+|'''42%'''
+|'''42%'''
+|<1%{{efn|"Someone else" with <1%}}
+|16%
+|}
+
+=====Results=====
+{{Election box begin no change|title=Ohio Chief Justice election, 2022}}
+{{Election box winning candidate with party link no change|candidate=[[Sharon Kennedy]]|party=Republican Party (United States)|votes=2,307,415|percentage=56.08%}}
+{{Election box candidate with party link no change|candidate=[[Jennifer Brunner]]|party=Democratic Party (United States)|votes=1,807,133|percentage=43.92%}}
+{{Election box total no change|votes=4,114,548|percentage=100.00%}}
+{{Election box hold with party link without swing|winner=Republican Party (United States)}}
+{{Election box end}}
+
+=== Associate Justice (term commencing 01/01/2023) ===
+
+==== Republican primary ====
+===== Candidates =====
+====== Declared ======
+* [[Patrick F. Fischer]], incumbent Associate Justice of the Supreme Court of Ohio (2017–present)
+
+===== Endorsements =====
+{{Endorsements box
+| title = Patrick Fischer
+| list =
+'''Organizations'''
+* [[Ohio Republican Party]]<ref name=ORPendsup />
+}}
+
+=====Results=====
+{{Election box begin no change
+| title = Republican primary results<ref name="sc1"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Patrick F. Fischer]] (incumbent)
+| party = Ohio Republican Party
+| votes = 788,538
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 788,538
+| percentage = 100.0%
+}}
+{{Election box end}}
+
+==== Democratic primary ====
+===== Candidates =====
+====== Declared ======
+* Terri Jamison, incumbent Judge of the [[Ohio Court of Appeals]] for the 10th District (2021–present)<ref name=filings/>
+
+===== Endorsements =====
+{{Endorsements box
+| title = Terri Jamison
+| list =
+'''Organizations'''
+*[[Ohio Democratic Party]]<ref name=odp/>
+}}
+
+=====Results=====
+{{Election box begin no change
+| title = Democratic primary results<ref name="sc1"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Terri Jamison
+| party = Ohio Democratic Party
+| votes = 418,525
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 418,525
+| percentage = 100.0%
+}}
+{{Election box end}}
+
+====General election====
+=====Polling=====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Patrick<br />Fischer (R)
+! style="width:100px;"| Terri<br />Jamison (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Baldwin Wallace University]]<ref name="Baldwin Wallace University"/>
+|October 20–23, 2022
+|1,068 (LV)
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''51%'''
+|42%
+|–
+|7%
+|-
+|style="text-align:left;"|[[Suffolk University]]<ref name="Suffolk University"/>
+|September 5–7, 2022
+|500 (LV)
+|±&nbsp;4.4%
+|{{party shading/Republican}}|'''42%'''
+|41%
+|<1%{{efn|"Someone else" with <1%}}
+|17%
+|}
+
+=====Results=====
+{{Infobox election
+| election_name     = 2022 Ohio Supreme Court seat 2 election
+| country           = Ohio
+| type              = presidential
+| ongoing           = no
+| turnout           =
+| previous_election = 2016 Ohio elections#Supreme Court
+| previous_year     = 2016
+| next_election     = 2028 Ohio elections#Supreme Court
+| next_year         = 2028
+| election_date     = November 8, 2022
+| image1            = 
+| nominee1          = '''[[Patrick F. Fischer]]'''
+| party1            = Republican Party (United States)
+| popular_vote1     = '''2,330,575'''
+| percentage1       = '''56.91%'''
+| image2            = 
+| nominee2          = Terri Jamison
+| party2            = Democratic Party (United States)
+| popular_vote2     = 1,764,845
+| percentage2       = 43.09%
+| map_image         = {{switcher |[[File:2022 Ohio Supreme Court seat 2 election results map by county.svg|210px]] |County results |[[File:2022 Ohio Supreme Court seat 2 election results map by congressional district.svg|210px]] |Congressional district results}}
+| map_caption       = '''Fischer:''' {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#d72f30|70–80%}} {{legend0|#c21b18|80–90%}}<br />'''Jamison:''' {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584cde|70–80%}}
+| title             = [[Supreme Court of Ohio|Justice]]
+| before_election   = [[Patrick F. Fischer]]
+| before_party      = Republican Party (United States)
+| after_election    = [[Patrick F. Fischer]]
+| after_party       = Republican Party (United States)
+}}
+{{Election box begin no change|title=2022 Ohio Supreme Court Associate Justice (term commencing 1/01/2023) election<ref name="sc1"/>}}
+{{Election box winning candidate with party link no change|candidate=[[Patrick F. Fischer]] (incumbent)|party=Ohio Republican Party|votes=2,330,575|percentage=56.91%}}
+{{Election box candidate with party link no change|candidate=Terri Jamison|party=Ohio Democratic Party|votes=1,764,845|percentage=43.09%}}
+{{Election box total no change|votes=4,095,420|percentage=100.0%}}
+{{Election box hold with party link without swing|winner=Ohio Republican Party}}
+{{Election box end}}
+{{Clear}}
+
+===Associate Justice (term commencing 01/02/2023)===
+==== Republican primary ====
+===== Candidates =====
+====== Declared ======
+* [[Pat DeWine]], incumbent Associate Justice of the Supreme Court of Ohio (2017–present)<ref name=PatDeWine />
+
+===== Endorsements =====
+{{Endorsements box
+| title = Pat DeWine
+| list =
+'''Organizations'''
+* [[Ohio Republican Party]]<ref name=ORPendsup />
+}}
+
+=====Results=====
+{{Election box begin no change
+| title = Republican primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Pat DeWine]] (incumbent)
+| party = Ohio Republican Party
+| votes = 719,162
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 719,162
+| percentage = 100.0%
+}}
+{{Election box end}}
+
+==== Democratic primary ====
+===== Candidates =====
+====== Declared ======
+* [[Marilyn Zayas]], incumbent Judge of the Ohio Court of Appeals for the 1st District<ref name=filings/>
+
+===== Endorsements =====
+{{Endorsements box
+| title = Marilyn Zayas
+| list =
+'''Organizations'''
+*[[Ohio Democratic Party]]<ref name=odp/>
+}}
+
+=====Results=====
+{{Election box begin no change
+| title = Democratic primary results<ref name="sc1"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Marilyn Zayas
+| party = Ohio Democratic Party
+| votes = 406,732
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 406,732
+| percentage = 100.0%
+}}
+{{Election box end}}
+
+====General election====
+=====Polling=====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Pat<br />DeWine (R)
+! style="width:100px;"| Marilyn<br />Zayas (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Baldwin Wallace University]]<ref name="Baldwin Wallace University"/>
+|October 20–23, 2022
+|1,068 (LV)
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''50%'''
+|43%
+|–
+|7%
+|-
+|style="text-align:left;"|[[Suffolk University]]<ref name="Suffolk University"/>
+|September 5–7, 2022
+|500 (LV)
+|±&nbsp;4.4%
+|{{party shading/Republican}}|'''43%'''
+|41%
+|<1%{{efn|"Someone else" with <1%}}
+|15%
+|}
+
+=====Results=====
+{{Infobox election
+| election_name     = 2022 Ohio Supreme Court seat 3 election
+| country           = Ohio
+| type              = presidential
+| ongoing           = no
+| turnout           =
+| previous_election = 2016 Ohio elections#Supreme Court
+| previous_year     = 2016
+| next_election     = 2028 Ohio elections#Supreme Court
+| next_year         = 2028
+| election_date     = November 8, 2022
+| image1            = 3x4.svg
+| nominee1          = '''[[Pat DeWine]]'''
+| party1            = Republican Party (United States)
+| popular_vote1     = '''2,306,428'''
+| percentage1       = '''56.31%'''
+| image2            = Judge Marilyn Zayas.jpg
+| nominee2          = [[Marilyn Zayas]]
+| party2            = Democratic Party (United States)
+| popular_vote2     = 1,789,384
+| percentage2       = 43.69%
+| map_image         = {{switcher |[[File:2022 Ohio Supreme Court seat 3 election results map by county.svg|210px]] |County results |[[File:2022 Ohio Supreme Court seat 3 election results map by congressional district.svg|210px]] |Congressional district results}}
+| map_caption       = '''DeWine:''' {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#d72f30|70–80%}} {{legend0|#c21b18|80–90%}}<br />'''Zayas:''' {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584cde|70–80%}}
+| title             = [[Supreme Court of Ohio|Justice]]
+| before_election   = [[Pat DeWine]]
+| before_party      = Republican Party (United States)
+| after_election    = [[Pat DeWine]]
+| after_party       = Republican Party (United States)
+}}
+{{Election box begin no change|title=2022 Ohio Supreme Court Associate Justice (term commencing 1/02/2023) election<ref name="sc1"/>}}
+{{Election box winning candidate with party link no change|candidate=[[Pat DeWine]] (incumbent)|party=Ohio Republican Party|votes=2,306,428|percentage=56.31%}}
+{{Election box candidate with party link no change|candidate=[[Marilyn Zayas]]|party=Ohio Democratic Party|votes=1,789,384|percentage=43.69%}}
+{{Election box total no change|votes=4,095,812|percentage=100.0%}}
+{{Election box hold with party link without swing|winner=Ohio Republican Party}}
+{{Election box end}}
+{{Clear}}
+
+==Court of Appeals==
+{{further|Ohio District Courts of Appeals}}
+The Ohio District Courts of Appeals consists of 69 judges in 12 districts. Judges serve a 6-year term. Approximately 1/3 of these positions were up for election in 2022.
+
+===District 1===
+====Term commencing 02/09/2023====
+{{Election box begin no change
+| title = 2022 Ohio Court of Appeals 1st District (Term commencing 02/09/2023) election<ref name="sc1" />
+}}
+{{Election box winning candidate with party link no change
+| candidate = Jennifer Kinsley
+| party = Ohio Democratic Party
+| votes = 155,976
+| percentage = 52.04%
+}}
+{{Election box candidate with party link no change
+| candidate = Robert C. Winkler (incumbent)
+| party = Ohio Republican Party
+| votes = 143,730
+| percentage = 47.96%
+}}
+{{Election box total no change
+| votes = 299,706
+| percentage = 100.0%
+}}
+{{Election box gain with party link without swing
+|winner = Ohio Democratic Party 
+|loser = Ohio Republican Party
+}}
+{{Election box end}}
+
+===District 2===
+====Term commencing 02/09/2023====
+{{Election box begin no change
+| title = 2022 Ohio Court of Appeals 2nd District (Term commencing 02/09/2023) election<ref name="sc1" />
+}}
+{{Election box winning candidate with party link no change
+| candidate = Mary Kate Huffman
+| party = Ohio Republican Party
+| votes = 262,552
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 262,552
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Republican Party 
+}}
+{{Election box end}}
+
+====Term commencing 02/10/2023====
+{{Election box begin no change
+| title = 2022 Ohio Court of Appeals 2nd District (Term commencing 02/10/2023) election<ref name="sc1" />
+}}
+{{Election box winning candidate with party link no change
+| candidate = Ronald C. Lewis (incumbent)
+| party = Ohio Republican Party
+| votes = 256,094
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 256,094
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Republican Party 
+}}
+{{Election box end}}
+
+====Term commencing 02/11/2023====
+{{Election box begin no change
+| title = 2022 Ohio Court of Appeals 2nd District (Term commencing 02/11/2023) election<ref name="sc1" />
+}}
+{{Election box winning candidate with party link no change
+| candidate = Michael Tucker (incumbent)
+| party = Ohio Republican Party
+| votes = 257,202
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 257,202
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Republican Party 
+}}
+{{Election box end}}
+
+===District 3===
+====Term commencing 02/09/2023====
+{{Election box begin no change
+| title = 2022 Ohio Court of Appeals 3rd District (Term commencing 02/09/2023) election<ref name="sc1" />
+}}
+{{Election box winning candidate with party link no change
+| candidate = William R. Zimmerman (incumbent)
+| party = Ohio Republican Party
+| votes = 234,054
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 234,054
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Republican Party 
+}}
+{{Election box end}}
+
+====Term commencing 02/11/2023====
+{{Election box begin no change
+| title = 2022 Ohio Court of Appeals 3rd District (Term commencing 02/11/2023) election<ref name="sc1" />
+}}
+{{Election box winning candidate with party link no change
+| candidate = Juergen A. Waldick
+| party = Ohio Republican Party
+| votes = 230,210
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 230,210
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Republican Party 
+}}
+{{Election box end}}
+
+===District 4===
+====Term commencing 02/09/2023====
+{{Election box begin no change
+| title = 2022 Ohio Court of Appeals 4th District (Term commencing 02/09/2023) election<ref name="sc1" />
+}}
+{{Election box winning candidate with party link no change
+| candidate = Kristy Wilkin (incumbent)
+| party = Ohio Republican Party
+| votes = 150,335
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 150,335
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Republican Party 
+}}
+{{Election box end}}
+
+===District 5===
+====Term commencing 02/09/2023====
+{{Election box begin no change
+| title = 2022 Ohio Court of Appeals 5th District (Term commencing 02/09/2023) election<ref name="sc1" />
+}}
+{{Election box winning candidate with party link no change
+| candidate = Andrew King
+| party = Ohio Republican Party
+| votes = 358,218
+| percentage = 64.79%
+}}
+{{Election box candidate with party link no change
+| candidate = Earle E. Wise Jr. (incumbent)
+| party = Ohio Democratic Party
+| votes = 194,678
+| percentage = 35.21%
+}}
+{{Election box total no change
+| votes = 552,896
+| percentage = 100.0%
+}}
+{{Election box gain with party link without swing
+|winner = Ohio Republican Party 
+|loser = Ohio Democratic Party
+}}
+{{Election box end}}
+
+====Term commencing 02/10/2023====
+{{Election box begin no change
+| title = 2022 Ohio Court of Appeals 5th District (Term commencing 02/10/2023) election<ref name="sc1" />
+}}
+{{Election box winning candidate with party link no change
+| candidate = Craig Baldwin (incumbent)
+| party = Ohio Republican Party
+| votes = 368,698
+| percentage = 66.79%
+}}
+{{Election box candidate with party link no change
+| candidate = David T. Ball
+| party = Ohio Democratic Party
+| votes = 183,359
+| percentage = 33.21%
+}}
+{{Election box total no change
+| votes = 552,057
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Republican Party 
+}}
+{{Election box end}}
+
+===District 6===
+====Term commencing 02/09/2023====
+{{Election box begin no change
+| title = 2022 Ohio Court of Appeals 6th District (Term commencing 02/09/2023) election<ref name="sc1" />
+}}
+{{Election box winning candidate with party link no change
+| candidate = Christine Mayle (incumbent)
+| party = Ohio Republican Party
+| votes = 206,616
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 206,616
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Republican Party 
+}}
+{{Election box end}}
+
+====Term commencing 02/10/2023====
+{{Election box begin no change
+| title = 2022 Ohio Court of Appeals 6th District (Term commencing 02/10/2023) election<ref name="sc1" />
+}}
+{{Election box winning candidate with party link no change
+| candidate = Charles E. Sulek
+| party = Ohio Republican Party
+| votes = 152,365
+| percentage = 52.34%
+}}
+{{Election box candidate with party link no change
+| candidate = Tom Puffenberger
+| party = Ohio Democratic Party
+| votes = 138,738
+| percentage = 47.66%
+}}
+{{Election box total no change
+| votes = 291,103
+| percentage = 100.0%
+}}
+{{Election box gain with party link without swing
+|winner = Ohio Republican Party 
+|loser = Ohio Democratic Party
+}}
+{{Election box end}}
+
+===District 7===
+====Term commencing 02/09/2023====
+{{Election box begin no change
+| title = 2022 Ohio Court of Appeals 7th District (Term commencing 02/09/2023) election<ref name="sc1" />
+}}
+{{Election box winning candidate with party link no change
+| candidate = Mark A. Hanni
+| party = Ohio Republican Party
+| votes = 110,739
+| percentage = 58.60%
+}}
+{{Election box candidate with party link no change
+| candidate = Gene Donofrio (incumbent)
+| party = Ohio Democratic Party
+| votes = 78,243
+| percentage = 41.40%
+}}
+{{Election box total no change
+| votes = 188,982
+| percentage = 100.0%
+}}
+{{Election box gain with party link without swing
+|winner = Ohio Republican Party 
+|loser = Ohio Democratic Party
+}}
+{{Election box end}}
+
+===District 8===
+====Term commencing 01/01/2023====
+{{Election box begin no change
+| title = 2022 Ohio Court of Appeals 8th District (Term commencing 01/01/2023) election<ref name="sc1" />
+}}
+{{Election box winning candidate with party link no change
+| candidate = Mary Eileen Kilbane (incumbent)
+| party = Ohio Democratic Party
+| votes = 269,100
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 269,100
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Democratic Party 
+}}
+{{Election box end}}
+
+====Term commencing 01/02/2023====
+{{Election box begin no change
+| title = 2022 Ohio Court of Appeals 8th District (Term commencing 01/02/2023) election<ref name="sc1" />
+}}
+{{Election box winning candidate with party link no change
+| candidate = Lisa Forbes (incumbent)
+| party = Ohio Democratic Party
+| votes = 264,878
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 264,878
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Democratic Party 
+}}
+{{Election box end}}
+
+====Term commencing 01/03/2023====
+{{Election box begin no change
+| title = 2022 Ohio Court of Appeals 8th District (Term commencing 01/03/2023) election<ref name="sc1" />
+}}
+{{Election box winning candidate with party link no change
+| candidate = Kathleen Ann Keough (incumbent)
+| party = Ohio Democratic Party
+| votes = 250,596
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 250,596
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Democratic Party 
+}}
+{{Election box end}}
+
+====Term commencing 02/09/2023====
+{{Election box begin no change
+| title = 2022 Ohio Court of Appeals 8th District (Term commencing 02/09/2023) election<ref name="sc1" />
+}}
+{{Election box winning candidate with party link no change
+| candidate = Eileen A. Gallagher (incumbent)
+| party = Ohio Democratic Party
+| votes = 251,158
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 251,158
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Democratic Party 
+}}
+{{Election box end}}
+
+====Unexpired term ending 02/09/2027====
+{{Election box begin no change
+| title = 2022 Ohio Court of Appeals 8th District (Unexpired term ending 02/09/2027) election<ref name="sc1" />
+}}
+{{Election box winning candidate with party link no change
+| candidate = Michael John Ryan
+| party = Ohio Democratic Party
+| votes = 249,113
+| percentage = 65.99%
+}}
+{{Election box candidate with party link no change
+| candidate = Cornelius J. O'Sullivan (incumbent)
+| party = Ohio Republican Party
+| votes = 128,380
+| percentage = 34.01%
+}}
+{{Election box total no change
+| votes = 377,493
+| percentage = 100.0%
+}}
+{{Election box gain with party link without swing
+|winner = Ohio Democratic Party 
+|loser = Ohio Republican Party
+}}
+{{Election box end}}
+
+===District 9===
+====Term commencing 02/09/2023====
+{{Election box begin no change
+| title = 2022 Ohio Court of Appeals 9th District (Term commencing 02/09/2023) election<ref name="sc1" />
+}}
+{{Election box winning candidate with party link no change
+| candidate = Scot Stevenson
+| party = Ohio Republican Party
+| votes = 211,909
+| percentage = 50.66%
+}}
+{{Election box candidate with party link no change
+| candidate = Thomas A. Teodosio (incumbent)
+| party = Ohio Democratic Party
+| votes = 206,400
+| percentage = 49.34%
+}}
+{{Election box total no change
+| votes = 418,309
+| percentage = 100.0%
+}}
+{{Election box gain with party link without swing
+|winner = Ohio Republican Party 
+|loser = Ohio Democratic Party
+}}
+{{Election box end}}
+
+====Term commencing 02/10/2023====
+{{Election box begin no change
+| title = 2022 Ohio Court of Appeals 9th District (Term commencing 02/10/2023) election<ref name="sc1" />
+}}
+{{Election box winning candidate with party link no change
+| candidate = Donna J. Carr (incumbent)
+| party = Ohio Republican Party
+| votes = 225,815
+| percentage = 54.38%
+}}
+{{Election box candidate with party link no change
+| candidate = Erica Voorhees
+| party = Ohio Democratic Party
+| votes = 189,417
+| percentage = 45.62%
+}}
+{{Election box total no change
+| votes = 415,232
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Republican Party 
+}}
+{{Election box end}}
+
+====Term commencing 02/11/2023====
+{{Election box begin no change
+| title = 2022 Ohio Court of Appeals 9th District (Term commencing 02/11/2023) election<ref name="sc1" />
+}}
+{{Election box winning candidate with party link no change
+| candidate = Jill Flagg Lanzinger
+| party = Ohio Republican Party
+| votes = 223,037
+| percentage = 53.95%
+}}
+{{Election box candidate with party link no change
+| candidate = Amber Crowe
+| party = Ohio Democratic Party
+| votes = 190,405
+| percentage = 46.05%
+}}
+{{Election box total no change
+| votes = 413,442
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Republican Party 
+}}
+{{Election box end}}
+
+===District 10===
+====Term commencing 01/01/2023====
+{{Election box begin no change
+| title = 2022 Ohio Court of Appeals 10th District (Term commencing 01/01/2023) election<ref name="sc1" />
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Kristin Boggs]]
+| party = Ohio Democratic Party
+| votes = 262,128
+| percentage = 62.97%
+}}
+{{Election box candidate with party link no change
+| candidate = Laura Nesbitt
+| party = Ohio Republican Party
+| votes = 154,138
+| percentage = 37.03%
+}}
+{{Election box total no change
+| votes = 416,266
+| percentage = 100.0%
+}}
+{{Election box gain with party link without swing
+|winner = Ohio Democratic Party 
+|loser = Ohio Republican Party
+}}
+{{Election box end}}
+
+====Term commencing 01/02/2023====
+{{Election box begin no change
+| title = 2022 Ohio Court of Appeals 10th District (Term commencing 01/01/2023) election<ref name="sc1" />
+}}
+{{Election box winning candidate with party link no change
+| candidate = Julia L. Dorrian (incumbent)
+| party = Ohio Democratic Party
+| votes = 306,332
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 306,332
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Democratic Party 
+}}
+{{Election box end}}
+
+====Term commencing 01/03/2023====
+{{Election box begin no change
+| title = 2022 Ohio Court of Appeals 10th District (Term commencing 01/01/2023) election<ref name="sc1" />
+}}
+{{Election box winning candidate with party link no change
+| candidate = Carly Edelstein
+| party = Ohio Democratic Party
+| votes = 260,070
+| percentage = 62.70%
+}}
+{{Election box candidate with party link no change
+| candidate = Keith McGrath (incumbent)
+| party = Ohio Republican Party
+| votes = 154,725
+| percentage = 37.30%
+}}
+{{Election box total no change
+| votes = 414,795
+| percentage = 100.0%
+}}
+{{Election box gain with party link without swing
+|winner = Ohio Democratic Party 
+|loser = Ohio Republican Party
+}}
+{{Election box end}}
+
+====Term commencing 02/09/2023====
+{{Election box begin no change
+| title = 2022 Ohio Court of Appeals 10th District (Term commencing 01/01/2023) election<ref name="sc1" />
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[David J. Leland]]
+| party = Ohio Democratic Party
+| votes = 302,703
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 302,703
+| percentage = 100.0%
+}}
+{{Election box gain with party link without swing
+|winner = Ohio Democratic Party 
+|loser = Ohio Republican Party
+}}
+{{Election box end}}
+
+===District 11===
+====Term commencing 02/09/2023====
+{{Election box begin no change
+| title = 2022 Ohio Court of Appeals 11th District (Term commencing 02/09/2023) election<ref name="sc1" />
+}}
+{{Election box winning candidate with party link no change
+| candidate = Eugene A. Lucci
+| party = Ohio Republican Party
+| votes = 172,345
+| percentage = 58.52%
+}}
+{{Election box candidate with party link no change
+| candidate = Thomas R. Wright (incumbent)
+| party = Ohio Democratic Party
+| votes = 122,164
+| percentage = 41.48%
+}}
+{{Election box total no change
+| votes = 294,509
+| percentage = 100.0%
+}}
+{{Election box gain with party link without swing
+|winner = Ohio Republican Party 
+|loser = Ohio Democratic Party
+}}
+{{Election box end}}
+
+====Unexpired term ending 02/08/2025====
+{{Election box begin no change
+| title = 2022 Ohio Court of Appeals 11th District (Unexpired term ending 02/08/2025) election<ref name="sc1" />
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[John Eklund (Ohio politician)|John J. Eklund]] (incumbent)
+| party = Ohio Republican Party
+| votes = 209,551
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 209,551
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Republican Party 
+}}
+{{Election box end}}
+
+===District 12===
+====Term commencing 02/09/2023====
+{{Election box begin no change
+| title = 2022 Ohio Court of Appeals 12th District (Term commencing 02/09/2023) election<ref name="sc1" />
+}}
+{{Election box winning candidate with party link no change
+| candidate = Robin N. Piper (incumbent)
+| party = Ohio Republican Party
+| votes = 288,164
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 288,164
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Republican Party 
+}}
+{{Election box end}}
+
+====Term commencing 02/10/2023====
+{{Election box begin no change
+| title = 2022 Ohio Court of Appeals 12th District (Term commencing 02/10/2023) election<ref name="sc1" />
+}}
+{{Election box winning candidate with party link no change
+| candidate = Michael E. Powell (incumbent)
+| party = Ohio Republican Party
+| votes = 287,711
+| percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 287,711
+| percentage = 100.0%
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Republican Party 
+}}
+{{Election box end}}
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+'''Official campaign websites for treasurer candidates'''
+* [https://www.spragueforohio.com/ Robert Sprague (R) for Treasurer]
+
+'''Official campaign websites for auditor candidates'''
+* [https://keithfaber.org/ Keith Faber (R) for Auditor]
+* [https://secure.ngpvan.com/158_Fx1ZRUOdQ73s1PNtHQ2 Taylor Sappington (D) for Auditor]
+
+'''Official campaign websites for chief justice candidates'''
+* [https://www.justicebrunner.com/ Jennifer Brunner (D) for Chief Justice]
+* [http://kennedyforohio.com/ Sharon Kennedy (R) for Chief Justice]
+
+'''Official campaign websites for supreme court candidates'''
+* [https://www.patdewine.com/ Pat DeWine (R) for Supreme Court]
+* [https://fischerforohio.com/ Pat Fischer (R) for Supreme Court]
+* {{usurped|1=[https://web.archive.org/web/20200813084014/https://votejudgejamison.com/ Terri Jamison (D) for Supreme Court]}}
+* [https://judgemarilynzayas.com/ Marilyn Zayas (D) for Supreme Court]
+
+{{2022 United States elections}}
+
+[[Category:2022 elections in Ohio| ]]
+[[Category:2022 elections in the United States by state or territory|Ohio]]

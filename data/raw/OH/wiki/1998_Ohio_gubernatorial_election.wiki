@@ -1,0 +1,283 @@
+{{Short description|none}}
+{{Use American English|date=January 2025}}
+<!-- "none" is preferred when the title is sufficiently descriptive; see [[WP:SDNONE]] -->
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name      = 1998 Ohio gubernatorial election
+| country            = Ohio
+| type               = presidential
+| ongoing            = no
+| previous_election  = 1994 Ohio gubernatorial election
+| previous_year      = 1994
+| next_election      = 2002 Ohio gubernatorial election
+| next_year          = 2002
+| election_date      = November 3, 1998
+| image_size = 150x150px
+| image1             = File: Robert Alphonso "Bob" Taft III portrait - DPLA - c9c8211b3a824d8a98f58a7424de143b (cropped).jpg 
+| nominee1           = '''[[Bob Taft]]'''
+| party1             = Republican Party (United States)
+| running_mate1      = '''[[Maureen O'Connor (judge)|Maureen O'Connor]]'''
+| popular_vote1      = '''1,678,721 '''
+| percentage1        = '''50.05%'''
+| image2             = File:Lee I. Fisher - 25th District - Ohio Senate 113th General Assembly 1987-1988 - DPLA - 6e2895d536d5909d4a4e5cec2e14ff63 (page 16) (cropped) (cropped).jpg
+ 
+| nominee2           = [[Lee Fisher]]
+| party2             = Democratic Party (United States)
+| running_mate2      = [[Michael B. Coleman]]
+| popular_vote2      = 1,498,956
+| percentage2        = 44.69%
+| map_image          = 1998 Ohio gubernatorial election results map by county.svg
+| map_size           = 210px
+| map_caption        = County results<br />'''Taft:''' {{legend0|#ffb2b2|40–50%}} {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}}<br />'''Fisher:''' {{legend0|#a5b0ff|40–50%}} {{legend0|#7996e2|50–60%}}
+| title              = Governor
+| before_election    = [[George Voinovich]]
+| before_party       = Republican Party (United States)
+| after_election     = [[Bob Taft]]
+| after_party        = Republican Party (United States)
+| turnout = 49.81% (registered voters)
+}}
+{{ElectionsOH}}
+
+The '''1998 Ohio gubernatorial election''' was held on November 3, 1998. Incumbent [[Republican Party (United States)|Republican]] [[Governor of Ohio]] [[George Voinovich]] could not seek a third term due to term limits, and [[United States Senate election in Ohio, 1998|ran for the United States Senate]] instead. To replace him, former [[Attorney General of Ohio]] [[Lee Fisher]] and [[Ohio Secretary of State]] [[Bob Taft]] won the [[Democratic Party (United States)|Democratic]] and [[Republican Party (United States)|Republican]] primaries, respectively. Taft and Fisher faced off in a highly competitive general election, and in the end, Taft (a great-grandson of [[President of the United States|U.S. President]] and [[Chief Justice of the United States|Supreme Court Chief Justice]] [[William Howard Taft]]) defeated Fisher.
+
+==Democratic primary==
+
+===Candidates===
+*[[Lee Fisher]], former [[Ohio Attorney General|Ohio attorney general]] and state senator
+
+===Results===
+{{Election box begin no change
+| title = Democratic primary results<ref>[http://www.sos.state.oh.us/sos/elections/Research/electResultsMain/1990-1999OfficialElectionResults/DemOverview050398.aspx Election Results and Data 1990-1999 Official Election Results]</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Lee Fisher
+| party = Democratic Party (United States)
+| votes = 663,832
+| percentage = 100.00
+}}
+{{Election box total no change
+| votes = 663,832
+| percentage= 100.00
+}}
+{{Election box end}}
+
+==Republican primary==
+
+===Candidates===
+*[[Bob Taft]], [[Ohio Secretary of State|Ohio secretary of state]] and former member of the [[Ohio House of Representatives]]
+
+===Results===
+{{Election box begin no change
+| title = Republican primary results<ref>[http://www.sos.state.oh.us/sos/elections/Research/electResultsMain/1990-1999OfficialElectionResults/RepOverview050398.aspx Election Results and Data 1990-1999 Official Election Results]</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Bob Taft
+| party = Republican Party (United States)
+| votes = 691,946
+| percentage = 100.00
+}}
+{{Election box total no change
+| votes =  691,946
+| percentage= 100.00
+}}
+{{Election box end}}
+
+==General election==
+
+=== Candidates ===
+
+* Zanna Feitler (Natural Law)
+* [[Lee Fisher]], former [[Ohio Attorney General|Ohio attorney general]] and state senator (Democratic) 
+* John R. Mitchel (Reform)
+* [[Bob Taft]], [[Ohio Secretary of State|Ohio secretary of state]] and former member of the [[Ohio House of Representatives]] (Republican)
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)
+! Sample<br>size{{efn|Key:<br>A – all adults<br>RV – registered voters<br>LV – likely voters<br>V – unclear}}
+! Margin<br>of error
+! style="width:100px;"| Bob<br>Taft (R)
+! style="width:100px;"| Lee<br>Fisher (D)
+! Undecided
+|-
+|style="text-align:left;"|Louis Harris and Associates<ref name=polls>{{cite web |title=CNN AllPolitics Election '98 - Ohio 1998 Polls |url=https://www.cnn.com/ELECTION/1998/states/OH/polls/OH98G.html |publisher=[[CNN]] |access-date=29 June 2025 |archive-url=https://archive.today/20250629053126/https://www.cnn.com/ELECTION/1998/states/OH/polls/OH98G.html |archive-date=29 June 2025 |url-status=live}}</ref>{{Efn-ua|name=LHA}}
+|October 30–31, 1998
+|773 (RV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''44%'''
+|39%
+|17%
+|-
+| style="text-align:left" | Harris Insights & Analytics<ref name="FTE">{{cite web |title=FiveThirtyEight's Pollster Ratings Raw Polls File |url=https://raw.githubusercontent.com/fivethirtyeight/data/refs/heads/master/pollster-ratings/2023/raw-polls.csv |access-date=October 15, 2026 |website=GitHub |publisher=FiveThirtyEight}}</ref>
+| October 30, 1998
+| 2,149
+| —
+| {{Party shading/Republican}} | '''52%'''
+| 42%
+| 6%
+|-
+|style="text-align:left;"|Mason-Dixon<ref name=polls/>
+|October 25–27, 1998
+|815 (LV)
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''49%'''
+|42%
+|9%
+|-
+| style="text-align:left" |''[[Columbus Dispatch]]''<ref name="FTE"/>
+| October 27, 1998
+| 800
+| —
+| {{Party shading/Republican}} | '''47%'''
+| 46%
+| 7%
+|-
+|style="text-align:left;"|Louis Harris and Associates<ref name=polls/>{{Efn-ua|name=LHA|Poll sponsored by [[The Blade (Toledo, Ohio)|The Blade]], [[The Cincinnati Post]], & [[WLIO-TV]]}}
+|October 23–26, 1998
+|679 (LV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''47%'''
+|43%
+|10%
+|-
+|style="text-align:left;"|[[University of Cincinnati]]<ref name=polls/>
+|October 22–26, 1998
+|754 (LV)
+|±&nbsp;3.6%
+|{{party shading/Republican}}|'''51%'''
+|35%
+|14%
+|-
+| style="text-align:left" | Harris Insights & Analytics<ref name="FTE"/>
+| October 20, 1998
+| 1,793
+| —
+| {{Party shading/Republican}} | '''50%'''
+| 39%
+| 11%
+|-
+| style="text-align:left" | Gordon S. Black Corp.<ref name="FTE"/>
+| October 18, 1998
+| 1,012
+| —
+| {{Party shading/Republican}} | '''36%'''
+| 28%
+| 36%
+|-
+|style="text-align:left;"|[[University of Cincinnati]]<ref name=polls/>
+|October 8–18, 1998
+|540 (LV)
+|±&nbsp;4.2%
+|{{party shading/Republican}}|'''52%'''
+|37%
+|11%
+|-
+|style="text-align:left;"|[[University of Cincinnati]]<ref name=polls/>
+|October 2–7, 1998
+|405 (LV)
+|±&nbsp;5.0%
+|{{party shading/Republican}}|'''46%'''
+|37%
+|17%
+|-
+|style="text-align:left;"|Mason-Dixon<ref name=polls/>
+|October 2–5, 1998
+|805 (LV)
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''48%'''
+|40%
+|12%
+|-
+|style="text-align:left;"|[[University of Cincinnati]]<ref name=polls/>
+|September 8–20, 1998
+|521 (LV)
+|±&nbsp;4.3%
+|{{party shading/Republican}}|'''49%'''
+|39%
+|12%
+|-
+|style="text-align:left;"|Mason-Dixon<ref name=polls/>
+|September 12–14, 1998
+|817 (LV)
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''44%'''
+|35%
+|21%
+|-
+|style="text-align:left;"|[[University of Cincinnati]]<ref name=polls/>
+|May 13 – June 1, 1998
+|560 (RV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''52%'''
+|36%
+|12%
+|}
+
+===Results===
+{{Election box begin | title=Ohio gubernatorial election, 1998<ref>[http://www.sos.state.oh.us/sos/elections/Research/electResultsMain/1990-1999OfficialElectionResults/Overview110398.aspx Election Results and Data 1990-1999 Official Election Results]</ref>
+}}
+{{Election box winning candidate with party link|
+ |party = Republican Party (United States)
+ |candidate = [[Bob Taft]]
+ |votes = 1,678,721
+ |percentage = 50.05%
+ |change = -21.72%
+}}
+{{Election box candidate with party link|
+ |party = Democratic Party (United States)
+ |candidate = [[Lee Fisher]]
+ |votes = 1,498,956
+ |percentage = 44.69%
+ |change = +19.71%
+}}
+{{Election box candidate with party link|
+ |party = Reform Party (United States)
+ |candidate = John R. Mitchel
+ |votes = 111,468
+ |percentage = 3.32%
+ |change = 
+}}
+{{Election box candidate with party link|
+ |party = Natural Law Party (United States)
+ |candidate = Zanna Feitler
+ |votes = 65,068
+ |percentage = 1.94%
+ |change = 
+}}
+{{Election box majority|
+ |votes = 179,765
+ |percentage = 5.36%
+ |change = -41.43%
+}}
+{{Election box turnout|
+ |votes = 3,354,213
+ |percentage =
+ |change =
+}}
+{{Election box hold with party link|
+  |winner     = Republican Party (United States)
+  |loser      = Democratic Party (United States)
+  |swing      =
+}}
+{{Election box end}}
+
+==Notes==
+{{notelist}}
+;Partisan clients
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+== External links ==
+'''Official campaign websites (archived)'''
+*[https://web.archive.org/web/19981202063529/http://taft98.org/ Bob Taft (R) for Governor]
+*[https://web.archive.org/web/19981111190109/http://fisher-coleman.org/ Lee Fisher (D) for Governor]
+{{United States elections, 1998}}
+
+[[Category:1998 elections in Ohio|Gubernatorial]]
+[[Category:Ohio gubernatorial elections|1998]]
+[[Category:1998 United States gubernatorial elections|Ohio]]
+[[Category:November 1998 in the United States]]

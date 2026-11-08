@@ -1,0 +1,20 @@
+race_2026,office,year,rep_nominee,rep_votes,dem_nominee,dem_votes,basis
+Governor and Lieutenant Governor,governor,2018,Mike DeWine / Jon Husted,2235825,Richard Cordray / Betty Sutton,2070046,official
+Governor and Lieutenant Governor,governor,2022,Mike DeWine / Jon Husted,2580424,Nan Whaley / Cheryl L. Stephens,1545489,official
+Governor and Lieutenant Governor,governor,2026,Vivek Ramaswamy / Rob McColley,2039730,Amy Acton / David Pepper,2404178,unofficial
+Attorney General,attorney_general,2018,Dave Yost,2276414,Steve Dettelbach,2086715,official
+Attorney General,attorney_general,2022,Dave Yost,2484753,Jeffrey A. Crossman,1647644,official
+Attorney General,attorney_general,2026,Keith Faber,2256710,John Kulewicz,2285117,unofficial
+Secretary of State,secretary_of_state,2018,Frank LaRose,2214273,Kathleen Clyde,2052098,official
+Secretary of State,secretary_of_state,2022,Frank LaRose,2444382,Chelsea Clark,1635824,official
+Secretary of State,secretary_of_state,2026,Robert Sprague,2129981,Allison Russo,2287160,unofficial
+Auditor of State,auditor,2018,Keith Faber,2156663,Zack Space,2008295,official
+Auditor of State,auditor,2022,Keith Faber,2397207,Taylor Sappington,1683216,official
+Auditor of State,auditor,2026,Frank LaRose,2310105,Annette Blackwell,2237955,unofficial
+U.S. Senate,us_senate,2018,Jim Renacci,2057559,Sherrod Brown,2358508,official
+U.S. Senate,us_senate,2022,JD Vance,2192114,Tim Ryan,1939489,official
+U.S. Senate,us_senate,2026,Jon Husted,2077748,Sherrod Brown,2301042,unofficial
+"Justice of the Supreme Court, Brunner seat",supreme_court,2022,,2314806,,1787121,"average of Chief Justice of the Supreme Court (term commencing 01/01/2023), Justice of the Supreme Court (term commencing 01/01/2023), Justice of the Supreme Court (term commencing 01/02/2023)"
+"Justice of the Supreme Court, Brunner seat",supreme_court,2026,Colleen O'Donnell,2200021,Jennifer Brunner (incumbent),2324212,unofficial
+"Justice of the Supreme Court, Hawkins seat",supreme_court,2022,,2314806,,1787121,"average of Chief Justice of the Supreme Court (term commencing 01/01/2023), Justice of the Supreme Court (term commencing 01/01/2023), Justice of the Supreme Court (term commencing 01/02/2023)"
+"Justice of the Supreme Court, Hawkins seat",supreme_court,2026,Dan Hawkins (incumbent),2215728,Marilyn Zayas,2307346,unofficial

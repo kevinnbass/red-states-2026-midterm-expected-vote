@@ -1,0 +1,113 @@
+{{Short description|none}}
+{{infobox election
+| election_name      = 1998 Ohio State Auditor election
+| country            = Ohio
+| type               = presidential
+| ongoing            = no
+| turnout            =
+| previous_election  = 1994 Ohio State Auditor election
+| previous_year      = 1994
+| next_election      = 2002 Ohio State Auditor election
+| next_year          = 2002
+| election_date      = November 3, 1998
+| image1             = Jim Petro, January 11, 2013 (cropped).jpg
+| image_size = 150x150px
+| nominee1           = '''[[Jim Petro]]'''
+| party1             = Republican Party (United States)
+| popular_vote1      = '''1,975,793'''
+| percentage1        = '''62.39%'''
+| image2             = File:3x4.svg
+| nominee2           = Louis N. Strike
+| party2             = Democratic Party (United States)
+| popular_vote2      = 1,191,250
+| percentage2        = 37.61%
+| map_image          = 1998 Ohio State Auditor election results map by county.svg
+| map_size           = 210px
+| map_caption = County results<br />'''Petro:''' {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#d72f30|70–80%}}<br />'''Strike:''' {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}}
+| title              = [[Ohio State Auditor|State Auditor]]
+| before_election    = [[Jim Petro]]
+| before_party       = Republican Party (United States)
+| after_election     = [[Jim Petro]]
+| after_party        = Republican Party (United States)
+|}}
+{{ElectionsOH}}
+The '''1998 Ohio State Auditor election''' was held on November 3, 1998, to elect the [[Ohio State Auditor]]. Primaries were held on May 3, 1998. Republican incumbent Ohio State Auditor [[Jim Petro]] won the election in a landslide, defeating Democratic opponent Louis N. Strike with 62.39% of the vote.
+
+== Republican primary ==
+=== Candidates ===
+==== Nominee ====
+*[[Jim Petro]], incumbent [[Ohio State Auditor]] (1995–2003)
+=== Campaign ===
+Petro won renomination without opposition.
+=== Results ===
+{{Election box begin no change
+| title = Republican primary results<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/1990-1999-official-election-results/republican-overview-may-3-1998/ |title=Republican Overview: May 3, 1998 - Ohio Secretary of State |website=Ohio Secretary of State |access-date=October 27, 2025}}</ref>
+}}
+{{Election box winning candidate with party link no change
+ | candidate  = [[Jim Petro]]
+ | party      = Republican Party (United States)
+ | votes      = 609,292
+ | percentage = 100.00%
+}}
+{{Election box total no change
+ | votes      =  609,292
+ | percentage = 100.00%
+}}
+{{Election box end}}
+
+== Democratic primary ==
+=== Candidates ===
+==== Nominee ====
+*Louis N. Strike
+=== Campaign ===
+Strike won the Democratic nomination without opposition.
+=== Results ===
+{{Election box begin no change
+| title = Democratic primary results<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/1990-1999-official-election-results/democratic-overview-may-3-1998/ |title=Democratic Overview: May 3, 1998 - Ohio Secretary of State |website=Ohio Secretary of State |access-date=October 27, 2025}}</ref>
+}}
+{{Election box winning candidate with party link no change
+ | candidate  = Louis N. Strike
+ | party      = Democratic Party (United States)
+ | votes      = 555,903
+ | percentage = 100.00%
+}}
+{{Election box total no change
+ | votes      =  555,903
+ | percentage = 100.00%
+}}
+{{Election box end}}
+
+== General election ==
+=== Results ===
+{{Election box begin | title=1998 Ohio State Auditor election results<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/1990-1999-official-election-results/attorney-general-and-state-auditor-november-3-1998/ |title=Attorney General and State Auditor: November 3, 1998 - Ohio Secretary of State |date= |website=Ohio Secretary of State |access-date=October 27, 2025}}</ref>
+}}
+{{Election box winning candidate with party link|
+ |party = Republican Party (United States)
+ |candidate = [[Jim Petro]]
+ |votes = 1,975,793
+ |percentage = 62.39%
+ |change = +3.91%
+}}
+{{Election box candidate with party link|
+ |party = Democratic Party (United States)
+ |candidate = Louis N. Strike
+ |votes = 1,191,250
+ |percentage = 37.61%
+ |change = -3.91%
+}}
+{{Election box total no change
+ | votes      =  3,167,043
+ | percentage = 100.00%
+}}
+{{Election box hold with party link no swing|
+  |winner     = Republican Party (United States)
+}}
+{{Election box end}}
+
+== References ==
+{{reflist}}
+
+{{1998 United States elections}}
+
+[[Category:1998 United States state auditor elections|Ohio]]
+[[Category:1998 elections in Ohio|Auditor]]

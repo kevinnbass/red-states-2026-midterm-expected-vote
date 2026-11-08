@@ -1,0 +1,5 @@
+utc,url,file,bytes,sha256,http
+2026-11-08T04:31:38Z,https://api.github.com/repos/openelections/openelections-data-ks/git/trees/master?recursive=1,openelections_ks_tree.json,168778,3514739af9a35a9cce435314aa03b90c6db39a062ebe5ff3712f151f6eab7756,200
+2026-11-08T04:31:41Z,https://raw.githubusercontent.com/openelections/openelections-data-ks/master/2014/20141104__ks__general__precinct.csv,oe_20141104_ks_general_precinct.csv,5251688,63ad0a69a88b5a229847598a6bef5a7b8a0c17dae5792c1f0751cb2feda6d394,200
+2026-11-08T04:31:43Z,https://raw.githubusercontent.com/openelections/openelections-data-ks/master/2018/20181106__ks__general__precinct.csv,oe_20181106_ks_general_precinct.csv,5647637,26abef51d3680c61df3f707498fbdffe054ed934cf5db2f3e917413627266ce5,200
+2026-11-08T04:33:34Z,https://en.wikipedia.org/ (2014/2018 Kansas elections pages; values only),wikipedia_crosscheck_values.csv,1282,572a515f73ca0590dce792bebe8b43be3a7253c5efcecee17b66acfe04a93a39,webfetch

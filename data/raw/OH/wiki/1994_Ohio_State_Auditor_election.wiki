@@ -1,0 +1,125 @@
+{{Short description|none}}
+{{infobox election
+| election_name      = 1994 Ohio State Auditor election
+| country            = Ohio
+| type               = presidential
+| ongoing            = no
+| turnout            =
+| previous_election  = 1990 Ohio State Auditor election
+| previous_year      = 1990
+| next_election      = 1998 Ohio State Auditor election
+| next_year          = 1998
+| election_date      = {{Start date|1994|11|08}}
+| image1             = Jim and Nancy Petro (cropped).jpg
+| image_size = 150x150px
+| nominee1           = '''[[Jim Petro]]'''
+| party1             = Republican Party (United States)
+| popular_vote1      = '''1,883,852'''
+| percentage1        = '''58.48%'''
+| image2             = File:3x4.svg
+| nominee2           = Randall W. Sweeney
+| party2             = Democratic Party (United States)
+| popular_vote2      = 1,337,558
+| percentage2        = 41.52%
+| map_image          = 1994 Ohio State Auditor election results map by county.svg
+| map_size           = 210px
+| map_caption = County results<br />'''Petro:''' {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#d72f30|70–80%}}<br />'''Sweeney:''' {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584cde|70–80%}}
+| title              = [[Ohio State Auditor|State Auditor]]
+| before_election    = Thomas E. Ferguson
+| before_party       = Democratic Party (United States)
+| after_election     = [[Jim Petro]]
+| after_party        = Republican Party (United States)
+|}}
+{{ElectionsOH}}
+The '''1994 Ohio State Auditor election''' was held on November 8, 1994, to elect the [[Ohio State Auditor]]. Primaries were held on May 3, 1994. Democratic incumbent Ohio State Auditor Thomas E. Ferguson chose to retire rather than seek another term. 
+
+Republican [[Cuyahoga County, Ohio|Cuyahoga County]] Commissioner and previously unsuccessful 1990 candidate for this office [[Jim Petro]] won the election, defeating Democrat Randall W. Sweeney by 16 percentage points.
+
+This election marked the end of the Democrats' and the Ferguson family dynasty's control of the office of Ohio State Auditor; they had collectively held the office for 24 years, from 1971 until 1995.
+
+== Democratic primary ==
+=== Candidates ===
+*Randall W. Sweeney
+*Ray T. Kest, [[Lucas County, Ohio|Lucas County]] Treasurer (1988–2004)
+=== Campaign ===
+Sweeney easily won the nomination over Lucas County Treasurer Ray T. Kest, winning by over 30 percentage points.
+=== Results ===
+{{Election box begin no change
+| title = Democratic primary results<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/1990-1999-official-election-results/democratic-primary-may-3-1994/ |title=Democratic Primary: May 3, 1994 - Ohio Secretary of State |website=Ohio Secretary of State |access-date=November 1, 2025}}</ref>
+}}
+{{Election box winning candidate with party link no change
+ | candidate  = Randall W. Sweeney
+ | party      = Democratic Party (United States)
+ | votes      = 508,324
+ | percentage = 67.39%
+}}
+{{Election box candidate with party link no change
+ | candidate  = Ray T. Kest
+ | party      = Democratic Party (United States)
+ | votes      = 245,971
+ | percentage = 32.61%
+}}
+{{Election box total no change
+ | votes      =  739,724
+ | percentage = 100.00%
+}}
+{{Election box end}}
+
+== Republican primary ==
+=== Candidates ===
+*[[Jim Petro]], [[Cuyahoga County, Ohio|Cuyahoga County]] Commissioner (1991–1995)
+=== Campaign ===
+Petro won the Republican nomination unopposed.
+=== Results ===
+{{Election box begin no change
+| title = Republican primary results<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/1990-1999-official-election-results/republican-primary-may-3-1994/ |title=Republican Primary: May 3, 1994 - Ohio Secretary of State |website=Ohio Secretary of State |access-date=November 1, 2025}}</ref>
+}}
+{{Election box winning candidate with party link no change
+ | candidate  = [[Jim Petro]]
+ | party      = Republican Party (United States)
+ | votes      = 609,280
+ | percentage = 100%
+}}
+{{Election box total no change
+ | votes      =  609,280
+ | percentage = 100.00%
+}}
+{{Election box end}}
+
+== General election ==
+=== Candidates ===
+*[[Jim Petro]], [[Cuyahoga County, Ohio|Cuyahoga County]] Commissioner (1991–1995) (Republican)
+*Randall W. Sweeney (Democratic)
+=== Results ===
+{{Election box begin | title=1994 Ohio State Auditor election results<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/1990-1999-official-election-results/general-election-november-8-1994/ |title=General Election: November 8, 1994 - Ohio Secretary of State |website=Ohio Secretary of State |access-date=October 28, 2025}}</ref>
+}}
+{{Election box winning candidate with party link|
+ |party = Republican Party (United States)
+ |candidate = [[Jim Petro]]
+ |votes = 1,883,852
+ |percentage = 58.48%
+ |change = +11.28%
+}}
+{{Election box candidate with party link|
+ |party = Democratic Party (United States)
+ |candidate = Randall W. Sweeney
+ |votes = 1,337,558
+ |percentage = 41.52%
+ |change = -11.28%
+}}
+{{Election box total no change
+ | votes      = 3,266,718
+ | percentage = 100.00%
+}}
+{{Election box gain with party link no swing
+ | winner = Republican Party (United States)
+ | loser  = Democratic Party (United States)
+}}
+{{Election box end}}
+== References ==
+{{reflist}}
+
+{{1994 United States elections}}
+
+[[Category:1994 United States state auditor elections|Ohio]]
+[[Category:1994 elections in Ohio|Auditor]]

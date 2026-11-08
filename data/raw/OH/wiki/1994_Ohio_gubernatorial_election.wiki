@@ -1,0 +1,151 @@
+{{Short description|none}}
+{{Use American English|date=January 2025}}
+<!-- "none" is preferred when the title is sufficiently descriptive; see [[WP:SDNONE]] -->
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name      = 1994 Ohio gubernatorial election
+| country            = Ohio
+| type               = presidential
+| ongoing            = no
+| previous_election  = 1990 Ohio gubernatorial election
+| previous_year      = 1990
+| next_election      = 1998 Ohio gubernatorial election
+| next_year          = 1998
+| election_date      = November 8, 1994
+| image_size = 150x150px
+| image1             = File:George Voinovich.jpg
+| nominee1           = '''[[George Voinovich]]'''
+| party1             = Republican Party (United States)
+| running_mate1      = '''[[Nancy Hollister]]'''
+| popular_vote1      = '''2,401,572 '''
+| percentage1        = '''71.77%'''
+| image2             = File:Robert L. Burch - 30th District - Ohio Senate 116th General Assembly 1993-1994 - DPLA - f6883d0776f30f81b4c0ebe18e9c9587 (page 23) (cropped).jpg
+| nominee2           = [[Rob Burch (politician)|Rob Burch]]
+| party2             = Democratic Party (United States)
+| running_mate2      = [[Peter Lawson Jones]]
+| popular_vote2      = 835,849
+| percentage2        = 24.98%
+| map_image          = {{Switcher
+| [[File:1994 Ohio gubernatorial election results map by county.svg|210px]]
+| County results
+| [[File:Ohio 1994 Governor Election By Township.svg|210px]]
+| Township results
+}}
+| map_size           = 210px
+| map_caption        = '''Voinovich:''' {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#d72f30|70–80%}} {{legend0|#c21b18|80–90%}} {{legend0|#A80000|>90%}}<br />'''Burch:''' {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584cde|70–80%}} 
+| title              = Governor
+| before_election    = [[George Voinovich]]
+| before_party       = Republican Party (United States)
+| after_election     = [[George Voinovich]]
+| after_party        = Republican Party (United States)
+}}
+{{ElectionsOH}}
+The '''1994 Ohio gubernatorial election''' took place on November 8, 1994. Incumbent [[Republican Party (United States)|Republican]] [[Governor of Ohio]] [[George Voinovich]] ran for a second term. Voinovich won his party's nomination uncontested and was opposed by [[Ohio State Senate|State Senator]] [[Rob Burch (politician)|Rob Burch]], who won a competitive [[Democratic Party (United States)|Democratic]] primary. Ultimately, Voinovich capitalized on his massive popularity within [[Ohio]] and won re-election in an overwhelming landslide, defeating Burch and winning almost 72% of the vote. {{As of|2024}}, this was the last time [[Athens County, Ohio|Athens County]] voted for the Republican candidate.
+
+==Democratic primary==
+
+===Candidates===
+*[[Rob Burch (politician)|Rob Burch]], [[Ohio State Senate|Ohio State Senator]]
+*Peter Michael Schuller, philosophy professor and former congressional candidate
+
+===Results===
+{{Election box begin no change
+| title = Democratic primary results<ref>[http://www.sos.state.oh.us/sos/elections/Research/electResultsMain/1990-1999OfficialElectionResults/DemPrimary050394.aspx 1990-1999 Official Election Results]</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Rob Burch
+| party = Democratic Party (United States)
+| votes = 408,161
+| percentage = 58.78
+}}
+{{Election box candidate with party link no change
+| candidate = Peter Michael Schuller
+| party = Democratic Party (United States)
+| votes = 286,276
+| percentage = 41.22
+}}
+{{Election box total no change
+| votes = 694,437
+| percentage= 100.00
+}}
+{{Election box end}}
+
+==Republican primary==
+
+===Candidates===
+*[[George Voinovich]], incumbent [[Governor of Ohio]]
+
+===Results===
+{{Election box begin no change
+| title = Republican primary results<ref>[http://www.sos.state.oh.us/sos/elections/Research/electResultsMain/1990-1999OfficialElectionResults/RepPrimary050394.aspx 1990-1999 Official Election Results]</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = George Voinovich (inc.)
+| party = Republican Party (United States)
+| votes = 750,781
+| percentage = 100.00
+}}
+{{Election box total no change
+| votes =  750,781
+| percentage= 100.00
+}}
+{{Election box end}}
+
+==General election==
+
+===Results===
+{{Election box begin | title=Ohio gubernatorial election, 1994<ref>[http://www.sos.state.oh.us/sos/elections/Research/electResultsMain/1990-1999OfficialElectionResults/GenElect110894.aspx 1990-1999 Official Election Results]</ref>
+}}
+{{Election box winning candidate with party link|
+ |party = Republican Party (United States)
+ |candidate = [[George Voinovich]] ([[incumbent|inc.]])
+ |votes = 2,401,572
+ |percentage = 71.77%
+ |change = +16.04%
+}}
+{{Election box candidate with party link|
+ |party = Democratic Party (United States)
+ |candidate = [[Rob Burch (politician)|Rob Burch]]
+ |votes = 835,849
+ |percentage = 24.98%
+ |change = -19.29%
+}}
+{{Election box candidate with party link|
+ |party = Independent (United States)
+ |candidate = Billy R. Inmon
+ |votes = 108,745
+ |percentage = 3.25%
+ |change = 
+}}
+{{Election box candidate|
+ |party      = Write-ins
+ |candidate  = 
+ |votes      = 72
+ |percentage = 0.00%
+ |change     = 
+}}
+{{Election box majority|
+ |votes = 1,565,723
+ |percentage = 46.79%
+ |change = +35.33%
+}}
+{{Election box turnout|
+ |votes = 3,346,238
+ |percentage =
+ |change =
+}}
+{{Election box hold with party link|
+  |winner     = Republican Party (United States)
+  |loser      = Democratic Party (United States)
+  |swing      =
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+{{United States elections, 1994}}
+
+[[Category:1994 elections in Ohio|Gubernatorial]]
+[[Category:Ohio gubernatorial elections|1994]]
+[[Category:1994 United States gubernatorial elections|Ohio]]
+[[Category:November 1994 in the United States]]

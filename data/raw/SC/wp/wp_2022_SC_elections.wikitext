@@ -1,0 +1,514 @@
+{{Short description|None}}
+{{Use American English|date=February 2026}}
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 2022 South Carolina elections
+| country = South Carolina
+| type = midterm
+| ongoing = no
+| next_year = [[2024 South Carolina elections|2024]]
+| election_date = November 8, 2022
+| previous_year = [[2020 South Carolina elections|2020]]
+}}
+
+{{ElectionsSC}}
+'''South Carolina state elections in 2022''' were held on Tuesday, November 8, 2022. All of South Carolina's executive officers were up for election, as well as all of South Carolina's seven seats in the [[United States House of Representatives]].
+
+== United States Congress: US House and Senate races ==
+
+=== House of Representatives ===
+{{main|2022 United States House of Representatives elections in South Carolina}}[[File:2022 United States House of Representatives elections in South Carolina results map.svg|alt=District results|thumb|center|249x249px|District results:{{collapsible list
+| title = {{legend|#e81b22|Republican}}|{{legend|#E27F90|50–60%}}|{{legend|#CC2F4A|60–70%}}|{{legend|#800000|>90%}}
+}}{{collapsible list
+| title = {{legend|#3233fd|Democratic}}|||{{legend|#4389e3|60–70%}}
+}}]]All of South Carolina's seven seats in the [[United States House of Representatives]] were up for election in 2022.
+
+===Results===
+{|class="wikitable plainrowheaders sortable" style="font-size:90%; text-align:right;"
+! scope=col rowspan=3|[[South Carolina's congressional districts|District]]
+! scope=col colspan=2|[[Republican Party (United States)|Republican]]
+! scope=col colspan=2|[[Democratic Party (United States)|Democratic]]
+! scope=col colspan=2|Others
+! scope=col colspan=2|Total
+! scope=col rowspan=3|Result
+|-
+! scope=col colspan=2 style="background:{{party color|Republican Party (United States)}}"|  !! scope=col colspan=2 style="background:{{party color|Democratic Party (United States)}}"| !! scope=col colspan=2| !! scope=col colspan=2|
+|-
+! scope=col data-sort-type="number"|Votes !! scope=col data-sort-type="number"|% !! scope=col data-sort-type="number"|Votes !! scope=col data-sort-type="number"|% !! scope=col data-sort-type="number"|Votes !! scope=col data-sort-type="number"|% !! scope=col data-sort-type="number"|Votes !! scope=col data-sort-type="number"|%
+|- {{Party shading/Republican}}
+| align=left|{{ushr|SC|1|District 1}} || '''153,757''' || '''56.39%''' || 115,796 || 42.47% || 3,128 || 1.15% || 272,681 || 100.0% || align=left|Republican hold
+|- {{Party shading/Republican}}
+| align=left|{{ushr|SC|2|District 2}} || '''147,699''' || '''60.01%''' || 98,081 || 39.85% || 346 || 0.14% || 246,126 || 100.0% || align=left|Republican hold
+|- {{Party shading/Republican}}
+| align=left|{{ushr|SC|3|District 3}} || '''189,971''' || '''97.64%''' || 0 || 0.0% || 4,598 || 2.36% || 194,569 || 100.0% || align=left|Republican hold
+|- {{Party shading/Republican}}
+| align=left|{{ushr|SC|4|District 4}} || '''165,607''' || '''90.81%''' || 0 || 0.0% || 16,758 || 9.19% || 182,365 || 100.0% || align=left|Republican hold
+|- {{Party shading/Republican}}
+| align=left|{{ushr|SC|5|District 5}} || '''154,725''' || '''64.01%''' || 83,299 || 34.46% || 3,683 || 1.53% || 241,707 || 100.0% || align=left|Republican hold
+|- {{Party shading/Democratic}}
+| align=left|{{ushr|SC|6|District 6}} || 79,879 || 37.85% || '''130,923''' || '''62.04%''' || 226 || 0.11% || 211,028 || 100.0% || align=left|Democratic hold
+|- {{Party shading/Republican}}
+| align=left|{{ushr|SC|7|District 7}} || '''164,440''' || '''64.77%''' || 89,030 || 35.07% || 395 || 0.16% || 253,865 || 100.0% || align=left|Republican hold
+|- class="sortbottom" style="font-weight:bold"
+| align=left|Total || 1,056,078 || 65.91% || 517,129 || 32.27% || 29,134 || 1.82% || 1,602,341 || 100.0% ||
+|}
+{{bar box
+| title=Popular vote
+| titlebar=#ddd
+| width=600px
+| barwidth=410px
+| bars=
+{{bar percent|Republican|{{party color|Republican Party (United States)}}|65.91}}
+{{bar percent|Democratic|{{party color|Democratic Party (United States)}}|32.27}}
+{{bar percent|Other|#777777|1.82}}
+}}
+
+{{bar box
+| title=House seats
+| titlebar=#ddd
+| width=600px
+| barwidth=410px
+| bars=
+{{bar percent|Republican|{{party color|Republican Party (United States)}}|85.71}}
+{{bar percent|Democratic|{{party color|Democratic Party (United States)}}|14.29}}
+}}
+
+=== Senate ===
+{{main|2022 United States Senate election in South Carolina}}Democratic primary candidates included [[Krystle Matthews]], [[Catherine Fleming Bruce]] and Angela Geter.  Fleming Bruce received the highest number of votes, landing her in a runoff with Matthews, which Matthews won.[[File:2022 United States Senate election in South Carolina results map by county.svg|alt=Final results by county|thumb|center|249x249px|Final results by county: {{collapsible list
+| title = {{legend|#e81b22|Scott}}|{{legend|#E27F7F|50–60%}}|{{legend|#D75D5D|60–70%}}|{{legend|#D72F30|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#3233fd|Matthews}}|| {{legend|#7996e2|50–60%}}|{{legend|#6674de|60–70%}}
+}}]]
+{{Election box begin|title=2022 United States Senate election in South Carolina<ref name="genel">{{cite web |title=2022 Statewide General Election |url=https://www.enr-scvotes.org/SC/115412/Web02-state.307150/#/?undefined |website=South Carolina Election Commission}}</ref>}}
+{{Election box winning candidate with party link|candidate=[[Tim Scott]] (incumbent)|party=Republican Party (United States)|votes=1,066,274|percentage=62.88%|change=+2.31%}}
+{{Election box candidate with party link|party=Democratic Party (United States)|candidate=[[Krystle Matthews]]|votes=627,616|percentage=37.01%|change=+0.08%}}
+{{Election box write-in with party link|votes=1,812|percentage=0.11%|change=+0.02%}}
+{{Election box total|votes=1,695,702|percentage=100.00%|change=N/A}}
+{{Election box hold with party link no swing|winner=Republican Party (United States)}}
+{{Election box end}}
+
+==Governor and lieutenant governor ==
+{{main|2022 South Carolina gubernatorial election}}
+[[File:2022 South Carolina gubernatorial election results map by county.svg|alt=Final results by county|thumb|249x249px|Final results by county: {{collapsible list
+| title = {{legend|#e81b22|McMaster}}|{{legend|#E27F7F|50–60%}}|{{legend|#D75D5D|60–70%}}|{{legend|#D72F30|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#3233fd|Cunningham}}|| {{legend|#a5b0ff|40–50%}} |{{legend|#7996e2|50–60%}}|{{legend|#6674de|60–70%}}
+}}]]
+{{Election box begin|title=2022 South Carolina gubernatorial election<ref>[https://www.enr-scvotes.org/SC/115412/Web02-state.307150/#/?undefined Results] State of South Carolina. Retrieved March 11, 2023</ref>}}
+{{Election box winning candidate with party link|party=Republican Party (United States)|candidate={{ubl|[[Henry McMaster]] (incumbent)|[[Pamela Evette]] (incumbent)}}|votes=988,501|percentage=58.04%|change=+4.08%}}
+{{Election box candidate with party link|party=Democratic Party (United States)|candidate={{ubl|[[Joe Cunningham (American politician)|Joe Cunningham]]|Tally Parham Casey}}|votes=692,691|percentage=40.67%|change=−5.25%}}
+{{Election box candidate with party link|party=Libertarian Party (United States)|candidate={{ubl|Morgan Bruce Reeves|Jessica Ethridge}}|votes=20,826|percentage=1.22%|change=N/A}}
+{{Election box write-in with party link|votes=1,174|percentage=0.07%|change=}}
+{{Election box total|votes=1,703,192|percentage=100.00%|change=N/A}}{{Election box turnout|votes=1,718,626|percentage=50.86%|change=}}{{Election box registered electors|reg. electors=3,379,089}}
+{{Election box hold with party link no swing|winner=Republican Party (United States)}}
+{{Election box end}}
+{{Clear}}
+
+==Attorney General==
+{{main|2022 South Carolina Attorney General election}}
+[[File:South Carolina GOP Sweep.svg|alt=Final results by county|thumb|250x250px|Final results by county: {{collapsible list
+| title = {{legend|#e81b22|Wilson}}|5={{legend|#a80000|>90%}}}}]]
+Incumbent [[Alan Wilson (politician)|Alan Wilson]] ran unopposed in the general.
+
+{{Election box begin no change|title=2022 South Carolina Attorney General election<ref name="report01">{{cite web |title=State of South Carolina Election Night Reporting |url=https://www.enr-scvotes.org/SC/115412/Web02-state.307150/#/cid/23000?undefined|website=www.enr-scvotes.org|access-date=June 14, 2023}}</ref>}}
+{{Election box winning candidate with party link no change|party=South Carolina Republican Party|candidate=[[Alan Wilson (politician)|Alan Wilson]] (incumbent)|votes=1,223,080|percentage=97.32%|change=}}
+{{Election box candidate with party link no change|party=Write-ins|candidate=[[Write-in candidate|Write-in]]|votes=33,709|percentage=2.68%|change=}}
+{{Election box total no change|votes=1,256,789|percentage=100.00%}}{{Election box hold with party link no swing|winner=South Carolina Republican Party}}
+{{Election box end}}
+{{Clear}}
+
+==Secretary of State==
+{{main|2022 South Carolina Secretary of State election}}
+[[File:2022 South Carolina secretary of state election results map by county.svg|alt=Final results by county|thumb|249x249px|Final results by county: {{collapsible list
+| title = {{legend|#e81b22|Hammond}}|{{legend|#E27F7F|50–60%}}|{{legend|#D75D5D|60–70%}}|{{legend|#D72F30|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#3233fd|Butler}}|||{{legend|#7996e2|50–60%}}|{{legend|#6674de|60–70%}}
+}}]]
+{{Election box begin no change|title=2022 South Carolina Secretary of State election}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate={{ubl|[[Mark Hammond (American politician)|Mark Hammond]] (incumbent)}}|votes=1,071,451|percentage=63.33%}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate={{ubl|Rosemounda Peggy Butler|}}|votes=619,341|percentage=36.61%}}
+{{Election box write-in with party link no change|votes=1,109|percentage=0.07%}}
+{{Election box total no change|votes=1,691,901|percentage=100.00%|}}
+{{Election box hold with party link no swing|winner=Republican Party (United States)}}
+{{Election box end}}
+{{Clear}}
+
+==Treasurer==
+{{main|2022 South Carolina Treasurer election}}
+[[File:2022 South Carolina state treasurer election results map by county.svg|alt=Final results by county|thumb|250x250px|Final results by county: {{collapsible list
+| title = {{legend|#e81b22|Loftis}}|{{legend|#E27F7F|50–60%}}|{{legend|#D75D5D|60–70%}}|{{legend|#D72F30|70–80%}}
+|{{legend|#c21b18|80–90%}}|{{legend|#a80000|>90%}}}}]]
+{{Election box begin|title=2022 South Carolina Treasurer election<ref name="report01"/>}}
+{{Election box winning candidate with party link|party=South Carolina Republican Party|candidate=[[Curtis Loftis]] (incumbent)|votes=1,129,961|percentage=79.67%|change=+23.72%}}
+{{Election box candidate with party link|party=Alliance Party (United States)|candidate=Sarah E. Work|votes=281,695|percentage=19.86%|change=+18.33%}}
+{{Election box candidate with party link|party=|candidate=[[Write-in candidate|Write-in]]|votes=6,630|percentage=0.47%|change=+0.43%}}{{Election box total|votes=1,418,286|percentage=100.00%}}{{Election box hold with party link no swing|winner=South Carolina Republican Party}}
+{{Election box end}}
+{{Clear}}
+
+==Comptroller General==
+{{Infobox election
+| election_date = November 8, 2022
+| election_name = 2022 South Carolina Comptroller General election
+| country = South Carolina
+| type = presidential
+| vote_type = popular
+| ongoing = no
+| party_colour = yes
+| party_name = yes
+| previous_election = 2018 South Carolina elections#Comptroller General
+| previous_year = 2018
+| next_election = 2026 South Carolina State Comptroller election
+| next_year = 2026
+| candidate1 = '''[[Richard Eckstrom]]'''
+| party1 = Republican Party (United States)
+| image_size = 150x150px 
+| image1 = File:Richard and Mrs. Eckstrom and Pamela Evette (cropped).png
+| popular_vote1 = '''1,229,879'''
+| percentage1 = '''98.21%'''
+| candidate2 = 
+| image2 = File:NOTA Option Logo 3x4.svg
+| party2 = Write-ins
+| percentage2 = 1.79%
+| popular_vote2 = 22,407
+| map = [[File:South Carolina GOP Sweep.svg|230px]]
+| map_caption = County results<br>'''Eckstrom:''' {{legend0|#a80000|>90%}}
+}}
+
+{{Election box begin no change|title=2022 South Carolina Comptroller General election<ref name="report01"/>}}
+{{Election box winning candidate with party link no change|party=South Carolina Republican Party|candidate=[[Richard Eckstrom]] (incumbent)|votes=1,229,879|percentage=98.21%|change=}}
+{{Election box candidate with party link no change|party=Write-ins|candidate=[[Write-in candidate|Write-in]]|votes=22,407|percentage=1.79%|change=}}
+{{Election box total no change|votes=1,252,286|percentage=100.00%}}{{Election box hold with party link no swing|winner=South Carolina Republican Party}}
+{{Election box end}}
+{{Clear}}
+
+==Superintendent of Education==
+
+=== Primary elections ===
+{{Election box begin no change
+| title = '''Republican primary results'''<ref>{{cite web |title=2022 Statewide Primaries Election Night Reporting |url=https://www.enr-scvotes.org/SC/114143/Web02-state.289375/#/?undefined |publisher=State of South Carolina |access-date=29 June 2026}}</ref>
+}}
+{{Election box candidate with party link no change
+| candidate = '''[[Kathy Maness]]'''
+| party = Republican Party (United States)
+| votes = 103,608
+| percentage = 30.6
+}}
+{{Election box candidate with party link no change
+| candidate = '''[[Ellen Weaver]]'''
+| party = Republican Party (United States)
+| votes = 79,077
+| percentage = 23.3
+}}
+{{Election box candidate with party link no change
+| candidate = Travis Bedson
+| party = Republican Party (United States)
+| votes = 47,241
+| percentage = 13.9
+}}
+{{Election box candidate with party link no change
+| candidate = Bryan Chapman 
+| party = Republican Party (United States)
+| votes = 42,498
+| percentage = 12.5
+}}
+{{Election box candidate with party link no change
+| candidate = Kizzi Gibson
+| party = Republican Party (United States)
+| votes = 37,743
+| percentage = 11.1
+}}
+{{Election box candidate with party link no change
+| candidate = Lynda Leventis-Wells
+| party = Republican Party (United States)
+| votes = 28,755
+| percentage = 8.5
+}}
+{{Election box total no change
+  |votes      = 338,922
+  |percentage = 100.0
+}}
+{{election box end}}
+{{Election box begin no change
+| title = '''Republican primary runoff'''<ref>{{cite web |title=2022 Statewide Primaries - RUNOFF Election Night Reporting
+|url=https://www.enr-scvotes.org/SC/115187/Web02-state.289375/#/?undefined |publisher=State of South Carolina |access-date=29 June 2026}}</ref>
+}}
+{{Election box candidate with party link no change
+| candidate = '''[[Ellen Weaver]]'''
+| party = Republican Party (United States)
+| votes = 111,643
+| percentage = 63.9
+}}
+{{Election box candidate with party link no change
+| candidate = [[Kathy Maness]]
+| party = Republican Party (United States)
+| votes = 63,080
+| percentage = 36.1
+}}
+{{Election box total no change
+  |votes      = 174,723
+  |percentage = 100
+}}
+{{election box end}}
+{{Election box begin no change|title=Superintendent of Education Democratic Primary 2022<ref>{{cite web |title=2022 Statewide Primaries Election Night Reporting |url=https://www.enr-scvotes.org/SC/114143/Web02-state.289375/#/?undefined |website=scvotes.org |publisher=State of South Carolina |access-date=15 June 2022}}</ref>}}
+{{Election box winning candidate with party link no change|candidate=[[Lisa Ellis (American politician)|Lisa Ellis]]|party=Democratic Party (United States)|votes=87,229|percentage=50.1%}}
+{{Election box candidate with party link no change|candidate=Gary Burgess|party=Democratic Party (United States)|votes=54,317|percentage=31.2%}}
+{{Election box candidate with party link no change|candidate=[[Jerry Govan Jr.]]|party=Democratic Party (United States)|votes=32,473|percentage=18.7%}}
+{{Election box total no change|votes=174,019|percentage=100%}}
+{{Election box end}}
+
+=== General election ===
+{{Infobox election
+| election_date = November 8, 2022
+| election_name = 2022 South Carolina Superintendent of Education election
+| country = South Carolina
+| type = presidential
+| vote_type = popular
+| ongoing = no
+| party_colour = yes
+| party_name = yes
+| previous_election = 2018 South Carolina elections#Superintendent of Education
+| previous_year = 2018
+| next_election = 2026 South Carolina Superintendent of Education election
+| next_year = 2026
+| candidate1 = '''[[Ellen Weaver]]'''
+| party1 = Republican Party (United States)
+| image1 = File:Ellen Weaver at Education Gala (cropped 3x4).png
+| popular_vote1 = '''937,493'''
+| percentage1 = '''55.52%'''
+| candidate2 = [[Lisa Ellis (American politician)|Lisa Ellis]]
+| party2 = Democratic Party (United States)
+| alliance2 = Alliance Party (United States)
+| image2 = File:Lisa Ellis (cropped).png
+| percentage2 = 42.76%
+| popular_vote2 = 722,013
+| map_image = File:2022 South Carolina Superintendent of Education election results map by county.svg
+| map_size = 230px
+| default = 
+| map_caption = County results<br>'''Weaver:''' {{legend0|#E27F7F|50–60%}} {{legend0|#D75D5D|60–70%}} {{legend0|#D72F30|70–80%}} <br /> '''Ellis:''' {{legend0|#7996E2|50–60%}}
+{{legend0|#6674DE|60–70%}} 
+}}
+
+{{Election box begin no change|title=2022 South Carolina Superintendent of Education election<ref name="genel"/>}}
+{{Election box winning candidate with party link no change|candidate=[[Ellen Weaver]]|party=Republican Party (United States)|votes=937,493|percentage=55.52%}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=[[Lisa Ellis (American politician)|Lisa Ellis]]{{efn|Ellis ran as both a candidate for the Democratic and Alliance parties. Her vote total is a combination of votes cast for both parties.}}|votes=722,013|percentage=42.76%}}
+{{Election box candidate with party link no change|party=Green Party (United States)|candidate=Patricia M. Mickel|votes=27,468|percentage=1.63%}}
+{{Election box write-in with party link no change|votes=1,744|percentage=0.10%}}
+{{Election box total no change|votes=1,688,718|percentage=100.00%}}
+{{Election box hold with party link no swing|winner=Republican Party (United States)}}
+{{Election box end}}
+{{Clear}}
+
+==Commissioner of Agriculture==
+{{Infobox election
+| election_date = November 8, 2022
+| election_name = 2022 South Carolina Commissioner of Agriculture election
+| country = South Carolina
+| type = presidential
+| vote_type = popular
+| ongoing = no
+| party_colour = yes
+| party_name = yes
+| previous_election = 2018 South Carolina elections#Commissioner of Agriculture
+| previous_year = 2018
+| next_election = 2026 South Carolina elections#Commissioner of Agriculture
+| next_year = 2026
+| candidate1 = '''[[Hugh Weathers]]'''
+| party1 = Republican Party (United States)
+| image_size = 150x150px 
+| image1 = Hugh Weathers.png
+| popular_vote1 = '''1,085,139'''
+| percentage1 = '''77.60%'''
+| candidate2 = David Edmond
+| party2 = Green Party (United States)
+| image2 = File:3x4.svg
+| percentage2 = 15.25%
+| popular_vote2 = 213,219
+| candidate3 = Chris Nelums
+| party3 = United Citizens Party
+| image3 = File:3x4.svg
+| percentage3 = 6.84%
+| popular_vote3 = 95,625
+| map = {{switcher
+|[[File:2022 South Carolina Agriculture Commissioner election results map by county.svg|230px]]
+|County results
+|[[File:2022 SC Agricultural Commissioner by precinct.svg|230px]]
+|Precinct results
+|default=1
+}}
+| map_caption = '''Weathers''' {{legend0|#FFC8CD|30-40%}} {{legend0|#FFB2B2|40–50%}} {{legend0|#E27F7F|50–60%}} {{legend0|#D75D5D|60–70%}} {{legend0|#D72F30|70–80%}} 
+{{legend0|#c21b18|80–90%}} {{legend0|#A80000|>90%}}<br/>'''Edmond''': {{legend0|#AAE5AA|30-40%}} {{legend0|#87DE87|40–50%}} {{legend0|#5FD35F|50–60%}}<br/>'''Nelums''': {{legend0|#f2dffc|30-40%}} {{legend0|#dcb7ef|40–50%}} {{legend0|#c88fe4|50–60%}} {{legend0|#b368d9|60–70%}}<br/>{{legend0|#808080|No Votes}}
+}}
+{{Election box begin no change|title=2022 South Carolina Commissioner of 
+Agriculture election<ref name="genel"/>}}
+{{Election box winning candidate with party link no change|candidate=[[Hugh Weathers]] (incumbent)|party=Republican Party (United States)|votes=1,085,139|percentage=77.60%|change=}}
+{{Election box candidate with party link no change|party=Green Party (United States)|candidate=David Edmond|votes=213,219|percentage=15.25%|change=}}
+{{Election box candidate with party link no change|party=United Citizens Party|candidate=Chris Nelums|votes=95,625|percentage=6.84%|change=}}
+{{Election box write-in with party link no change|votes=4,409|percentage=0.32%|change=}}
+{{Election box total no change|votes=1,398,392|percentage=100.00%|change=N/A}}
+{{Election box hold with party link no swing|winner=Republican Party (United States)}}
+{{Election box end}}
+{{Clear}}
+
+==State legislature ==
+{{main|2022 South Carolina House of Representatives election}}
+
+[[File:2022 South Carolina House of Representatives election results map by winner.svg|249px]]
+
+Results by State House districts
+
+{{col-begin}}
+{{col-3}}
+'''Winners:'''
+{{legend|#F48882|Republican hold}}
+{{legend|#92C5DE|Democratic hold}}
+{{legend|#CA0120|Republican gain}}
+{{legend|#0671B0|Democratic gain}}
+{{col-end}}
+
+All 124 seats in the [[South Carolina House of Representatives]] were up for election in 2022.
+
+{| class="wikitable"
+|-
+! style="background:#e9e9e9; text-align:center" rowspan="2" colspan="2" | Parties
+! style="background:#e9e9e9; text-align:center" colspan="3" | Popular vote
+! style="background:#e9e9e9; text-align:center" colspan="4" | Seats
+|- style="background:#e9e9e9"
+! Vote
+! %
+! Change
+! [[2020 South Carolina House of Representatives election|2020]]
+! 2022
+! +/−
+! Strength
+
+|-
+| style="background-color:{{party color|Republican Party (US)}}" | &nbsp;
+| [[South Carolina Republican Party]]
+| align=right | 1,027,276
+| align=right | 68.96%
+| align=right | +6.34%
+| align=right | '''81'''
+| align=right | '''88'''
+| align=right | {{Increase}} 7
+| align=right | 70.97%
+
+|-
+| style="background-color:{{party color|Democratic Party (US)}}" | &nbsp;
+| [[South Carolina Democratic Party]]
+| align=right | 436,566
+| align=right | 29.31%
+| align=right | −5.49%
+| align=right | 43
+| align=right | 36
+| align=right | {{Decrease}} 7
+| align=right | 29.03%
+
+|-
+| style="background-color:{{party color|write-in candidate}}" | &nbsp;
+| [[Write-in candidate|Write-in]]
+| align="right" | 18,402
+| align="right" | 1.24%
+| align="right" | −0.05%
+| align="right" | —
+| align="right" | —
+| align="right" | —
+| align="right" | —
+
+|-
+| style="background-color:{{party color|Libertarian Party (US)}}" | &nbsp;
+| [[Libertarian Party of South Carolina]]
+| align="right" | 5,375
+| align="right" | 0.36%
+| align="right" | −0.42%
+| align="right" | —
+| align="right" | —
+| align="right" | —
+| align="right" | —
+
+|-
+| style="background-color:{{party color|Independent (politician)}}" | &nbsp;
+| [[Independent (politician)|Independent]]
+| align="right" | 1,080
+| align="right" | 0.07%
+| align="right" | +0.04%
+| align="right" | —
+| align="right" | —
+| align="right" | —
+| align="right" | —
+
+|-
+| style="background-color:{{party color|Alliance Party (United States)}}"| &nbsp;
+| [[American Party of South Carolina]]
+| align="right" | 564
+| align="right" | 0.04%
+| align="right" | −0.28%
+| align="right" | —
+| align="right" | —
+| align="right" | —
+| align="right" | —
+
+|-
+| style="background-color:{{party color|Green Party (US)}}" | &nbsp;
+| [[South Carolina Green Party]]
+| align="right" | 456
+| align="right" | 0.03%
+| align="right" | +0.02%
+| align="right" | —
+| align="right" | —
+| align="right" | —
+| align="right" | —
+
+|- style="background:#ccc"
+! colspan="2" | Totals
+! 1,489,719
+! 100.0%
+! —
+! 124
+! 124
+! {{Steady}}
+! 100.0%
+
+|- bgcolor="E9E9E9"
+| colspan="9" align="left" | Source: South Carolina Election Commission<ref name="2022general">{{Cite web |date=November 17, 2022 |title=2022 Statewide General Election |url=https://www.enr-scvotes.org/SC/115412/Web02-state.307150/#/?undefined |publisher=South Carolina Election Commission |access-date=March 18, 2023 |website=scvotes.gov}}</ref>
+|}
+
+{{bar box|title=Popular vote|titlebar=#ddd|width=600px|barwidth=410px|bars={{bar percent|Republican|{{party color|Republican Party (United States)}}|68.96}}
+{{bar percent|Democratic|{{party color|Democratic Party (United States)}}|29.31}}
+{{bar percent|Other|#777777|1.74}}}}
+{{bar box|title=House seats|titlebar=#ddd|width=600px|barwidth=410px|bars={{bar percent|Republican|{{party color|Republican Party (United States)}}|70.97}}
+{{bar percent|Democratic|{{party color|Democratic Party (United States)}}|29.03}}}}
+
+== Ballot measures ==
+
+=== Amendment 1 ===
+The amendment increased the General Reserve Fund from 5% to 7% of state general fund revenues from the previous fiscal year. The increase was set to be phased in incrementally by one-half of one percent each year.
+{{Infobox referendum|name=Amendment 1|location={{Flag|Tennessee}}|question=Must Section 36(A), Article III of the Constitution of this State, relating to the General Reserve Fund, be amended so as to provide that the General Reserve Fund of five percent of general fund revenue of the latest completed fiscal year must be increased each year by one-half of one percent of the general fund revenue of the latest completed fiscal year until it equals seven percent of such revenues?|yes=947,610|no=583,583|total=1,531,193|map=File:South Carolina Constitutional Amendment 1 results 2022.svg|mapcaption=County results<br>'''Yes'''
+{{legend|#7D9CBB|60–70% |border=1px #AAAAAA solid}}
+{{legend|#B6C8D9|50–60% |border=1px #AAAAAA solid}}|notes=Source: [[South Carolina Secretary of State]]<ref>{{Cite web |title=South Carolina Amendment 1, General Reserve Fund Increase Measure (2022) |url=https://ballotpedia.org/South_Carolina_Amendment_1,_General_Reserve_Fund_Increase_Measure_(2022) |access-date=2024-05-19 |website=Ballotpedia |language=en}}</ref>|map_size=230px}}
+{{Clear}}
+
+=== Amendment 2 ===
+The amendment increased the Capital Reserve Fund annual funding requirement from 2% to 3% of state general fund revenue.{{Infobox referendum|name=Amendment 2|location={{Flag|Tennessee}}|question=Must Section 36(B), Article III of the Constitution of this State be amended so as to provide that the Capital Reserve Fund of two percent of the general fund revenue of the latest completed fiscal year be increased to three percent of the general fund revenue of the latest completed fiscal year and to provide that the first use of the Capital Reserve Fund must be to offset midyear budget reductions?|yes=973,178|no=584,911|total=1,558,089|map=File:South Carolina Constitutional Amendment 2 results 2022.svg|mapcaption=County results<br>'''Yes'''
+{{legend|#7D9CBB|60–70% |border=1px #AAAAAA solid}}
+{{legend|#B6C8D9|50–60% |border=1px #AAAAAA solid}}|notes=Source: [[South Carolina Secretary of State]]<ref>{{Cite web |title=South Carolina Amendment 1, General Reserve Fund Increase Measure (2022) |url=https://ballotpedia.org/South_Carolina_Amendment_2,_Capital_Reserve_Fund_Increase_Measure_(2022) |access-date=2024-05-19 |website=Ballotpedia |language=en}}</ref>|map_size=230px}}
+{{Clear}}
+
+== See also ==
+
+* [[Elections in South Carolina]]
+* [[2022 United States elections]]
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{Reflist|30em}}
+
+{{SCGovElections}}
+{{2022 United States elections}}
+
+[[Category:2022 elections in South Carolina| ]]
+[[Category:2022 elections in the United States by state or territory|South Carolina]]

@@ -1,0 +1,243 @@
+{{Short description|none}}
+{{For|related races|2026 United States attorney general elections}}
+{{Use American English|date=February 2026}}
+{{Use mdy dates|date=November 2025}}
+{{Infobox election
+| election_name = 2026 Ohio Attorney General election
+| type = presidential
+| election_date = {{Start date|2026|11|03}}
+| country = Ohio
+| ongoing = no
+| reporting = 98
+| last_update = 11:44 AM
+| time_zone = [[Eastern Standard Time|EST]]
+| previous_election = 2022 Ohio Attorney General election
+| previous_year = 2022
+| next_election = 2030 Ohio Attorney General Election
+| next_year = ''2030''
+| image1 = JohnJKulewicz.jpg
+| nominee1 = '''[[John Kulewicz]]'''
+| party1 = Ohio Democratic Party
+| popular_vote1 = '''2,285,117'''
+| percentage1 = '''50.31%'''
+| image2 = Ohio Senate 130th General Asselmbly 2013-2014 - DPLA - 4dd33bcc8c6b71853ab731d33616f568 (page 2) (cropped).jpg
+| nominee2 = [[Keith Faber]]
+| party2 = Ohio Republican Party
+| popular_vote2 = 2,256,710
+| percentage2 = 49.69%
+| title = [[Attorney General of Ohio|Attorney General]]
+| before_election = [[Andy Wilson (politician)|Andy Wilson]]{{efn|Incumbent attorney general [[Dave Yost]] announced that he would resign effective June 7, 2026.<ref name=YostResigns/> Governor [[Mike DeWine]] appointed [[Andy Wilson (politician)|Andy Wilson]] as the appointee to complete Yost's term.<ref name=WilsonAppointed/>}}
+| before_party = Ohio Republican Party
+| map = {{switcher
+|[[File:2026 Ohio Attorney General results map by county.svg|210px]] |County results }}
+| map_caption = '''Kulewicz:''' {{legend0|#7996E2|50–60%}} {{legend0|#6674DE|60–70%}} {{legend0|#584CDE|70–80%}}<br />'''Faber:''' {{legend0|#E27F7F|50–60%}} {{legend0|#D75D5D|60–70%}} {{legend0|#D72F30|70–80%}} {{legend0|#C21B18|80–90%}}
+| after_election = [[John Kulewicz]]
+| after_party = [[Democratic Party (United States)|Democratic]]
+}}
+{{Elections in Ohio sidebar}}
+
+The '''2026 Ohio Attorney General election''' was held on November 3, 2026, to elect the [[attorney general of Ohio]]. [[John Kulewicz]] narrowly defeated his Republican opponent, State Auditor [[Keith Faber]]. <ref>{{Cite web |title=MSN |url=https://www.msn.com/en-us/news/other/kulewicz-announced-winner-in-ohio-attorney-general-race/ar-AA2gKpLV?ocid=BingNewsSerp |access-date=2026-11-04 |website=www.msn.com}}</ref><ref>{{Cite web |date=2026-11-04 |title=Kulewicz announced winner in Ohio Attorney General race |url=https://www.yahoo.com/news/politics/articles/kulewicz-announced-winner-ohio-attorney-171213428.html |access-date=2026-11-04 |website=Yahoo News |language=en-US}}</ref> Kulewicz will succeed [[Republican Party (United States)|Republican]] incumbent [[Andy Wilson (politician)|Andy Wilson]], who succeeded [[Dave Yost]] after his resignation. Yost was ineligible to seek a third consecutive term.<ref>{{Cite web|last=Tebben|first=Susan|date=May 16, 2025|title=Ohio Attorney General Dave Yost suspends campaign for governor|url=https://ohiocapitaljournal.com/briefs/ohio-attorney-general-dave-yost-suspends-campaign-for-governor/|work=[[Ohio Capital Journal]]|access-date=May 18, 2025}}</ref> This is the first time since 2009 a [[Democratic Party (United States)|Democrat]] has been elected to the position in Ohio.   
+
+[[Primary elections]] were held on May 5.
+
+==Interim appointment==
+On May 7, 2026, [[Dave Yost]] announced he would resign as attorney general effective June 7, 2026.<ref name=YostResigns>{{cite web |last1=Dennison |first1=J.W. |title=Gov. Mike DeWine accepts resignation from Attorney General Dave Yost |url=https://www.whiznews.com/gov-mike-dewine-accepts-resignation-from-attorney-general-dave-yost/ |website=[[WHIZ-TV]] |date=May 7, 2026 |access-date=May 7, 2026}}</ref> On May 11, 2026, Governor [[Mike DeWine]] announced that [[Andy Wilson (politician)|Andy Wilson]], the director of the [[Ohio Department of Public Safety]], would serve out the remainder of Yost's term.<ref name=WilsonAppointed />
+
+===Candidates===
+====Appointee====
+*[[Andy Wilson (politician)|Andy Wilson]], director of [[Ohio Department of Public Safety]] (2022–2026)<ref name=WilsonAppointed>{{Cite web |last=Trau |first=Morgon |title=Governor Mike DeWine announces Andy Wilson as Interim Attorney General |url=https://ohiocapitaljournal.com/2026/05/11/ohio-gov-mike-dewine-selects-public-safety-director-as-interim-attorney-general/ |date=2026-05-11 |access-date=2026-05-17 |website=Ohio Capital Journal |language=en-US}}</ref>
+
+====Considered but not appointed====
+*[[Keith Faber]], [[Ohio state auditor]] (2019–present)<ref>{{Cite web |last=Skolnick |first=David |title=Governor Mike DeWine won't appoint Auditor Keith Faber to replace Dave Yost |url=https://www.newsandsentinel.com/news/local-news/2026/05/dewine-names-andy-wilson-as-ohio-attorney-general/ |date=2026-05-13 |access-date=2026-05-17 |website=News and Sentinel |language=en-US}}</ref>
+
+==Republican primary==
+===Candidates===
+====Nominee====
+*[[Keith Faber]], [[Ohio state auditor]] (2019–present)<ref>{{Cite web |last=Bischoff |first=Laura A. |title=Republican Keith Faber announces run for Ohio attorney general |url=https://www.dispatch.com/story/news/politics/state/2025/01/27/republican-keith-faber-ohio-attorney-general/77969170007/ |access-date=2025-05-18 |website=The Columbus Dispatch |language=en-US}}</ref>
+
+====Declined====
+*[[Vivek Ramaswamy]], former CEO of [[Roivant Sciences]] (2014–2021) and [[Vivek Ramaswamy 2024 presidential campaign|candidate for president]] in [[2024 United States presidential election|2024]] ''([[2026 Ohio gubernatorial election|running for governor]])''<ref>{{Cite web |last=Pope |first=Zurie |date=2025-02-25 |title=Vivek Ramaswamy officially launches bid for Ohio governor in 2026 • Ohio Capital Journal |url=https://ohiocapitaljournal.com/2025/02/24/vivek-ramaswamy-officially-launches-bid-for-ohio-governor-in-2026/ |access-date=2025-05-18 |website=Ohio Capital Journal |language=en-US}}</ref>
+
+===Endorsements===
+{{Endorsements box
+|title=Keith Faber
+|list=
+;Labor unions
+*Central Midwest Regional Council of Carpenters<ref>{{cite web |title=The Central Midwest Carpenters is proud to endorse Vivek Ramaswamy for Ohio Governor, Keith Faber for Ohio Attorney General, and Robert Sprague for Ohio Secretary of State. |url=https://www.facebook.com/share/p/1BM6nkVLAB/ |website=Central Midwest Carpenters on Facebook |access-date=10 November 2025}}</ref>
+;Organizations
+*[[Club for Growth]]<ref>{{cite web |last1=Kasler | first1=Karen |title=Club for Growth backs Faber for AG with first endorsement in 2026 elections in Ohio |url=https://www.statenews.org/government-politics/2025-08-27/club-for-growth-backs-faber-for-ag-with-first-endorsement-in-2026-elections-in-ohio |work=The Statehouse News Bureau |date=August 27, 2025 |access-date=September 13, 2025}}</ref>
+*[[Ohio Republican Party]]
+}}
+
+===Results===
+{{Election box begin no change
+ | title=Republican primary results<ref name="Republican Primary Results">{{Cite web |title=May 5, 2026 Primary/Special Election Official Canvass|url= https://publicfiles.ohiosos.gov/election-results/past-elections/2026/Primary+Special%20Election%20-%20May%205,%202026/group1/summary-level-official-results-2026-primary---republican.xlsx |website=Ohio Secretary of State |access-date=June 5, 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+ | party=Ohio Republican Party
+ | candidate=[[Keith Faber]]
+ | votes=698,856
+ | percentage=100.0}}
+{{Election box total no change
+ | votes=698,856
+ | percentage=100.0}}
+{{Election box end}}
+
+==Democratic primary==
+===Candidates===
+====Nominee====
+
+*[[John Kulewicz]], [[Upper Arlington, Ohio|Upper Arlington]] city councilor<ref>{{cite news |last1=Pelzer |first1=Jeremy |title=Columbus-area lawyer joins Democratic race for Ohio attorney general in 2026 |url=https://www.cleveland.com/news/2025/09/columbus-area-lawyer-joins-democratic-race-for-ohio-attorney-general-in-2026.html |access-date=September 11, 2025 |work=[[The Plain Dealer]] |date=September 11, 2025 |language=en}}</ref>
+
+====Eliminated in primary====
+
+* [[Elliot Forhan]], former state representative (2023–2024)
+
+===Endorsements===
+{{Endorsements box
+|title=John Kulewicz
+|list=
+;Labor unions
+*Ohio [[AFL-CIO]]<ref>https://northshoreaflcio.org/news/ohio-afl-cio-issues-endorsements-approves-our-recommendations</ref>
+*[[Ohio Education Association]]<ref name="OEA">{{cite web |title=Politics Notebook |url=https://cms.stateaffairs.com/tag/john-kulewicz/ |website=State Affairs |access-date=2 September 2026 |date=April 8, 2026}}</ref>
+*[[United Auto Workers of America]]<ref>https://bluevoterguide.org/endorser-org/United_Auto_Workers_(UAW)/OH/4314</ref>
+*[[United Mine Workers of America]]<ref>https://www.pressreader.com/usa/wapakoneta-daily-news/20260430/281556592431127</ref>
+
+;Organizations
+*[[Planned Parenthood]] Advocates of Ohio<ref>{{cite web |title=Planned Parenthood Advocates of Ohio Endorses John J. Kulewicz for Ohio Attorney General |url=https://www.plannedparenthoodaction.org/planned-parenthood-advocates-ohio/media/planned-parenthood-advocates-of-ohio-endorses-john-j-kulewicz-for-ohio-attorney-general |website=Planned Parenthood Advocates of Ohio |access-date=3 May 2026 |date=March 9, 2026}}</ref>
+
+;Political parties
+*[[Ohio Democratic Party]]<ref>{{cite web |last1=Ingles |first1=Jo |title=Ohio Democratic Party endorses more candidates ahead of primary |url=https://www.wyso.org/2026-03-11/ohio-democratic-party-endorses-more-candidates-ahead-of-primary |website=WYSO |access-date=4 April 2026 |language=en |date=11 March 2026}}</ref>
+}}
+
+===Results===
+[[File:2026 Ohio attorney general Democratic primary election results map by county.svg|thumb|210px|Primary results by county:
+{{collapsible list
+| title = {{legend|#7996E2|Kulewicz}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#51C2C2|Forhan}}
+|{{legend|#51C2C2|50–60%}}
+}}
+]]
+{{Election box begin no change
+ | title=Democratic primary results<ref name="Democratic Primary Results">{{Cite web |title=May 5, 2026 Primary/Special Election Official Canvass|url= https://publicfiles.ohiosos.gov/election-results/past-elections/2026/Primary+Special%20Election%20-%20May%205,%202026/group1/summary-level-official-results-2026-primary---democratic.xlsx |website=Ohio Secretary of State |access-date=June 5, 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+ | party=Ohio Democratic Party
+ | candidate=[[John Kulewicz]]
+ | votes= 445,336
+ | percentage=63.1}}
+{{Election box candidate with party link no change
+ | party=Ohio Democratic Party
+ | candidate=[[Elliot Forhan]]
+ | votes=260,407
+ | percentage=36.9}}
+{{Election box total no change
+ | votes=705,743
+ | percentage=100.0}}
+{{Election box end}}
+
+== General election ==
+=== Predictions ===
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{cite web |title=The Outlook for State Attorneys General and Secretaries of State |url=https://centerforpolitics.org/crystalball/https-centerforpolitics-org-crystalball-agsecstatefinal2026/ |website=Sabato's Crystal Ball |date=October 29, 2026 |access-date=October 29, 2026}}</ref>
+|{{USRaceRating|Lean|R}}
+| October 29, 2026
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+|title=Keith Faber (R)
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[List of Presidents of the United States|45th and 47th]] [[president of the United States]] (2017–2021, 2025–present)<ref name="TrumpEndorse">{{cite web |last1=DeWine |first1=Connor |title=Trump endorses Keith Faber for Ohio attorney general |url=https://sciotovalleyguardian.com/2026/09/01/trump-endorses-keith-faber-for-ohio-attorney-general/ |website=Scioto Valley Guardian |access-date=2 September 2026 |date=September 1, 2026}}</ref>
+
+;Statewide officials
+*[[Mike DeWine]], [[governor of Ohio]] (2019–present)<ref name="DeWineEndorses">{{cite news|last=Skolnick|first=David|title= Ohio Gov. Mike DeWine and Ohio Attorney General Andy Wilson endorses Keith Faber for Ohio Attorney General |url= https://www.newsandsentinel.com/news/local-news/2026/05/dewine-names-andy-wilson-as-ohio-attorney-general/ |website=News and Sentinel |date=May 13, 2026|access-date=May 29, 2026}}</ref>
+*[[Andy Wilson (politician)|Andy Wilson]], [[attorney general of Ohio]] (2026–present)<ref name="DeWineEndorses" />
+
+;Labor unions
+*[[National Fraternal Order of Police|Fraternal Order of Police of Ohio]]<ref name="FOP">{{cite web |last1=Knue |first1=Kurt |title=Ohio Fraternal Order of Police issues endorsements for Republicans in all 2026 statewide races |url=https://www.wlwt.com/article/ohio-fop-issues-endorsements-for-republicans-in-2026-races/73219619 |website=WLWT 5 |access-date=2 September 2026 |date=July 21, 2026}}</ref>
+*[[Police unions in the United States#Police Benevolent Associations|Ohio Patrolmen's Benevolent Association]]<ref name="OPBA">{{cite web |title=Week in review: Aug. 30, 2026 |url=https://ohiocpa.com/for-the-public/news/2026/08/28/week-in-review--aug.-30--2026 |website=The Ohio Society of CPAs |access-date=2 September 2026 |date=August 28, 2026}}</ref>
+
+;Organizations
+*[[National Federation of Independent Businesses]] Ohio<ref name="NFIB">{{cite web |title=Small Businesses Endorse Keith Faber for Ohio Attorney General |url=https://www.nfib.com/news/press-release/small-businesses-endorse-keith-faber-for-ohio-attorney-general/ |website=National Federation of Independent Businesses |access-date=2 September 2026 |date=August 24, 2026}}</ref>
+*[[Ohio Right to Life]] PAC<ref name="ORTL">{{cite web |title=Ohio Right to Life PAC Announces 2026 General Election Candidate Recommendations |url=https://ohiolife.org/ohio-right-to-life-pac-announces-2026-general-election-candidate-recommendations/ |website=[[Ohio Right to Life]] PAC |access-date=2 September 2026 |date=August 10, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=John Kulewicz (D)
+|list=
+;Labor unions
+*[[Communications Workers of America]]<ref name="CWA">{{cite web |title=2026 Ohio {{!}} CWA Endorsed Candidates |url=https://cwa-union.org/candidates-oh |website=[[Communications Workers of America]] |access-date=2 September 2026}}</ref>
+*[[Ohio Federation of Teachers]]<ref name="OFT">{{cite web |title=OFT Votes 2026: Endorsements and Voter Information |url=https://oft-aft.org/2026election |website=[[Ohio Federation of Teachers]] |access-date=2 September 2026}}</ref>
+*[[United Mine Workers of America]] COMPAC<ref name="UMWA">{{cite web|url=https://umwa.org/policy-politics/compac-endorsements/ohio/|title=Ohio|publisher=United Mine Workers of America|access-date=October 29, 2026}}</ref>
+}}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|Key:<br>A – all adults<br>RV – registered voters<br>LV – likely voters<br>V – unclear|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Keith<br />Faber (R)
+! style="width:100px;"| John<br />Kulewicz (D)
+! Undecided
+|-
+|style="text-align:left;"|Tulchin Research (D)<ref>{{cite web|url=https://www.documentcloud.org/documents/28549388-oh-sen-gov-ag-tulchin-research-for-john-kulewicz/|title=John Kulewicz Leads Keith Faber in Race for Ohio Attorney General|first=Ben|last=Krompak|work=Tulchin Research|date=August 10, 2026|access-date=August 12, 2026|via=[[DocumentCloud]]}}</ref>{{efn-ua|name=JK}}
+|July 29 – August 4, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|32%
+|{{party shading/Democratic}}|'''36%'''
+|32%
+|-
+| style="text-align: left;"|Tulchin Research (D)<ref>{{cite web |last1=Tobias |first1=Andrew |title=Tulchin Research June poll |url=https://x.com/AndrewJTobias/status/2067259707224424683 |publisher=[[Twitter]] |access-date=June 18, 2026 |date=June 17, 2026}}</ref>{{Efn-ua|name=JK|Poll sposored by Kulewicz's campaign}}
+|June 2–4, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|'''34%'''
+|'''34%'''
+|32%
+|}
+
+===Results===
+{{Election box begin
+ | title=2026 Ohio Attorney General election}}
+{{Election box candidate with party link|party=Ohio Republican Party|candidate=[[Keith Faber]]|votes=2,256,710|percentage=49.7%|change=}}
+{{Election box candidate with party link|party=Ohio Democratic Party|candidate=[[John Kulewicz]]|votes=2,285,117|percentage=50.3%|change=}}
+{{Election box total 
+ | votes=4,541,827 
+ | percentage=100.0
+ | change=
+}}
+{{Election box end}}
+
+== Notes ==
+{{notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+== References ==
+{{reflist}}
+
+==External links==
+'''Official campaign websites'''
+*[https://www.keithfaber.org/ Keith Faber (R)]
+*[https://john4ohioag.com/ John Kulewicz (D)]
+
+{{2026 United States elections}}
+
+[[Category:2026 United States state attorney general elections|Ohio]]
+[[Category:2026 elections in Ohio|Attorney General]]
+[[Category:Ohio Attorney General elections]]
+[[Category:Long stubs with short prose]]
+
+{{Ohio-election-stub}}

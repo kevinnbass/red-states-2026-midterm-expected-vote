@@ -1,0 +1,843 @@
+{{Short description|none}}
+{{Use American English|date=February 2026}}
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 2010 South Carolina elections
+| country = South Carolina
+| type = midterm
+| ongoing = no
+| next_year = [[2012 South Carolina elections|2012]]
+| election_date = November 2, 2010
+| previous_year = [[2008 South Carolina elections|2008]]
+}}
+
+{{ElectionsSC}}
+'''Elections''' were held in '''[[South Carolina]]''' on Tuesday, November 2, 2010. [[Partisan primary|Primary election]]s were held on June 8, 2010, and a [[Instant-runoff voting|run-off election]] for certain contests was held on June 22, 2010.
+
+==Federal==
+=== United States Senate ===
+{{main|2010 United States Senate election in South Carolina}}
+{{see also|2010 United States Senate elections}}
+Republican incumbent [[Jim DeMint]] was seeking re-election to the [[United States Senate]], facing Democratic contender [[Alvin Greene]] and Green Party candidate Tom Clements.
+
+=== United States House ===
+{{main|2010 United States House of Representatives elections in South Carolina}}
+{{see also|2010 United States House of Representatives elections}}
+All six of South Carolina's seats in the [[United States House of Representatives]] were up for election in 2010.
+
+==State==
+
+===Governor===
+{{main|2010 South Carolina gubernatorial election}}
+{{see also|2010 United States gubernatorial elections}}
+Incumbent [[Republican Party (United States)|Republican]] [[Governor of South Carolina|Governor]] [[Mark Sanford]] was [[Term limits in the United States|term-limited]] and unable to seek re-election. Republican [[Nikki Haley]] and Democrat [[Vincent Sheheen]], along with third-party candidate Morgan Bruce Reeves, contested the seat. The gubernatorial race was one of the closest in the state, as well as the country, despite the Republican wave on both the state and national level that year.  Haley gained national attention as the first non-white and first woman Republican nominee for governor in South Carolina, and for her associations with the national [[Tea Party movement|Tea Party]] and former Alaska Governor [[Sarah Palin]], who endorsed her in the primary. Haley eventually won the race.
+
+===Lieutenant governor===
+Republican [[Ken Ard (politician)|Ken Ard]] and Democrat Ashley Cooper were the major party nominees for [[List of lieutenant governors of South Carolina|lieutenant governor]].  Incumbent Andre Bauer decided not to run for re-election in order to run for governor.  He came in fourth in the GOP primary.  Ard won the general election.  A little over a year after being sworn in, he resigned after being indicted for misappropriation of campaign funds for personal expenses.
+
+Ard, a businessman and [[Florence County, South Carolina|Florence County]] Councilman, won a four-way primary after a run-off with Bill Connor, a veteran and attorney in [[Orangeburg, South Carolina|Orangeburg]].  Other candidates were Larry Richter, a former state judge and former state Senator from [[Mount Pleasant, South Carolina|Mount Pleasant]], and Eleanor Kitzman, former director of the state Department of Insurance.
+
+{{Election box begin no change
+| title = Republican Lieutenant Governor primary results<ref name="South Carolina Primary Run-off Results">{{cite web|url=http://www.enr-scvotes.org/SC/16117/28318/en/summary.html|title=South Carolina 2010 Primary Results |work=South Carolina Board of Elections|date=June 22, 2010 |access-date=December 21, 2012}}</ref>
+}}
+{{Election box candidate with party link no change
+| candidate = '''Ken Ard'''
+| party = Republican Party (United States)
+| votes ='''132,602'''
+| percentage = '''33.70'''
+}}
+{{Election box candidate with party link no change
+| candidate = '''Bill Connor'''
+| party = Republican Party (United States)
+| votes = '''107,731'''
+| percentage = '''27.38'''
+}}
+{{Election box candidate with party link no change
+| candidate = Larry Richter
+| party = Republican Party (United States)
+| votes = 95,483
+| percentage = 24.26
+}}
+{{Election box candidate with party link no change
+| candidate = Eleanor Kitzman
+| party = Republican Party (United States)
+| votes = 57,700
+| percentage = 14.66
+}}
+{{Election box total no change
+| votes = 393,516
+| percentage = 100
+}}
+{{Election box end}}
+
+{{Election box begin no change
+| title = Republican Lieutenant Governor primary run-off results<ref name="South Carolina Primary Run-off Results" />
+}}
+{{Election box candidate with party link no change
+| candidate = '''Ken Ard'''
+| party = Republican Party (United States)
+| votes ='''207,804'''
+| percentage = 61.34
+}}
+{{Election box candidate with party link no change
+| candidate = Bill Connor
+| party = Republican Party (United States)
+| votes = 130,997
+| percentage = 38.66
+}}
+{{Election box total no change
+| votes = 338,801
+| percentage = 100
+}}
+{{Election box end}}
+
+[[File:2010 South Carolina lieutenant gubernatorial election results map by county.svg|230px|thumb|Results by county
+{{collapsible list
+|title=Ard:
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+}}
+{{collapsible list
+|title=Cooper:
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+}}
+]]
+{{Election box begin | title=South Carolina Lieutenant Governor election, 2010<ref name="South Carolina Election Results">{{cite web|url=http://www.enr-scvotes.org/SC/19077/40477/en/summary.html#|title=South Carolina Election Results |work=South Carolina Board of Elections|date=November 18, 2010 |access-date=December 20, 2012}}</ref>}}
+{{Election box winning candidate with party link|
+ |party      = Republican Party (US)
+ |candidate  = [[Ken Ard (politician)|Ken Ard]]
+ |votes      = 735,089
+ |percentage = 55.16%
+ |change     = +5.16%
+}}
+{{Election box candidate with party link|
+ |party      = Democratic Party (US)
+ |candidate  = Ashley Cooper
+ |votes      = 596,620
+ |percentage = 44.77%
+ |change     = -5.03%
+}}
+{{Election box candidate|
+ |party      = Write-ins
+ |candidate  = 
+ |votes      = 1,012
+ |percentage = 0.08%
+ |change     =
+}}
+{{Election box majority|
+ |votes      = 138,469
+ |percentage = 10.39%
+ |change     = +10.09%
+}}
+{{Election box turnout|
+ |votes      = 1,332,721
+ |percentage = 50.48% <!---registered voters - 2,640,005 per http://www.enr-scvotes.org/SC/19077/40477/en/vt_data.html---->
+ |change     = +6.28%
+}}
+{{Election box hold with party link|
+  |winner     = Republican Party (US)
+  |swing      = 
+}}
+{{Election box end}}
+{{Clear}}
+
+===Secretary of State===
+{{Main|2010 South Carolina Secretary of State election}}
+Republican [[Mark Hammond (American politician)|Mark Hammond]] ran for re-election as [[Secretary of State of South Carolina]] against Democrat Marjorie Johnson, a retired spokeswoman for a [[Washington, D.C.]] municipal sanitation corporation.  Neither faced primary opposition.
+
+[[File:2010 South Carolina secretary of state election results map by county.svg|230px|thumb|Results by county
+{{collapsible list
+|title=Hammond:
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+}}
+{{collapsible list
+|title=Johnson:
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+}}
+]]
+{{Election box begin | title=South Carolina Secretary of State election, 2010<ref name="South Carolina Election Results" />}}
+{{Election box winning candidate with party link|
+ |party      = Republican Party (US)
+ |candidate  = Mark Hammond (incumbent)
+ |votes      = 805,783
+ |percentage = 60.91%
+ |change     = -0.89%
+}}
+{{Election box candidate with party link|
+ |party      = Democratic Party (US)
+ |candidate  = Marjorie Johnson
+ |votes      = 516,414
+ |percentage = 39.04%
+ |change     = +0.34%
+}}
+{{Election box candidate|
+ |party      = Write-ins
+ |candidate  = 
+ |votes      = 638
+ |percentage = 0.05%
+ |change     =
+}}
+{{Election box majority|
+ |votes      = 289,369
+ |percentage = 21.87%
+ |change     = -0.63%
+}}
+{{Election box turnout|
+ |votes      = 1,322,835
+ |percentage = 50.10% <!---registered voters - 2,640,005 per http://www.enr-scvotes.org/SC/19077/40477/en/vt_data.html---->
+ |change     = +6.30%
+}}
+{{Election box hold with party link|
+  |winner     = Republican Party (US)
+  |swing      = 
+}}
+{{Election box end}}
+{{Clear}}
+
+===Treasurer===
+Republican [[Curtis Loftis]] ran unopposed for the office of Treasurer of South Carolina.  He defeated acting Treasurer [[Converse Chellis]] in the Republican primary.  Chellis was appointed to the position by Governor Sanford after his predecessor, [[Thomas Ravenel]], was convicted of possessing cocaine with intent to distribute and resigned.  Loftis, the Director of Transparency at the Office of the Comptroller General, received some negative coverage when Chellis ran negative ads attacking him for having been arrested for assaulting his wife.  (Loftis was later found not guilty.)
+
+{{Election box begin no change
+| title = Republican Treasurer primary results<ref name="South Carolina Primary Run-off Results" />
+}}
+{{Election box candidate with party link no change
+| candidate = '''Curtis Loftis'''
+| party = Republican Party (United States)
+| votes ='''239,296'''
+| percentage = 61.60
+}}
+{{Election box candidate with party link no change
+| candidate = Converse Chellis (incumbent)
+| party = Republican Party (United States)
+| votes = 149,191
+| percentage = 38.40
+}}
+{{Election box total no change
+| votes = 388,487
+| percentage = 100
+}}
+{{Election box end}}
+
+[[File:2010 South Carolina state treasurer election results map by county.svg|230px|thumb|Results by county
+{{collapsible list
+|title=Loftis:
+|{{legend|#A80000|90–100%}}
+}}
+]]
+{{Election box begin | title=South Carolina Treasurer election, 2010<ref name="South Carolina Election Results">{{cite web|url=http://www.enr-scvotes.org/SC/19077/40477/en/summary.html#|title=South Carolina Election Results |work=South Carolina Board of Elections|date=November 18, 2010 |access-date=December 20, 2012}}</ref>}}
+{{Election box winning candidate with party link|
+ |party      = Republican Party (US)
+ |candidate  = Curtis Loftis
+ |votes      = 907,755
+ |percentage = 98.94%
+ |change     = +46.74%
+}}
+{{Election box candidate|
+ |party      = Write-ins
+ |candidate  = 
+ |votes      = 9,748
+ |percentage = 1.06%
+ |change     = +0.94%
+}}
+{{Election box majority|
+ |votes      = 898,007
+ |percentage = 97.88%
+ |change     = +93.48%
+}}
+{{Election box turnout|
+ |votes      = 917,503
+ |percentage = 34.75% <!---registered voters - 2,640,005 per http://www.enr-scvotes.org/SC/19077/40477/en/vt_data.html---->
+ |change     = -9.45%
+}}
+{{Election box hold with party link|
+  |winner     = Republican Party (US)
+  |swing      = 
+}}
+{{Election box end}}
+{{Clear}}
+
+===Attorney general===
+{{Infobox election
+| election_name = 2010 South Carolina Attorney General election
+| country = South Carolina
+| type = presidential
+| ongoing = no
+| previous_election = 2006 South Carolina elections#Attorney general 
+| previous_year = 2006
+| next_election = 2014 South Carolina Attorney General election
+| next_year = 2014
+| image1 = File:JAG_Passing_Alan_Wilson.jpg
+| nominee1 = '''[[Alan Wilson (politician)|Alan Wilson]]'''
+| party1 = Republican Party (United States)
+| popular_vote1 = '''716,193'''
+| percentage1 = '''53.7%'''
+| image2 = File:3x4.svg
+| nominee2 = Matthew Richardson
+| party2 = Democratic Party (United States)
+| popular_vote2 = 589,135
+| percentage2 = 44.2%
+| map_image = 2010 South Carolina attorney general election results map by county.svg
+| map_size = 250px
+| map_caption = County results<br>'''Wilson''': 
+{{legend0|#ffb2b2|40–50%}} {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#d72f30|70–80%}}  <br />'''Richardson''': {{legend0|#a5b0ff|40–50%}} {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584cde|70–80%}}
+| title = [[Attorney General of South Carolina|Attorney General]]
+| before_election = [[Alan Wilson (politician)|Alan Wilson]]
+| before_party = [[South Carolina Republican Party|Republican]]
+| after_election = [[Alan Wilson (politician)|Alan Wilson]]
+| after_party = [[South Carolina Republican Party|Republican]]
+}}
+Republican [[Alan Wilson (politician)|Alan Wilson]], Democrat Matthew Richardson, and Green Party candidate Leslie Wilson were the nominees for [[Attorney General of South Carolina|attorney general]].  Wilson is the son of controversial South Carolina Congressman [[Joe Wilson (U.S. politician)|Joe Wilson]].  The race was marked by high fundraising totals for both Wilson and Richardson, second only to the governor's race in total money raised and spent in the general election.  Wilson eventually won.
+
+In the Republican primary, Wilson faced two other challengers: [[Columbia, South Carolina|Columbia]] attorneys Leighton Lord and Robert Bolchoz.  Wilson eventually defeated Leighton Lord in a run-off.
+
+{{Election box begin no change
+| title = Republican Attorney General primary results<ref name="South Carolina Primary Run-off Results" />
+}}
+{{Election box candidate with party link no change
+| candidate = '''Alan Wilson'''
+| party = Republican Party (United States)
+| votes ='''150,404'''
+| percentage = '''38.94'''
+}}
+{{Election box candidate with party link no change
+| candidate = '''Leighton Lord'''
+| party = Republican Party (United States)
+| votes = '''143,339'''
+| percentage = '''37.12'''
+}}
+{{Election box candidate with party link no change
+| candidate = Robert Bolchoz
+| party = Republican Party (United States)
+| votes = 92,457
+| percentage = 23.94
+}}
+{{Election box total no change
+| votes = 386,200
+| percentage = 100
+}}
+{{Election box end}}
+
+{{Election box begin no change
+| title = Republican Attorney General primary run-off results<ref name="South Carolina Primary Run-off Results" />
+}}
+{{Election box candidate with party link no change
+| candidate = '''Alan Wilson'''
+| party = Republican Party (United States)
+| votes ='''205,851'''
+| percentage = '''59.79'''
+}}
+{{Election box candidate with party link no change
+| candidate = Leighton Lord
+| party = Republican Party (United States)
+| votes = 138,444
+| percentage = 40.21
+}}
+{{Election box total no change
+| votes = 344,295
+| percentage = 100
+}}
+{{Election box end}}
+
+{{Election box begin | title=South Carolina Attorney General election, 2010<ref name="South Carolina Election Results">{{cite web|url=http://www.enr-scvotes.org/SC/19077/40477/en/summary.html#|title=South Carolina Election Results |work=South Carolina Board of Elections|date=November 18, 2010 |access-date=December 20, 2012}}</ref>}}
+{{Election box winning candidate with party link|
+ |party      = Republican Party (US)
+ |candidate  = Alan Wilson
+ |votes      = 716,193
+ |percentage = 53.74%
+ |change     = -44.66%
+}}
+{{Election box candidate with party link|
+|party = Democratic Party (US)
+|candidate = Matthew Richardson
+|votes = 589,135
+|percentage = 44.20%
+|change = +44.20%
+}}
+{{Election box candidate with party link|
+|party = Green Party (US)
+|candidate = Leslie Minerd
+|votes = 27,008
+|percentage = 2.03%
+|change = +2.03%
+}}
+{{Election box candidate|
+ |party      = Write-ins
+ |candidate  = 
+ |votes      = 470
+ |percentage = 0.04%
+ |change     =
+}}
+{{Election box majority|
+ |votes      = 127,058
+ |percentage = 9.52%
+ |change     = -88.88%
+}}
+{{Election box turnout|
+ |votes      = 1,332,806
+ |percentage = 50.48% <!---registered voters - 2,640,005 per http://www.enr-scvotes.org/SC/19077/40477/en/vt_data.html---->
+ |change     = +18.48%
+}}
+{{Election box hold with party link|
+  |winner     = Republican Party (US)
+  |swing      = 
+}}
+{{Election box end}}
+{{Clear}}
+
+===Comptroller General===
+Incumbent Republican [[Richard Eckstrom]] ran for re-election against Democratic challenger Robert Barber.  Although Eckstrom attracted negative attention over his affair with Kelly Payne,<ref name="Read the Eckstrom e-mails to Payne">{{cite web|url=http://www.thestate.com/2010/02/18/1162739/eckstrom-e-mails-to-payne.html#.UNSXv6xWvW8|title=Read the Eckstrom e-mails to Payne|work=The Columbia State|date=February 18, 2010|access-date=December 21, 2012|archive-url=https://web.archive.org/web/20120429130910/http://www.thestate.com/2010/02/18/1162739/eckstrom-e-mails-to-payne.html#.UNSXv6xWvW8|archive-date=April 29, 2012|url-status=dead}}</ref> one of the GOP candidates for Superintendent of Education, he eventually won.
+
+In the Republican primary, Eckstrom defeated challenger Mike Meilinger, an [[Certified Public Accountant|accountant]] and [[consultant]] from [[Greenville, South Carolina|Greenville]].
+
+{{Election box begin no change
+| title = Republican Comptroller General primary results<ref name="South Carolina Primary Run-off Results" />
+}}
+{{Election box candidate with party link no change
+| candidate = '''Richard Eckstrom (incumbent)'''
+| party = Republican Party (United States)
+| votes ='''254,714'''
+| percentage = '''68.74'''
+}}
+{{Election box candidate with party link no change
+| candidate = Mike Meilinger
+| party = Republican Party (United States)
+| votes = 115,813
+| percentage = 31.26
+}}
+{{Election box total no change
+| votes = 370,527
+| percentage = 100
+}}
+{{Election box end}}
+
+[[File:2010 South Carolina comptroller general election results map by county.svg|230px|thumb|Results by county
+{{collapsible list
+|title=Eckstrom:
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+}}
+{{collapsible list
+|title=Barber:
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+}}
+]]
+{{Election box begin | title=South Carolina Comptroller General election, 2010<ref name="South Carolina Election Results">{{cite web|url=http://www.enr-scvotes.org/SC/19077/40477/en/summary.html#|title=South Carolina Election Results |work=South Carolina Board of Elections|date=November 18, 2010 |access-date=December 20, 2012}}</ref>}}
+{{Election box winning candidate with party link|
+ |party      = Republican Party (US)
+ |candidate  = Richard Eckstrom (incumbent)
+ |votes      = 746,841
+ |percentage = 56.50%
+ |change     = +3.3%
+}}
+{{Election box candidate with party link|
+|party = Democratic Party (US)
+|candidate = [[Robert A. Barber, Jr.|Robert Barber]]
+|votes = 574,302
+|percentage = 43.45%
+|change = -3.25%
+}}
+{{Election box candidate|
+ |party      = Write-ins
+ |candidate  = 
+ |votes      = 719
+ |percentage = 0.05%
+ |change     =
+}}
+{{Election box majority|
+ |votes      = 172,539
+ |percentage = 13.05%
+ |change     = +6.45%
+}}
+{{Election box turnout|
+ |votes      = 1,321,862
+ |percentage = 50.07% <!---registered voters - 2,640,005 per http://www.enr-scvotes.org/SC/19077/40477/en/vt_data.html---->
+ |change     = +7.37%
+}}
+{{Election box hold with party link|
+  |winner     = Republican Party (US)
+  |swing      = 
+}}
+{{Election box end}}
+{{Clear}}
+
+===Superintendent of Education===
+Candidates for Superintendent of Education in South Carolina included Republican [[Mick Zais]], Democrat [[Frank Holleman]], and third-party candidates Doretha Bull, Tony Fayyazi, and Tim Moultrie.  Zais did little campaigning in the general, despite the relatively high fundraising totals posted by Holleman, a former [[United States Deputy Secretary of Education]] and South Carolina State Democratic Party Chairman.  The general election race became the third most expensive statewide race in South Carolina in 2010, and one of the higher profile, in part because the perception that the outcome could be as close as it had been in [[South Carolina state elections, 2006|2006]].  However, Zais eventually won.
+
+Zais, a retired brigadier general and president of [[Newberry College]], defeated Elizabeth Moffly in the GOP primary run-off.  Moffly, a 2006 candidate for the Republican nomination, did surprisingly well considering her low fundraising and poor result in the [[2006 South Carolina state elections|2006 contest]].  Other candidates included: Kelly Payne, an [[Irmo, South Carolina|Irmo]] teacher; Gary Burgess, a former [[Laurens County, South Carolina|Laurens County]] school administrator who was arrested in 2009 for soliciting an immoral act;<ref name="Former Anderson School District 4 superintendent arrested">{{cite web|url=http://www.independentmail.com/news/2009/apr/30/former-district-4-superintendent-arrested/|title=Former Anderson School District 4 superintendent arresteds |work=Anderson Independent-Mail|date=April 3, 2009|access-date=December 21, 2012}}</ref> Brent Nelsen, a political science professor at [[Furman University]]; and Glenn Price, a [[Kershaw, South Carolina|Kershaw]] band teacher.  Moffly went on to be elected to the [[Charleston County, South Carolina|Charleston County]] School District Board of Trustees in November.<ref name="CCSD Board of Trustees Members">{{cite web|url=http://www.ccsdschools.com/Board_of_Trustees/Members/|title=CCSD Board of Trustees Members|work=CCSD|access-date=December 21, 2012}}</ref>
+
+{{Election box begin no change
+| title = Republican Superintendent of Education primary results<ref name="South Carolina Primary Results">{{cite web|url=http://www.enr-scvotes.org/SC/16117/28318/en/summary.html#|title=South Carolina 2010 Primary Results |work=South Carolina Board of Elections|date=June 22, 2010 |access-date=December 21, 2012}}</ref>
+}}
+{{Election box candidate with party link no change
+| candidate = '''Mick Zais'''
+| party = Republican Party (United States)
+| votes ='''98,550'''
+| percentage = '''26.45'''
+}}
+{{Election box candidate with party link no change
+| candidate = '''Elizabeth Moffly'''
+| party = Republican Party (United States)
+| votes = '''70,392'''
+| percentage = '''18.89'''
+}}
+{{Election box candidate with party link no change
+| candidate = Kelly Payne
+| party = Republican Party (United States)
+| votes = 65,429
+| percentage = 17.56
+}}
+{{Election box candidate with party link no change
+| candidate = Gary Burgess
+| party = Republican Party (United States)
+| votes = 63,856
+| percentage = 17.14
+}}
+{{Election box candidate with party link no change
+| candidate = Brent Nelsen
+| party = Republican Party (United States)
+| votes = 47,280
+| percentage = 12.69
+}}
+{{Election box candidate with party link no change
+| candidate = Glenn Price
+| party = Republican Party (United States)
+| votes = 27,068
+| percentage = 7.27
+}}
+{{Election box total no change
+| votes = 372,575
+| percentage = 100
+}}
+{{Election box end}}
+{{Election box begin no change
+| title = Republican Superintendent of Education primary run-off results<ref name="South Carolina Primary Run-off Results" />
+}}
+{{Election box candidate with party link no change
+| candidate = '''Mick Zais'''
+| party = Republican Party (United States)
+| votes ='''180,482'''
+| percentage = '''54.20'''
+}}
+{{Election box candidate with party link no change
+| candidate = Elizabeth Moffly
+| party = Republican Party (United States)
+| votes = 152,486
+| percentage = 45.80
+}}
+{{Election box total no change
+| votes = 332,968
+| percentage = 100
+}}
+{{Election box end}}
+
+Holleman defeated college administrator Tom Thompson in the Democratic primary.
+
+{{Election box begin no change
+| title = Democratic Superintendent of Education primary results<ref name="South Carolina Primary Results" />
+}}
+{{Election box candidate with party link no change
+| candidate = '''Frank Holleman'''
+| party = Democratic Party (United States)
+| votes ='''97,626'''
+| percentage = '''56.16'''
+}}
+{{Election box candidate with party link no change
+| candidate = Tom Thompson
+| party = Democratic Party (United States)
+| votes = 76,203
+| percentage = 43.84
+}}
+{{Election box total no change
+| votes = 173,829
+| percentage = 100
+}}
+{{Election box end}}
+
+[[File:2010 South Carolina superintendent of education  election results map by county.svg|230px|thumb|Results by county
+{{collapsible list
+|title=Zais:
+|{{legend|#FFB2B2|40–50%}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+}}
+{{collapsible list
+|title=Holleman:
+|{{legend|#A5B0FF|40–50%}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+}}
+]]
+{{Election box begin | title=South Carolina Superintendent of Education election, 2010<ref name="South Carolina Election Results">{{cite web|url=http://www.enr-scvotes.org/SC/19077/40477/en/summary.html#|title=South Carolina Election Results |work=South Carolina Board of Elections|date=November 18, 2010 |access-date=December 20, 2012}}</ref>}}
+{{Election box winning candidate with party link|
+ |party      = Republican Party (US)
+ |candidate  = Mick Zais
+ |votes      = 680,787
+ |percentage = 51.26%
+ |change     = +3.86%
+}}
+{{Election box candidate with party link|
+|party = Democratic Party (US)
+|candidate = Frank Holleman
+|votes = 572,508
+|percentage = 43.11%
+|change = -4.39%
+}}
+{{Election box candidate with party link|
+|party = Libertarian Party (US)
+|candidate = Tim Moultrie
+|votes = 35,362
+|percentage = 2.66%
+|change = +0.86%
+}}
+{{Election box candidate with party link|
+|party = Green Party (US)
+|candidate = Doretha Bull
+|votes = 20,787
+|percentage = 1.57%
+|change = +0.77%
+}}
+{{Election box candidate|
+|party = [[Independence Party of America|Independence Party]]
+|candidate = Tony Fayyazi
+|votes = 18,107
+|percentage = 1.36%
+|change = -0.34%
+}}
+{{Election box candidate|
+ |party      = Write-ins
+ |candidate  = 
+ |votes      = 513
+ |percentage = 0.04%
+ |change     =
+}}
+{{Election box majority|
+ |votes      = 108,279
+ |percentage = 8.15%
+ |change     = +8.14%
+}}
+{{Election box turnout|
+ |votes      = 1,328,064
+ |percentage = 50.31% <!---registered voters - 2,640,005 per http://www.enr-scvotes.org/SC/19077/40477/en/vt_data.html---->
+ |change     = +6.21%
+}}
+{{Election box gain with party link|
+  |winner     = Republican Party (US)
+|loser = Democratic Party (US)
+  |swing      = 
+}}
+{{Election box end}}
+{{Clear}}
+
+===Adjutant General===
+Republican Bob Livingston ran unopposed in the general election and faced no primary opposition.
+[[File:2010 South Carolina state treasurer election results map by county.svg|230px|thumb|Results by county
+{{collapsible list
+|title=Livingston:
+|{{legend|#A80000|90–100%}}
+}}
+]]
+{{Election box begin | title=South Carolina Adjutant General election, 2010<ref name="South Carolina Election Results">{{cite web|url=http://www.enr-scvotes.org/SC/19077/40477/en/summary.html#|title=South Carolina Election Results |work=South Carolina Board of Elections|date=November 18, 2010 |access-date=December 20, 2012}}</ref>}}
+{{Election box winning candidate with party link|
+ |party      = Republican Party (US)
+ |candidate  = Bob Livingston
+ |votes      = 900,620
+ |percentage = 99.25%
+ |change     = +41.15%
+}}
+{{Election box candidate|
+ |party      = Write-ins
+ |candidate  = 
+ |votes      = 6,786
+ |percentage = 0.75%
+ |change     = +0.74%
+}}
+{{Election box majority|
+ |votes      = 893,834
+ |percentage = 98.50%
+ |change     = +82.20%
+}}
+{{Election box turnout|
+ |votes      = 907,406
+ |percentage = 34.37% <!---registered voters - 2,640,005 per http://www.enr-scvotes.org/SC/19077/40477/en/vt_data.html---->
+ |change     = -8.93%
+}}
+{{Election box hold with party link|
+  |winner     = Republican Party (US)
+  |swing      = 
+}}
+{{Election box end}}
+{{Clear}}
+
+===Commissioner of Agriculture===
+Incumbent Republican Hugh Weathers ran for re-election against Democratic challenger Tom Elliott, a former [[Richland County, South Carolina|Richland County]] treasurer and councilman.  Neither faced primary opposition.  The major issue in the race was the moving of the state farmers' market, which Elliott suggested had been done improperly.<ref name="Rivals for top South Carolina agriculture job offer ideas to promote farms">{{cite web|url=http://chronicle.augusta.com/news/government/elections/2010-09-18/rivals-top-south-carolina-agriculture-job-offer-ideas-promote|title=Rivals for top South Carolina agriculture job offer ideas to promote farms |work=Augusta Chronicle|date=September 18, 2010 |access-date=December 20, 2012}}</ref>
+[[File:2010 South Carolina commissioner of agriculture election results map by county.svg|230px|thumb|Results by county
+{{collapsible list
+|title=Weathers:
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+}}
+{{collapsible list
+|title=Elliott:
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+}}
+]]
+
+{{Election box begin | title=South Carolina Commissioner of Agriculture election, 2010<ref name="South Carolina Election Results">{{cite web|url=http://www.enr-scvotes.org/SC/19077/40477/en/summary.html#|title=South Carolina Election Results |work=South Carolina Board of Elections|date=November 18, 2010 |access-date=December 20, 2012}}</ref>}}
+{{Election box winning candidate with party link|
+ |party      = Republican Party (US)
+ |candidate  = Hugh Weathers (incumbent)
+ |votes      = 792,260
+ |percentage = 60.11%
+ |change     = +0.41%
+}}
+{{Election box candidate with party link|
+|party = Democratic Party (US)
+|candidate = Tom Elliott
+|votes = 525,229
+|percentage = 39.85%
+|change = -0.45%
+}}
+{{Election box candidate|
+ |party      = Write-ins
+ |candidate  = 
+ |votes      = 533
+ |percentage = 0.04%
+ |change     =
+}}
+{{Election box majority|
+ |votes      = 267,031
+ |percentage = 20.06%
+ |change     = +1.20%
+}}
+{{Election box turnout|
+ |votes      = 1,318,022
+ |percentage = 49.92% <!---registered voters - 2,640,005 per http://www.enr-scvotes.org/SC/19077/40477/en/vt_data.html---->
+ |change     = +6.52%
+}}
+{{Election box hold with party link|
+  |winner     = Republican Party (US)
+  |swing      = 
+}}
+{{Election box end}}
+{{Clear}}
+
+===State House of Representatives===
+All 124 seats in the [[South Carolina House of Representatives]] were up for election in 2010.
+
+===Judicial positions===
+Several Probate Court justices were up for election in 2010.  Most other judges are elected by the [[South Carolina General Assembly]] instead of by the general population.
+*[https://web.archive.org/web/20101125220150/http://judgepedia.org/index.php/South_Carolina_judicial_elections,_2010 South Carolina judicial elections, 2010] at ''[[Judgepedia]]''
+
+===Ballot measures===
+Four measures appeared on the general election ballot.
+
+Amendment 1 amended Article I of the state Constitution to guarantee citizens the right to hunt, fish and trap wildlife, "subject to laws and regulations promoting sound wildlife conservation and management as prescribed by the General Assembly."
+[[File:2010 South Carolina Amendment 1 results map by county.svg|230px|thumb|Amendment 1 Results by county
+{{collapsible list
+|title=Yes:
+|{{legend|#2B2457|90–100%}}
+|{{legend|#28497C|80–90%}}
+|{{legend|#47729E|70–80%}}
+}}
+]]
+
+{{referendum results
+| caption = Amendment 1
+| for = 1126228
+| against = 139668
+| turnout        = 48.11 
+| electorate     = 2631459
+| source         = [http://www.enr-scvotes.org/SC/19077/40477/en/summary.html# - Official Results]
+}}
+{{Clear}}
+
+Amendment 2 amended Article II of the state Constitution "to provide that the fundamental right of an individual to vote by secret ballot is guaranteed for a designation, a selection, or an authorization for employee representation by a labor organization."
+[[File:2010 South Carolina Amendment 2 results map by county.svg|230px|thumb|Amendment 2 Results by county
+{{collapsible list
+|title=Yes:
+|{{legend|#28497C|80–90%}}
+|{{legend|#47729E|70–80%}}
+}}
+]]
+
+{{referendum results
+| caption = Amendment 2
+| for = 1090107
+| against = 174473
+| turnout        = 48.06 
+| electorate     = 2631459
+| source         = [http://www.enr-scvotes.org/SC/19077/40477/en/summary.html# - Official Results]
+}}
+{{Clear}}
+
+Amendment 3 amended Section 36(A) of Article III of the state Constitution "to increase from three to five percent in increments of one-half of one percent over four fiscal years the amount of state general fund revenue in the latest completed fiscal year required to be held in the General Reserve Fund."
+[[File:2010 South Carolina Amendment 3 results map by county.svg|230px|thumb|Amendment 3 Results by county
+{{collapsible list
+|title=Yes:
+|{{legend|#47729E|70–80%}}
+|{{legend|#7D9CBB|60–70%}}
+}}
+]]
+
+{{referendum results
+| caption = Amendment 3
+| for = 890015
+| against = 365105
+| turnout        = 47.70 
+| electorate     = 2631459
+| source         = [http://www.enr-scvotes.org/SC/19077/40477/en/summary.html# - Official Results]
+}}
+{{Clear}}
+
+Amendment 4 amended Section 36(A) of Article III of the state Constitution " to increase from three to five percent in increments of one-half of one percent over four fiscal years the amount of state general fund revenue in the latest completed fiscal year required to be held in the General Reserve Fund and to allow the percentage amount to be subsequently increased or decreased by separate legislative enactment passed by a two-thirds vote of the total membership of the Senate and a two-thirds vote of the total membership of the House of Representatives."
+[[File:2010 South Carolina Amendment 4 results map by county.svg|230px|thumb|Amendment 4 Results by county
+{{collapsible list
+|title=Yes:
+|{{legend|#28497C|80–90%}}
+|{{legend|#47729E|70–80%}}
+|{{legend|#7D9CBB|60–70%}}
+}}
+]]
+
+{{referendum results
+| caption = Amendment 4
+| for = 906328
+| against = 341893
+| turnout        = 47.43 
+| electorate     = 2631459
+| source         = [http://www.enr-scvotes.org/SC/19077/40477/en/summary.html# - Official Results]
+}}
+{{Clear}}
+
+==Local==
+Many elections for county and city offices were also held on November 2, 2010.
+
+==External links==
+*[http://www.scvotes.org/ South Carolina State Election Commission] {{Webarchive|url=https://web.archive.org/web/20141020110542/http://www.scvotes.org/ |date=October 20, 2014 }}
+*[http://www.imagineelection.com/browse/state/SC South Carolina Candidate List] at [https://web.archive.org/web/20100303024250/http://www.imagineelection.com/ Imagine Election] - Search for candidates by address or zip code
+*[http://www.opensecrets.org/races/election.php?state=SC South Carolina Congressional Races in 2010] for campaign finance data for federal races from [[OpenSecrets]]
+*[http://www.followthemoney.org/database/state_overview.phtml?s=SC&y=2010 South Carolina State Races in 2010] campaign finance data for state races from ''Follow the Money''
+
+==References==
+{{reflist|colwidth=40em}}
+
+{{SCGovElections}}
+{{United States elections, 2010}}
+
+[[Category:2010 elections in South Carolina| ]]
+[[Category:2010 elections in the United States by state or territory|South Carolina]]

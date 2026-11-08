@@ -1,0 +1,515 @@
+{{Short description|none}}
+{{for|related races|2014 United States gubernatorial elections}}
+{{Use American English|date=January 2025}}
+<!-- "none" is preferred when the title is already sufficiently detailed; see [[WP:SDNONE]] -->
+{{Use mdy dates|date=September 2023}}
+
+{{Infobox election
+| election_name = 2014 South Carolina gubernatorial election
+| country = South Carolina
+| type = presidential
+| ongoing = no
+| previous_election = 2010 South Carolina gubernatorial election
+| previous_year = 2010
+| next_election = 2018 South Carolina gubernatorial election
+| next_year = 2018
+| election_date = November 4, 2014
+| image1 = File:Official Photo of SC Governor Nikki Haley (cropped).jpg
+| image_size = 150x150px
+| nominee1 = '''[[Nikki Haley]]'''
+| party1 = Republican Party (United States)
+| popular_vote1 = '''696,645'''
+| percentage1 = '''55.90%'''
+| image2 = File:Vincent Sheheen (cropped).jpg
+| nominee2 = [[Vincent Sheheen]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 516,166
+| percentage2 = 41.42%
+| map_image = {{switcher |[[File:2014 South Carolina gubernatorial election results map by county.svg|230px]] |County results |[[File:2014 South Carolina gubernatorial election results map by congressional district.svg|230px]] |Congressional district results |default=1}}
+| map_caption = '''Haley''': {{legend0|#ffb2b2|40–50%}} {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#d72f30|70–80%}}<br />'''Sheheen''': {{legend0|#a5b0ff|40–50%}} {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584cde|70–80%}}
+| title = [[Governor of South Carolina|Governor]]
+| before_election = [[Nikki Haley]]
+| before_party = Republican Party (United States)
+| after_election = [[Nikki Haley]]
+| after_party = Republican Party (United States)
+}}
+{{ElectionsSC}}
+The '''2014 South Carolina gubernatorial election''' took place on November 4, 2014, to elect the [[governor of South Carolina]], concurrently with the [[United States Senate election in South Carolina, 2014|regularly-scheduled election]] and [[United States Senate special election in South Carolina, 2014|special election]] to both of South Carolina's [[Classes of United States senators|U.S. Senate seats]], as well as [[2014 United States Senate elections|other elections]] to the United States Senate in other states and [[2014 United States House of Representatives elections|elections]] to the [[United States House of Representatives]] and various [[2014 United States elections#State elections|state]] and [[2014 United States elections#Local elections|local elections]].
+
+Incumbent [[Republican Party (United States)|Republican]] Governor [[Nikki Haley]] ran for a second term in office. She faced [[Democratic Party (United States)|Democratic]] State Senator [[Vincent Sheheen]] in the general election. Republican-turned-independent [[Tom Ervin]] had been running, but he withdrew from the race and endorsed Sheheen.
+
+Haley defeated Sheheen for the second time, winning with nearly 56 percent of the vote.<ref name="thestate.com">{{Cite web |url=http://www.thestate.com/2014/11/09/3801867/democratic-nominee-for-2018-its.html |title = Democratic nominee for 2018? It's anybody's guess {{!}} The Buzz {{!}} The State  |access-date=2014-11-16 |archive-url=https://web.archive.org/web/20141113045023/http://www.thestate.com/2014/11/09/3801867/democratic-nominee-for-2018-its.html |archive-date=2014-11-13 |url-status=dead }}</ref>
+
+==Republican primary==
+
+===Candidates===
+
+====Declared====
+* [[Nikki Haley]], incumbent [[Governor of South Carolina|governor]]<ref>{{cite web|url=https://www.politico.com/story/2013/08/nikki-haley-south-carolina-reelection-95441.html?hp=l7|title=Aide: Nikki Haley running for reelection|date=August 12, 2013|access-date=August 12, 2013|work=[[Politico]]|first=Tal|last=Kopan}}</ref>
+
+====Withdrew====
+* [[Tom Ervin]], attorney, former state representative and former circuit court judge (ran as an Independent and later dropped out of the race to endorse [[Vincent Sheheen]])<ref>{{cite web|url=http://www.fitsnews.com/2014/03/29/nikki-haley-draws-primary-opponent/|title=Nikki Haley Draws a Primary Opponent|date=March 29, 2014|access-date=March 29, 2014|work=FITSNews}}</ref><ref name=ervin-independent>{{cite web|url=http://www.fitsnews.com/2014/04/11/tom-ervin-to-challenge-nikki-haley-as-independent/|title=Nikki Haley Challenger to Run as Independent|date=April 11, 2014|access-date=April 13, 2014|work=FITSNews}}</ref>
+
+====Declined====
+* [[Tom Davis (South Carolina politician)|Tom Davis]], state senator<ref>{{cite web|url=http://www.islandpacket.com/2013/02/01/2363808/sen-tom-davis-will-not-run-for.html|title=EXCLUSIVE: Sen. Tom Davis will not run for U.S. Senate, governor's office|date=February 1, 2013|access-date=February 1, 2013|work=[[The Island Packet]]|first=Gina|last=Smith|archive-url=https://web.archive.org/web/20130208143929/http://www.islandpacket.com/2013/02/01/2363808/sen-tom-davis-will-not-run-for.html|archive-date=February 8, 2013|url-status=dead}}</ref>
+* [[Bobby Harrell]], Speaker of the [[South Carolina House of Representatives]]<ref name=lcc_haley>{{cite web|url=https://lexingtonchronicle.com/clients/lexingtonchronicle/08162012PageA3.pdf|title=Will Governor Haley survive 2014 gubernatorial race?|date=August 16, 2012|access-date=October 13, 2012|work=Lexington County Chronicle and The Dispatch-News|first=Bill|last=West|archive-url=https://web.archive.org/web/20141021172103/https://lexingtonchronicle.com/clients/lexingtonchronicle/08162012PageA3.pdf|archive-date=October 21, 2014|url-status=dead|df=mdy-all}}</ref>
+* [[Curtis M. Loftis, Jr.]], state treasurer<ref>{{cite web|url=http://www.carolinalive.com/news/story.aspx?id=852380|title=SC State Treasurer won't run for governor|date=January 25, 2013|access-date=January 28, 2013|work=[[WPDE]]|first=Tim|last=McGinnis|archive-date=December 6, 2013|archive-url=https://web.archive.org/web/20131206064909/http://www.carolinalive.com/news/story.aspx?id=852380|url-status=dead}}</ref>
+* [[Glenn F. McConnell]], [[List of lieutenant governors of South Carolina|Lieutenant Governor]]<ref>{{cite web|url=http://www.charlestoncitypaper.com/charleston/will-glenn-mcconnell-go-after-nikki-haleys-job/Content?oid=4044264|title=Will Glenn McConnell go after Nikki Haley's job?|date=March 28, 2012|access-date=October 13, 2012|work=[[Charleston City Paper]]|first=Will|last=Moredock}}</ref><ref>{{cite web|last=Hutchins |first=Corey |url=http://www.charlestoncitypaper.com/charleston/haley-ally-pat-mckinney-to-challenge-glenn-mcconnell-for-lieutenant-governor/Content?oid=4787225 |title=Haley ally Pat McKinney to challenge Glenn McConnell for lieutenant governor &#124; Features |publisher=Charleston City Paper |date=2013-10-23 |access-date=2013-10-28}}</ref>
+* [[Mick Mulvaney]], U.S. representative<ref name=lcc_haley/><ref>{{cite web|last=Drury |first=Shawn |url=http://columbia-sc.patch.com/groups/politics-and-elections/p/dems-eyeing-challenge-to-mulvaney-in-2014-gop-not-worried |title=Dems Eyeing Challenge to Mulvaney in 2014, GOP Not Worried - Government |publisher=Columbia, SC Patch |date=2013-05-31 |access-date=2013-11-07}}</ref>
+* [[William Walter Wilkins]], former Chief Judge of the [[United States Court of Appeals for the Fourth Circuit]]<ref name=lcc_haley/>
+* [[Alan Wilson (politician)|Alan Wilson]], Attorney General of South Carolina<ref name=lcc_haley/><ref>{{cite web|url=http://www.fitsnews.com/2013/06/25/alan-wilson-sitting-pretty-for-reelection/ |title=Alan Wilson Sitting Pretty For Reelection |publisher=FITSNews |access-date=2013-10-28}}</ref>
+
+===Polling===
+{| class="wikitable"
+|- valign= bottom
+! style="width:190px;"| Poll source
+! style="width:150px;"| Date(s)<br />administered
+! class=small | Sample<br />size
+! <small>Margin of</small><br />error
+! style="width:100px;"|Nikki<br />Haley
+! style="width:100px;"|Someone<br />else
+! style="width:40px;"|Undecided
+|-
+|[[Public Policy Polling]]<ref name="Public Policy Polling">[http://www.publicpolicypolling.com/pdf/2011/PPP_Release_SC_1211.pdf Public Policy Polling]</ref>
+| align=center| December 7–9, 2012
+| align=center| 506
+| align=center| ± 4.4%
+| {{party shading/Republican}} align=center| '''53%'''
+| align=center| 37%
+| align=center| 10%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+{| class="wikitable"
+|- valign= bottom
+! style="width:190px;"| Poll source
+! style="width:150px;"| Date(s)<br />administered
+! class=small | Sample<br />size
+! style="width:40px;"| <small>Margin of</small><br />error
+! style="width:100px;"|Nikki<br />Haley
+! style="width:100px;"|Curtis<br />Loftis
+! style="width:40px;"|Undecided
+|-
+|[[Public Policy Polling]]<ref name="Public Policy Polling"/>
+| align=center| December 7–9, 2012
+| align=center| 506
+| align=center| ± 4.4%
+| {{party shading/Republican}} align=center| '''66%'''
+| align=center| 18%
+| align=center| 17%
+|}
+
+{| class="wikitable"
+|- valign= bottom
+! style="width:190px;"| Poll source
+! style="width:150px;"| Date(s)<br />administered
+! class=small | Sample<br />size
+! <small>Margin of</small><br />error
+! style="width:100px;"|Nikki<br />Haley
+! style="width:100px;"|Glenn<br />McConnell
+! style="width:40px;"|Undecided
+|-
+|[[Public Policy Polling]]<ref name="Public Policy Polling"/>
+| align=center| December 7–9, 2012
+| align=center| 506
+| align=center| ± 4.4%
+| {{party shading/Republican}} align=center| '''58%'''
+| align=center| 26%
+| align=center| 17%
+|}
+{{hidden end}}
+
+==Democratic primary==
+
+===Candidates===
+
+====Declared====
+* [[Vincent Sheheen]], state senator and nominee for governor [[2010 South Carolina gubernatorial election|in 2010]]<ref>{{cite web|url=http://www.heraldonline.com/2013/04/10/4763832/sheheen-announces-another-run.html|title=Sheheen announces another run for governor|date=10 April 2013|access-date=10 April 2013|work=Herald Online|first=Andrew|last=Shain|url-status=dead|archive-url=https://web.archive.org/web/20140407070826/http://www.heraldonline.com/2013/04/10/4763832/sheheen-announces-another-run.html|archive-date=7 April 2014}}</ref>
+
+====Declined====
+* [[Stephen K. Benjamin]], [[Mayor of Columbia, South Carolina|Mayor]] of [[Columbia, South Carolina|Columbia]]<ref>{{cite web|url=http://www.fitsnews.com/2013/02/26/steve-benjamin-plotting-gubernatorial-bid/|title=Steve Benjamin Plotting Gubernatorial Bid|date=February 26, 2013|access-date=August 12, 2013|work=FITSNews}}</ref><ref>{{cite web|url=http://www.fitsnews.com/2013/05/10/steve-benjamin-to-announce-reelection-bid/|title=Steve Benjamin To Announce Reelection Bid|date=May 10, 2013|access-date=August 12, 2013|work=FITSNews}}</ref>
+* [[Harry L. Ott, Jr.]], Minority Leader of the [[South Carolina House of Representatives]]<ref>{{cite web|url=http://www.thestate.com/2013/06/26/2836063/sc-rep-harry-ott-to-resign-to.html|title=Former SC House Democratic leader accepts Obama Administration job|date=June 26, 2013|access-date=August 12, 2013|work=[[The State (newspaper)|The State]]|first=Adam|last=Beam|archive-url=https://web.archive.org/web/20130731020343/http://www.thestate.com/2013/06/26/2836063/sc-rep-harry-ott-to-resign-to.html|archive-date=July 31, 2013|url-status=dead|df=mdy-all}}</ref>
+
+===Endorsements===
+{{Endorsements box
+|title=Vincent Sheheen
+|list=
+'''Elected Officials'''
+* [[Welborn Adams]], Mayor of [[Greenwood, South Carolina|Greenwood]]<ref name="vincentsheheen1">{{cite web |url=http://vincentsheheen.com/press-release/south-carolina-mayors-endorse-vincent-sheheen-for-governor/ |title=SC Mayors Endorse Vincent Sheheen for Governor &#124; Vincent Sheheen for Governor, South Carolina |publisher=Vincentsheheen.com |date=2013-08-21 |access-date=2013-09-07 |archive-url=https://web.archive.org/web/20131021051333/http://vincentsheheen.com/press-release/south-carolina-mayors-endorse-vincent-sheheen-for-governor/ |archive-date=2013-10-21 |url-status=dead }}</ref>
+* [[Lovith Anderson]], Mayor of [[Lake City, South Carolina|Lake City]]<ref name="vincentsheheen1"/>
+* [[John Douglas (American politician)|John Douglas]], Mayor of [[Chesterfield, South Carolina|Chesterfield]]<ref name="vincentsheheen1"/>
+* [[Doug Echols]], Mayor of [[Rock Hill, South Carolina|Rock Hill]]<ref name="vincentsheheen1"/>
+* [[Tom Ervin]], attorney, former state representative and former circuit court judge<ref name="vincentsheheen1"/>
+* [[Jim Hodges]], former [[governor of South Carolina]]<ref name="vincentsheheen1"/>
+* [[Andy Ingram]], Mayor of [[Cheraw, South Carolina|Cheraw]]<ref name="vincentsheheen1"/>
+* [[Joseph McElveen]], Mayor of [[Sumter, South Carolina|Sumter]]<ref name="vincentsheheen1"/>
+* [[Wayne Rhodes (American politician)|Wayne Rhodes]], Mayor of [[Kershaw, South Carolina|Kershaw]]<ref name="vincentsheheen1"/>
+* [[Joseph P. Riley Jr.|Joseph Riley]], Mayor of [[Charleston, South Carolina|Charleston]]<ref name="vincentsheheen1"/>
+* [[Richard Riley]], former [[United States Secretary of Education]] and former [[governor of South Carolina]]<ref name="vincentsheheen1"/>
+* [[Tony Scully (American politician)|Tony Scully]], Mayor of [[Camden, South Carolina|Camden]]<ref name="vincentsheheen1"/>
+* [[Ann Taylor (American politician)|Ann Taylor]], Mayor of [[Heath Springs, South Carolina|Heath Springs]]<ref name="vincentsheheen1"/>
+* [[Junie White]], Mayor of [[Spartanburg, South Carolina|Spartanburg]]<ref name="vincentsheheen1"/>
+* [[Steve Wukela]], Mayor of [[Florence, South Carolina|Florence]]<ref name="vincentsheheen1"/>
+}}
+
+==Independent and third parties==
+
+===Candidates===
+
+====Declared====
+* Steve French ([[Libertarian Party (United States)|Libertarian]]), businessman<ref>{{cite web|url=http://www.thestate.com/2014/03/15/3327334/libertarian-joins-sc-governors.html|title=Libertarian joins SC governor's race|work=[[The State (newspaper)|The State]]|date=March 15, 2014|access-date=March 16, 2014|first=Andrew|last=Shain|archive-url=https://web.archive.org/web/20140316021507/http://www.thestate.com/2014/03/15/3327334/libertarian-joins-sc-governors.html|archive-date=March 16, 2014|url-status=dead}}</ref>
+* Morgan Bruce Reeves ([[United Citizens Party]]), former NFL player and nominee for governor [[2010 South Carolina gubernatorial election|in 2010]]<ref>{{cite web|url=http://www.thestate.com/2014/03/31/3360419/sc-politics-gop-governors-take.html?sp=/99/132/312/169/|title=SC politics: GOP governors take another shot at Democrat Sheheen|date=March 31, 2014|access-date=March 31, 2014|work=The State|archive-url=https://web.archive.org/web/20140403092741/http://www.thestate.com/2014/03/31/3360419/sc-politics-gop-governors-take.html?sp=%2F99%2F132%2F312%2F169%2F|archive-date=April 3, 2014|url-status=dead}}</ref>
+* [[Angry Grandpa]] (Charles Green) YouTuber, comedian, veteran, former nut salesman, and weed rights activist<ref>{{Citation |title=GRANDPA FOR GOVERNOR! |url=https://www.youtube.com/watch?v=0qdvhs-28lY |access-date=2023-08-11 |language=en}}</ref>
+
+====Withdrew====
+* [[Tom Ervin]] ([[Independent (politician)|Independent]]), attorney, former Republican state representative and former circuit court judge (endorsed Sheheen)<ref>{{cite web|url=http://www.thestate.com/2014/10/28/3773874_ervin-drops-out-of-governors-race.html|title=Ervin drops out of SC governor's race, backs Sheheen|date=October 28, 2014|access-date=October 29, 2014|work=The State|url-status=dead|archive-url=https://web.archive.org/web/20141029142127/http://www.thestate.com/2014/10/28/3773874_ervin-drops-out-of-governors-race.html|archive-date=October 29, 2014}}</ref>
+
+====Declined====
+* [[André Bauer]] ([[Independent (politician)|Independent]]), former [[Republican Party (United States)|Republican]] [[List of lieutenant governors of South Carolina|Lieutenant Governor of South Carolina]], candidate for governor [[2010 South Carolina gubernatorial election|in 2010]] and candidate for [[South Carolina's 7th congressional district|SC-07]] in [[United States House of Representatives elections in South Carolina, 2012#District 7|2012]]<ref>{{cite web|url=http://www.thestate.com/2013/12/07/3146674/sunday-buzz-andre-bauer-not-putting.html|title=Sunday Buzz: Andre Bauer not putting brakes on possible SC governor's run|date=7 December 2013|access-date=9 December 2013|work=[[The State (newspaper)|The State]]|author=Andrew Shain|archive-url=https://web.archive.org/web/20131210001600/http://www.thestate.com/2013/12/07/3146674/sunday-buzz-andre-bauer-not-putting.html|archive-date=10 December 2013|url-status=dead|df=dmy-all}}</ref>
+
+==General election==
+=== Predictions ===
+{| class="wikitable" style="text-align:center"
+|-
+! Source
+! Ranking
+! As of
+|-
+| align=left | [[The Cook Political Report]]<ref>{{cite web | title=2014 Governor Race Ratings for November 3, 2014 | url=https://www.cookpolitical.com/ratings/governor-race-ratings/139257 | website=The Cook Political Report | access-date=September 3, 2018}}</ref>
+| {{USRaceRating|Likely|R}}
+| November 3, 2014
+|-
+| align=left | [[Sabato's Crystal Ball]]<ref>{{cite web | title=The Crystal Ball's Final 2014 Picks | url=http://www.centerforpolitics.org/crystalball/articles/the-crystal-balls-final-2014-picks/ | website=Sabato's Crystal Ball | access-date=September 3, 2018}}</ref>
+| {{USRaceRating|Likely|R}}
+| November 3, 2014
+|-
+| align=left | [[Stuart Rothenberg|Rothenberg Political Report]]<ref>{{cite web | title=2014 Gubernatorial Ratings | url=http://www.insideelections.com/ratings/governor/2014-gubernatorial-ratings-november-3-2014 | work=Senate Ratings | publisher=The Rothenberg Political Report | access-date=September 3, 2018}}</ref>
+| {{USRaceRating|Likely|R}}
+| November 3, 2014
+|-
+| align=left | [[Real Clear Politics]]<ref>{{cite web | title=2014 Elections Map - 2014 Governors Races | url=https://www.realclearpolitics.com/epolls/2014/governor/2014_elections_governor_map.html| publisher=Real Clear Politics | access-date=September 3, 2018}}</ref>
+| {{USRaceRating|Likely|R}}
+| November 3, 2014
+|}
+
+===Polling===
+{| class="wikitable"
+|- valign= bottom
+! style="width:190px;"| Poll source
+! style="width:200px;"| Date(s)<br />administered
+! class=small | Sample<br />size
+! <small>Margin of</small><br />error
+! style="width:100px;"| Nikki<br />Haley (R)
+! style="width:100px;"| Vincent<br />Sheheen (D)
+! style="width:100px;"| Tom<br />Ervin (I)
+! style="width:40px;"| Other
+! style="width:40px;"| Undecided
+|-
+|Daily Journal<ref>[https://www.surveymonkey.com/results/SM-33N57RPL/ Daily Journal]</ref>
+| align=center| October 27–30, 2014
+| align=center| 139
+| align=center| —
+| {{party shading/Republican}} align=center| '''46%'''
+| align=center| 45%
+| align=center| 2%
+| align=center| 4%<ref>Steve French (L) 2%, Morgan Bruce Reeves (UCP) 1%, Write-in 1%</ref>
+| align=center| 3%
+|-
+|[[CBS News]]/[[NYT]]/[[YouGov]]<ref>[http://today.yougov.com/news/2014/09/09/governor-races-headline-results/ CBS News/NYT/YouGov]</ref>
+| align=center| October 16–23, 2014
+| align=center| 1,566
+| align=center| ± 4%
+| {{party shading/Republican}} align=center| '''50%'''
+| align=center| 33%
+| align=center| —
+| align=center| 1%
+| align=center| 16%
+|-
+|[[Susquehanna Polling & Research|Susquehanna]]<ref>[https://web.archive.org/web/20141024013250/http://www.postandcourier.com/article/20141020/PC1603/141029946/1031 Susquehanna]</ref>
+| align=center| October 2014
+| align=center| 917
+| align=center| ± 3.24%
+| {{party shading/Republican}} align=center| '''51%'''
+| align=center| 31%
+| align=center| 11%
+| align=center| 3%<ref>Steve French (L) 2%, Morgan Bruce Reeves (UCP) 1%</ref>
+| align=center| 4%
+|-
+|[[CBS News]]/[[NYT]]/[[YouGov]]<ref>[http://today.yougov.com/news/2014/09/09/governor-races-headline-results CBS News/NYT/YouGov]</ref>
+| align=center| September 20–October 1, 2014
+| align=center| 2,663
+| align=center| ± 2%
+| {{party shading/Republican}} align=center| '''53%'''
+| align=center| 36%
+| align=center| —
+| align=center| 1%
+| align=center| 10%
+|-
+|[[Crantford Research]]<ref>[http://crantfordresearch.blogspot.co.uk/2014/09/new-sc-statewide-polling-results.html Crantford Research]</ref>
+| align=center| September 29, 2014
+| align=center| 688
+| align=center| ± 3%
+| {{party shading/Republican}} align=center| '''41%'''
+| align=center| 37%
+| align=center| 7%
+| align=center| —
+| align=center| 15%
+|-
+|[[Winthrop University]]<ref>[https://web.archive.org/web/20141001212629/http://www.winthrop.edu/winthroppoll/default.aspx?id=9804&ekmensel=fee512e3_566_0_9804_3 Winthrop University]</ref>
+| align=center| September 21–28, 2014
+| align=center| 1,082
+| align=center| ± 3%
+| {{party shading/Republican}} align=center| '''44%'''
+| align=center| 34%
+| align=center| 4%
+| align=center| 4%<ref>Steve French (L) 2%, Morgan Bruce Reeves (UCP) 1%, Other 0%</ref>
+| align=center| 15%
+|-
+|[[Public Policy Polling]]^<ref>[https://www.scribd.com/doc/239195910/SC-Gov-PPP-for-SC-Democratic-Party-Sept-2014 Public Policy Polling^]</ref>
+| align=center| September 4–5, 2014
+| align=center| 793
+| align=center| ± 3.5%
+| {{party shading/Republican}} align=center| '''50%'''
+| align=center| 45%
+| align=center| —
+| align=center| —
+| align=center| 5%
+|-
+|[[American Research Group]]<ref>[http://americanresearchgroup.com/2014/SC-Gov-2014-1.html American Research Group]</ref>
+| align=center| September 2–4, 2014
+| align=center| 600
+| align=center| ± 4%
+| {{party shading/Republican}} align=center| '''43%'''
+| align=center| 33%
+| align=center| 18%
+| align=center| 1%<ref name=french>Steve French (L)</ref>
+| align=center| 5%
+|-
+|[[CBS News]]/[[NYT]]/[[YouGov]]<ref>[https://today.yougov.com/news/2014/09/07/battleground-tracker-2014-south-carolina/#SCgovernor CBS News/NYT/YouGov]</ref>
+| align=center| August 18–September 2, 2014
+| align=center| 833
+| align=center| ± 5%
+| {{party shading/Republican}} align=center| '''56%'''
+| align=center| 35%
+| align=center| —
+| align=center| 1%
+| align=center| 9%
+|-
+|[[Rasmussen Reports]]<ref name="Rasmussen Reports">[http://www.rasmussenreports.com/public_content/politics/elections/election_2014/south_carolina/election_2014_south_carolina_governor Rasmussen Reports]</ref>
+| align=center| August 25–26, 2014
+| align=center| 750
+| align=center| ± 4%
+| {{party shading/Republican}} align=center| '''51%'''
+| align=center| 36%
+| align=center| —
+| align=center| 6%
+| align=center| 7%
+|-
+|[[CBS News]]/[[NYT]]/[[YouGov]]<ref>[http://www.cbsnews.com/news/2014-midterms-republicans-narrowly-favored-to-capture-senate-in-november/ CBS News/NYT/YouGov]</ref>
+| align=center| July 5–24, 2014
+| align=center| 1,186
+| align=center| ± 5.4%
+| {{party shading/Republican}} align=center| '''55%'''
+| align=center| 38%
+| align=center| —
+| align=center| 2%
+| align=center| 5%
+|-
+| rowspan=2|[[Palmetto Politics Poll]]<ref>[https://web.archive.org/web/20140730051043/http://www.postandcourier.com/article/20140722/PC1603/140729812 Palmetto Politics Poll]</ref>
+| align=center rowspan=2| July 22, 2014
+| align=center| 1,000
+| align=center| ± 4%
+| {{party shading/Republican}} align=center| '''53%'''
+| align=center| 40%
+| align=center| —
+| align=center| —
+| align=center| 7%
+|-
+| align=center| 650
+| align=center| ± 4%
+| {{party shading/Republican}} align=center| '''46%'''
+| align=center| 42%
+| align=center| 3%
+| align=center| 5%<ref name=french/>
+| align=center| 6%
+|-
+|[[Public Policy Polling]]^<ref>[http://fitsnews.com/wp-content/uploads/2014/06/ppp.pdf Public Policy Polling^]</ref>
+| align=center| June 20–22, 2014
+| align=center| 698
+| align=center| ± 3.7%
+| {{party shading/Republican}} align=center| '''49%'''
+| align=center| 46%
+| align=center| —
+| align=center| —
+| align=center| 5%
+|-
+|[[Rasmussen Reports]]<ref name="Rasmussen Reports"/>
+| align=center| April 14–15, 2014
+| align=center| 750
+| align=center| ± 4%
+| {{party shading/Republican}} align=center| '''52%'''
+| align=center| 37%
+| align=center| —
+| align=center| 3%
+| align=center| 7%
+|-
+|[[Harper Polling]]<ref>[https://web.archive.org/web/20131101034825/http://www.conservativeintel.com/1029-conservative-intel-poll-of-scgov/ Harper Polling]</ref>
+| align=center| October 27–28, 2013
+| align=center| 676
+| align=center| ± 3.77%
+| {{party shading/Republican}} align=center| '''48%'''
+| align=center| 39%
+| align=center| —
+| align=center| —
+| align=center| 13%
+|-
+|[[Clarity Campaign Labs]]<ref>[https://www.scribd.com/doc/178170373/SC-Gov-Clarity-Campaigns-for-DGA-Oct-2013 Clarity Campaign Labs]</ref>
+| align=center| October 15–16, 2013
+| align=center| 760
+| align=center| ± 3.53%
+| {{party shading/Republican}} align=center| '''44%'''
+| align=center| 40%
+| align=center| —
+| align=center| —
+| align=center| 16%
+|-
+|[[Public Policy Polling]]<ref name="Public Policy Polling"/>
+| align=center| December 7–9, 2012
+| align=center| 520
+| align=center| ± 4.3%
+| align=center| 44%
+| {{party shading/Democratic}} align=center| '''46%'''
+| align=center| —
+| align=center| —
+| align=center| 10%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''With Loftis'''<br />
+{| class="wikitable"
+|- valign= bottom
+! style="width:185px;"| Poll source
+! style="width:190px;"| Date(s)<br />administered
+! class=small | Sample<br />size
+! <small>Margin of</small><br />error
+! style="width:100px;"| Curtis<br />Loftis (R)
+! style="width:100px;"| Vincent<br />Sheheen (D)
+! style="width:40px;"| Undecided
+|-
+|[[Public Policy Polling]]<ref name="Public Policy Polling"/>
+| align=center| December 7–9, 2012
+| align=center| 520
+| align=center| ± 4.3%
+| align=center| 37%
+| {{party shading/Democratic}} align=center| '''46%'''
+| align=center| 17%
+|}
+
+'''With McConnell'''<br />
+{| class="wikitable"
+|- valign= bottom
+! style="width:185px;"| Poll source
+! style="width:190px;"| Date(s)<br />administered
+! class=small | Sample<br />size
+! <small>Margin of</small><br />error
+! style="width:100px;"| Glenn<br />McConnell (R)
+! style="width:100px;"| Vincent<br />Sheheen (D)
+! style="width:40px;"| Undecided
+|-
+|[[Public Policy Polling]]<ref name="Public Policy Polling"/>
+| align=center| December 7–9, 2012
+| align=center| 520
+| align=center| ± 4.3%
+| align=center| 41%
+| {{party shading/Democratic}} align=center| '''44%'''
+| align=center| 15%
+|}
+{{hidden end}}
+
+===Results===
+{{Election box begin | title=South Carolina gubernatorial election, 2014<ref name="South Carolina General Election Results">{{cite web|url=http://www.enr-scvotes.org/SC/53424/149231/en/summary.html|title=South Carolina Election Results |work=South Carolina Board of Elections|date=November 13, 2014 |access-date=November 18, 2014}}</ref>}}
+{{Election box winning candidate with party link|
+ |party      = Republican Party (United States)
+ |candidate  = [[Nikki Haley]] (incumbent)
+ |votes      = 696,645
+ |percentage = 55.90%
+ |change     = +4.53%
+}}
+{{Election box candidate with party link|
+ |party      = Democratic Party (United States)
+ |candidate  = [[Vincent Sheheen]]
+ |votes      = 516,166
+ |percentage = 41.42%
+ |change     = -5.49%
+}}
+{{Election box candidate with party link|
+ |party      = Libertarian Party (United States)
+ |candidate  = Steve French
+ |votes      = 15,438
+ |percentage = 1.24%
+ |change     = N/A
+}}
+{{Election box candidate with party link|
+ |party      = Independent (United States)
+ |candidate  = [[Tom Ervin]]
+ |votes      = 11,496
+ |percentage = 0.92%
+ |change     = N/A
+}}
+{{Election box candidate with party link|
+ |party      = United Citizens Party
+ |candidate  = Morgan B. Reeves
+ |votes      = 5,622
+ |percentage = 0.45%
+ |change     = -1.05%
+}}
+{{Election box write-in with party link|
+ |votes      = 934
+ |percentage = 0.07%
+ |change     = -0.16%
+}}
+{{Election box total
+ |votes      = ''1,246,301''
+ |percentage = ''100.00%''
+ |change     = N/A
+}}
+{{Election box hold with party link no swing
+  |winner     = Republican Party (United States)
+}}
+{{Election box end}}
+
+====Counties that flipped from Democratic to Republican====
+* [[Abbeville County, South Carolina|Abbeville]] (largest city: [[Abbeville, South Carolina|Abbeville]])
+* [[Barnwell County, South Carolina|Barnwell]] (largest city: [[Barnwell, South Carolina|Barnwell]])
+* [[Chester County, South Carolina|Chester]] (largest town: [[Chester, South Carolina|Chester]])
+* [[Chesterfield County, South Carolina|Chesterfield]] (Largest city: [[Cheraw, South Carolina|Cheraw]])
+* [[Colleton County, South Carolina|Colleton]] (largest city: [[Walterboro, South Carolina|Walterboro]])
+* [[Florence County, South Carolina|Florence]] (Largest city: [[Florence, South Carolina|Florence]])
+* [[Kershaw County, South Carolina|Kershaw]] (Largest city: [[Camden, South Carolina|Camden]])
+* [[McCormick County, South Carolina|McCormick]] (largest town: [[McCormick, South Carolina|McCormick]])
+* [[Union County, South Carolina|Union]] (Largest city: [[Union, South Carolina|Union]])
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://ballotpedia.org/South_Carolina_gubernatorial_election,_2014 South Carolina gubernatorial election, 2014] at [[Ballotpedia]]
+
+'''Official campaign websites'''
+* [https://web.archive.org/web/20141025225032/http://nikkihaley.com/ Nikki Haley for Governor] ''incumbent''
+* [https://web.archive.org/web/20141022082609/http://trustintom.com/ Tom Ervin for Governor]
+* [https://web.archive.org/web/20140414013136/http://www.frenchforfreedom.com/ Steve French for Governor]
+* [https://web.archive.org/web/20141009014911/http://vincentsheheen.com/ Vincent Sheheen for Governor]
+
+{{South Carolina elections}}
+{{2014 United States elections}}
+
+{{DEFAULTSORT:South Carolina gubernatorial election, 2014}}
+[[Category:2014 elections in South Carolina|Governor]]
+[[Category:South Carolina gubernatorial elections|2014]]
+[[Category:2014 United States gubernatorial elections]]
+[[Category:Nikki Haley]]

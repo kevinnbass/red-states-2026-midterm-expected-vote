@@ -1,0 +1,120 @@
+{{Short description|none}}
+{{Use American English|date=October 2025}}
+{{Infobox election
+| election_date = {{Start date|2002|11|05}}
+| election_name = 2002 Ohio Attorney General election
+| country = Ohio
+| type = presidential
+| ongoing = no
+| previous_election = 1998 Ohio Attorney General election
+| previous_year = 1998
+| next_election = 2006 Ohio Attorney General election
+| next_year = 2006
+| image1 = Jim and Nancy Petro (cropped).jpg
+| nominee1 = '''[[Jim Petro]]'''
+| party1 = Republican Party (United States)
+| popular_vote1 = '''2,007,411'''
+| percentage1 = '''64.12%'''
+| image2 = Leigh E. Herington - District 28 - Ohio Senate 121st General Assembly 1995-1996 - DPLA - 0e1747b522aad91345898fed00e3159f (page 18) (cropped).jpg
+| nominee2 = [[Leigh Herington]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 1,123,318
+| percentage2 = 35.88%
+| map_image = [[File:2002 Ohio attorney general election results map by county.svg|200px]]
+| map_caption = County results<br/>'''Petro:''' {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#d72f30|70–80%}}<br/>'''Herington:''' {{legend0|#7996e2|50–60%}}
+| title = Attorney General
+| before_election = [[Betty Montgomery]]
+| before_party = Republican Party (United States)
+| after_election = [[Jim Petro]]
+| after_party = Republican Party (United States)
+}}
+{{ElectionsOH}}
+The '''2002 Ohio Attorney General election''' was held on November 5, 2002, to elect the [[Ohio Attorney General]]. Republican incumbent Ohio Attorney General [[Betty Montgomery]] was term-limited and could not seek a third consecutive term. The Republican nominee, [[Ohio State Auditor]] [[Jim Petro]], defeated Democratic [[Ohio Senate]] Minority Leader [[Leigh Herington]] in a landslide, outdoing Betty Montgomery's victory in the previous election, securing 64.12% of the vote.
+
+== Republican primary ==
+=== Candidates ===
+*[[Jim Petro]], [[Ohio State Auditor]] (1995–2003)
+=== Campaign ===
+The Republican primary was held on May 7, 2002. Petro won the Republican nomination without opposition.
+=== Results ===
+{{Election box begin no change
+| title = Republican primary results<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/2002-elections-results/republican-statewide-offices-governor-attorney-general-auditor-of-state-and-secretary-of-state/ |title=Republican Statewide Offices: Governor, Attorney General, Auditor of State, and Secretary of State |website=Ohio Secretary of State |archive-url=https://web.archive.org/web/20250617123722/https://www.ohiosos.gov/elections/election-results-and-data/2002-elections-results/republican-statewide-offices-governor-attorney-general-auditor-of-state-and-secretary-of-state/ |archive-date=June 17, 2025}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Jim Petro
+| party = Republican Party (United States)
+| votes = 523,183
+| percentage = 100%
+}}
+{{Election box total no change
+| votes = 523,183
+| percentage= 100%
+}}
+{{Election box end}}
+
+== Democratic primary ==
+=== Candidates ===
+*[[Leigh Herington]], [[Ohio Senate]] Minority Leader (2001–2003)
+=== Campaign ===
+The Democratic primary was held on May 7, 2002. Herington won the Democratic nomination unopposed.
+=== Results ===
+{{Election box begin no change
+| title = Democratic primary results<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/2002-elections-results/democratic-statewide-offices-governor-attorney-general-auditor-of-state-and-secretary-of-state/ |title=Democratic Statewide Offices: Governor, Attorney General, Auditor of State, and Secretary of State |website=Ohio Secretary of State |archive-url=https://web.archive.org/web/20250617123722/https://www.ohiosos.gov/elections/election-results-and-data/2002-elections-results/democratic-statewide-offices-governor-attorney-general-auditor-of-state-and-secretary-of-state/ |archive-date=June 17, 2025}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Leigh Herington
+| party = Democratic Party (United States)
+| votes = 405,453
+| percentage = 100%
+}}
+{{Election box total no change
+| votes = 405,453
+| percentage= 100%
+}}
+{{Election box end}}
+
+== General election ==
+=== Candidates ===
+*[[Jim Petro]], [[Ohio State Auditor]] (1995–2003) (Republican)
+*[[Leigh Herington]], [[Ohio Senate]] Minority Leader (2001–2003)
+=== Results ===
+{{Election box begin | title=2002 Ohio Attorney General election results<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/2002-elections-results/attorney-generalauditor-of-state/ |title=Attorney General/Auditor of State - Ohio Secretary of State |date= |website=Ohio Secretary of State |access-date=October 15, 2025 |archive-date=September 25, 2021 |archive-url=https://web.archive.org/web/20210925031215/https://www.ohiosos.gov/elections/election-results-and-data/2002-elections-results/attorney-generalauditor-of-state/ |url-status=live}}</ref>
+}}
+{{Election box winning candidate with party link|
+ |party = Republican Party (United States)
+ |candidate = [[Jim Petro]]
+ |votes = 2,007,411
+ |percentage = 64.12%
+ |change = +1.95%
+}}
+{{Election box candidate with party link|
+ |party = Democratic Party (United States)
+ |candidate = [[Leigh Herington]]
+ |votes = 1,123,318
+ |percentage = 35.88%
+ |change = -1.95%
+}}
+{{Election box total no change
+ | votes      =  3,130,729
+ | percentage = 100.00%
+}}
+{{Election box hold with party link|
+  |winner     = Republican Party (United States)
+  |loser      = Democratic Party (United States)
+  |swing      =
+}}
+{{Election box end}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+'''Official campaign websites (archived)'''
+*[https://web.archive.org/web/20021030104058/http://jimpetro.com/ Jim Petro (R) for Ohio Attorney General]
+*[https://web.archive.org/web/20021031121745/http://leighherington.org/ Leigh Herington (D) for Ohio Attorney General]
+
+{{2002 United States elections}}
+
+[[Category:2002 United States state attorney general elections|Ohio]]
+[[Category:2002 elections in Ohio|Attorney General]]
+[[Category:Ohio Attorney General elections]]

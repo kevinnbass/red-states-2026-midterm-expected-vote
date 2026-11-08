@@ -1,0 +1,85 @@
+{{Short description|none}}
+{{Use mdy dates|date=June 2025}}
+{{Use American English|date=June 2025}}
+{{Infobox election
+| election_name = 2026 Ohio elections
+| country       = Ohio
+| type          = midterm
+| ongoing       = no
+| next_year     = 2028
+| election_date = November 3, 2026
+| previous_year = [[2024 Ohio elections|2024]]
+}}
+{{Elections in Ohio}}
+The '''2026 Ohio general elections''' took place on November 3, 2026, throughout the US state of [[Ohio]]. All of Ohio's [[United States House of Representatives]] districts and one [[United States Senate|U.S. Senate]] seat are up for election. Additionally, half of the [[Ohio Senate]], all seats of the [[Ohio House of Representatives]], parts of the state judiciary, and several state executive offices, including the [[governor of Ohio|governor]], will appear on the ballot.
+
+Due to [[term limits]], [[Mike DeWine|the incumbent governor]] and several other statewide officers first elected in 2018 are ineligible for re-election.<ref name="termed"/> Several of those officers are seeking other elected positions.<ref name="larose-auditor">{{cite news |last1=Carr Smyth |first1=Julie |title=Ohio elections chief Frank LaRose will run for state auditor in 2026 |url=https://apnews.com/article/election-2026-ohio-auditor-54a413311573b76428127ce6ba30a8fc |access-date=27 June 2025 |work=[[Associated Press]] |date=February 6, 2025}}</ref>
+
+{{Toclimit|limit=3}}
+
+== Federal ==
+=== Senate ===
+{{Main|2026 United States Senate special election in Ohio}}
+A special election will be held for the [[United States Senate|U.S. Senate]] seat formerly held by [[JD Vance]], who resigned to become the [[Vice President of the United States|vice president]], concurrent with the general election. Republican [[Jon Husted]], the former [[Lieutenant governor of Ohio|lieutenant governor]], was appointed to the seat in January 2025, and is running to serve the remainder of Vance's term.<ref>{{cite news |last1=Carr Smyth |first1=Julie |title=Trump favorite Jon Husted launches 2026 US Senate campaign in Ohio |url=https://apnews.com/article/election-2025-senate-ohio-husted-trump-67ed124a587b2265aaba273b2d5f3f43 |access-date=27 June 2025 |work=[[Associated Press]] |date=April 10, 2025}}</ref>
+
+=== House of Representatives ===
+{{Main|2026 United States House of Representatives elections in Ohio}}
+All of Ohio's 15 seats in the [[United States House of Representatives]] are up for election in 2026.
+
+==State executive==
+Ohio's state executives are up for election. Most of these positions are held by incumbents who have reached their [[term limits]] and are ineligible to run for re-election in 2026.<ref name="termed"/>
+
+=== Governor and lieutenant governor ===
+{{Main|2026 Ohio gubernatorial election}}
+Incumbent Republican governor [[Mike DeWine]] is ineligible to seek a third term.<ref name="termed"/>
+
+=== Attorney general ===
+{{Main|2026 Ohio Attorney General election}}
+Ohio's [[Ohio Attorney General|attorney general]] is up for re-election. Incumbent Republican  [[Dave Yost]] is ineligible due to term limits.<ref name="termed"/>
+
+=== Secretary of state ===
+{{Main|2026 Ohio Secretary of State election}}
+The [[Ohio secretary of state]] is up for election to a four-year term. Incumbent Republican [[Frank LaRose]] is ineligible for re-election.<ref name="termed"/>
+
+=== Treasurer ===
+{{main|2026 Ohio State Treasurer election}}
+
+The [[Ohio State Treasurer|state treasurer]] is up for election. Incumbent  Republican [[Robert Sprague]] is ineligible to seek re-election.<ref name="termed"/> Former state representative [[Jay Edwards (politician)|Jay Edwards]] and current state senator [[Kristina Roegner]] have announced campaigns for the office.<ref>{{cite news |last1=Ingles |first1=Jo |title=Chair-shuffling continues among Ohio Republicans who are considering statewide runs in 2026 |url=https://woub.org/2025/02/14/chair-shuffling-ohio-republicans-statewide-runs-2026/ |access-date=September 17, 2025 |work=[[WOUB (disambiguation)|WOUB]] |date=February 14, 2025 |language=en}}</ref>
+
+=== Auditor ===
+{{main|2026 Ohio State Auditor election}}
+The [[Ohio State Auditor|state auditor]] is up for election. The incumbent, Republican [[Keith Faber]], is term-limited and ineligible to run for re-election.<ref name="termed">{{cite news |last1=Taylor |first1=Ashley |title=Which Ohio politicians will be "termed out" of their office in 2026? |url=https://www.wtol.com/article/news/politics/state-politics/how-will-term-limits-impact-ohios-2026-special-election/512-5c446dd9-b1b0-44e9-8b97-44818b5ede04 |access-date=June 27, 2025 |work=[[WTOL]] |date=January 30, 2025}}</ref>
+
+== State legislative ==
+{{see also|136th Ohio General Assembly}}
+Elections for both houses of the [[Ohio General Assembly]] will be held in 2026.<ref name="ncsl-summary">{{cite web |title=2026 Legislative Races by State and Chamber |url=https://www.ncsl.org/elections-and-campaigns/2026-legislative-races-by-state-and-chamber |website=National Conference of State Legislatures |access-date=27 June 2025}}</ref> 
+
+=== Senate ===
+{{Main|2026 Ohio Senate election}}
+The 17 odd-numbered districts out of 33 seats in the [[Ohio Senate]] are up for election in 2026. Prior to the election, eleven of these seats are held by Republicans and six are held by Democrats.<ref name="senate-directory">{{cite web |title=Senate Directory |url=https://www.ohiosenate.gov/members/directory |website=The Ohio Senate |access-date=27 June 2025}}</ref>
+
+=== House of Representatives ===
+{{Main|2026 Ohio House of Representatives election}}
+All 99 seats in the [[Ohio House of Representatives]] will be up for election in 2026. Prior to the election, sixty-five of these seats are held by Republicans and thirty-four are held by Democrats.<ref name="house-directory">{{cite web |title=Member Directory |url=https://www.ohiohouse.gov/members/directory |website=The Ohio House of Representatives |access-date=27 June 2025}}</ref>
+
+== State judicial ==
+Multiple state judicial offices are up for election in 2026. Due to a bill passed in June 2021, [[Ohio Supreme Court]] and [[Ohio Court of Appeals]] elections are partisan, showing a party label next to each candidate.<ref>{{cite web |title=Bill requiring party labels for Ohio judicial candidates clears legislature |url=https://www.cleveland.com/open/2021/06/bill-requiring-party-labels-for-ohio-judicial-candidates-clears-legislature.html |website=[[The Plain Dealer]] |date=June 27, 2021}}</ref>
+
+===Supreme Court ===
+{{main|2026 Ohio Supreme Court election}}
+Two of the seven justices of the Ohio Supreme Court are up for re-election to a six-year term.<ref>{{cite web |title=Jurisdiction & Authority |url=https://www.supremecourt.ohio.gov/courts/judicial-system/supreme-court-of-ohio/jurisdiction-authority/ |website=Supreme Court of Ohio |access-date=27 June 2025}}</ref> Currently, six seats are held by Republicans and one is held by a Democrat.<ref>{{cite news |last1=Henry |first1=Megan |title=Republicans win all three Ohio Supreme Court races, increasing hold over court to 6-1 |url=https://ohiocapitaljournal.com/2024/11/05/republicans-win-all-three-ohio-supreme-court-races-increasing-hold-over-court-to-6-1-ap-projects/ |access-date=27 June 2025 |work=Ohio Capital Journal |date=November 5, 2024}}</ref> Republican judge Patrick Fischer, whose seat is not up for election until 2028, announced (in May 2025) a challenge to Democratic judge Jennifer Brunner,<ref name="Brunner-fischer">{{cite news |last1=Bischoff |first1=Laura A. |title=Last Democrat statewide officeholder in Ohio targeted by colleague on Supreme Court |url=https://www.dispatch.com/story/news/state/2025/05/28/only-ohio-democrat-holding-statewide-offices-faces-challenge/83899414007/ |access-date=27 June 2025 |work=[[Columbus Dispatch]] |date=May 28, 2025}}</ref> but dropped out in August 2025.<ref>{{Cite web |last=Tobias |first=Andrew |date=2025-08-19 |title=Ohio Supreme Court Justice Pat Fischer ends run for Democratic colleague’s seat |url=https://signalohio.org/fischer-drops-out-of-2026-ohio-supreme-court-election/ |access-date=2025-10-25 |website=Signal Ohio |language=en-US}}</ref>
+
+===Courts of Appeals===
+{{further|Ohio District Courts of Appeals}}
+The Ohio District Courts of Appeals consists of 69 judges in 12 districts. Judges serve a 6-year term. Approximately 1/3 of these positions are up for election every two years.<ref>{{cite web |title=Appeals Courts |url=https://www.supremecourt.ohio.gov/courts/judicial-system/ohio-court-of-appeals/ |website=Ohio Judicial System |access-date=27 June 2025}}</ref>
+
+== References ==
+{{Reflist}}
+
+==External links==
+{{commons cat}}
+
+{{2026 United States elections}}
+{{Ohio}}
+[[Category:2026 elections in Ohio| ]]
+[[Category:2026 elections in the United States by state or territory|Ohio]]

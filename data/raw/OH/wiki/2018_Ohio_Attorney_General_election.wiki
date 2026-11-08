@@ -1,0 +1,282 @@
+{{Short description|none}}
+{{Use American English|date=February 2026}}
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| percentage1 = '''52.17%'''
+| election_name = 2018 Ohio Attorney General election
+| country = Ohio
+| type = presidential
+| ongoing = no
+| turnout = 55.79%<ref>{{cite web|url=https://www.ohiosos.gov/elections/election-results-and-data/historical-election-comparisons/voter-turnout-in-general-elections/ |title=Voter Turnout in General Elections |website=Ohio Secretary of State}}</ref> {{increase}}15.14[[percentage point|pp]]
+| previous_election = 2014 Ohio Attorney General election
+| previous_year = 2014
+| next_election = 2022 Ohio Attorney General election
+| next_year = 2022
+| election_date = November 6, 2018
+| image1 = 
+File:Dave Yost at Federalist Society 1 (cropped).jpg
+| image_size = 150x150px
+| nominee1 = '''[[Dave Yost]]'''
+| party1 = Republican Party (United States)
+| popular_vote1 = '''2,276,414'''
+| image2 = File:Steven M. Dettelbach (cropped).jpg
+| nominee2 = [[Steve Dettelbach]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 2,086,715
+| percentage2 = 47.83%
+| map_image = {{switcher |[[File:2018 Ohio Attorney General election results map by county.svg|210px]] |County results |[[File:2018 Ohio attorney general election results map by congressional district.svg|210px]] |Congressional district results |[[File:OH Attorney General 2018.svg|210px]] |Precinct results |default=1}}
+| map_size = 200px
+| map_caption = 
+'''Yost:''' {{legend0|#E27F7F|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#D72F30|70–80%}} {{legend0|#C21B18|80–90%}} {{legend0|#A80000|>90%}}<br />'''Dettelbach:''' {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584cde|70–80%}} {{legend0|#3933e5|80–90%}} {{legend0|#0D0596|>90%}}<br />'''Tie:''' {{legend0|#ae8bb1|50%}} {{legend0|#808080|No votes}}
+| title = [[Ohio Attorney General|Attorney General]]
+| before_election = [[Mike DeWine]]
+| before_party = Republican Party (United States)
+| after_election = [[Dave Yost]]
+| after_party = Republican Party (United States)
+}}
+{{ElectionsOH}}
+The '''2018 Ohio Attorney General election''' took place on November 6, 2018, to elect the [[Attorney General of Ohio|attorney general]] of [[Ohio]].<ref>{{Cite web|date=May 15, 2019|title=Ohio Election Results|url=https://www.nytimes.com/interactive/2018/11/06/us/elections/results-ohio-elections.html|url-status=live|access-date=July 14, 2021|website=The New York Times|archive-url=https://web.archive.org/web/20181106191102/https://www.nytimes.com/interactive/2018/11/06/us/elections/results-ohio-elections.html |archive-date=2018-11-06 }}</ref>
+
+Incumbent [[Ohio Attorney General|Attorney General]] [[Mike DeWine]] was term-limited and [[2018 Ohio gubernatorial election|ran for governor]].<ref>{{Cite web|title=Ohio Attorney General election, 2018|url=https://ballotpedia.org/Ohio_Attorney_General_election,_2018|url-status=live|access-date=July 14, 2021|website=Ballotpedia|archive-url=https://web.archive.org/web/20170523140130/https://ballotpedia.org/Ohio_attorney_general_election,_2018 |archive-date=2017-05-23 }}</ref> [[Ohio Republican Party|Republican]] nominee and [[Ohio State Auditor]] [[Dave Yost]] defeated [[Ohio Democratic Party|Democratic]] nominee and former [[United States Attorney|US Attorney]] [[Steve Dettelbach]] in the general election.<ref>{{Cite web|date=December 7, 2018|title=OH Attorney General|url=https://www.ourcampaigns.com/RaceDetail.html?RaceID=842290|url-status=live|access-date=July 14, 2021|website=Our Campaigns|archive-url=https://web.archive.org/web/20210715004611/https://www.ourcampaigns.com/RaceDetail.html?RaceID=842290 |archive-date=2021-07-15 }}</ref>
+
+==Republican primary==
+===Candidates===
+====Nominee====
+* [[Dave Yost]], State Auditor<ref>{{cite web|url=http://www.dispatch.com/news/20170124/auditor-dave-yost-announces-run-for-ohio-attorney-general|title=Auditor Dave Yost announces run for Ohio attorney general|work=[[The Columbus Dispatch]]|last=Ludlow|first=Randy|date=January 24, 2017|access-date=January 26, 2017}}</ref>
+
+====Declined====
+* [[Keith Faber]], state representative and former Ohio Senate president (''[[2018 Ohio State Auditor election|successfully ran for State Auditor]]'')<ref name=faberstatewide>{{cite web|url=http://www.dispatch.com/content/blogs/the-daily-briefing/2015/09/9-10-15-faber-plans.html|title=Faber expects 2018 statewide run|work=The Columbus Dispatch|last=Siegel|first=Jim|date=September 11, 2015|access-date=May 26, 2016}}</ref><ref name=faberboehner>{{cite web|url=http://www.daytondailynews.com/news/news/local-govt-politics/faber-wont-run-for-boehners-seat-mcgregor-still-un/nnyK7/|title=Faber won't run for Boehner's seat, McGregor still undecided|work=[[Dayton Daily News]]|date=October 8, 2015|access-date=May 26, 2016}}</ref><ref name=faberauditor>{{cite web|url=http://www.dispatch.com/news/20170131/keith-faber-confirms-run-for-state-auditor|title=Keith Faber confirms run for state auditor|work=The Columbus Dispatch|last=Ludlow|first=Randy|date=January 31, 2017|access-date=February 2, 2017}}</ref>
+
+===Results===
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|candidate=Dave Yost|party=Ohio Republican Party|votes=642,717|percentage=100.0}}
+{{Election box total no change|votes=642,717|percentage=100.0}}
+{{Election box end}}
+
+==Democratic primary==
+===Candidates===
+====Nominee====
+* [[Steve Dettelbach]], former [[United States Attorney]] for the [[United States District Court for the Northern District of Ohio|Northern District of Ohio]]<ref>{{cite web|url=http://www.cleveland.com/open/index.ssf/2017/05/former_us_attorney_steve_dette.html|title=Former U.S. Attorney Steve Dettelbach launches bid for Ohio attorney general|work=[[The Plain Dealer]]|last=Tobias|first=Andrew J.|date=May 30, 2017|access-date=May 31, 2017}}</ref>
+
+====Declined====
+* [[Connie Pillich]], former state representative and nominee for [[Ohio State Treasurer]] in [[Ohio elections, 2014#Treasurer|2014]] (''[[2018 Ohio gubernatorial election|ran for governor, later withdrew]]'')<ref name=dettelbach/><ref>{{cite web|url=http://www.cleveland.com/politics/index.ssf/2017/03/connie_pillich_enters_race_for.html|title=Former lawmaker Connie Pillich enters race for Ohio governor|work=The Plain Dealer|last=Pelzer|first=Jeremy|date=March 13, 2017|access-date=April 14, 2017}}</ref>
+* [[Joe Schiavoni]], Minority Leader of the [[Ohio Senate]] (''[[2018 Ohio gubernatorial election|unsuccessfully ran for governor]]'')<ref name=dettelbach>{{cite web|url=http://www.cleveland.com/open/index.ssf/2016/11/steve_dettelbach_stakes_an_ear.html|title=Steve Dettelbach stakes an early claim to 2018 attorney general race: Ohio Politics Roundup|work=The Plain Dealer|last=Gomez|first=Henry J.|date=November 22, 2016|access-date=November 25, 2016}}</ref><ref name=schiavoni>{{cite web|url=http://www.cleveland.com/politics/index.ssf/2017/03/joe_schiavoni_makes_run_for_go.html|title=Joe Schiavoni makes run for governor official|work=The Plain Dealer|last=Gomez|first=Henry J.|date=March 1, 2017|access-date=March 2, 2017}}</ref>
+
+===Results===
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|candidate=Steve Dettelbach|party=Ohio Democratic Party|votes=510,741|percentage=100.0}}
+{{Election box total no change|votes=510,741|percentage=100.0}}
+{{Election box end}}
+
+==General election==
+===Candidates===
+* [[Steve Dettelbach]], former [[United States Attorney]] for the [[United States District Court for the Northern District of Ohio|Northern District of Ohio]]
+* [[Dave Yost]], State Auditor
+
+===Predictions===
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+|Governing<ref>{{Cite web|url=https://www.governing.com/archive/gov-attorney-general-races-2018-democrats-advantage.html|website=Governing Magazine|title=AG Races Shift in Democrats’ Favor|language=en|access-date=September 26, 2026}}</ref>
+|{{USRaceRating|Tossup}}
+|October 26, 2018
+|}
+
+===Endorsements===
+{{Endorsements box|title=Dave Yost (R)|list=;Organizations 
+* Ohio Chamber of Commerce<ref name=lrsyst>{{cite book |author=Rich Thompson |work=Ohio Chamber Blog – All for Ohio |url=https://allforohio.com/2018/08/29/ohio-chamber-backs-yost-for-attorney-general-and-larose-for-secretary-of-state/ |date=August 29, 2018 |title=OHIO CHAMBER BACKS YOST FOR ATTORNEY GENERAL AND LAROSE FOR SECRETARY OF STATE }}</ref>
+* Ohio Society of CPAs<ref name=hdhysp>{{cite web|url=https://www.ohiocpa.com/advocacy/advocacy-news/2018/05/31/dewine-husted-yost-sprague-earn-oscpa-endorsements|title=DeWine, Husted, Yost & Sprague earn OSCPA endorsements|work=Ohio Society of CPAs|access-date=2021-07-15|archive-date=2018-09-04|archive-url=https://web.archive.org/web/20180904011554/https://www.ohiocpa.com/advocacy/advocacy-news/2018/05/31/dewine-husted-yost-sprague-earn-oscpa-endorsements|url-status=dead}}</ref>
+
+'''Newspapers'''
+* ''[[The Columbus Dispatch]]''<ref>{{Cite news|date=September 23, 2018|title=For Ohio attorney general: Dave Yost is the better choice|work=The Columbus Dispatch|url=https://www.dispatch.com/opinion/20180923/editorial-for-ohio-attorney-general-dave-yost-is-better-choice|access-date=July 14, 2021|archive-date=July 15, 2021|archive-url=https://web.archive.org/web/20210715004613/https://www.dispatch.com/opinion/20180923/editorial-for-ohio-attorney-general-dave-yost-is-better-choice|url-status=dead}}</ref>}}
+
+{{Endorsements box||title=Steve Dettelbach (D)|list=
+
+'''Politicians'''
+* [[Joe Biden]], 47th [[vice president of the United States]]<ref>{{cite web|url=https://twitter.com/SteveDettelbach/status/1047864830722564096|title=.@JoeBiden: "This November, the future of Ohio is on the ballot; That's why I'm supporting Steve Dettelbach for Ohio Attorney General."|work=Twitter|author=Steve Dettelbach}}</ref>
+* [[Barack Obama]], 44th [[president of the United States]]<ref name="obama tweet1">{{cite tweet |author=[[Barack Obama]] |user=BarackObama |number=1024691241093607425 |date=August 1, 2018 |title=Today I'm proud to endorse such a wide and impressive array of Democratic candidates – leaders as diverse, patriotic, and big-hearted as the America they're running to represent |access-date=August 1, 2018}}</ref>
+
+'''Newspapers'''
+* ''[[Akron Beacon Journal]]''<ref>{{Cite news|date=October 14, 2018|title=Steve Dettelbach for attorney general|work=Akron Beacon Journal|url=https://www.beaconjournal.com/opinion/20181014/beacon-journalohiocom-editorial-board-steve-dettelbach-for-attorney-general|access-date=July 14, 2021|archive-date=July 15, 2021|archive-url=https://web.archive.org/web/20210715004614/https://www.beaconjournal.com/opinion/20181014/beacon-journalohiocom-editorial-board-steve-dettelbach-for-attorney-general|url-status=dead}}</ref>
+* ''The Chronicle Telegram''
+* ''[[Plain Dealer]]''<ref>{{Cite news|date=January 19, 2021|title=Steve Dettelbach for Ohio attorney general: endorsement editorial|work=The Plain Dealer|url=https://www.cleveland.com/opinion/2018/10/steve_dettelbach_for_ohio_atto.html|access-date=July 14, 2021}}</ref>
+* ''[[The Blade (Toledo, Ohio)|The Toledo Blade]]''<ref>{{Cite news|date=October 31, 2018|title=Dettelbach for Attorney General|work=The Toledo Blade|url=https://www.toledoblade.com/opinion/editorials/2018/10/31/midterm-2018-steve-dettelbach-for-attorney-general/stories/20181031046|access-date=July 14, 2021}}</ref>}}
+
+===Polling===
+{| class=wikitable
+|- valign= bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size
+! Margin of<br />error
+! style="width:100px;"|Dave<br />Yost (R)
+! style="width:100px;"|Steve<br />Dettelbach (D)
+! Undecided
+|-
+|[[Cygnal (consulting firm)|Cygnal]] (R)<ref>[https://www.cygn.al/wp-content/uploads/2018/11/42502-Cygnal-OH-Toplines_2.pdf Cygnal (R)]</ref>
+| align=center| October 30–31, 2018
+| align=center| 503
+| align=center| ± 4.4%
+| {{party shading/Republican}} align=center| '''46%'''
+| align=center| 43%
+| align=center| 12%
+|-
+|[[Baldwin Wallace University]]<ref>[https://www.bw.edu/Assets/stories/2018/2018-Fall/late_october_survey_report%20final.pdf Baldwin Wallace University]</ref>
+| align=center| October 19–27, 2018
+| align=center| 1,051
+| align=center| ± 3.8%
+| align=center| 38%
+| {{party shading/Democratic}} align=center| '''40%'''
+| align=center| 20%
+|-
+|[[Change Research]] (D-Innovation Ohio)<ref>[http://innovationohio.org/2018/09/06/new-poll-shows-tied-gubernatorial-race-close-races-up-and-down-the-ballot/ Change Research (D-Innovation Ohio)]</ref>
+| align=center| August 31 – September 4, 2018
+| align=center| 822
+| align=center| ± 3.0%
+| {{party shading/Republican}} align=center| '''41%'''
+| align=center| 37%
+| align=center| 22%
+|-
+|[[Fallon Research]]<ref>[https://www.cleveland.com/open/index.ssf/2018/06/new_poll_shows_sherrod_brown_l.html Fallon Research]</ref>
+| align=center| May 21–25, 2018
+| align=center| 800
+| align=center| ± 3.5%
+| {{party shading/Republican}} align=center| '''41%'''
+| align=center| 32%
+| align=center| 27%
+{{election box end}}
+
+===Results===
+[[Dave Yost]] won the general election by a 4.34% margin of victory.<ref>{{Cite web|date=December 15, 2018|title=2018 Attorney General General Election Results|url=https://uselectionatlas.org/RESULTS/state.php?fips=39&year=2018&f=0&off=9&elect=0|url-status=live|access-date=July 14, 2021|website=Dave Leip's Atlas of U.S. Elections|archive-url=https://web.archive.org/web/20210715011617/https://uselectionatlas.org/RESULTS/state.php?fips=39&year=2018&f=0&off=9&elect=0 |archive-date=2021-07-15 }}</ref>
+{{Election box begin 
+| title = General election results
+}}
+{{Election box winning candidate with party link
+| candidate = [[Dave Yost]]
+| party = Ohio Republican Party
+| votes = 2,276,414
+| percentage = 52.17%
+| change     = -9.33%
+}}
+{{Election box candidate with party link
+| candidate = [[Steve Dettelbach]]
+| party = Ohio Democratic Party
+| votes = 2,086,715
+| percentage = 47.83%
+| change     = +9.33%
+}}
+{{Election box total
+| votes = 4,363,129
+| percentage = 100.0
+| change     = N/A
+}}
+{{Election box hold with party link without swing
+|winner = Ohio Republican Party
+}}
+{{Election box end}}
+
+====By congressional district====
+Yost won 12 of 16 congressional districts.<ref>{{Cite web|url=https://davesredistricting.org/maps#viewmap::00eb40c5-ef15-4634-af87-72fd2b9d062d|title=DRA 2020|website=Daves Redistricting|accessdate=August 18, 2024}}</ref>
+{|class=wikitable
+! District
+! Yost
+! Dettelbach
+! Representative
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|1|1st}}
+| '''53%'''
+| 47%
+| {{party shading/Republican}}|[[Steve Chabot]] 
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|2|2nd}}
+| '''56%'''
+| 44%
+| {{party shading/Republican}}|[[Brad Wenstrup]]
+|- align=center
+! {{party shading/Democratic}}|{{ushr|Ohio|3|3rd}}
+| 31%
+| '''69%'''
+| {{party shading/Democratic}}|[[Joyce Beatty]]
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|4|4th}}
+| '''65%'''
+| 35%
+| {{party shading/Republican}}|[[Jim Jordan]]
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|5|5th}}
+| '''60%'''
+| 40%
+| {{party shading/Republican}}|[[Bob Latta]]
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|6|6th}}
+| '''66%'''
+| 34%
+| {{party shading/Republican}}|[[Bill Johnson (Ohio politician)|Bill Johnson]]
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|7|7th}}
+| '''61%'''
+| 39%
+| {{party shading/Republican}}|[[Bob Gibbs]] 
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|8|8th}}
+| '''66%'''
+| 34%
+| {{party shading/Republican}}|[[Warren Davidson]] 
+|- align=center
+! {{party shading/Democratic}}|{{ushr|Ohio|9|9th}}
+| 36%
+| '''64%'''
+| {{party shading/Democratic}}|[[Marcy Kaptur]]
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|10|10th}}
+| '''53%'''
+| 47%
+| {{party shading/Republican}}|[[Mike Turner]]
+|- align=center
+! {{party shading/Democratic}}|{{ushr|Ohio|11|11th}}
+| 18%
+| '''82%'''
+| {{party shading/Democratic}}|[[Marcia Fudge]] 
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|12|12th}}
+| '''56%'''
+| 44%
+| {{party shading/Republican}}|[[Pat Tiberi]]
+|- align=center
+! {{party shading/Democratic}}|{{ushr|Ohio|13|13th}}
+| 43%
+| '''57%'''
+| {{party shading/Democratic}}|[[Tim Ryan (Ohio politician)|Tim Ryan]]
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|14|14th}}
+| '''52%'''
+| 48%
+| {{party shading/Republican}}|[[David Joyce (politician)|David Joyce]]
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|15|15th}}
+| '''57%'''
+| 43%
+| {{party shading/Republican}}|[[Steve Stivers]] 
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|16|16th}}
+| '''54%'''
+| 46%
+| {{party shading/Republican}}|[[Anthony Gonzalez (politician)|Anthony Gonzalez]]
+|- align=center
+|}
+
+== See also ==
+
+* [[2018 Ohio elections]]
+* [[2018 United States attorney general elections]]
+
+== References ==
+<references />
+
+{{2018 United States elections}}
+
+[[Category:2018 elections in Ohio|Attorney General]]
+[[Category:2018 United States state attorney general elections|Ohio]]
+[[Category:Ohio Attorney General elections]]

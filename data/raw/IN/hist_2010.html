@@ -1,0 +1,983 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Historical Election Results | Indiana Voters</title>
+
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="/Content/fonts/css/font-awesome.css" rel="stylesheet" />
+
+    <link href="/Styles/jquery-ui.css" rel="stylesheet"/>
+<link href="/Content/MVP/a11y-slider.css" rel="stylesheet"/>
+<link href="/Content/material.css" rel="stylesheet"/>
+<link href="/Content/MVP/Material_Icons.css" rel="stylesheet"/>
+
+    <link href="/Content/Themes/theme-default.css" rel="stylesheet"/>
+<link href="/Content/Themes/theme-dark.css" rel="stylesheet"/>
+<link href="/Content/MVP/app.css" rel="stylesheet"/>
+<link href="/Areas/OLVR/Content/app.css" rel="stylesheet"/>
+
+
+    <script src="/Scripts/jquery-3.5.1.min.js"></script>
+
+    <script src="/Scripts/jquery-ui.js"></script>
+<script src="/Scripts/popper.min.js"></script>
+<script src="/Scripts/bootstrap.min.js"></script>
+<script src="/Scripts/MVP/a11y-slider.js"></script>
+<script src="/Scripts/MVP/jquery.magnific-popup.min.js"></script>
+<script src="/Scripts/MVP/general.js"></script>
+<script src="/Scripts/material.js"></script>
+<script src="/Scripts/jquery.mask.min.js"></script>
+<script src="/Scripts/bootstrapvalidator.min.js"></script>
+
+
+    <script src="/Scripts/HistoricalResults/FileSaver.js"></script>
+    <script src="/Scripts/HistoricalResults/encoding-indexes.js"></script>
+    <script src="/Scripts/HistoricalResults/encoding.js"></script>
+</head>
+
+<body id="themeChange">
+    <div>
+        <nav class="navbar navbar-expand-md navbar-dark header">
+    <a class="navbar-brand logo" href="/" title="Return to Indiana Voters home page">
+        <svg id="in-gov-logo-svg" data-name="IN.gov Logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 32.26" height="32" width="120" aria-labelledby="titleLogo">
+            <defs>
+                <style type="text/css">
+                    .cls-1 {
+                        fill: #fff;
+                    }
+                </style>
+            </defs>
+            <title id="titleLogo">IN.gov Logo</title>
+            <path class="cls-1" d="M20.21.1,9.8,0A3.6,3.6,0,0,0,8.53.26L6.81,1A.91.91,0,0,1,6.45,1,.86.86,0,0,1,6.15,1l-1-.45A.84.84,0,0,0,4.2.68a.88.88,0,0,0-.26.63L3.63,24a1.63,1.63,0,0,1-.25.75L1,28a3.65,3.65,0,0,0-.53,1.18L0,31.28a.83.83,0,0,0,.13.7.73.73,0,0,0,.57.28,1,1,0,0,0,.31,0l2.71-.83a1.3,1.3,0,0,1,.7.05L5.58,32a1.25,1.25,0,0,0,.51.12A1.37,1.37,0,0,0,7,31.77l.61-.56a.82.82,0,0,1,.49-.16h.07l.9.18.19,0a1.2,1.2,0,0,0,1.11-.7l.28-.65a.15.15,0,0,1,.17-.07l1.94.68a1.11,1.11,0,0,0,.34.06,1.18,1.18,0,0,0,1-.57l.32-.55a3.91,3.91,0,0,1,.61-.75l1.57-1.41a1.59,1.59,0,0,0,.46-1.37L17,25.57h0a2.72,2.72,0,0,0,1.35,0l1.88-.53a.82.82,0,0,0,.45-1.34L20.18,23a.08.08,0,0,1,0-.07.09.09,0,0,1,0-.06l.31-.23a1.76,1.76,0,0,0,.64-1.28l.07-20.19A1,1,0,0,0,20.21.1Zm61.61,2H78.65A.61.61,0,0,0,78,2.7a.61.61,0,0,1-1,.47,6.25,6.25,0,0,0-4.1-1.49c-4.19,0-7.31,3-7.31,8.44s3.16,8.44,7.31,8.44A6.22,6.22,0,0,0,77,17a.61.61,0,0,1,1,.46v.16c0,3.26-2.47,4.19-4.56,4.19a6.79,6.79,0,0,1-4.66-1.55.61.61,0,0,0-.93.14l-1.27,2.05a.62.62,0,0,0,.14.81,10.1,10.1,0,0,0,6.72,2.12c4.08,0,9-1.54,9-7.86V2.7A.61.61,0,0,0,81.82,2.09ZM78,12.59a.63.63,0,0,1-.14.39,4.9,4.9,0,0,1-3.6,1.7c-2.47,0-4.19-1.72-4.19-4.56s1.72-4.56,4.19-4.56a4.79,4.79,0,0,1,3.63,1.73.59.59,0,0,1,.11.35Zm15.59,6.48a8.41,8.41,0,0,0,8.78-8.72,8.77,8.77,0,0,0-17.54,0A8.4,8.4,0,0,0,93.63,19.07Zm0-13.52c2.71,0,4.26,2.23,4.26,4.8s-1.54,4.84-4.26,4.84S89.41,13,89.41,10.36,90.92,5.55,93.63,5.55Zm25.49-3.47h-2.8a.88.88,0,0,0-.82.57l-3.29,8.78a.88.88,0,0,1-1.64,0l-3.29-8.78a.88.88,0,0,0-.82-.57H103.7a.88.88,0,0,0-.81,1.2l6,14.82a.88.88,0,0,0,.81.55h3.52a.88.88,0,0,0,.81-.55l6-14.82A.88.88,0,0,0,119.12,2.09ZM61.59,21.23a2,2,0,1,0,2,2A2,2,0,0,0,61.59,21.23ZM30.18.44H26.66a.88.88,0,0,0-.88.88v23a.88.88,0,0,0,.88.88h3.52a.88.88,0,0,0,.88-.88v-23A.88.88,0,0,0,30.18.44Zm25.47,0H52.13a.88.88,0,0,0-.88.88V13.74a.88.88,0,0,1-1.59.51L40.05.81a.88.88,0,0,0-.71-.37H35.25a.88.88,0,0,0-.88.88v23a.88.88,0,0,0,.88.88h3.52a.88.88,0,0,0,.88-.88v-13a.88.88,0,0,1,1.59-.51l9.95,14a.88.88,0,0,0,.71.37h3.76a.88.88,0,0,0,.88-.88v-23A.88.88,0,0,0,55.65.44ZM118.59,21.6H87.28a.88.88,0,0,0-.88.88v1.75a.88.88,0,0,0,.88.88h31.31a.88.88,0,0,0,.88-.88V22.48A.88.88,0,0,0,118.59,21.6Z" transform="translate(0 0)"></path>
+        </svg>
+    </a>
+    <a class="navbar-brand nav-left" href="/">
+        Voter Portal
+    </a>
+    <div style="margin-left: auto;" id="google_translate_element"></div>
+    <script type="text/javascript">
+        // <![CDATA[
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({ pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.VERTICAL }, 'google_translate_element');
+        }
+        // ]]></script>
+    <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript"></script>
+</nav>
+
+        <div class="sub-header">
+            <div class="container-fluid ">
+                <div class="row">
+                    <div class="col-xl-6 col-md-6 col-sm-6 col-12">
+                        <h1 style="margin: 0; font-size: 30px; color: #606060;"><img alt="Voter Portal Logo" src="/Content/images/u57.jpg"> Voter Portal</h1>
+                    </div>
+                    <div class="col-xl-6 col-md-6 col-sm-6 col-12">
+                        <ul class="nav  subHeader-links subHeader-links-align icon-pd-12">
+
+                            <li class="nav-item" title="Home">
+                                <a href="/">
+                                    <em class="fa fa-home nav-icons" aria-hidden="true"></em>
+                                    <span class="sr-only">Home</span>
+                                </a>
+                            </li>
+                            <li class="nav-item" title="Info">
+                                <a href="#" data-toggle="modal" data-target="#invrsInfo" data-backdrop="static" data-keyboard="false" role="button">
+                                    <em class="fa fa-info-circle nav-icons" aria-hidden="true"></em>
+                                    <span class="sr-only">Info</span>
+                                </a>
+                            </li>
+                            <li class="nav-item" title="This page under construction">
+                                <a href="/MVPHome/Help">
+                                    <em class="fa fa-question-circle nav-icons" aria-hidden="true"></em>
+                                    <span class="sr-only">This page under construction.</span>
+                                </a>
+                                
+                            </li>
+                            <li class="nav-item" title="Contact">
+                                <a href="/CountyContact/Index">
+                                    <em class="fa fa-phone nav-icons" aria-hidden="true"></em>
+                                    <span class="sr-only">Contact</span>
+                                </a>
+                            </li>
+                            <li class="nav-item" title="Print Forms">
+                                <a href="/MVPHome/PrintDocuments">
+                                    <em class="fa fa-print nav-icons" aria-hidden="true"></em>
+                                    <span class="sr-only">Print Forms</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+<div class="container contrast-container text-grey pd-10">
+    <h1 class="text-lg pd-tp-10">Historical Election Results</h1>
+
+<div class="subText pd-btm-15" style="font-size:small">
+    The map view of this election’s results may not display certified county-level vote totals due to technical limitations in how historical election data is stored and accessed. The map view pulls from archived files, which cannot be rebuilt or modified without risk of data corruption or misrepresentation.<br/><br />
+    Certified statewide totals are most accurately represented in the table view, which reflects the official results reported to the Secretary of State.<br /><br />
+    If you have difficulty interpreting the data or have questions about the results, please contact the Indiana Election Division at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e580898086918c8a8b96a58c8086cb8c8bcb828a93">[email&#160;protected]</a>.
+</div>
+
+<div class="subText">Select one or more filter(s) below to display results.  Some election results may include additional filter options.</div>
+
+<div class="row pd-tp-20">
+    <div class="form-group col-md-2">
+        <div class="floating-label  has-value">
+            <label for="drpElectionYears">Year</label>
+            <select class="form-control" id="drpElectionYears" aria-describedby="error_ApplyFilter"></select>
+        </div>
+    </div>
+
+    <div class="form-group col-md-3">
+        <div class="floating-label">
+            <label for="candidateLname">Candidate Last Name</label>
+            <input type="text" class="form-control" id="candidateLname" maxlength="50" aria-describedby="error_CandidateLname">
+            <small id="error_CandidateLname" class="text-danger"></small>
+        </div>
+    </div>
+    <div class="col-md-6 pd-tp-10">
+        <button type="button" class="btn btn-primary-md apply-filter" id="btnApplyFilter" onclick="getElectionTabs();">APPLY FILTER</button>&nbsp;&nbsp;&nbsp;&nbsp;
+        <button type="button" id="aClear" class="btn btn-outline waves-attach" onclick="onClearClick(event)" style="background-color: whitesmoke;">Clear</button><br />
+        <small id="error_ApplyFilter" class="text-danger"></small>
+    </div>
+</div>
+
+<div id="tab-area">
+    <!-- Nav tabs -->
+    <!--Display Election Data Grid-->
+
+    <div id="divElectionGrid">
+        <div class="nav modern-tabs" role="tablist">
+            <button class="nav-tab" role="tab" id="tabGeneral" data-toggle="tab" href="#electionTable" onclick="onTabSelected('General');">General Election</button>
+            <button class="nav-tab" role="tab" id="tabPrimary" data-toggle="tab" href="#electionTable" onclick="onTabSelected('Primary');">Primary Election</button>
+            <button class="nav-tab" role="tab" id="tabSpecial" data-toggle="tab" href="#electionTable" onclick="onTabSelected('Special');">Special Election</button>
+            <button class="nav-tab" role="tab" id="tabReferendum" data-toggle="tab" href="#referendumTable" onclick="onTabSelected('Referendums');">Referendums</button>
+        </div>
+
+        <div class="tab-content">
+            <!--Panel 1-->
+            <div class="text-lg pd-tp-10" id="lblNoElectionData" align="center"></div>
+
+            <div class="tab-pane show active" id="electionTable" role="tabpanel">
+
+                <div id="maptableButtonDiv">
+                    <button type="button" class="btn btn-primary-white   btn-primary-sm fbutton" id="showGrid">View Table</button>&nbsp;&nbsp;
+                    <button type="button" class="btn btn-primary-white fbutton" id="showMap">View Map</button>
+                </div>
+
+                <div id="gridDiv">
+                    <div class="pd-tp-15">
+                        <a href="#" onclick="LoadDefaultDropdownData();historicalResults.service.openPopup('filter-tab1');" class="link-xs" style="cursor:pointer" data-toggle="modal" data-target="#filter-tab1" data-backdrop="static" data-keyboard="false">More Filters</a> &nbsp;&nbsp;
+                        <a href="#" class="link-xs" id="aVoterTurnOut" target="_blank">Voter Turnout by State and County</a>&nbsp;&nbsp;
+                        <span id="spnAdditionalDocs">
+                            
+                        </span>
+                        
+                    </div>
+                    <div class="col-12">
+                        <div class="row box-bg-light">
+                            <div class="col-md-8 col-sm-9">
+                                <h2 class="heading_2" id="spanElectionType"></h2>
+                                <a href="https://www.in.gov/sos/elections/election-commission/election-results/" class="txt-sm" target="_blank" id="spanUpdatedDate">Last Updated August 19, 2016, 03:38 PM</a><br />
+                                <span class="txt-sm">These results are final.</span><span id="spnFinalresults" class="txt-sm"> For more information about these election results, </span>
+                                <a href="#" id="aFinalresults" class="link-xs" target="_blank">click here.</a>
+                            </div>
+                            <div class="col-md-4 col-sm-3 text-right">
+                                <a href="#" onclick="LoadDefaultDropdownData();historicalResults.service.openPopup('filter-tab1');" data-toggle="modal" data-target="#filter-tab1" data-backdrop="static" data-keyboard="false">
+                                    <img id="imgElectionDataGridFilter" src="/Content/Images/u3250.png" class="hand-crs" alt="Filter the results" title="Filter the results" />
+                                </a>
+                                <a href="#" id="aElectiongridCsvExport" onclick="exportElectionsToCsv(event)">
+                                    <img id="imgElectionDataGridCsv" src="/Content/Images/csv_export_u3152.png" height="35" class="hand-crs" alt="Download the results" title="Download the results" />
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="text-lg pd-tp-10" id="lblNofilterdata" align="center" style="display:none;"></div>
+
+                    <div class="tabs-grid" id="electionGrid">
+
+                        <table class="table table-striped table-responsive grid-full">
+                            <thead>
+                                <tr>
+                                    <th id="thCounty"><button class="sortButton" onclick="setSortOrder(this)">County <em id="CountySort" data-sortby="County" class="fa sortingColumn" /></button></th>
+                                    <th id="thOffice"><button class="sortButton" onclick="setSortOrder(this)">Office <em id="OfficeSort" data-sortby="Office" class="fa sortingColumn" /></button></th>
+                                    <th id="thCandidate"><button class="sortButton" onclick="setSortOrder(this)">Candidate <em id="CandidateSort" data-sortby="Candidate" class="fa sortingColumn" /></button></th>
+                                    <th id="thParty"><button class="sortButton" onclick="setSortOrder(this)">Party <em id="PartySort" data-sortby="Party" class="fa sortingColumn" /></button></th>
+                                    <th id="thDistrict"><button class="sortButton" onclick="setSortOrder(this)">District <em id="DistrictSort" data-sortby="District" class="fa sortingColumn" /></button></th>
+                                    <th id="thVotes"><button class="sortButton" onclick="setSortOrder(this)">Votes <em id="VotesSort" data-sortby="Votes" class="fa sortingColumn" /></button></th>
+                                </tr>
+                            </thead>
+                            <tbody id="tbodyData"></tbody>
+                        </table>
+
+                        <nav aria-label="Pagination" class="pagination-centered" id="primaryPagination">
+                            <div class="row align-items-center">
+                                <div class="col">
+                                    <ul class="pagination">
+                                        <li class="page-item liPrevious">
+                                            <a class="page-link" href="#" aria-label="Previous">
+                                                
+                                                Previous
+                                            </a>
+                                        </li>
+                                        <li class="page-item liNext">
+                                            <a class="page-link" href="#" aria-label="Next">
+                                                
+                                                Next
+                                            </a>
+                                        </li>
+                                    </ul>
+                                    <span class="float-right paginationTitle">Page(s):</span>
+                                </div>
+                            </div>
+                        </nav>
+
+                    </div>
+
+                </div>
+                <div id="mapDiv">
+                    <div class="row pd-tp-15">
+                        <iframe id="mapDiv_input"
+                                title="Indiana Election Division - Map View"
+                                data-label="General Election View Map"
+                                scrolling="yes" frameborder="0" webkitallowfullscreen=""
+                                mozallowfullscreen="" allowfullscreen=""></iframe>
+                    </div>
+                </div>
+            </div>
+
+            <!--Panel 3-->
+            <div class="tab-pane" id="referendumTable" role="tabpanel">
+                <div><a href="#" class="link-xs link-md link-md-line" onclick="historicalResults.service.openPopup('filter-tab3');" style="cursor: pointer;" data-toggle="modal" data-target="#filter-tab3" data-backdrop="static" data-keyboard="false">More filters</a></div>
+                <div class="col-12">
+                    <div class="row box-bg-light">
+                        <div class="col-md-8 col-sm-9">
+                            <h2 class="heading_2">REFERENDUMS</h2>
+                        </div>
+                        <div class="col-md-4 col-sm-3 text-right">
+                            <a href="#" onclick="historicalResults.service.openPopup('filter-tab3');"><img id="imgReferendumGridFilter" src="/Content/Images/u3250.png" class="hand-crs" title="Filter the results" alt="Filter the results" data-toggle="modal" data-target="#filter-tab3" data-backdrop="static" data-keyboard="false" /></a>
+
+                            <a href="#" id="aReferendumgridCsvExport" onclick="exportReferendumsToCsv(event)">
+                                <img id="imgReferendumGridCsv" src="/Content/Images/csv_export_u3152.png" height="35px" class=" hand-crs" alt="Download the results" title="Download the results" />
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="text-lg pd-tp-10" id="lblRefNofilterdata" align="center"></div>
+
+                <div class="tabs-grid" id="divReferendumData">
+                    <table class="table table-striped table-responsive grid-full">
+                        <thead>
+                            <tr>
+                                <th id="threfReferendumType"><button class="sortButton" onclick="setSortOrder(this)">Referendum Type <em id="refReferendumTypeSort" data-sortby="ReferendumType" class="fa sortingColumn" /></button></th>
+                                <th id="threfCounty"><button class="sortButton" onclick="setSortOrder(this)">County <em id="refCountySort" data-sortby="County" class="fa sortingColumn" /></button></th>
+                                <th id="threfDistrict"><button class="sortButton" onclick="setSortOrder(this)">Jurisdiction <em id="refDistrictSort" data-sortby="District" class="fa sortingColumn" /></button></th>
+                                <th id="threfElectionType"><button class="sortButton" onclick="setSortOrder(this)">Election Type <em id="refElectionTypeSort" data-sortby="ElectionType" class="fa sortingColumn" /></button></th>
+                                <th id="threfQuestion"><button class="sortButton" onclick="setSortOrder(this)">Question <em id="refQuestionSort" data-sortby="Question" class="fa sortingColumn" /></button></th>
+                                <th id="threfPositiveResult"><button class="sortButton" onclick="setSortOrder(this)">Yes <em id="refPositiveResultSort" data-sortby="PositiveResult" class="fa sortingColumn" /></button></th>
+                                <th id="threfNegativeResult"><button class="sortButton" onclick="setSortOrder(this)">No <em id="refNegativeResultSort" data-sortby="NegativeResult" class="fa sortingColumn" /></button></th>
+                            </tr>
+                        </thead>
+                        <tbody id="referendumstbodyData"></tbody>
+                    </table>
+                    <nav aria-label="Pagination" class="pagination-centered" id="referendumPagination">
+                        <div class="row align-items-center">
+                            <div class="col-12">
+                                <ul class="pagination">
+                                    <li class="page-item liPrevious">
+                                        <a class="page-link" href="#" aria-label="Previous">
+                                            
+                                            Previous
+                                        </a>
+                                    </li>
+                                    <li class="page-item liNext">
+                                        <a class="page-link" href="#" aria-label="Next">
+                                            
+                                            Next
+                                        </a>
+                                    </li>
+                                </ul>
+                                <span class="float-right paginationTitle">Page(s):</span>
+                            </div>
+
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--Display Candidate Grid-->
+    <div id="divCandidateGrid">
+        <div class="tabs-wrapper">
+            <ul class="nav classic-tabs tabs-cyan" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link waves-light active" data-toggle="tab" href="#candiateResultPanel" role="tab">Results</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="tab-content">
+            <div class="tab-pane in show active" id="candiateResultPanel" role="tabpanel">
+
+                <div class="text-lg pd-tp-10" id="lblNoresult" align="center"></div>
+
+                <div id="divInnerCandidateGrid">
+                    <div class="pd-tp-15">
+                        <a href="#" onclick="LoadDefaultDropdownData(),historicalResults.service.openPopup('filter-tab1');" class="link-xs" style="cursor:pointer;" data-toggle="modal" data-target="#filter-tab1" data-backdrop="static" data-keyboard="false">More Filters</a> &nbsp;&nbsp;
+                    </div>
+
+                    <div class="row box-bg-light">
+                        <div class="col-md-8 col-sm-9">
+                            <h2 class="heading_2">CANDIDATE</h2>
+                        </div>
+                        <div class="col-md-4 col-sm-3 text-right">
+                            <a href="#" onclick="LoadDefaultDropdownData(),historicalResults.service.openPopup('filter-tab1');"><img id="imgcandidateResultFilter" src="/Content/Images/u3250.png" class="hand-crs" alt="Filter the results" title="Filter the results" data-toggle="modal" data-target="#filter-tab1" data-backdrop="static" data-keyboard="false" /></a>
+                            <a href="#" id="aCandidategridCsvExport" onclick="exportCandidatesToCsv(event)">
+                                <img src="/Content/Images/csv_export_u3152.png" id="imgcandidateResultcsv" height="35" class="hand-crs" alt="Download the results" title="Download the results" />
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="tabs-grid" id="candidateGrid">
+                        <table class="table table-striped table-responsive grid-full">
+                            <thead>
+                                <tr>
+                                    <th id="thcCounty"><button class="sortButton" onclick="setSortOrder(this)">County <em id="cCountySort" data-sortby="County" class="fa sortingColumn" /></button></th>
+                                    <th id="thcCandidate"><button class="sortButton" onclick="setSortOrder(this)">Candidate <em id="cCandidateSort" data-sortby="Candidate" class="fa sortingColumn" /></button></th>
+                                    <th id="thcOffice"><button class="sortButton" onclick="setSortOrder(this)">Office <em id="cOfficeSort" data-sortby="Office" class="fa sortingColumn" /></button></th>
+                                    <th id="thcElectionType"><button class="sortButton" onclick="setSortOrder(this)">Election Type <em id="cElectionTypeSort" data-sortby="ElectionType" class="fa sortingColumn" /></button></th>
+                                    <th id="thcParty"><button class="sortButton" onclick="setSortOrder(this)">Party <em id="cPartySort" data-sortby="Party" class="fa sortingColumn" /></button></th>
+                                    <th id="thcDistrict"><button class="sortButton" onclick="setSortOrder(this)">District <em id="cDistrictSort" data-sortby="District" class="fa sortingColumn" /></button></th>
+                                    <th id="thcVotes"><button class="sortButton" onclick="setSortOrder(this)">Votes <em id="cVotesSort" data-sortby="Votes" class="fa sortingColumn" /></button></th>
+                                </tr>
+                            </thead>
+                            <tbody id="candidatetbodyData"></tbody>
+                        </table>
+                        <nav aria-label="Pagination" class="pagination-centered pd-tp-30" id="candidatePagination">
+                            <div class="row fa-pull-right">
+                                <span class="text-page">Page(s):</span>
+                                <ul class="pagination">
+                                    <li class="page-item liPrevious">
+                                        <a class="page-link" href="#" aria-label="Previous">
+                                            
+                                            Previous
+                                        </a>
+                                    </li>
+
+                                    <li class="page-item liNext">
+                                        <a class="page-link" href="#" aria-label="Next">
+                                            
+                                            Next
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id="divPriorElectionsLink" style="display:none;">
+    <span>
+        For Federal Election results prior to 2002, please visit the Office of the Clerk, U.S. House of Representatives,
+        <a class="link-yellow" href="https://history.house.gov/Institution/Election-Statistics/Election-Statistics/" target="_blank">Election Statistics page.</a>
+    </span>
+</div>
+
+    <div id="wcagDisclaimer" class="row" style="font-size: 13px; font-style: italic;">
+        <div class="col">
+            Due to technological limitations at the time of this election, some aspects of this page do not fully meet the standards of the current Web Content Accessibility Guidelines.
+        </div>
+    </div>
+</div>
+
+
+<div id="filter-tab1" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="filter-tab1Desc">
+    <div class="modal-dialog WhosBallot_model">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title popup-title" id="filter-tab1Desc">Additional Filters</h4>
+                <button type="button" class="close popup-close" onclick="historicalResults.service.closePopup();" data-dismiss="modal" aria-label="Close">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="form-group col-md-12">
+                    <div class="floating-label  has-value">
+                        <label for="county">County</label>
+                        <select  name='county' id='county' class='form-control custom-multiple'  multiple data-validation='required' ><option  selected  value="" >-- ALL COUNTIES --</option><option  value="ff00b38a-2402-4770-8148-51dd9ec27c7e" >ADAMS</option><option  value="efebccfd-dd66-4300-bf0e-e6286fb6c0d3" >ALLEN</option><option  value="8f1f169c-60a4-4c93-852f-f0cdd2b8b9da" >BARTHOLOMEW</option><option  value="aaa95292-0bac-4e95-8fd3-f2ad22ef1bbf" >BENTON</option><option  value="80072138-ac56-4cf7-ac23-253b776b7ba2" >BLACKFORD</option><option  value="b9c154d9-a4b1-49b5-a324-c25a53543477" >BOONE</option><option  value="69697c4a-175a-4969-8388-eed62f3fa815" >BROWN</option><option  value="cbf3f98f-8a05-4701-afde-efe7cb73f215" >CARROLL</option><option  value="2e309739-964a-4fe0-bb26-d89e43838d98" >CASS</option><option  value="0a13f6bc-616f-4a2f-b7fb-c3a3cc6089ca" >CLARK</option><option  value="d36acedc-c0b5-40c0-8441-f5555624cce4" >CLAY</option><option  value="88f727af-001d-4b7b-b758-7d744fdd0ac5" >CLINTON</option><option  value="737d4736-eac1-4e4b-b24a-a177958c2e2c" >CRAWFORD</option><option  value="cc98e41d-9d12-4996-b4e0-921086cca483" >DAVIESS</option><option  value="a6fdec08-376a-4020-92a6-d4a9aba51067" >DEARBORN</option><option  value="f9043bce-6716-4606-bb2e-fbecdc82b418" >DECATUR</option><option  value="97e451af-4e8f-4fea-b814-39c93d7bb47a" >DEKALB</option><option  value="87a4de75-1058-45c1-9032-be18e1fef95b" >DELAWARE</option><option  value="1e68508d-ad9a-4ec1-a43f-be1788bc4a9a" >DUBOIS</option><option  value="259c0ad6-2f80-4717-9003-d5fe5a299bcd" >ELKHART</option><option  value="fd2117fe-6c42-47c3-880b-e0d14d12e3b5" >FAYETTE</option><option  value="ab273c6a-0123-4f0d-a11b-2557ee81327c" >FLOYD</option><option  value="b2bc5358-226c-4bbb-aadc-df3a228a84c1" >FOUNTAIN</option><option  value="de494431-f21f-47c5-bbcc-c3f82b45bee3" >FRANKLIN</option><option  value="4557dd3d-03e7-47ed-9bf6-6f4cebe3b214" >FULTON</option><option  value="ee8d1a36-fd91-430c-afa3-00d5a56a10cc" >GIBSON</option><option  value="9e30418f-a81a-489d-84ce-ad829f7298bd" >GRANT</option><option  value="7cfadfbe-7d11-4abb-aeeb-43b495ebc984" >GREENE</option><option  value="640187ca-e6f9-4a2a-90cc-beebaabf4c67" >HAMILTON</option><option  value="92087bb8-a8e8-40dc-804c-3c9b9113a8cf" >HANCOCK</option><option  value="49c8e9cd-b18d-445a-b1b5-1171807c820d" >HARRISON</option><option  value="a2271391-3265-452a-8c08-d7a257fd2df8" >HENDRICKS</option><option  value="ce6c7541-bce7-441b-8e4b-8b0d09f9b5cf" >HENRY</option><option  value="a32ec932-40f1-4522-bb88-417133232374" >HOWARD</option><option  value="00c47a07-a64d-4cb2-b9c8-c436db22adde" >HUNTINGTON</option><option  value="70dc22ad-9515-469d-840a-f7187f6f03fa" >JACKSON</option><option  value="91e40bf2-a3a9-4350-b912-07e79b47389d" >JASPER</option><option  value="a4542c27-89b1-44de-a345-ce928d2b22cb" >JAY</option><option  value="91e34b32-9426-4e6a-abd3-b14efd9cb233" >JEFFERSON</option><option  value="0861f5ae-35ef-4ab2-889b-7a97a6be5112" >JENNINGS</option><option  value="eccc37d6-2f46-4600-86cc-7540220fea1d" >JOHNSON</option><option  value="454fd305-fa46-4c8b-8698-9b9cb4685497" >KNOX</option><option  value="cdefef11-9ae1-494b-9110-656cbccb0694" >KOSCIUSKO</option><option  value="96da194e-ac00-4e5b-a03c-702ea2eb559d" >LAGRANGE</option><option  value="0fb4ca58-2374-4222-a100-1c06abcfb0d9" >LAKE</option><option  value="b403e296-d73e-46a6-9a25-92a505cf74be" >LAPORTE</option><option  value="d1530b6a-f48a-4c03-a20e-1eb187401baa" >LAWRENCE</option><option  value="23045271-dac6-48b4-8ad9-2b8e59706323" >MADISON</option><option  value="3f0ca0f1-bcda-4bf3-98e8-33a1789a28e5" >MARION</option><option  value="9f1d4305-5ad6-43f6-b22c-cc07f4bc4143" >MARSHALL</option><option  value="73507e15-2e8d-4767-a96f-f42535fcd578" >MARTIN</option><option  value="a44bcee1-b6a9-4a95-8ef7-0351b96240fe" >MIAMI</option><option  value="deb25fed-0e01-46a7-8dae-d07539e52b77" >MONROE</option><option  value="9e3e0feb-20a7-4957-97e7-810edc83b31f" >MONTGOMERY</option><option  value="b1b72ed5-940e-47af-9543-8d94cd2b1b46" >MORGAN</option><option  value="82055ac8-c887-4f26-b34d-9d176f3391b1" >NEWTON</option><option  value="64d72b50-ab7c-4735-bf7e-8e01f5d8b32e" >NOBLE</option><option  value="8eb03843-41f5-4787-aab6-77bc3e77ec1e" >OHIO</option><option  value="58c91250-ba85-4deb-94fa-aedad127f410" >ORANGE</option><option  value="e53ae0d6-b6a8-42ab-bce1-5c2c8840a761" >OWEN</option><option  value="b063f29c-ab36-4435-9c22-be6884216826" >PARKE</option><option  value="2290d6ab-8b8f-4847-bd0f-3c600353e3b3" >PERRY</option><option  value="fa2f49f4-f06a-40cb-8fa3-54a63d66e389" >PIKE</option><option  value="dc1713e4-5034-46fe-8393-3be6c5cf7551" >PORTER</option><option  value="d26df978-3ec1-499a-8f77-18d0cfaa4eb7" >POSEY</option><option  value="959d9bcb-ee63-4988-a458-ad6f493c001e" >PULASKI</option><option  value="a1b55ff7-b5ac-4635-ac46-381134140ad5" >PUTNAM</option><option  value="b9b0b730-a5d6-4f02-9118-11735e87dbcd" >RANDOLPH</option><option  value="1fe7ac9f-11bb-4f15-ad81-ceb146e22d0f" >RIPLEY</option><option  value="01fd0665-b8b2-4406-84e8-a1f91d41a9a6" >RUSH</option><option  value="8c24cb4b-040c-4fd1-a444-d513aca8f259" >SCOTT</option><option  value="ccbba98b-a16e-4cea-8af7-64b8a62a8929" >SHELBY</option><option  value="b886be35-dd44-471c-a4fe-9a9385ba3d26" >SPENCER</option><option  value="371cacad-8ce1-4f7c-837b-3f5183193584" >ST. JOSEPH</option><option  value="ccd034af-eef4-4032-a6dc-0b240d02a00f" >STARKE</option><option  value="36f61cfa-cd28-4234-a365-4a402288a5ca" >STEUBEN</option><option  value="cfba072c-f21a-4c7d-b4d5-9e1653885ac4" >SULLIVAN</option><option  value="30064fa6-291b-49e9-915b-1d21cf16b8f7" >SWITZERLAND</option><option  value="58dd0e32-390a-4521-a2f7-6325788e3878" >TIPPECANOE</option><option  value="83b1e99b-2191-42fa-80ea-730dc5cbbc32" >TIPTON</option><option  value="137b594e-5078-400d-9ce9-9153aea77a74" >UNION</option><option  value="17a2797c-f3eb-44a5-8151-03f9967c64b7" >VANDERBURGH</option><option  value="089d622f-afc1-4ccd-abfb-e3e9896bdf20" >VERMILLION</option><option  value="ad5f45d8-40b0-486e-ac93-c5ed81580f15" >VIGO</option><option  value="699f8674-4d36-40f3-bec2-a4b5887e5b4a" >WABASH</option><option  value="3ff23408-a67d-4b16-85aa-c54cf34a6ae4" >WARREN</option><option  value="0bc68474-3d1a-4bae-a377-b210ff0c8768" >WARRICK</option><option  value="7286a464-644e-4d6a-a20c-a80517ff9c8d" >WASHINGTON</option><option  value="8d2eb7bb-8bb7-4437-b53e-e00b52f76d24" >WAYNE</option><option  value="267c8caf-1c4d-4e2c-ab10-c6eb25bd1bb9" >WELLS</option><option  value="91d52ea7-85a6-4885-8714-b9451af0da79" >WHITE</option><option  value="efbedcba-12fe-44f6-9c49-e1adc6c2423f" >WHITLEY</option></select>
+                    </div>
+                </div>
+                <div class="form-group col-md-12">
+                    <div class="floating-label  has-value">
+                        <label for="office">Office</label>
+                        <select class="form-control" id="office" onchange="ddlOffice();"></select>
+                    </div>
+                </div>
+                <div class="form-group col-md-12">
+                    <div class="floating-label  has-value">
+                        <label for="party">Party</label>
+                        <select class="form-control" id="party"></select>
+                    </div>
+                </div>
+                <div id="divCandidateLastName" class="form-group col-md-12">
+                    <div class="floating-label">
+                        <label for="filtercandidateLname">Candidate Last Name</label>
+                        <input type="text" class="form-control" id="filtercandidateLname" maxlength="50">
+                    </div>
+                </div>
+                <div id="divElectionType" class="form-group col-md-12" style="display:none;">
+                    <div class="floating-label  has-value">
+                        <label for="ddlElectionType">Election Type</label>
+                        <select class="form-control" id="ddlElectionType"></select>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer px-4 pb-3">
+                <button type="button" class="btn btn-primary-md apply-filter" onclick="getFilteredData();" data-dismiss="modal">APPLY FILTER</button>&nbsp;&nbsp;&nbsp;&nbsp;
+                <button type="button" class="btn btn-outline waves-attach" onclick="filterClear();" style="background-color: whitesmoke;">Clear</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div id="filter-tab3" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="filter-tab3Label">
+    <div class="modal-dialog WhosBallot_model">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title popup-title" id="filter-tab3Label">Additional Filters</h4>
+                <button type="button" class="close popup-close" onclick="historicalResults.service.closePopup();" data-dismiss="modal" aria-label="Close">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="form-group col-md-12">
+                    <div class="floating-label  has-value">
+                        <label for="referendumCounty">County</label>
+                        <select  name='county' id='referendumCounty' class='form-control custom-multiple' multiple data-validation='required' ><option  selected  value="" >-- ALL COUNTIES --</option><option  value="ff00b38a-2402-4770-8148-51dd9ec27c7e" >ADAMS</option><option  value="efebccfd-dd66-4300-bf0e-e6286fb6c0d3" >ALLEN</option><option  value="8f1f169c-60a4-4c93-852f-f0cdd2b8b9da" >BARTHOLOMEW</option><option  value="aaa95292-0bac-4e95-8fd3-f2ad22ef1bbf" >BENTON</option><option  value="80072138-ac56-4cf7-ac23-253b776b7ba2" >BLACKFORD</option><option  value="b9c154d9-a4b1-49b5-a324-c25a53543477" >BOONE</option><option  value="69697c4a-175a-4969-8388-eed62f3fa815" >BROWN</option><option  value="cbf3f98f-8a05-4701-afde-efe7cb73f215" >CARROLL</option><option  value="2e309739-964a-4fe0-bb26-d89e43838d98" >CASS</option><option  value="0a13f6bc-616f-4a2f-b7fb-c3a3cc6089ca" >CLARK</option><option  value="d36acedc-c0b5-40c0-8441-f5555624cce4" >CLAY</option><option  value="88f727af-001d-4b7b-b758-7d744fdd0ac5" >CLINTON</option><option  value="737d4736-eac1-4e4b-b24a-a177958c2e2c" >CRAWFORD</option><option  value="cc98e41d-9d12-4996-b4e0-921086cca483" >DAVIESS</option><option  value="a6fdec08-376a-4020-92a6-d4a9aba51067" >DEARBORN</option><option  value="f9043bce-6716-4606-bb2e-fbecdc82b418" >DECATUR</option><option  value="97e451af-4e8f-4fea-b814-39c93d7bb47a" >DEKALB</option><option  value="87a4de75-1058-45c1-9032-be18e1fef95b" >DELAWARE</option><option  value="1e68508d-ad9a-4ec1-a43f-be1788bc4a9a" >DUBOIS</option><option  value="259c0ad6-2f80-4717-9003-d5fe5a299bcd" >ELKHART</option><option  value="fd2117fe-6c42-47c3-880b-e0d14d12e3b5" >FAYETTE</option><option  value="ab273c6a-0123-4f0d-a11b-2557ee81327c" >FLOYD</option><option  value="b2bc5358-226c-4bbb-aadc-df3a228a84c1" >FOUNTAIN</option><option  value="de494431-f21f-47c5-bbcc-c3f82b45bee3" >FRANKLIN</option><option  value="4557dd3d-03e7-47ed-9bf6-6f4cebe3b214" >FULTON</option><option  value="ee8d1a36-fd91-430c-afa3-00d5a56a10cc" >GIBSON</option><option  value="9e30418f-a81a-489d-84ce-ad829f7298bd" >GRANT</option><option  value="7cfadfbe-7d11-4abb-aeeb-43b495ebc984" >GREENE</option><option  value="640187ca-e6f9-4a2a-90cc-beebaabf4c67" >HAMILTON</option><option  value="92087bb8-a8e8-40dc-804c-3c9b9113a8cf" >HANCOCK</option><option  value="49c8e9cd-b18d-445a-b1b5-1171807c820d" >HARRISON</option><option  value="a2271391-3265-452a-8c08-d7a257fd2df8" >HENDRICKS</option><option  value="ce6c7541-bce7-441b-8e4b-8b0d09f9b5cf" >HENRY</option><option  value="a32ec932-40f1-4522-bb88-417133232374" >HOWARD</option><option  value="00c47a07-a64d-4cb2-b9c8-c436db22adde" >HUNTINGTON</option><option  value="70dc22ad-9515-469d-840a-f7187f6f03fa" >JACKSON</option><option  value="91e40bf2-a3a9-4350-b912-07e79b47389d" >JASPER</option><option  value="a4542c27-89b1-44de-a345-ce928d2b22cb" >JAY</option><option  value="91e34b32-9426-4e6a-abd3-b14efd9cb233" >JEFFERSON</option><option  value="0861f5ae-35ef-4ab2-889b-7a97a6be5112" >JENNINGS</option><option  value="eccc37d6-2f46-4600-86cc-7540220fea1d" >JOHNSON</option><option  value="454fd305-fa46-4c8b-8698-9b9cb4685497" >KNOX</option><option  value="cdefef11-9ae1-494b-9110-656cbccb0694" >KOSCIUSKO</option><option  value="96da194e-ac00-4e5b-a03c-702ea2eb559d" >LAGRANGE</option><option  value="0fb4ca58-2374-4222-a100-1c06abcfb0d9" >LAKE</option><option  value="b403e296-d73e-46a6-9a25-92a505cf74be" >LAPORTE</option><option  value="d1530b6a-f48a-4c03-a20e-1eb187401baa" >LAWRENCE</option><option  value="23045271-dac6-48b4-8ad9-2b8e59706323" >MADISON</option><option  value="3f0ca0f1-bcda-4bf3-98e8-33a1789a28e5" >MARION</option><option  value="9f1d4305-5ad6-43f6-b22c-cc07f4bc4143" >MARSHALL</option><option  value="73507e15-2e8d-4767-a96f-f42535fcd578" >MARTIN</option><option  value="a44bcee1-b6a9-4a95-8ef7-0351b96240fe" >MIAMI</option><option  value="deb25fed-0e01-46a7-8dae-d07539e52b77" >MONROE</option><option  value="9e3e0feb-20a7-4957-97e7-810edc83b31f" >MONTGOMERY</option><option  value="b1b72ed5-940e-47af-9543-8d94cd2b1b46" >MORGAN</option><option  value="82055ac8-c887-4f26-b34d-9d176f3391b1" >NEWTON</option><option  value="64d72b50-ab7c-4735-bf7e-8e01f5d8b32e" >NOBLE</option><option  value="8eb03843-41f5-4787-aab6-77bc3e77ec1e" >OHIO</option><option  value="58c91250-ba85-4deb-94fa-aedad127f410" >ORANGE</option><option  value="e53ae0d6-b6a8-42ab-bce1-5c2c8840a761" >OWEN</option><option  value="b063f29c-ab36-4435-9c22-be6884216826" >PARKE</option><option  value="2290d6ab-8b8f-4847-bd0f-3c600353e3b3" >PERRY</option><option  value="fa2f49f4-f06a-40cb-8fa3-54a63d66e389" >PIKE</option><option  value="dc1713e4-5034-46fe-8393-3be6c5cf7551" >PORTER</option><option  value="d26df978-3ec1-499a-8f77-18d0cfaa4eb7" >POSEY</option><option  value="959d9bcb-ee63-4988-a458-ad6f493c001e" >PULASKI</option><option  value="a1b55ff7-b5ac-4635-ac46-381134140ad5" >PUTNAM</option><option  value="b9b0b730-a5d6-4f02-9118-11735e87dbcd" >RANDOLPH</option><option  value="1fe7ac9f-11bb-4f15-ad81-ceb146e22d0f" >RIPLEY</option><option  value="01fd0665-b8b2-4406-84e8-a1f91d41a9a6" >RUSH</option><option  value="8c24cb4b-040c-4fd1-a444-d513aca8f259" >SCOTT</option><option  value="ccbba98b-a16e-4cea-8af7-64b8a62a8929" >SHELBY</option><option  value="b886be35-dd44-471c-a4fe-9a9385ba3d26" >SPENCER</option><option  value="371cacad-8ce1-4f7c-837b-3f5183193584" >ST. JOSEPH</option><option  value="ccd034af-eef4-4032-a6dc-0b240d02a00f" >STARKE</option><option  value="36f61cfa-cd28-4234-a365-4a402288a5ca" >STEUBEN</option><option  value="cfba072c-f21a-4c7d-b4d5-9e1653885ac4" >SULLIVAN</option><option  value="30064fa6-291b-49e9-915b-1d21cf16b8f7" >SWITZERLAND</option><option  value="58dd0e32-390a-4521-a2f7-6325788e3878" >TIPPECANOE</option><option  value="83b1e99b-2191-42fa-80ea-730dc5cbbc32" >TIPTON</option><option  value="137b594e-5078-400d-9ce9-9153aea77a74" >UNION</option><option  value="17a2797c-f3eb-44a5-8151-03f9967c64b7" >VANDERBURGH</option><option  value="089d622f-afc1-4ccd-abfb-e3e9896bdf20" >VERMILLION</option><option  value="ad5f45d8-40b0-486e-ac93-c5ed81580f15" >VIGO</option><option  value="699f8674-4d36-40f3-bec2-a4b5887e5b4a" >WABASH</option><option  value="3ff23408-a67d-4b16-85aa-c54cf34a6ae4" >WARREN</option><option  value="0bc68474-3d1a-4bae-a377-b210ff0c8768" >WARRICK</option><option  value="7286a464-644e-4d6a-a20c-a80517ff9c8d" >WASHINGTON</option><option  value="8d2eb7bb-8bb7-4437-b53e-e00b52f76d24" >WAYNE</option><option  value="267c8caf-1c4d-4e2c-ab10-c6eb25bd1bb9" >WELLS</option><option  value="91d52ea7-85a6-4885-8714-b9451af0da79" >WHITE</option><option  value="efbedcba-12fe-44f6-9c49-e1adc6c2423f" >WHITLEY</option></select>
+                    </div>
+                </div>
+                <div class="form-group col-md-12">
+                    <div class="floating-label  has-value">
+                        <label for="electionType">Election Type</label>
+                        <select class="form-control" id="electionType"></select>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer px-4 pb-3">
+                <button type="button" class="btn btn-primary-md apply-filter" onclick="getReferendumFilteredData()" data-dismiss="modal">APPLY FILTER</button>&nbsp;&nbsp;&nbsp;&nbsp;
+                <button type="button" class="btn btn-outline waves-attach" onclick="clearReferendumFilter();" style="background-color: whitesmoke;">Clear</button>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+        $(document).ready(function () {
+            var viewBagData = '';
+
+            if (viewBagData != '' && viewBagData != null) {
+                isViewMap = viewBagData;
+            }
+        })
+</script>
+
+
+
+
+        <div class="container-fluid footer-container mt-5 px-3">
+            <div class="row">
+                <div class="col-12">
+                    <h2>Accessibility</h2>
+                </div>
+            </div>
+            <div class="row align-items-center">
+                <div class="col-12 col-md-auto">
+                    Site Contrast
+                </div>
+                <div class="col-12 col-md-4 py-3 py-md-0">
+                    <div class="btn-group btn-group-theme d-sm-inline-flex d-md-flex" role="tablist" aria-label="Default and Dark Theme CSS">
+    <input type="radio" class="theme-toggle" id="buttonDefault" name="darkTheme" onclick="darkThemeDisable()" role="tab" />
+    <label for="buttonDefault" class="btn btn-block btn-regular active">
+        Default
+    </label>
+    <input type="radio" class="theme-toggle" id="buttonDark" name="darkTheme" onclick="darkThemeEnable()" role="tab" />
+    <label for="buttonDark" class=" btn btn-block btn-dark">
+        Dark
+    </label>
+</div>
+                </div>
+                <div class="col-12 col-md external-links">
+                    <a href="http://www.in.gov/core/browsealoud.html" target="_top" class="link-white">BrowseAloud Text Reader</a>
+                    <a href="https://get.adobe.com/reader/" target="_top" class="link-white">Adobe Acrobat Reader</a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12" style="font-size:smaller">
+                    <br />
+                    <p>
+                        IndianaVoters.IN.gov has been built and checked against best practices and standards as defined by the Department of Justice final rule updating its regulations for Title II of the Americans with Disabilities Act (ADA) and the Web Content Accessibility Guidelines, WCAG 2.1, of the World Wide Web Consortium Web Accessibility Initiative.
+                    </p>
+                    <p>
+                        This includes:
+                    </p>
+                    <ul>
+                        <li>Skip links, landmarks, and headings are defined to aid in navigation.</li>
+                        <li>Alternative text details (ALT tags) for appropriate images and other non-text elements.</li>
+                        <li>Additional markup is used where appropriate to indicate various page elements and other media.</li>
+                        <li>Form labels are programmatically associated with form fields.</li>
+                        <li>JavaScript and style sheets are used to enhance the appearance and functionality of the site. Care and caution has been used to ensure contrast and resolution remain high across devices, and that if these elements are unavailable to users, that the site degrades gracefully with minimal negative impact on user experience.</li>
+                        <li>Embedded documents and media have been made accessible to whatever extent possible.</li>
+                        <li>Higher contrast toggle option to view IndianaVoters.IN.gov pages.</li>
+                    </ul>
+                    <p>
+                        While most of the website is compliant with WCAG 2.1, some aspects of IndianaVoters.IN.gov do not fully meet the Web Content Accessibility Guidelines, WCAG 2.1. Due to technological limitations, some pages on IndianaVoters.IN.gov, primarily Historical Election Results, cannot be upgraded to fully meet the standards of the current Web Content Accessibility Guidelines and the web page will include text to alert the user of those constraints.
+                    </p>
+                    <p>
+                        Some website pages that are linked from IndianaVoters.IN.gov to a domain outside of IndianaVoters.IN.gov may not fully meet the Web Content Accessibility Guidelines, due to technological limitations.
+                    </p>
+                    <p>
+                        If you are having issues with a part of our site, or are unable to access specific content or functions, please email us at <a href="/cdn-cgi/l/email-protection#caafa6afa9bea3a5a4b98aa3afa9e4a3a4e4ada5bc" style="color:inherit"><span class="__cf_email__" data-cfemail="0560696066716c6a6b76456c60662b6c6b2b626a73">[email&#160;protected]</span></a>.
+                    </p>
+                    <a href="https://www.w3.org/WAI/WCAG2AAA-Conformance"
+                       title="Explanation of WCAG 2.1 Level Triple-A Conformance">
+                        <img height="32" width="88"
+                             src="https://www.w3.org/WAI/WCAG21/wcag2.1AAA-blue-v.png"
+                             alt="Level Triple-A conformance, W3C WAI Web Content Accessibility Guidelines 2.1">
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!--popup-->
+        <!-- Whos on ballot Search -->
+        <div id="whoonmyballot" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="whoonmyballotLabel" aria-describedby="whoonmyballotDesc">
+            <div class="modal-dialog modal-lg">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title popup-title" id="whoonmyballotLabel">Who's on my ballot</h4><label id="whoonmyballotDesc" hidden>Search what candidates are on your ballot</label>
+                        <button type="button" class="close popup-close" onclick="voterinformation.service.closeVoterPopup()" data-dismiss="modal" aria-label="Close">&times;</button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="row justify-content-center" id="WSOMBpopup">
+    <div class="col-xl-6 col-md-6 divider-border">
+        <fieldset>
+            <legend>
+                <h4>Search by Voter Registration</h4>
+            </legend>
+            <div class="form-group">
+                <div class="floating-label">
+                    <label for="WYBfirstname">First Name</label>
+                    <input type="text" class="form-control" id="WYBfirstname" maxlength="50"
+                           autocomplete="given-name" aria-describedby="error_WYBFname"
+                           data-error-label="error_WYBFname" data-required-message="Error: Please enter the First Name"
+                           onkeypress="return voterinformation.service.alphaNumeric(event);">
+                    <small id="error_WYBFname" class="text-danger" style="display: none;" aria-live="assertive"></small>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="floating-label">
+                    <label for="WYBlastname">Last Name</label>
+                    <input type="text" class="form-control" id="WYBlastname"
+                           autocomplete="family-name" aria-describedby="error_WYbLname"
+                           data-error-label="error_WYbLname" data-required-message="Error: Please enter the Last Name"
+                           onkeypress="return voterinformation.service.alphaNumeric(event);" maxlength="50">
+                    <small id="error_WYbLname" class="text-danger" style="display: none;" aria-live="assertive"></small>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="floating-label" id="WYBDOB_lable">
+                    <label for="WYBdob">Date of Birth</label>
+                    <input type="text" class="form-control" id="WYBdob"
+                           autocomplete="bday" aria-describedby="error_WYBDOB"
+                           data-error-label="error_WYBDOB" data-required-message="Error: Please select the Date Of Birth" data-valid-date-message="Error: Please enter a valid Date."
+                           maxlength="11" onchange="IsFutureDate(this)">
+                    <small id="error_WYBDOB" class="text-danger" style="display: none;" aria-live="assertive"></small>
+                </div>
+            </div>
+            <div class="form-group is-filled">
+                <div class="floating-label long-label has-value">
+                    <label for="ddlWYBCounty">County of Current Registration</label>
+                    <select name="ddlWYBCounty" id="ddlWYBCounty" class="form-control" data-validation="required"
+                            autocomplete="address-level1" aria-describedby="error_WYBcounty"
+                            data-error-label="error_WYBcounty" data-required-message="Error: Please select the County of Current Registration">
+                    </select>
+                    <small id="error_WYBcounty" class="text-danger" style="display: none;" aria-live="assertive"></small>
+                </div>
+            </div>
+            <br />
+            <div class="mt-4" style="visibility: hidden"><em>Optional</em></div>
+            <div class="form-group" style="visibility: hidden">
+                <div class="floating-label">
+                    <label for="WYBdrivinglicensenumber">Indiana Driver's License Number</label>
+                    <input type="text" class="form-control" maxlength="10" id="WYBdrivinglicensenumber" onkeypress="return voterinformation.service.isNumber(event);">
+                </div>
+            </div>
+            <button class="btn btn-default" onclick="voterinformation.service.ClearWYBLeftSection()" aria-label="Clear Search by Voter Registration form">
+                Clear
+            </button>
+            <button type="submit" id="btnWYBsubmit" onclick="voterinformation.service.WYBsubmit()"
+                    aria-label="Submit Search by Voter Registration form" class="btn btn-primary standard-btn-darkblue">
+                Submit
+            </button>
+
+            <div id="spinnerWYBVoterSearch" class="spinner" style="display: none;">
+                <img src="/Content/Images/spin-16.gif" aria-hidden="true" />
+                <span>Loading, please wait</span>
+            </div>
+        </fieldset>
+    </div>
+    <div class="col-xl-6 col-md-6">
+        <fieldset>
+            <legend>
+                <h4>Search by County, Precinct, Split Precinct</h4>
+            </legend>
+            <div class="form-group is-filled ">
+                <div class="floating-label  has-value is-focused">
+                    <label for="ddlCountyWYB">County</label>
+                    <select name="County" id="ddlCountyWYB" class="form-control" data-validation="required"
+                            onchange='voterinformation.service.GetPrecinctList()'
+                            autocomplete="address-level1" aria-describedby="error_county"
+                            data-error-label="error_county" data-required-message="Error: Please select the County">
+                    </select>
+                    <small id="error_county" class="text-danger" style="display: none;" aria-live="assertive"></small>
+                </div>
+            </div>
+            <div id="divPrecInct" class="form-group is-filled" style="display: none;">
+                <div class="floating-label  has-value is-focused">
+                    <label for="ddlPrecinct">Precinct</label>
+                    <select name="ddlPrecinct" id="ddlPrecinct" class="form-control" data-validation="required"
+                            onchange='voterinformation.service.GetSplitPrecinctList()'
+                            aria-describedby="error_precinct"
+                            data-error-label="error_precinct" data-required-message="Error: Please select Precinct"></select>
+                    <small id="error_precinct" class="text-danger" style="display: none;" aria-live="assertive"></small>
+                </div>
+            </div>
+            <div class="form-group is-filled ">
+                <div class="floating-label  has-value is-focused" id="divSplitPrecinct" style="display: none;">
+                    <label for="ddlsplitPrecinct">Split Precinct</label>
+                    <select name="ddlsplitPrecinct" id="ddlsplitPrecinct" class="form-control" data-validation="required"
+                            aria-describedby="error_splitprecinct"
+                            data-error-label="error_splitprecinct" data-required-message="Error: Please select Split Precinct"></select>
+                    <small id="error_splitprecinct" class="text-danger" style="display: none;" aria-live="assertive"></small>
+                </div>
+            </div>
+            <div align="right">
+                <button class="btn btn-default" onclick="voterinformation.service.ClearWYBSectionTwo()" aria-label="Clear Search by County and Precinct form">
+                    Clear
+                </button>
+                <button type="submit" id="btnSubmitbyCountyPrecinct" class="btn btn-primary standard-btn-darkblue"
+                        aria-label="Submit Search by County and Precinct form"
+                        onclick="voterinformation.service.WYB_SubmitByCountyPrecinct()">
+                    Submit
+                </button>
+            </div>
+            <div id="spinnerWYBPrecinctSearch" class="spinner" style="display: none; float: right;">
+                <img src="/Content/Images/spin-16.gif" aria-hidden="true" />
+                <span>Loading, please wait</span>
+            </div>
+        </fieldset>
+        <br/>
+        <div id="popupText" style="word-wrap:break-word;"></div>
+    </div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+    $(document).ready(function() {
+        $('#WSOMBpopup small[id^=error_]').hide();
+
+        $('#WYBdob').mask("99/99/9999", { placeholder: "mm/dd/yyyy" });
+
+        //WOYBallotSearchPopup
+        $.ajax({
+            type: "GET",
+            contentType: 'application/json; charset=utf-8',
+            url: '/PortalParts/WOYBallotSearchPopup'
+        }).done(function(data) { $("#popupText").html(data); });
+
+        // WYB FOCUSOUT  VALIDATIONS
+        $("#ddlCountyWYB").on('focusout', function() {
+            validateRequiredField("ddlCountyWYB");
+        });
+        $("#ddlPrecinct").on('focusout', function () {
+            validateRequiredField("ddlPrecinct");
+        });
+        $("#ddlsplitPrecinct").on('focusout', function () {
+            validateRequiredField("ddlsplitPrecinct");
+        });
+        $("#ddlWYBCounty").on('focusout', function () {
+            validateRequiredField("ddlWYBCounty");
+        });
+        $("#WYBfirstname").on('focusout', function() {
+            validateRequiredField("WYBfirstname");
+        });
+        $("#WYBlastname").on('focusout', function() {
+            validateRequiredField("WYBlastname");
+        });
+        $("#WYBdob").on('focusout', function() {
+            validateRequiredDateField("WYBdob");
+        });
+        $("#WYBdob").on('change', function() {
+            validateRequiredDateField("WYBdob");
+        });
+    });
+</script>
+                    </div>
+                    <div class="modal-footer d-block" align="right">
+                        &nbsp;
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+
+        <!-- Modal -->
+
+        <div id="modal_SearchResultGrid" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="modal_SearchResultGridDesc">
+            <div class="modal-dialog modal-lg">
+                <form id="frmVoterSearchResults" method="get">
+                    
+                    <!-- Modal content-->
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h4 id="modal_SearchResultGridDesc" class="modal-title popup-title">Search Results</h4>
+                            <button type="button" class="close popup-close" onclick="voterinformation.service.closeVoterPopup()" data-dismiss="modal" aria-label="Close">&times;</button>
+                        </div>
+                        <div class="modal-body">
+                            <div id="homeContent"></div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+
+
+        
+        <div class="modal fade bd-example-modal-lg" id="invrsInfo" tabindex="-1" role="dialog" aria-labelledby="invrsInfoDesc">
+            <div class="modal-dialog modal-lg">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title popup-title" id="invrsInfoDesc">Information</h4>
+                        <button type="button" class="close popup-close" data-dismiss="modal" aria-label="Close">&times;</button>
+                    </div>
+                    <div class="modal-body popup-auto" id="invrsInfoBody" tabindex="0" style="outline: none;">
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+
+
+        <!--popup-->
+        <!-- Check Voting Status -->
+        <div id="checkVotingStatus" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="checkVotingStatusDesc">
+            <div class="modal-dialog modal-lg">
+                <form id="frmVoterSearch" method="post" onsubmit="return false">
+                    <input name="__RequestVerificationToken" type="hidden" value="z41k-t6ah8zFR6gT6uf4n7QOmDqmA65KwTRsY5fWQTVwqzxJohpeMyc9sLKzDNLGM_k7Gyarx0AcPHEtwK_Bl60v7Lfs1S_bns4VccDACGE1" />
+                    <!-- Modal content-->
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h4 class="modal-title popup-title" id="checkVotingStatusDesc">Tell us about yourself.</h4>
+                            <button type="button" class="close popup-close" onclick="voterinformation.service.closeVoterPopup()" data-dismiss="modal" aria-label="Close">&times;</button>
+                        </div>
+                        <div class="modal-body">
+                            <div id="voterSearchForm">
+    <fieldset class="row justify-content-center">
+        <legend>
+            <div class="col-xl-12 col-md-12 pb-3">
+                Please enter your information exactly as it appears on your voter registration record. If you registered using your initials you may have trouble finding your record.
+                Please do not include any suffix (e.g. Sr, Jr) in your last name. Please contact your county election administrator if you require assistance.
+            </div>
+        </legend>
+        <div class="col-xl-6 col-md-6">
+            <div class="form-group">
+                <div class="floating-label">
+                    <label for="txtfirstName">First Name</label>
+                    <input type="text" class="form-control" id="txtfirstName" name="FirstName"
+                           autocomplete="given-name" aria-describedby="error_name"
+                           data-error-label="error_name" data-required-message="Error: Please enter the First Name"
+                           onkeypress="return voterinformation.service.alphaNumeric(event);" maxlength="50">
+                    <small id="error_name" class="text-danger" style="display: none;" aria-live="assertive"></small>
+                </div>
+            </div>
+        </div>
+        <div class="col-xl-6 col-md-6">
+            <div class="form-group">
+                <div class="floating-label">
+                    <label for="txtlastName">Last Name</label>
+                    <input type="text" class="form-control" id="txtlastName" name="LastName"
+                           autocomplete="family-name" aria-describedby="error_lastname"
+                           data-error-label="error_lastname" data-required-message="Error: Please enter the Last Name"
+                           onkeypress="return voterinformation.service.alphaNumeric(event);" maxlength="50">
+                    <small id="error_lastname" class="text-danger" style="display: none;" aria-live="assertive"></small>
+                </div>
+            </div>
+        </div>
+        <div class="col-xl-6 col-md-6">
+            <div class="form-group">
+                <div class="floating-label">
+                    <label for="txtDateOfBirth">Date of Birth</label>
+                    <input type="text" class="form-control" id="txtDateOfBirth"
+                           autocomplete="bday" aria-describedby="error_Dob"
+                           data-error-label="error_Dob" data-required-message="Error: Please select the Date Of Birth" data-valid-date-message="Error: Please enter a valid Date."
+                           maxlength="10" onchange="IsFutureDate(this)">
+                    <small id="error_Dob" class="text-danger" style="display: none;" aria-live="assertive"></small>
+                </div>
+            </div>
+        </div>
+        <div class="col-xl-6 col-md-6">
+            <div class="form-group">
+                <div class="floating-label has-value long-label">
+                    <label for="ddlCounty">County of Current Registration</label>
+                    <select name="County" id="ddlCounty" class="form-control" data-validation="required"
+                            autocomplete="address-level1" aria-describedby="error_ddlCounty"
+                            data-error-label="error_ddlCounty" data-required-message="Error: Please select the County of Current Registration">
+                    </select>
+                    <small id="error_ddlCounty" class="text-danger" style="display: none;" aria-live="assertive"></small>
+                </div>
+            </div>
+        </div>
+    </fieldset>
+</div>
+
+<script>
+    $(function() {
+
+        $('#error_name').hide();
+        $('#error_lastname').hide();
+        $('#error_Dob').hide();
+        $('#error_ddlCounty').hide();
+
+        $('#txtDateOfBirth').mask("99/99/9999", { placeholder: "mm/dd/yyyy" });
+
+        $("#txtfirstName").on('focusout', function() {
+            validateRequiredField("txtfirstName");
+        });
+        $("#txtlastName").on('focusout', function() {
+            validateRequiredField("txtlastName");
+        });
+        $("#txtDateOfBirth").on('focusout', function() {
+            validateRequiredDateField("txtDateOfBirth");
+        });
+        $("#ddlCounty").on('focusout', function () {
+            validateRequiredField("ddlCounty");
+        });
+    });
+</script>
+
+
+
+
+
+                        </div>
+                        <div class="modal-footer d-block" align="right">
+                            <button type="button" onclick="voterinformation.service.clear()" class="btn btn-outline waves-attach">Clear</button>
+                            <button type="button" id="btnSubmitInfor" onclick="voterinformation.service.submit()" class="btn standard-btn-yellow btn-primary">Submit</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    
+    <script>
+    var appConstants = (function () {
+
+        var URL = {
+            absenteeballotsave: '/AbsenteeBallot/Save',
+            absenteeEdit: '/AbsenteeBallot/Save',
+            voterinformation: '/',
+            publicTwoFactorSettings: '/PersonAuth/PublicTwoFactorSettings',
+            voterRegistrationVerification: '/MVPHome/VoterRegistrationVerification',
+            voterPortalHomePage: '/MyHome/Index',
+            GetPrecinctList: '/MVPHome/GET_PrecinctListByCounty',
+            GetSplitPrecinctList: '/MVPHome/GET_SplitPrecinctListByCounty',
+            voterinformationWithIDNumber: '/',
+            WYB_ByCountyAndPrecinct: '/MVPHome/GET_WYB_ListByCounty',
+            FindMyPollingLocationSubmitbyCountyPrecinctUrl: '/MVPHome/GET_FMPL_ListByCounty',
+            GetProvisionalBallotData: '/MyHome/GetProvisionalBallotData',
+            GetCountyMultipleAddressDetails: '/MyHome/GetCountyMultipleAddressDetails',
+            WhosonBallotSubmitByElection: '/MyHome/GetWYBByElection',
+            WhosonBallotSubmitByElectionAjax: '/MyHome/GetWYBByElection_Ajax',
+            ProvisionalBallotStatusOnLoad: '/MyHome/GetProvisionalBallotDataOnLoad',
+            WhosonBallotSubmitByParty: '/WhosOnBallot/GET_WYB_ListByParty',
+            WhosonBallotSubmitQustionsListByParty: '/WhosOnBallot/GET_WYB_QustionListByParty',
+            findElectionOfficials: '/CountyContact/index',
+            getCountyDetails: '/CountyContact/GetCountyDetails',
+            registeredVoterCountyInfo: '/CountyContact/RegisteredVoterCountyInfo',
+            updateVoterInformation: '/MyHome/UpdateVoterInformation',
+            SubmitUpdateInformation: '/MyHome/SubmitUpdateInformation',
+            newregcontinue: '/OLVR/Registration/RegistrationEligibility',
+            printDocuments: '/MVPHome/PrintDocuments',
+            WhosonBallotByParty: '/WhosOnBallot/GetPartyListByElection',
+            GetCountyByState: '/MyHome/GET_CountyListByStateSelection',
+
+            vpdRegEligibility: '/OLVR/Registration/VPDRegistrationEligibility',
+            vpdRegistrationDetails: '/OLVR/Registration/VPDRegistrationDetails',
+            voterRegistrationDetails: '/OLVR/Registration/RegistrationDetails',
+
+
+        }
+
+        var RegisterType = {
+            update: 'UP',
+            check: 'CHK',
+            Register: 'REG',
+            VPD: 'VPD'
+        }
+
+        var RegistrationStatus = {
+            Incomplete: 'Incomplete'
+        }
+
+        return {
+            url: URL,
+            registerType: RegisterType,
+            registrationStatus: RegistrationStatus
+        }
+
+
+    })();
+</script>
+
+    
+
+    <script src="/Scripts/VoterInformationJs/Validations.js"></script>
+    <script src="/Scripts/VoterInformationJs/mvp.voterinformation.js"></script>
+    <script src="/Scripts/HistoricalResults/historicalElectionResults.js"></script>
+    <script src="/Scripts/MVP/general.js"></script>
+
+    <script>
+        //Information Box
+        $(document).ready(function () {
+            $.ajax({
+                type: "GET",
+                contentType: 'application/json; charset=utf-8',
+                url: '/PortalParts/InformationBox',
+                success: function (data) {
+                    $("#invrsInfoBody").html(data);
+                    var replace_str = $("#invrsInfoBody").html().replace(/<p>/g, "<p tabindex='0'>");
+                    $("#invrsInfoBody").html(replace_str);
+                },
+                error: function (textStatus, errorThrown) {
+                    Success = false;
+                }
+            });
+        });
+    </script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a571d96e4e4ac0cd',t:'MTc5NDExMjI5OQ=='};var l=window.parent.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a571d96e4e4ac0cd',a=document.createElement('script');a.src=o?new URL(u,o).href:u;document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

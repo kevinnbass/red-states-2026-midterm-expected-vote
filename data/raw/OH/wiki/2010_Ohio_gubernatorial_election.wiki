@@ -1,0 +1,1611 @@
+{{Short description|none}}
+{{see also|2010 United States gubernatorial elections}}
+{{Use American English|date=January 2025}}
+<!-- "none" is preferred when the title is already sufficiently detailed; see [[WP:SDNONE]] -->
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name      = 2010 Ohio gubernatorial election
+| country            = Ohio
+| type               = presidential
+| ongoing            = Yes
+| previous_election  = 2006 Ohio gubernatorial election
+| previous_year      = 2006
+| next_election      = 2014 Ohio gubernatorial election
+| next_year          = 2014
+| election_date      = November 2, 2010
+| image_size = 150x150px
+| image1             = File:Governor John Kasich (1).jpg
+| nominee1           = '''[[John Kasich]]'''
+| running_mate1      = '''[[Mary Taylor (Ohio politician)|Mary Taylor]]'''
+| party1             = Republican Party (United States)
+| popular_vote1      = '''1,889,186'''
+| percentage1        = '''49.04%'''
+| image2             = File:Ted Strickland photo (1).jpg
+| nominee2           = [[Ted Strickland]]
+| running_mate2      = [[Yvette McGee Brown|Yvette Brown]]
+| party2             = Democratic Party (United States)
+| popular_vote2      = 1,812,059
+| percentage2        = 47.04%
+| map_image          = {{switcher
+|[[File:2010 Ohio gubernatorial election results map by county.svg|210px]]
+|County results
+|[[File:2010 Ohio gubernatorial election results map by congressional District.svg|210px]]
+|Congressional district results
+|default=1
+}}
+| map_size           =
+| map_caption        = '''Kasich''': {{legend0|#ffb2b2|40–50%}} {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}}<br />'''Strickland''': {{legend0|#a5b0ff|40–50%}} {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584cde|70–80%}}
+| title              = Governor
+| before_election    = [[Ted Strickland]]
+| before_party       = Democratic Party (United States)
+| after_election     = [[John Kasich]]
+| after_party        = Republican Party (United States)
+| turnout = 49.22% (registered voters) {{decrease}}4.03pp
+}}
+{{ElectionsOH}}
+
+The '''2010 Ohio gubernatorial election''' took place on November 2, 2010. [[Incumbent]] [[Democratic Party (United States)|Democratic]] [[List of governors of Ohio|Governor]] [[Ted Strickland]] ran for a second term and was opposed by former [[United States House of Representatives|U.S. Representative]] [[John Kasich]]; both Strickland and Kasich won their respective primaries uncontested. Ultimately, Kasich defeated Strickland by a 2% margin.
+
+Strickland's defeat was widely attributed to the decline of Ohio's economy, as well as the loss of 400,000 jobs since the beginning of his term. The policies of the then-president [[Barack Obama]] proved to be a hot topic among voters, with Strickland voicing his support for the healthcare overhauls initiated by [[Presidency of Barack Obama|Obama's administration]], contrary to Kasich, who opposed the policies.<ref>{{Cite web|title=Ohio - Election Results 2010 - The New York Times|url=https://www.nytimes.com/elections/2010/results/ohio.html|website=www.nytimes.com|access-date=2020-05-21}}</ref> Republicans held Ohio's governorship from this election until Democratic nominee Amy Acton won 16 years later in [[2026 Ohio gubernatorial election|2026]].
+
+==Democratic primary==
+
+===Candidates===
+* [[Ted Strickland]], incumbent [[List of governors of Ohio|governor of Ohio]]
+
+===Results===
+{{Election box begin no change
+| title = Democratic primary results<ref>{{cite web|url=http://www.sos.state.oh.us/sos/elections/Research/electResultsMain/2010results/20100504gov-D.aspx|title=Governor and Lieutenant Governor - Democratic: May 4, 2010 - Ohio Secretary of State|website=www.sos.state.oh.us}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Ted Strickland]] (incumbent)
+| party = Democratic Party (United States)
+| votes = 630,785
+| percentage = 100.00%
+}}
+{{Election box total no change
+| votes =  630,785
+| percentage= 100.00%
+}}
+{{Election box end}}
+
+==Republican primary==
+
+===Candidates===
+* [[John Kasich]], former [[United States House of Representatives|U.S. representative]], chairman of the [[United States House Committee on the Budget|House Budget Committee]] and candidate for president in [[2000 United States presidential election|2000]]
+
+===Results===
+{{Election box begin no change
+| title = Republican primary results<ref>{{cite web|url=http://www.sos.state.oh.us/sos/elections/Research/electResultsMain/2010results/20100504gov-R.aspx|title=Governor and Lieutenant Governor - Republican: May 4, 2010 - Ohio Secretary of State|website=www.sos.state.oh.us}}{{Dead link|date=August 2026 |bot=InternetArchiveBot }}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[John Kasich]]
+| party = Republican Party (United States)
+| votes = 746,719
+| percentage = 100.00%
+}}
+{{Election box total no change
+| votes =  746,719
+| percentage= 100.00%
+}}
+{{Election box end}}
+
+==Libertarian primary==
+
+===Candidates===
+* Ken Matesz
+
+===Results===
+{{Election box begin no change
+| title = Libertarian Party primary results<ref>{{cite web|url=http://www.sos.state.oh.us/sos/elections/Research/electResultsMain/2010results/20100504gov-L.aspx|title=Governor and Lieutenant Governor - Libertarian: May 4, 2010 - Ohio Secretary of State|website=www.sos.state.oh.us}}{{Dead link|date=August 2026 |bot=InternetArchiveBot }}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Ken Matesz
+| party = Libertarian Party (United States)
+| votes = 4,407
+| percentage = 100.00%
+}}
+{{Election box total no change
+| votes =  4,407
+| percentage= 100.00%
+}}
+{{Election box end}}
+
+==Green primary==
+
+===Candidates===
+* Dennis Spisak, former congressional candidate
+
+===Results===
+{{Election box begin no change
+| title = Green Party primary results<ref>{{cite web|url=http://www.sos.state.oh.us/sos/elections/Research/electResultsMain/2010results/20100504gov-G.aspx|title=Governor and Lieutenant Governor - Green: May 4, 2010 - Ohio Secretary of State|website=www.sos.state.oh.us}}{{Dead link|date=August 2026 |bot=InternetArchiveBot }}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Dennis Spisak
+| party = Green Party (United States)
+| votes = 924
+| percentage = 100.00%
+}}
+{{Election box total no change
+| votes =  924
+| percentage= 100.00%
+}}
+{{Election box end}}
+
+==General election==
+
+===Predictions===
+{| class="wikitable" style="text-align:center"
+|-
+! Source
+! Ranking
+! As of
+|-
+| [[Cook Political Report]]<ref>{{cite web|url=http://cookpolitical.com/charts/governors/raceratings_2010-10-14_12-35-09.php |archive-url=https://web.archive.org/web/20101028141343/http://cookpolitical.com/charts/governors/raceratings_2010-10-14_12-35-09.php |url-status=dead |archive-date=October 28, 2010 |title=2010 Governors Race Ratings |publisher=[[Cook Political Report]] |access-date=October 28, 2010}}</ref>
+| {{USRaceRating|Tossup}}
+| October 14, 2010
+|-
+| [[Stuart Rothenberg|Rothenberg]]<ref>{{cite web|url=http://www.insideelections.com/ratings/governor/2010-gubernatorial-ratings-october-28-2010 |title=Governor Ratings |publisher=[[Rothenberg Political Report]] |access-date=October 28, 2010}}</ref>
+| {{USRaceRating|Tilt|R|Flip}}
+| October 28, 2010
+|-
+| [[RealClearPolitics]]<ref>{{cite web|url=http://www.realclearpolitics.com/epolls/2010/governor/2010_elections_governor_map.html |title=2010 Governor Races |publisher=[[RealClearPolitics]] |access-date=October 28, 2010}}</ref>
+| {{USRaceRating|Tossup}}
+| November 1, 2010
+|-
+| [[Sabato's Crystal Ball]]<ref>{{cite web|url=http://centerforpolitics.org/crystalball/articles/ljs2010102801/ |title=THE CRYSTAL BALL'S FINAL CALLS |publisher=[[Sabato's Crystal Ball]] |access-date=October 28, 2010}}</ref>
+| {{USRaceRating|Lean|R|Flip}}
+| October 28, 2010
+
+|-
+| [[Congressional Quarterly|CQ Politics]]<ref>{{cite web|url=http://www.cqpolitics.com/wmspage.cfm?docID=ratings-governor |title=Race Ratings Chart: Governor |publisher=[[CQ Politics]] |access-date=October 28, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20101005231611/http://www.cqpolitics.com/wmspage.cfm?docID=ratings-governor |archive-date=October 5, 2010 }}</ref>
+| {{USRaceRating|Tossup}}
+| October 28, 2010
+|}
+
+===Polling===
+{| class="wikitable"
+|- valign=bottom
+! style="width:250px;"| Poll source
+! style="width:205px;"| Date(s) administered
+! style="width:100px;"| Ted<br />Strickland (D)
+! style="width:100px;"| John<br />Kasich (R)
+|-
+|[[Public Policy Polling]]<ref>[http://www.publicpolicypolling.com/pdf/PPP_Release_OH_1030513.pdf Public Policy Polling]</ref>
+| align=center| October 28–30, 2010
+|align=center| 48%
+| {{party shading/Republican}} align=center| '''49%'''
+|-
+|[[Angus Reid Public Opinion]]<ref>{{usurped|1=[https://web.archive.org/web/20101207020806/http://www.angus-reid.com/wp-content/uploads/2010/10/2010.10.31_Ohio_USA.pdf Angus Reid Public Opinion]}}</ref>
+| align=center| October 27–29, 2010
+|align=center| 46%
+| {{party shading/Republican}} align=center| '''49%'''
+|-
+|[[Survey USA]]<ref>[http://www.surveyusa.com/client/PollReport.aspx?g=1f22648b-c2e7-4289-adc9-a634146d92c4 Survey USA]</ref>
+| align=center| October 22–26, 2010
+|align=center| 44%
+| {{party shading/Republican}} align=center| '''49%'''
+|-
+|[[Quinnipiac University]]<ref>[https://web.archive.org/web/20101027032915/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1525 Quinnipiac University]</ref>
+| align=center| October 18–24, 2010
+|align=center| 43%
+| {{party shading/Republican}} align=center| '''49%'''
+|-
+|[[Fox News]]/[[Pulse Opinion Research|POR]]<ref>[https://www.foxnews.com/politics/fox-news-polls-dems-make-gains-as-republicans-hang-tough-in-battleground-states Fox News/POR]</ref>
+| align=center| October 23, 2010
+|align=center| 43%
+| {{party shading/Republican}}  align=center| '''47%'''
+|-
+|[[CNN]]/[[Time Magazine]]<ref>[http://i2.cdn.turner.com/cnn/2010/images/10/20/topstate7.pdf CNN/Time Magazine]</ref>
+| align=center| October 15–19, 2010
+|{{party shading/Democratic}} align=center| '''48%'''
+|align=center| 46%
+|-
+|[[University of Cincinnati]]<ref>[http://www.cleveland.com/open/index.ssf/2010/10/ohio_governors_race_tight_ohio.html University of Cincinnati]</ref>
+| align=center| October 14–18, 2010
+|align=center| 47%
+| {{party shading/Republican}} align=center| '''49%'''
+|-
+|[[Quinnipiac University]]<ref>[https://web.archive.org/web/20101023183151/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1520 Quinnipiac University]</ref>
+| align=center| October 12–17, 2010
+|align=center| 41%
+| {{party shading/Republican}} align=center| '''51%'''
+|-
+|[[University of Cincinnati]]<ref>[http://www.ipr.uc.edu/documents/op101510.pdf University of Cincinnati]</ref>
+| align=center| October 8–13, 2010
+| align=center| 43%
+| {{party shading/Republican}} align=center| '''51%'''
+|-
+|[[Rasmussen Reports]]<ref>[http://www.rasmussenreports.com/public_content/politics/elections/election_2010/election_2010_governor_elections/ohio/toplines/toplines_2010_ohio_governor_july_19_2010 Rasmussen Reports]</ref>
+| align=center|October 11, 2010
+| align=center| 45%
+| {{party shading/Republican}} align=center| '''48%'''
+|-
+|[[Fox News]]/[[Pulse Opinion Research|POR]]<ref>[https://www.foxnews.com/politics/fox-news-polls-gop-sees-senate-chances-improve/ Fox News/POR]</ref>
+| align=center| October 9, 2010
+|align=center| 42%
+| {{party shading/Republican}}  align=center| '''47%'''
+|-
+|[[Angus Reid Public Opinion]]<ref>{{usurped|1=[https://web.archive.org/web/20110617031940/http://www.angus-reid.com/wp-content/uploads/2010/10/2010.10.10_Ohio_USA.pdf Angus Reid Public Opinion]}}</ref>
+| align=center| October 5–8, 2010
+|align=center| 46%
+| {{party shading/Republican}} align=center| '''48%'''
+|-
+|[[Quinnipiac University]]<ref>[https://web.archive.org/web/20101007233313/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1511 Quinnipiac University]</ref>
+| align=center| September 29 – October 3, 2010
+|align=center| 41%
+| {{party shading/Republican}} align=center| '''50%'''
+|-
+|[[Fox News]]/[[Pulse Opinion Research|POR]]<ref>[https://www.foxnews.com/politics/fox-news-polls-gop-poised-to-gain-or-hold-senate-seats-in-key-states Fox News/POR]</ref>
+| align=center| October 2, 2010
+|align=center| 43%
+| {{party shading/Republican}} align=center| '''49%'''
+|-
+|[[Rasmussen Reports]]<ref>[http://www.rasmussenreports.com/public_content/politics/elections/election_2010/election_2010_governor_elections/ohio/election_2010_ohio_governor Rasmussen Reports]</ref>
+| align=center| September 27, 2010
+| align=center| 42%
+| {{Party shading/Republican}} align=center | '''50%'''
+|-
+|[[CBS]]/[[NY Times]]<ref>{{Deprecated archive|url=https://archive.today/20130119015023/http://www.cbsnews.com/8301-503544_162-20017954-503544.html?tag=contentMain;contentBody|title=CBS/NY Times}}</ref>
+| align=center| September 23–27, 2010
+| align=center| 42%
+| {{Party shading/Republican}} align=center | '''43%'''
+|-
+|[[Reuters]]/[[Ipsos]]<ref>[https://www.reuters.com/article/idUSTRE68D3VQ20100928 Reuters/Ipsos]</ref>
+| align=center| September 23–25, 2010
+| align=center| 46%
+| {{Party shading/Republican}} align=center | '''47%'''
+|-
+|[[Ohio Newspapers Poll]]/[[University of Cincinnati|UC]]<ref>[https://web.archive.org/web/20101001214144/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1501 Ohio Newspapers Poll/UC]</ref>
+| align=center| September 24, 2010
+| align=center| 45%
+| {{Party shading/Republican}} align=center | '''49%'''
+|-
+|[[SurveyUSA]]<ref>[http://www.surveyusa.com/client/PollReport.aspx?g=63f7766d-2465-4015-ab25-e62ddc7e6722 SurveyUSA]</ref>
+| align=center| September 14, 2010
+| align=center| 40%
+| {{Party shading/Republican}} align=center | '''52%'''
+|-
+|[[CNN]]/[[Time Magazine]]<ref>[http://i2.cdn.turner.com/cnn/2010/images/09/15/nv-oh-wa-poll2.pdf CNN/Time Magazine]</ref>
+| align=center| September 10–14, 2010
+|align=center| 44%
+| {{party shading/Republican}} align=center| '''51%'''
+|-
+|[[Quinnipiac University Polling Institute|Quinnipiac]]<ref>[https://web.archive.org/web/20100920035709/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1500 Quinnipiac]</ref>
+| align=center| September 9–14, 2010
+| align=center| 37%
+| {{Party shading/Republican}} align=center | '''54%'''
+|-
+|[[Rasmussen Reports]]<ref>[http://www.rasmussenreports.com/public_content/politics/elections/election_2010/election_2010_governor_elections/ohio/toplines/toplines_ohio_governor_september_13_2010 Rasmussen Reports]</ref>
+| align=center| September 13, 2010
+| align=center| 43%
+| {{Party shading/Republican}} align=center | '''50%'''
+|-
+|[[Fox News]]/[[Pulse Research]]<ref>[http://www.foxnews.com/projects/pdf/091410_OHpoll1.pdf Fox News/Pulse Research]</ref>
+| align=center| September 11, 2010
+| align=center| 43%
+| align=center {{Party shading/Republican}} | '''48%'''
+|-
+|[[The Columbus Dispatch]]<ref>[https://web.archive.org/web/20100909132250/http://www.dispatchpolitics.com/live/content/local_news/stories/2010/09/05/copy/gop-resurgent.html?adsec=politics&sid=101 The Columbus Dispatch]</ref>
+| align=center| August 25 – September 3, 2010
+| align=center| 37%
+| align=center {{Party shading/Republican}} | '''49%'''
+|-
+|[[Rasmussen Reports]]<ref>[http://www.rasmussenreports.com/public_content/politics/elections/election_2010/election_2010_governor_elections/ohio/toplines/toplines_2010_ohio_governor_august_30_2010 Rasmussen Reports]</ref>
+| align=center| August 30, 2010
+| align=center| 39%
+| {{Party shading/Republican}} align=center | '''47%'''
+|-
+|[[Public Policy Polling]]<ref>[http://www.publicpolicypolling.com/pdf/PPP_Release_OH_901.pdf Public Policy Polling]</ref>
+| align=center| August 27–29, 2010
+| align=center| 40%
+| {{Party shading/Republican}} align=center | '''50%'''
+|-
+|[[Rasmussen Reports]]<ref>[http://www.rasmussenreports.com/public_content/politics/elections/election_2010/election_2010_governor_elections/ohio/toplines/toplines_2010_ohio_governor_august_16_2010 Rasmussen Reports]</ref>
+| align=center| August 16, 2010
+| align=center| 40%
+| {{Party shading/Republican}} align=center | '''48%'''
+|-
+|[[Reuters]]/[[Ipsos]]<ref>[https://www.reuters.com/article/idUSTRE67957M20100810 Reuters/Ipsos]</ref>
+| align=center| August 6–8, 2010
+| align=center| 39%
+| {{Party shading/Republican}} align=center | '''48%'''
+|-
+|[[Rasmussen Reports]]<ref>[http://www.rasmussenreports.com/public_content/politics/elections/election_2010/election_2010_governor_elections/ohio/toplines/toplines_2010_ohio_governor_august_2_2010 Rasmussen Reports]</ref>
+| align=center| August 2, 2010
+| align=center| 42%
+| align=center {{Party shading/Republican}}| '''45%'''
+|-
+|[[Rasmussen Reports]]<ref>[http://www.rasmussenreports.com/public_content/politics/elections/election_2010/election_2010_governor_elections/ohio/toplines/toplines_2010_ohio_governor_july_19_2010/ Rasmussen Reports]</ref>
+| align=center| July 19, 2010
+| align=center| 43%
+| align=center {{Party shading/Republican}}| '''48%'''
+|-
+|[[Rasmussen Reports]]<ref>[http://www.rasmussenreports.com/public_content/politics/elections/election_2010/election_2010_governor_elections/ohio/toplines/toplines_2010_ohio_governor_june_29_2010/ Rasmussen Reports]</ref>
+| align=center| June 29, 2010
+| align=center| 40%
+| align=center {{Party shading/Republican}}| '''47%'''
+|-
+|[[Public Policy Polling]]<ref>[http://www.publicpolicypolling.com/pdf/PPP_Release_OH_629.pdf Public Policy Polling]</ref>
+| align=center| June 26–27, 2010
+| align=center| 41%
+| align=center {{Party shading/Republican}}| '''43%'''
+|-
+|[[Quinnipiac University Polling Institute|Quinnipiac]]<ref>[https://web.archive.org/web/20100704074836/http://www.quinnipiac.edu/x1284.xml?ReleaseID=1470&What=&strArea=;&strTime=0 Quinnipiac]</ref>
+| align=center| June 22–27, 2010
+| align=center {{Party shading/Democratic}}| '''43%'''
+| align=center| 38%
+|-
+|[[Rasmussen Reports]]<ref>[http://www.rasmussenreports.com/public_content/politics/elections/election_2010/election_2010_governor_elections/ohio/toplines/toplines_2010_ohio_governor_june_3_2010/ Rasmussen Reports]</ref>
+| align=center| June 3, 2010
+| align=center| 42%
+| align=center {{Party shading/Republican}}| '''47%'''
+|-
+|[[University of Cincinnati|UC]]/[[The Ohio Poll]]<ref>[https://web.archive.org/web/20100530093831/http://realclearpolitics.blogs.time.com/2010/05/28/oh-poll-democrats-ahead-for-senate-gov/ UC/The Ohio Poll]</ref>
+| align=center| May 11–20, 2010
+| align=center {{Party shading/Democratic}}| '''49%'''
+| align=center| 44%
+|-
+|[[Rasmussen Reports]]<ref>[http://www.rasmussenreports.com/public_content/politics/elections2/election_2010/election_2010_governor_elections/ohio/election_2010_ohio_governor Rasmussen Reports]</ref>
+| align=center| May 5, 2010
+| align=center| 45%
+| align=center {{Party shading/Republican}}| '''46%'''
+|-
+|[[Quinnipiac University Polling Institute|Quinnipiac]]<ref>[https://web.archive.org/web/20100501153224/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1450 Quinnipiac]</ref>
+| align=center| April 21–26, 2010
+| align=center {{Party shading/Democratic}}| '''44%'''
+| align=center| 38%
+|-
+|[[Research 2000]]<ref>[http://www.dailykos.com/statepoll/2010/4/7/OH/469 Research 2000]</ref>
+| align=center| April 5–7, 2010
+| align=center {{Party shading/Democratic}}| '''45%'''
+| align=center| 40%
+|-
+|[[Rasmussen Reports]]<ref>[http://www.rasmussenreports.com/public_content/politics/elections2/election_2010/election_2010_governor_elections/ohio/election_2010_ohio_governor Rasmussen Reports]</ref>
+| align=center| March 30, 2010
+| align=center| 45%
+| align=center {{Party shading/Republican}}| '''46%'''
+|-
+|[[Quinnipiac University Polling Institute|Quinnipiac]]<ref>[https://web.archive.org/web/20100405073822/http://www.quinnipiac.edu/x1284.xml?ReleaseID=1440&What=&strArea=;&strTime=0 Quinnipiac]</ref>
+| align=center| March 23–29, 2010
+| align=center {{Party shading/Democratic}}| '''43%'''
+| align=center| 38%
+|-
+|[[Public Policy Polling]]<ref>[http://www.publicpolicypolling.com/pdf/PPP_Release_OH_323.pdf Public Policy Polling]</ref>
+| align=center| March 20–21, 2010
+| align=center| 37%
+| align=center {{Party shading/Republican}}| '''42%'''
+|-
+|[[Rasmussen Reports]]<ref>[http://www.rasmussenreports.com/public_content/politics/elections2/election_2010/election_2010_governor_elections/ohio/election_2010_ohio_governor/ Rasmussen Reports]</ref>
+| align=center| March 4, 2010
+| align=center| 38%
+| align=center {{Party shading/Republican}}| '''49%'''
+|-
+|[[Quinnipiac University Polling Institute|Quinnipiac]]<ref>[https://web.archive.org/web/20110605060014/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1426%2F Quinnipiac]</ref>
+| align=center| February 16–21, 2010
+| align=center {{Party shading/Democratic}}| '''44%'''
+| align=center| 39%
+|-
+|[[Rasmussen Reports]]<ref>[http://www.rasmussenreports.com/public_content/politics/elections2/election_2010/election_2010_governor_elections/ohio/toplines/toplines_2010_ohio_governor_race_february_5_6_2010/ Rasmussen Reports]</ref>
+| align=center| February 5–6, 2010
+| align=center| 41%
+| align=center {{Party shading/Republican}}| '''47%'''
+|-
+|[[The Ohio Newspaper]]<ref>[http://www.daytondailynews.com/news/ohio-news/ohio-governor-trailing-gop-rival-in-latest-poll-509108.html The Ohio Newspaper]</ref>
+| align=center| January 13–19, 2010
+| align=center| 45%
+| align=center {{Party shading/Republican}}| '''51%'''
+|-
+|[[Ohio Right to Life]]<ref>[http://www.ohiolife.org/assets/attachments/file/ORTL%20CROSSTABS%20-%20Political%20-%201-2010%20(2).pdf Ohio Right to Life] {{Dead link|date=August 2019 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+| align=center| January 8–12, 2010
+| align=center| 33%
+| align=center {{Party shading/Republican}}| '''43%'''
+|-
+|[[Rasmussen Reports]]<ref>[http://www.rasmussenreports.com/public_content/politics/elections2/election_2010/election_2010_governor_elections/ohio/toplines/toplines_2010_election_ohio_governor_election_january_12_2010/ Rasmussen Reports]</ref>
+| align=center| January 12, 2010
+| align=center| 40%
+| {{party shading/Republican}} align=center| '''47%'''
+|-
+|[[Rasmussen Reports]]<ref>[http://www.rasmussenreports.com/public_content/politics/elections2/election_2010/election_2010_governor_elections/ohio/election_2010_ohio_governor Rasmussen Reports]</ref>
+| align=center| December 7, 2009
+| align=center| 39%
+| {{party shading/Republican}} align=center| '''48%'''
+|-
+|[[Quinnipiac University Polling Institute|Quinnipiac]]<ref>[https://web.archive.org/web/20110605060022/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1394&What=&strArea=%3B&strTime=0%2F Quinnipiac]</ref>
+| align=center| November 5–9, 2009
+| align=center| '''40%'''
+| align=center| '''40%'''
+|-
+|[[The Ohio Newspaper]]<ref>[http://media.cleveland.com/open_impact/other/ONP_102109_memo.pdf The Ohio Newspaper]</ref>
+| align=center| October 14–20, 2009
+| {{party shading/Democratic}} align=center| '''48%'''
+| align=center| 47%
+|-
+|[[Rasmussen Reports]]<ref>[https://web.archive.org/web/20090929094518/http://www.rasmussenreports.com/public_content/politics/elections2/election_2010/election_2010_governor_elections/ohio/toplines/toplines_2010_ohio_governor_race_september_23_2009 Rasmussen Reports]</ref>
+| align=center| September 23, 2009
+| align=center| 45%
+| {{party shading/Republican}} align=center| '''46%'''
+|-
+|[[Quinnipiac University Polling Institute|Quinnipiac]]<ref>[https://web.archive.org/web/20110605060030/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1371&What=&strArea=%3B&strTime=0%2F Quinnipiac]</ref>
+| align=center| September 10–13, 2009
+| {{party shading/Democratic}} align=center| '''46%'''
+| align=center| 36%
+|-
+|[[Research 2000]]<ref>[http://www.dailykos.com/statepoll/2009/7/8/OH/313/ Research 2000]</ref>
+| align=center| July 8, 2009
+| {{party shading/Democratic}} align=center| '''44%'''
+| align=center| 39%
+|-
+|[[Quinnipiac University Polling Institute|Quinnipiac]]<ref>[https://web.archive.org/web/20090707090409/http://www.quinnipiac.edu/x1284.xml?ReleaseID=1346&What=&strArea=;&strTime=0 Quinnipiac]</ref>
+| align=center| June 26 – July 1, 2009
+| {{party shading/Democratic}} align=center| '''43%'''
+| align=center| 38%
+|-
+|[[Public Policy Polling]]<ref>[http://www.publicpolicypolling.com/pdf/PPP_Release_Ohio_62103.pdf Public Policy Polling]</ref>
+| align=center| June 17–19, 2009
+|  {{party shading/Democratic}} align=center| '''44%'''
+| align=center| 42%
+|-
+|[[Quinnipiac University Polling Institute|Quinnipiac]]<ref>[https://web.archive.org/web/20110605003639/http://www.quinnipiac.edu/x1322.xml?ReleaseID=1295&What=&strArea=;&strTime=0 Quinnipiac]</ref>
+| align=center| April 28 – May 4, 2009
+|  {{party shading/Democratic}} align=center| '''51%'''
+| align=center| 32%
+|-
+|[[Quinnipiac University Polling Institute|Quinnipiac]]<ref>[https://web.archive.org/web/20090322143643/http://www.quinnipiac.edu/x1284.xml?ReleaseID=1276&What=&strArea=;&strTime=0 Quinnipiac]</ref>
+| align=center| March 10–15, 2009
+|  {{party shading/Democratic}} align=center| '''51%'''
+| align=center| 31%
+|-
+|[[Quinnipiac University Polling Institute|Quinnipiac]]<ref>[https://web.archive.org/web/20090210041501/http://www.quinnipiac.edu/x1284.xml?ReleaseID=1257&What=&strArea=;&strTime=0 Quinnipiac]</ref>
+| align=center| January 29 – February 2, 2009
+|  {{party shading/Democratic}} align=center| '''56%'''
+| align=center| 26%
+|-
+|[[Public Policy Polling]]<ref>[http://www.publicpolicypolling.com/pdf/PPP_Release_Ohio_121.pdf Public Policy Polling]</ref>
+| align=center| January 17–18, 2009
+|  {{party shading/Democratic}} align=center| '''45%'''
+| align=center| 39%
+|}
+
+===Results===
+When the polls closed on election night, the race was very close, with Strickland and Kasich neck and neck. As the night wore on, Kasich's lead began to pick up strength. However, once [[Cuyahoga County, Ohio|Cuyahoga County]] came in, Kasich's lead began to erode. In the end Kasich still won, but it was one of the closest gubernatorial elections in Ohio history. Strickland conceded at around 2 A.M. EST.
+
+{{Election box begin | title=2010 Ohio gubernatorial election<ref>{{cite web|url=http://www.sos.state.oh.us/sos/elections/Research/electResultsMain/2010results/20101102governor.aspx|title=Governor and Lieutenant Governor: November 2, 2010 - Ohio Secretary of State|website=www.sos.state.oh.us|access-date=December 31, 2012|archive-date=July 2, 2017|archive-url=https://web.archive.org/web/20170702150853/http://www.sos.state.oh.us/sos/elections/Research/electResultsMain/2010results/20101102governor.aspx|url-status=dead}}</ref>
+}}
+{{Election box winning candidate with party link|
+ |party = Republican Party (United States)
+ |candidate = [[John Kasich]]
+ |votes = 1,889,186
+ |percentage = 49.04%
+ |change = +12.39%
+}}
+{{Election box candidate with party link|
+ |party = Democratic Party (United States)
+ |candidate = [[Ted Strickland]] (incumbent)
+ |votes = 1,812,059
+ |percentage = 47.04%
+ |change = -13.50%
+}}
+{{Election box candidate with party link|
+ |party = Libertarian Party (United States)
+ |candidate = Ken Matesz
+ |votes = 92,116
+ |percentage = 2.39%
+ |change = +0.61%
+}}
+{{Election box candidate with party link|
+ |party = Green Party (United States)
+ |candidate = Dennis Spisak
+ |votes = 58,475
+ |percentage = 1.52%
+ |change = +0.50%
+}}
+{{Election box write-in with party link|
+ |votes      = 633
+ |percentage = 0.02%
+ |change     = N/A
+}}
+{{Election box majority|
+ |votes = 77,127
+ |percentage = 2.00%
+ |change = -21.89%
+}}
+{{Election box total|
+ |votes = 3,852,469
+ |percentage = 100.00%
+ |change =
+}}
+{{Election box gain with party link no swing|
+  |winner     = Republican Party (United States)
+  |loser      = Democratic Party (United States)
+}}
+{{Election box end}}
+
+==== By county ====
+{| width="60%" class="wikitable sortable"
+! rowspan="2" |County
+! colspan="2" |John Kasich<br />Republican
+! colspan="2" |Ted Strickland<br />Democratic
+! colspan="2" |Various candidates<br />Other parties
+! colspan="2" |Margin
+! rowspan="2" |Total votes cast
+|-
+! style="text-align:center;" data-sort-type="number" |#
+! style="text-align:center;" data-sort-type="number" |%
+! style="text-align:center;" data-sort-type="number" |#
+! style="text-align:center;" data-sort-type="number" |%
+! style="text-align:center;" data-sort-type="number" |#
+! style="text-align:center;" data-sort-type="number" |%
+! style="text-align:center;" data-sort-type="number" |#
+! style="text-align:center;" data-sort-type="number" |%
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Adams County, Ohio|Adams]]
+| {{party shading/Republican}} |4,837
+| {{party shading/Republican}} |57.96%
+| {{party shading/Democratic}} |3,191
+| {{party shading/Democratic}} |38.23%
+| {{party shading/Others}} |318
+| {{party shading/Others}} |3.81%
+| {{party shading/Republican}} |1,646
+| {{party shading/Republican}} |19.73%
+| {{party shading/Republican}} |8,346
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Allen County, Ohio|Allen]]
+| {{party shading/Republican}} |18,982
+| {{party shading/Republican}} |57.57%
+| {{party shading/Democratic}} |12,755
+| {{party shading/Democratic}} |38.69%
+| {{party shading/Others}} |1,233
+| {{party shading/Others}} |3.74%
+| {{party shading/Republican}} |6,227
+| {{party shading/Republican}} |18.88%
+| {{party shading/Republican}} |32,970
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Ashland County, Ohio|Ashland]]
+| {{party shading/Republican}} |10,586
+| {{party shading/Republican}} |60.89%
+| {{party shading/Democratic}} |5,897
+| {{party shading/Democratic}} |33.92%
+| {{party shading/Others}} |902
+| {{party shading/Others}} |5.19%
+| {{party shading/Republican}} |4,689
+| {{party shading/Republican}} |26.97%
+| {{party shading/Republican}} |17,385
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Ashtabula County, Ohio|Ashtabula]]
+| {{party shading/Republican}} |12,582
+| {{party shading/Republican}} |42.30%
+| {{party shading/Democratic}} |15,128
+| {{party shading/Democratic}} |50.85%
+| {{party shading/Others}} |2,038
+| {{party shading/Others}} |6.85%
+| {{party shading/Democratic}} |-2,546
+| {{party shading/Democratic}} |-8.55%
+| {{party shading/Democratic}} |29,748
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Athens County, Ohio|Athens]]
+| {{party shading/Republican}} |4,525
+| {{party shading/Republican}} |26.42%
+| {{party shading/Democratic}} |12,073
+| {{party shading/Democratic}} |70.48%
+| {{party shading/Others}} |531
+| {{party shading/Others}} |3.10%
+| {{party shading/Democratic}} |-7,548
+| {{party shading/Democratic}} |-44.06%
+| {{party shading/Democratic}} |17,129
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Auglaize County, Ohio|Auglaize]]
+| {{party shading/Republican}} |10,873
+| {{party shading/Republican}} |65.79%
+| {{party shading/Democratic}} |4,788
+| {{party shading/Democratic}} |28.97%
+| {{party shading/Others}} |866
+| {{party shading/Others}} |5.24%
+| {{party shading/Republican}} |6,085
+| {{party shading/Republican}} |36.82%
+| {{party shading/Republican}} |16,527
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Belmont County, Ohio|Belmont]]
+| {{party shading/Republican}} |10,411
+| {{party shading/Republican}} |43.96%
+| {{party shading/Democratic}} |12,467
+| {{party shading/Democratic}} |52.64%
+| {{party shading/Others}} |805
+| {{party shading/Others}} |3.40%
+| {{party shading/Democratic}} |-2,056
+| {{party shading/Democratic}} |-8.68%
+| {{party shading/Democratic}} |23,683
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Brown County, Ohio|Brown]]
+| {{party shading/Republican}} |7,803
+| {{party shading/Republican}} |58.60%
+| {{party shading/Democratic}} |4,894
+| {{party shading/Democratic}} |36.76%
+| {{party shading/Others}} |618
+| {{party shading/Others}} |4.64%
+| {{party shading/Republican}} |2,909
+| {{party shading/Republican}} |21.84%
+| {{party shading/Republican}} |13,315
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Butler County, Ohio|Butler]]
+| {{party shading/Republican}} |74,942
+| {{party shading/Republican}} |62.69%
+| {{party shading/Democratic}} |40,153
+| {{party shading/Democratic}} |33.59%
+| {{party shading/Others}} |4,444
+| {{party shading/Others}} |3.72%
+| {{party shading/Republican}} |34,789
+| {{party shading/Republican}} |29.10%
+| {{party shading/Republican}} |119,539
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Carroll County, Ohio|Carroll]]
+| {{party shading/Republican}} |5,002
+| {{party shading/Republican}} |50.19%
+| {{party shading/Democratic}} |4,272
+| {{party shading/Democratic}} |42.87%
+| {{party shading/Others}} |692
+| {{party shading/Others}} |6.94%
+| {{party shading/Republican}} |730
+| {{party shading/Republican}} |7.32%
+| {{party shading/Republican}} |9,966
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Champaign County, Ohio|Champaign]]
+| {{party shading/Republican}} |7,688
+| {{party shading/Republican}} |56.89%
+| {{party shading/Democratic}} |5,137
+| {{party shading/Democratic}} |38.01%
+| {{party shading/Others}} |689
+| {{party shading/Others}} |5.10%
+| {{party shading/Republican}} |2,551
+| {{party shading/Republican}} |18.88%
+| {{party shading/Republican}} |13,514
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Clark County, Ohio|Clark]]
+| {{party shading/Republican}} |22,135
+| {{party shading/Republican}} |48.14%
+| {{party shading/Democratic}} |21,660
+| {{party shading/Democratic}} |47.11%
+| {{party shading/Others}} |2,181
+| {{party shading/Others}} |4.75%
+| {{party shading/Republican}} |475
+| {{party shading/Republican}} |1.03%
+| {{party shading/Republican}} |45,976
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Clermont County, Ohio|Clermont]]
+| {{party shading/Republican}} |42,763
+| {{party shading/Republican}} |67.80%
+| {{party shading/Democratic}} |17,490
+| {{party shading/Democratic}} |27.73%
+| {{party shading/Others}} |2,817
+| {{party shading/Others}} |4.47%
+| {{party shading/Republican}} |25,273
+| {{party shading/Republican}} |40.07%
+| {{party shading/Republican}} |63,070
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Clinton County, Ohio|Clinton]]
+| {{party shading/Republican}} |7,621
+| {{party shading/Republican}} |62.86%
+| {{party shading/Democratic}} |3,836
+| {{party shading/Democratic}} |31.64%
+| {{party shading/Others}} |666
+| {{party shading/Others}} |5.50%
+| {{party shading/Republican}} |3,785
+| {{party shading/Republican}} |31.22%
+| {{party shading/Republican}} |12,123
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Columbiana County, Ohio|Columbiana]]
+| {{party shading/Republican}} |16,021
+| {{party shading/Republican}} |48.39%
+| {{party shading/Democratic}} |15,553
+| {{party shading/Democratic}} |46.98%
+| {{party shading/Others}} |1,535
+| {{party shading/Others}} |4.63%
+| {{party shading/Republican}} |468
+| {{party shading/Republican}} |1.41%
+| {{party shading/Republican}} |33,109
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Coshocton County, Ohio|Coshocton]]
+| {{party shading/Republican}} |6,234
+| {{party shading/Republican}} |51.22%
+| {{party shading/Democratic}} |5,179
+| {{party shading/Democratic}} |42.56%
+| {{party shading/Others}} |757
+| {{party shading/Others}} |6.22%
+| {{party shading/Republican}} |1,055
+| {{party shading/Republican}} |8.66%
+| {{party shading/Republican}} |12,170
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Crawford County, Ohio|Crawford]]
+| {{party shading/Republican}} |7,901
+| {{party shading/Republican}} |56.10%
+| {{party shading/Democratic}} |5,334
+| {{party shading/Democratic}} |37.87%
+| {{party shading/Others}} |850
+| {{party shading/Others}} |6.03%
+| {{party shading/Republican}} |2,567
+| {{party shading/Republican}} |18.23%
+| {{party shading/Republican}} |14,085
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Cuyahoga County, Ohio|Cuyahoga]]
+| {{party shading/Republican}} |148,611
+| {{party shading/Republican}} |35.83%
+| {{party shading/Democratic}} |251,251
+| {{party shading/Democratic}} |60.57%
+| {{party shading/Others}} |14,923
+| {{party shading/Others}} |3.60%
+| {{party shading/Democratic}} |-102,640
+| {{party shading/Democratic}} |-24.74%
+| {{party shading/Democratic}} |414,785
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Darke County, Ohio|Darke]]
+| {{party shading/Republican}} |11,975
+| {{party shading/Republican}} |63.15%
+| {{party shading/Democratic}} |5,957
+| {{party shading/Democratic}} |31.42%
+| {{party shading/Others}} |1,030
+| {{party shading/Others}} |5.43%
+| {{party shading/Republican}} |6,018
+| {{party shading/Republican}} |31.73%
+| {{party shading/Republican}} |18,962
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Defiance County, Ohio|Defiance]]
+| {{party shading/Republican}} |6,677
+| {{party shading/Republican}} |51.69%
+| {{party shading/Democratic}} |5,561
+| {{party shading/Democratic}} |43.05%
+| {{party shading/Others}} |680
+| {{party shading/Others}} |5.26%
+| {{party shading/Republican}} |1,116
+| {{party shading/Republican}} |8.64%
+| {{party shading/Republican}} |12,918
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Delaware County, Ohio|Delaware]]
+| {{party shading/Republican}} |45,285
+| {{party shading/Republican}} |65.83%
+| {{party shading/Democratic}} |21,988
+| {{party shading/Democratic}} |31.96%
+| {{party shading/Others}} |1,519
+| {{party shading/Others}} |2.21%
+| {{party shading/Republican}} |23,297
+| {{party shading/Republican}} |33.87%
+| {{party shading/Republican}} |68,792
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Erie County, Ohio|Erie]]
+| {{party shading/Republican}} |13,096
+| {{party shading/Republican}} |45.88%
+| {{party shading/Democratic}} |14,171
+| {{party shading/Democratic}} |49.64%
+| {{party shading/Others}} |1,280
+| {{party shading/Others}} |4.48%
+| {{party shading/Democratic}} |-1,075
+| {{party shading/Democratic}} |-3.76%
+| {{party shading/Democratic}} |28,547
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Fairfield County, Ohio|Fairfield]]
+| {{party shading/Republican}} |29,744
+| {{party shading/Republican}} |59.06%
+| {{party shading/Democratic}} |18,795
+| {{party shading/Democratic}} |37.32%
+| {{party shading/Others}} |1,822
+| {{party shading/Others}} |3.62%
+| {{party shading/Republican}} |10,949
+| {{party shading/Republican}} |21.74%
+| {{party shading/Republican}} |50,361
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Fayette County, Ohio|Fayette]]
+| {{party shading/Republican}} |4,614
+| {{party shading/Republican}} |59.77%
+| {{party shading/Democratic}} |2,827
+| {{party shading/Democratic}} |36.62%
+| {{party shading/Others}} |278
+| {{party shading/Others}} |3.61%
+| {{party shading/Republican}} |1,787
+| {{party shading/Republican}} |23.15%
+| {{party shading/Republican}} |7,719
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Franklin County, Ohio|Franklin]]
+| {{party shading/Republican}} |169,487
+| {{party shading/Republican}} |44.12%
+| {{party shading/Democratic}} |203,862
+| {{party shading/Democratic}} |53.07%
+| {{party shading/Others}} |10,773
+| {{party shading/Others}} |2.81%
+| {{party shading/Democratic}} |-34,375
+| {{party shading/Democratic}} |-8.95%
+| {{party shading/Democratic}} |384,122
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Fulton County, Ohio|Fulton]]
+| {{party shading/Republican}} |7,798
+| {{party shading/Republican}} |53.41%
+| {{party shading/Democratic}} |6,131
+| {{party shading/Democratic}} |42.00%
+| {{party shading/Others}} |670
+| {{party shading/Others}} |4.59%
+| {{party shading/Republican}} |1,667
+| {{party shading/Republican}} |11.41%
+| {{party shading/Republican}} |14,599
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Gallia County, Ohio|Gallia]]
+| {{party shading/Republican}} |4,809
+| {{party shading/Republican}} |50.13%
+| {{party shading/Democratic}} |4,553
+| {{party shading/Democratic}} |47.46%
+| {{party shading/Others}} |231
+| {{party shading/Others}} |2.41%
+| {{party shading/Republican}} |256
+| {{party shading/Republican}} |2.67%
+| {{party shading/Republican}} |9,593
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Geauga County, Ohio|Geauga]]
+| {{party shading/Republican}} |22,312
+| {{party shading/Republican}} |60.30%
+| {{party shading/Democratic}} |13,148
+| {{party shading/Democratic}} |35.54%
+| {{party shading/Others}} |1,540
+| {{party shading/Others}} |4.16%
+| {{party shading/Republican}} |9,164
+| {{party shading/Republican}} |24.76%
+| {{party shading/Republican}} |37,000
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Greene County, Ohio|Greene]]
+| {{party shading/Republican}} |34,564
+| {{party shading/Republican}} |59.16%
+| {{party shading/Democratic}} |21,561
+| {{party shading/Democratic}} |36.90%
+| {{party shading/Others}} |2,303
+| {{party shading/Others}} |3.94%
+| {{party shading/Republican}} |13,003
+| {{party shading/Republican}} |22.26%
+| {{party shading/Republican}} |58,428
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Guernsey County, Ohio|Guernsey]]
+| {{party shading/Republican}} |5,900
+| {{party shading/Republican}} |48.56%
+| {{party shading/Democratic}} |5,594
+| {{party shading/Democratic}} |46.04%
+| {{party shading/Others}} |656
+| {{party shading/Others}} |5.40%
+| {{party shading/Republican}} |306
+| {{party shading/Republican}} |2.52%
+| {{party shading/Republican}} |12,150
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Hamilton County, Ohio|Hamilton]]
+| {{party shading/Republican}} |143,222
+| {{party shading/Republican}} |50.42%
+| {{party shading/Democratic}} |132,087
+| {{party shading/Democratic}} |46.50%
+| {{party shading/Others}} |8,745
+| {{party shading/Others}} |3.08%
+| {{party shading/Republican}} |11,135
+| {{party shading/Republican}} |3.92%
+| {{party shading/Republican}} |284,054
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Hancock County, Ohio|Hancock]]
+| {{party shading/Republican}} |15,063
+| {{party shading/Republican}} |61.30%
+| {{party shading/Democratic}} |8,450
+| {{party shading/Democratic}} |34.39%
+| {{party shading/Others}} |1,061
+| {{party shading/Others}} |4.31%
+| {{party shading/Republican}} |6,613
+| {{party shading/Republican}} |26.91%
+| {{party shading/Republican}} |24,574
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Hardin County, Ohio|Hardin]]
+| {{party shading/Republican}} |4,904
+| {{party shading/Republican}} |54.62%
+| {{party shading/Democratic}} |3,502
+| {{party shading/Democratic}} |39.00%
+| {{party shading/Others}} |573
+| {{party shading/Others}} |6.38%
+| {{party shading/Republican}} |1,402
+| {{party shading/Republican}} |15.62%
+| {{party shading/Republican}} |8,979
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Harrison County, Ohio|Harrison]]
+| {{party shading/Republican}} |2,548
+| {{party shading/Republican}} |44.92%
+| {{party shading/Democratic}} |2,840
+| {{party shading/Democratic}} |50.07%
+| {{party shading/Others}} |284
+| {{party shading/Others}} |5.01%
+| {{party shading/Democratic}} |-292
+| {{party shading/Democratic}} |-5.15%
+| {{party shading/Democratic}} |5,672
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Henry County, Ohio|Henry]]
+| {{party shading/Republican}} |5,529
+| {{party shading/Republican}} |55.61%
+| {{party shading/Democratic}} |3,922
+| {{party shading/Democratic}} |39.45%
+| {{party shading/Others}} |491
+| {{party shading/Others}} |4.94%
+| {{party shading/Republican}} |1,607
+| {{party shading/Republican}} |16.16%
+| {{party shading/Republican}} |9,942
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Highland County, Ohio|Highland]]
+| {{party shading/Republican}} |7,455
+| {{party shading/Republican}} |60.65%
+| {{party shading/Democratic}} |4,215
+| {{party shading/Democratic}} |34.29%
+| {{party shading/Others}} |621
+| {{party shading/Others}} |5.06%
+| {{party shading/Republican}} |3,240
+| {{party shading/Republican}} |26.36%
+| {{party shading/Republican}} |12,291
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Hocking County, Ohio|Hocking]]
+| {{party shading/Republican}} |4,184
+| {{party shading/Republican}} |46.27%
+| {{party shading/Democratic}} |4,441
+| {{party shading/Democratic}} |49.11%
+| {{party shading/Others}} |418
+| {{party shading/Others}} |4.62%
+| {{party shading/Democratic}} |-257
+| {{party shading/Democratic}} |-2.84%
+| {{party shading/Democratic}} |9,043
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Holmes County, Ohio|Holmes]]
+| {{party shading/Republican}} |5,967
+| {{party shading/Republican}} |68.98%
+| {{party shading/Democratic}} |2,212
+| {{party shading/Democratic}} |25.57%
+| {{party shading/Others}} |471
+| {{party shading/Others}} |5.45%
+| {{party shading/Republican}} |3,755
+| {{party shading/Republican}} |43.41%
+| {{party shading/Republican}} |8,650
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Huron County, Ohio|Huron]]
+| {{party shading/Republican}} |9,051
+| {{party shading/Republican}} |54.62%
+| {{party shading/Democratic}} |6,547
+| {{party shading/Democratic}} |39.51%
+| {{party shading/Others}} |974
+| {{party shading/Others}} |5.87%
+| {{party shading/Republican}} |2,504
+| {{party shading/Republican}} |15.11%
+| {{party shading/Republican}} |16,572
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Jackson County, Ohio|Jackson]]
+| {{party shading/Republican}} |4,592
+| {{party shading/Republican}} |45.34%
+| {{party shading/Democratic}} |5,227
+| {{party shading/Democratic}} |51.60%
+| {{party shading/Others}} |310
+| {{party shading/Others}} |3.06%
+| {{party shading/Democratic}} |-635
+| {{party shading/Democratic}} |-6.26%
+| {{party shading/Democratic}} |10,129
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Jefferson County, Ohio|Jefferson]]
+| {{party shading/Republican}} |10,957
+| {{party shading/Republican}} |44.30%
+| {{party shading/Democratic}} |12,819
+| {{party shading/Democratic}} |51.83%
+| {{party shading/Others}} |957
+| {{party shading/Others}} |3.87%
+| {{party shading/Democratic}} |-1,862
+| {{party shading/Democratic}} |-7.53%
+| {{party shading/Democratic}} |24,733
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Knox County, Ohio|Knox]]
+| {{party shading/Republican}} |12,371
+| {{party shading/Republican}} |60.42%
+| {{party shading/Democratic}} |7,044
+| {{party shading/Democratic}} |34.40%
+| {{party shading/Others}} |1,060
+| {{party shading/Others}} |5.18%
+| {{party shading/Republican}} |5,327
+| {{party shading/Republican}} |26.02%
+| {{party shading/Republican}} |20,475
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Lake County, Ohio|Lake]]
+| {{party shading/Republican}} |41,467
+| {{party shading/Republican}} |52.35%
+| {{party shading/Democratic}} |34,157
+| {{party shading/Democratic}} |43.12%
+| {{party shading/Others}} |3,581
+| {{party shading/Others}} |4.53%
+| {{party shading/Republican}} |7,310
+| {{party shading/Republican}} |9.23%
+| {{party shading/Republican}} |79,205
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Lawrence County, Ohio|Lawrence]]
+| {{party shading/Republican}} |8,374
+| {{party shading/Republican}} |47.20%
+| {{party shading/Democratic}} |8,956
+| {{party shading/Democratic}} |50.48%
+| {{party shading/Others}} |410
+| {{party shading/Others}} |2.32%
+| {{party shading/Democratic}} |-582
+| {{party shading/Democratic}} |-3.28%
+| {{party shading/Democratic}} |17,740
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Licking County, Ohio|Licking]]
+| {{party shading/Republican}} |35,073
+| {{party shading/Republican}} |58.98%
+| {{party shading/Democratic}} |21,892
+| {{party shading/Democratic}} |36.81%
+| {{party shading/Others}} |2,505
+| {{party shading/Others}} |4.21%
+| {{party shading/Republican}} |13,181
+| {{party shading/Republican}} |22.17%
+| {{party shading/Republican}} |59,470
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Logan County, Ohio|Logan]]
+| {{party shading/Republican}} |9,292
+| {{party shading/Republican}} |63.96%
+| {{party shading/Democratic}} |4,420
+| {{party shading/Democratic}} |30.42%
+| {{party shading/Others}} |816
+| {{party shading/Others}} |5.62%
+| {{party shading/Republican}} |4,872
+| {{party shading/Republican}} |33.54%
+| {{party shading/Republican}} |14,528
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Lorain County, Ohio|Lorain]]
+| {{party shading/Republican}} |43,994
+| {{party shading/Republican}} |44.24%
+| {{party shading/Democratic}} |50,714
+| {{party shading/Democratic}} |51.00%
+| {{party shading/Others}} |4,725
+| {{party shading/Others}} |4.76%
+| {{party shading/Democratic}} |-6,720
+| {{party shading/Democratic}} |-6.76%
+| {{party shading/Democratic}} |99,433
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Lucas County, Ohio|Lucas]]
+| {{party shading/Republican}} |52,070
+| {{party shading/Republican}} |35.98%
+| {{party shading/Democratic}} |88,210
+| {{party shading/Democratic}} |60.95%
+| {{party shading/Others}} |4,456
+| {{party shading/Others}} |3.07%
+| {{party shading/Democratic}} |-36,140
+| {{party shading/Democratic}} |-24.97%
+| {{party shading/Democratic}} |144,736
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Madison County, Ohio|Madison]]
+| {{party shading/Republican}} |7,623
+| {{party shading/Republican}} |60.16%
+| {{party shading/Democratic}} |4,545
+| {{party shading/Democratic}} |35.87%
+| {{party shading/Others}} |504
+| {{party shading/Others}} |3.97%
+| {{party shading/Republican}} |3,078
+| {{party shading/Republican}} |24.29%
+| {{party shading/Republican}} |12,672
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Mahoning County, Ohio|Mahoning]]
+| {{party shading/Republican}} |26,566
+| {{party shading/Republican}} |31.07%
+| {{party shading/Democratic}} |56,228
+| {{party shading/Democratic}} |65.76%
+| {{party shading/Others}} |2,712
+| {{party shading/Others}} |3.17%
+| {{party shading/Democratic}} |-29,662
+| {{party shading/Democratic}} |-34.69%
+| {{party shading/Democratic}} |85,506
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Marion County, Ohio|Marion]]
+| {{party shading/Republican}} |10,535
+| {{party shading/Republican}} |52.47%
+| {{party shading/Democratic}} |8,517
+| {{party shading/Democratic}} |42.42%
+| {{party shading/Others}} |1,025
+| {{party shading/Others}} |5.11%
+| {{party shading/Republican}} |2,018
+| {{party shading/Republican}} |10.05%
+| {{party shading/Republican}} |20,077
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Medina County, Ohio|Medina]]
+| {{party shading/Republican}} |36,407
+| {{party shading/Republican}} |57.77%
+| {{party shading/Democratic}} |23,761
+| {{party shading/Democratic}} |37.71%
+| {{party shading/Others}} |2,848
+| {{party shading/Others}} |4.52%
+| {{party shading/Republican}} |12,646
+| {{party shading/Republican}} |20.06%
+| {{party shading/Republican}} |63,016
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Meigs County, Ohio|Meigs]]
+| {{party shading/Republican}} |3,322
+| {{party shading/Republican}} |47.78%
+| {{party shading/Democratic}} |3,430
+| {{party shading/Democratic}} |49.34%
+| {{party shading/Others}} |200
+| {{party shading/Others}} |2.88%
+| {{party shading/Democratic}} |-108
+| {{party shading/Democratic}} |-1.56%
+| {{party shading/Democratic}} |6,952
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Mercer County, Ohio|Mercer]]
+| {{party shading/Republican}} |10,852
+| {{party shading/Republican}} |68.00%
+| {{party shading/Democratic}} |4,396
+| {{party shading/Democratic}} |27.55%
+| {{party shading/Others}} |710
+| {{party shading/Others}} |4.45%
+| {{party shading/Republican}} |6,456
+| {{party shading/Republican}} |40.45%
+| {{party shading/Republican}} |15,958
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Miami County, Ohio|Miami]]
+| {{party shading/Republican}} |23,543
+| {{party shading/Republican}} |63.39%
+| {{party shading/Democratic}} |11,729
+| {{party shading/Democratic}} |31.58%
+| {{party shading/Others}} |1,865
+| {{party shading/Others}} |5.03%
+| {{party shading/Republican}} |11,814
+| {{party shading/Republican}} |31.81%
+| {{party shading/Republican}} |37,137
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Monroe County, Ohio|Monroe]]
+| {{party shading/Republican}} |2,102
+| {{party shading/Republican}} |39.55%
+| {{party shading/Democratic}} |3,063
+| {{party shading/Democratic}} |57.63%
+| {{party shading/Others}} |150
+| {{party shading/Others}} |2.82%
+| {{party shading/Democratic}} |-961
+| {{party shading/Democratic}} |-18.08%
+| {{party shading/Democratic}} |5,315
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Montgomery County, Ohio|Montgomery]]
+| {{party shading/Republican}} |89,218
+| {{party shading/Republican}} |48.21%
+| {{party shading/Democratic}} |89,379
+| {{party shading/Democratic}} |48.30%
+| {{party shading/Others}} |6,459
+| {{party shading/Others}} |3.49%
+| {{party shading/Democratic}} |-161
+| {{party shading/Democratic}} |-0.09%
+| {{party shading/Democratic}} |185,056
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Morgan County, Ohio|Morgan]]
+| {{party shading/Republican}} |2,371
+| {{party shading/Republican}} |49.25%
+| {{party shading/Democratic}} |2,244
+| {{party shading/Democratic}} |46.61%
+| {{party shading/Others}} |199
+| {{party shading/Others}} |4.14%
+| {{party shading/Republican}} |127
+| {{party shading/Republican}} |2.64%
+| {{party shading/Republican}} |4,814
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Morrow County, Ohio|Morrow]]
+| {{party shading/Republican}} |7,078
+| {{party shading/Republican}} |60.25%
+| {{party shading/Democratic}} |3,989
+| {{party shading/Democratic}} |33.95%
+| {{party shading/Others}} |681
+| {{party shading/Others}} |5.80%
+| {{party shading/Republican}} |3,089
+| {{party shading/Republican}} |26.30%
+| {{party shading/Republican}} |11,748
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Muskingum County, Ohio|Muskingum]]
+| {{party shading/Republican}} |13,506
+| {{party shading/Republican}} |51.78%
+| {{party shading/Democratic}} |11,202
+| {{party shading/Democratic}} |42.95%
+| {{party shading/Others}} |1,374
+| {{party shading/Others}} |5.27%
+| {{party shading/Republican}} |2,304
+| {{party shading/Republican}} |8.83%
+| {{party shading/Republican}} |26,082
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Noble County, Ohio|Noble]]
+| {{party shading/Republican}} |2,351
+| {{party shading/Republican}} |44.86%
+| {{party shading/Democratic}} |2,609
+| {{party shading/Democratic}} |49.78%
+| {{party shading/Others}} |281
+| {{party shading/Others}} |5.36%
+| {{party shading/Democratic}} |-258
+| {{party shading/Democratic}} |-4.92%
+| {{party shading/Democratic}} |5,241
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Ottawa County, Ohio|Ottawa]]
+| {{party shading/Republican}} |7,350
+| {{party shading/Republican}} |46.26%
+| {{party shading/Democratic}} |7,945
+| {{party shading/Democratic}} |50.00%
+| {{party shading/Others}} |595
+| {{party shading/Others}} |3.74%
+| {{party shading/Democratic}} |-595
+| {{party shading/Democratic}} |-3.74%
+| {{party shading/Democratic}} |15,890
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Paulding County, Ohio|Paulding]]
+| {{party shading/Republican}} |3,695
+| {{party shading/Republican}} |53.73%
+| {{party shading/Democratic}} |2,795
+| {{party shading/Democratic}} |40.64%
+| {{party shading/Others}} |387
+| {{party shading/Others}} |5.63%
+| {{party shading/Republican}} |900
+| {{party shading/Republican}} |13.09%
+| {{party shading/Republican}} |6,877
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Perry County, Ohio|Perry]]
+| {{party shading/Republican}} |4,913
+| {{party shading/Republican}} |48.41%
+| {{party shading/Democratic}} |4,741
+| {{party shading/Democratic}} |46.71%
+| {{party shading/Others}} |495
+| {{party shading/Others}} |4.88%
+| {{party shading/Republican}} |172
+| {{party shading/Republican}} |1.70%
+| {{party shading/Republican}} |10,149
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Pickaway County, Ohio|Pickaway]]
+| {{party shading/Republican}} |9,789
+| {{party shading/Republican}} |57.42%
+| {{party shading/Democratic}} |6,639
+| {{party shading/Democratic}} |38.94%
+| {{party shading/Others}} |621
+| {{party shading/Others}} |3.64%
+| {{party shading/Republican}} |3,150
+| {{party shading/Republican}} |18.48%
+| {{party shading/Republican}} |17,049
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Pike County, Ohio|Pike]]
+| {{party shading/Republican}} |3,549
+| {{party shading/Republican}} |40.44%
+| {{party shading/Democratic}} |4,940
+| {{party shading/Democratic}} |56.30%
+| {{party shading/Others}} |286
+| {{party shading/Others}} |3.26%
+| {{party shading/Democratic}} |-1,391
+| {{party shading/Democratic}} |-15.86%
+| {{party shading/Democratic}} |8,775
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Portage County, Ohio|Portage]]
+| {{party shading/Republican}} |24,341
+| {{party shading/Republican}} |48.78%
+| {{party shading/Democratic}} |23,161
+| {{party shading/Democratic}} |46.42%
+| {{party shading/Others}} |2,395
+| {{party shading/Others}} |4.80%
+| {{party shading/Republican}} |1,180
+| {{party shading/Republican}} |2.36%
+| {{party shading/Republican}} |49,897
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Preble County, Ohio|Preble]]
+| {{party shading/Republican}} |8,817
+| {{party shading/Republican}} |58.91%
+| {{party shading/Democratic}} |5,217
+| {{party shading/Democratic}} |34.86%
+| {{party shading/Others}} |933
+| {{party shading/Others}} |6.23%
+| {{party shading/Republican}} |3,600
+| {{party shading/Republican}} |24.05%
+| {{party shading/Republican}} |14,967
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Putnam County, Ohio|Putnam]]
+| {{party shading/Republican}} |8,210
+| {{party shading/Republican}} |62.07%
+| {{party shading/Democratic}} |4,446
+| {{party shading/Democratic}} |33.62%
+| {{party shading/Others}} |570
+| {{party shading/Others}} |4.31%
+| {{party shading/Republican}} |3,764
+| {{party shading/Republican}} |28.45%
+| {{party shading/Republican}} |13,226
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Richland County, Ohio|Richland]]
+| {{party shading/Republican}} |22,691
+| {{party shading/Republican}} |55.00%
+| {{party shading/Democratic}} |16,470
+| {{party shading/Democratic}} |39.92%
+| {{party shading/Others}} |2,096
+| {{party shading/Others}} |5.08%
+| {{party shading/Republican}} |6,221
+| {{party shading/Republican}} |15.08%
+| {{party shading/Republican}} |41,257
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Ross County, Ohio|Ross]]
+| {{party shading/Republican}} |10,246
+| {{party shading/Republican}} |46.48%
+| {{party shading/Democratic}} |10,949
+| {{party shading/Democratic}} |49.67%
+| {{party shading/Others}} |849
+| {{party shading/Others}} |3.85%
+| {{party shading/Democratic}} |-703
+| {{party shading/Democratic}} |-3.19%
+| {{party shading/Democratic}} |22,044
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Sandusky County, Ohio|Sandusky]]
+| {{party shading/Republican}} |9,326
+| {{party shading/Republican}} |47.39%
+| {{party shading/Democratic}} |9,261
+| {{party shading/Democratic}} |47.06%
+| {{party shading/Others}} |1,091
+| {{party shading/Others}} |5.55%
+| {{party shading/Republican}} |65
+| {{party shading/Republican}} |0.33%
+| {{party shading/Republican}} |19,678
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Scioto County, Ohio|Scioto]]
+| {{party shading/Republican}} |8,998
+| {{party shading/Republican}} |37.93%
+| {{party shading/Democratic}} |14,244
+| {{party shading/Democratic}} |60.04%
+| {{party shading/Others}} |481
+| {{party shading/Others}} |2.03%
+| {{party shading/Democratic}} |-5,246
+| {{party shading/Democratic}} |-22.11%
+| {{party shading/Democratic}} |23,723
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Seneca County, Ohio|Seneca]]
+| {{party shading/Republican}} |8,716
+| {{party shading/Republican}} |49.35%
+| {{party shading/Democratic}} |7,790
+| {{party shading/Democratic}} |44.11%
+| {{party shading/Others}} |1,155
+| {{party shading/Others}} |6.54%
+| {{party shading/Republican}} |926
+| {{party shading/Republican}} |5.24%
+| {{party shading/Republican}} |17,661
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Shelby County, Ohio|Shelby]]
+| {{party shading/Republican}} |11,402
+| {{party shading/Republican}} |64.06%
+| {{party shading/Democratic}} |5,355
+| {{party shading/Democratic}} |30.09%
+| {{party shading/Others}} |1,041
+| {{party shading/Others}} |5.85%
+| {{party shading/Republican}} |6,047
+| {{party shading/Republican}} |33.97%
+| {{party shading/Republican}} |17,798
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Stark County, Ohio|Stark]]
+| {{party shading/Republican}} |63,779
+| {{party shading/Republican}} |49.72%
+| {{party shading/Democratic}} |58,492
+| {{party shading/Democratic}} |45.60%
+| {{party shading/Others}} |5,996
+| {{party shading/Others}} |4.68%
+| {{party shading/Republican}} |5,287
+| {{party shading/Republican}} |4.12%
+| {{party shading/Republican}} |128,267
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Summit County, Ohio|Summit]]
+| {{party shading/Republican}} |79,963
+| {{party shading/Republican}} |44.40%
+| {{party shading/Democratic}} |93,740
+| {{party shading/Democratic}} |52.05%
+| {{party shading/Others}} |6,406
+| {{party shading/Others}} |3.55%
+| {{party shading/Democratic}} |-13,777
+| {{party shading/Democratic}} |-7.65%
+| {{party shading/Democratic}} |180,109
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Trumbull County, Ohio|Trumbull]]
+| {{party shading/Republican}} |24,811
+| {{party shading/Republican}} |33.97%
+| {{party shading/Democratic}} |44,935
+| {{party shading/Democratic}} |61.52%
+| {{party shading/Others}} |3,297
+| {{party shading/Others}} |4.51%
+| {{party shading/Democratic}} |-20,124
+| {{party shading/Democratic}} |-27.55%
+| {{party shading/Democratic}} |73,043
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Tuscarawas County, Ohio|Tuscarawas]]
+| {{party shading/Republican}} |14,214
+| {{party shading/Republican}} |48.94%
+| {{party shading/Democratic}} |13,182
+| {{party shading/Democratic}} |45.39%
+| {{party shading/Others}} |1,647
+| {{party shading/Others}} |5.67%
+| {{party shading/Republican}} |1,032
+| {{party shading/Republican}} |3.55%
+| {{party shading/Republican}} |29,043
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Union County, Ohio|Union]]
+| {{party shading/Republican}} |11,739
+| {{party shading/Republican}} |66.30%
+| {{party shading/Democratic}} |5,304
+| {{party shading/Democratic}} |29.95%
+| {{party shading/Others}} |664
+| {{party shading/Others}} |3.75%
+| {{party shading/Republican}} |6,435
+| {{party shading/Republican}} |36.35%
+| {{party shading/Republican}} |17,707
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Van Wert County, Ohio|Van Wert]]
+| {{party shading/Republican}} |6,396
+| {{party shading/Republican}} |64.63%
+| {{party shading/Democratic}} |3,014
+| {{party shading/Democratic}} |30.45%
+| {{party shading/Others}} |487
+| {{party shading/Others}} |4.92%
+| {{party shading/Republican}} |3,382
+| {{party shading/Republican}} |34.18%
+| {{party shading/Republican}} |9,897
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Vinton County, Ohio|Vinton]]
+| {{party shading/Republican}} |1,764
+| {{party shading/Republican}} |41.06%
+| {{party shading/Democratic}} |2,351
+| {{party shading/Democratic}} |54.73%
+| {{party shading/Others}} |181
+| {{party shading/Others}} |4.21%
+| {{party shading/Democratic}} |-587
+| {{party shading/Democratic}} |-13.67%
+| {{party shading/Democratic}} |4,296
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Warren County, Ohio|Warren]]
+| {{party shading/Republican}} |54,536
+| {{party shading/Republican}} |68.37%
+| {{party shading/Democratic}} |22,271
+| {{party shading/Democratic}} |27.92%
+| {{party shading/Others}} |2,955
+| {{party shading/Others}} |3.71%
+| {{party shading/Republican}} |32,265
+| {{party shading/Republican}} |40.45%
+| {{party shading/Republican}} |79,762
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Washington County, Ohio|Washington]]
+| {{party shading/Republican}} |10,230
+| {{party shading/Republican}} |48.20%
+| {{party shading/Democratic}} |10,408
+| {{party shading/Democratic}} |49.04%
+| {{party shading/Others}} |585
+| {{party shading/Others}} |2.76%
+| {{party shading/Democratic}} |-178
+| {{party shading/Democratic}} |-0.84%
+| {{party shading/Democratic}} |21,223
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Wayne County, Ohio|Wayne]]
+| {{party shading/Republican}} |21,243
+| {{party shading/Republican}} |58.12%
+| {{party shading/Democratic}} |13,490
+| {{party shading/Democratic}} |36.91%
+| {{party shading/Others}} |1,818
+| {{party shading/Others}} |4.97%
+| {{party shading/Republican}} |7,753
+| {{party shading/Republican}} |21.21%
+| {{party shading/Republican}} |36,551
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Williams County, Ohio|Williams]]
+| {{party shading/Republican}} |6,610
+| {{party shading/Republican}} |54.23%
+| {{party shading/Democratic}} |4,931
+| {{party shading/Democratic}} |40.46%
+| {{party shading/Others}} |647
+| {{party shading/Others}} |5.31%
+| {{party shading/Republican}} |1,679
+| {{party shading/Republican}} |13.77%
+| {{party shading/Republican}} |12,188
+|- style="text-align:center;"
+| {{party shading/Democratic}} |[[Wood County, Ohio|Wood]]
+| {{party shading/Republican}} |20,390
+| {{party shading/Republican}} |46.61%
+| {{party shading/Democratic}} |21,369
+| {{party shading/Democratic}} |48.85%
+| {{party shading/Others}} |1,987
+| {{party shading/Others}} |4.54%
+| {{party shading/Democratic}} |-979
+| {{party shading/Democratic}} |-2.24%
+| {{party shading/Democratic}} |43,746
+|- style="text-align:center;"
+| {{party shading/Republican}} |[[Wyandot County, Ohio|Wyandot]]
+| {{party shading/Republican}} |4,103
+| {{party shading/Republican}} |56.87%
+| {{party shading/Democratic}} |2,666
+| {{party shading/Democratic}} |36.95%
+| {{party shading/Others}} |446
+| {{party shading/Others}} |6.18%
+| {{party shading/Republican}} |1,437
+| {{party shading/Republican}} |19.92%
+| {{party shading/Republican}} |7,215
+|-
+!Totals!!1,889,186!!49.04%!!1,812,059!!47.04%!!151,224!!3.92%!!77,127!!2.00%!!3,852,469
+|}
+
+{{align|right|{{Switcher| [[File:County swing in the 2010 Ohio gubernatorial election.svg|300px]]|Swing by county
+|[[File:County trend in the 2010 Ohio gubernatorial election.svg|300px]]|Trend by county<br />{{collapsible list| title = Legend
+|{{legend|#09ceff|Democratic—+20%−25%}}
+|{{legend|#4bdbff|Democratic—+15%−20%}}
+|{{legend|#77e3ff|Democratic—+10−15%}}
+|{{legend|#aaeeff|Democratic—+5−10%}}
+|{{legend|#D5F6FF|Democratic—+<5%}}
+|{{legend|#FFD5D5|Republican—+<5%}}
+|{{legend|#FFAAAA|Republican—+5−10%}}
+|{{legend|#FF8080|Republican—+10−15%}}
+|{{legend|#FF5555|Republican—+15−20%}}
+|{{legend|#FF2A2A|Republican—+20−25%}}
+|{{legend|#FF0000|Republican—+25−30%}}
+|{{legend|#D40000|Republican—+30–40%}}
+|{{legend|#b80000|Republican—+40–50%}}}}
+|[[File:County flips in the 2010 Ohio gubernatorial election.svg|300px]]|County flips<br />{{collapsible list| title = Legend| {{col-begin}}
+{{col-2}}
+'''Democratic'''
+{{legend|#92c5de|Hold}}
+{{col-2}}
+'''Republican'''
+{{legend|#f48882|Hold}}
+{{legend|#ca0120|Flip}}
+{{col-end}}}}}}}}
+
+;Counties that flipped from Democratic to Republican
+* [[Adams County, Ohio|Adams]] (largest city: [[West Union, Ohio|West Union]])
+* [[Ashland County, Ohio|Ashland]] (largest city: [[Ashland, Ohio|Ashland]])
+* [[Allen County, Ohio|Allen]] (largest city: [[Lima, Ohio|Lima]])
+* [[Brown County, Ohio|Brown]] (largest city: [[Georgetown, Ohio|Georgetown]])
+* [[Carroll County, Ohio|Carroll]] (largest city: [[Carrollton, Ohio|Carrollton]])
+* [[Champaign County, Ohio|Champaign]] (largest city: [[Urbana, Ohio|Urbana]])
+* [[Clark County, Ohio|Clark]] (largest municipality: [[Springfield, Ohio|Springfield]])
+* [[Clinton County, Ohio|Clinton]] (largest city: [[Wilmington, Ohio|Wilmington]])
+* [[Columbiana County, Ohio|Columbiana]] (largest city: [[Salem, Ohio|Salem]])
+* [[Coshocton County, Ohio|Coshocton]] (largest city: [[Coshocton, Ohio|Coshocton]])
+* [[Crawford County, Ohio|Crawford]] (largest city: [[Bucyrus, Ohio|Bucyrus]])
+* [[Delaware County, Ohio|Delaware]] (largest city: [[Delaware, Ohio|Delaware]])
+* [[Defiance County, Ohio|Defiance]] (largest city: [[Defiance, Ohio|Defiance]])
+* [[Fairfield County, Ohio|Fairfield]] (largest city: [[Lancaster, Ohio|Lancaster]])
+* [[Fayette County, Ohio|Fayette]] (largest city: [[Washington Court House, Ohio|Washington Court House]])
+* [[Fulton County, Ohio|Fulton]] (largest city: [[Wauseon, Ohio|Wauseon]])
+* [[Gallia County, Ohio|Gallia]] (largest city: [[Gallipolis, Ohio|Gallipolis]])
+* [[Geauga County, Ohio|Geauga]] (largest city: [[Chardon, Ohio|Chardon]])
+* [[Guernsey County, Ohio|Guernsey]] (largest city: [[Cambridge, Ohio|Cambridge]])
+* [[Hardin County, Ohio|Hardin]] (largest city: [[Kenton, Ohio|Kenton]])
+* [[Henry County, Ohio|Henry]] (largest city: [[Napoleon, Ohio|Napoleon]])
+* [[Highland County, Ohio|Highland]] (largest city: [[Hillsboro, Ohio|Hillsboro]])
+* [[Huron County, Ohio|Huron]] (largest city: [[Norwalk, Ohio|Norwalk]])
+* [[Knox County, Ohio|Knox]] (largest city: [[Mount Vernon, Ohio|Mount Vernon]])
+* [[Lake County, Ohio|Lake]] (largest city: [[Mentor, Ohio|Mentor]])
+* [[Licking County, Ohio|Licking]] (largest city: [[Newark, Ohio|Newark]])
+* [[Madison County, Ohio|Madison]] (largest city: [[London, Ohio|London]])
+* [[Marion County, Ohio|Marion]] (largest city: [[Marion, Ohio|Marion]])
+* [[Medina County, Ohio|Medina]] (largest city: [[Medina, Ohio|Medina]])
+* [[Morgan County, Ohio|Morgan]] (largest city: [[McConnelsville, Ohio|McConnelsville]])
+* [[Morrow County, Ohio|Morrow]] (largest city: [[Mount Gilead, Ohio|Mount Gilead]])
+* [[Muskingum County, Ohio|Muskingum]] (largest city: [[Zanesville, Ohio|Zanesville]])
+* [[Paulding County, Ohio|Paulding]] (largest city: [[Paulding, Ohio|Paulding]])
+* [[Perry County, Ohio|Perry]] (largest city: [[New Lexington, Ohio|New Lexington]])
+* [[Pickaway County, Ohio|Pickaway]] (largest city: [[Circleville, Ohio|Circleville]])
+* [[Portage County, Ohio|Portage]] (largest city: [[Kent, Ohio|Kent]])
+* [[Preble County, Ohio|Preble]] (largest city: [[Eaton, Ohio|Eaton]])
+* [[Richland County, Ohio|Richland]] (largest city: [[Mansfield, Ohio|Mansfield]])
+* [[Sandusky County, Ohio|Sandusky]] (largest city: [[Fremont, Ohio|Fremont]])
+* [[Seneca County, Ohio|Seneca]] (largest city: [[Tiffin, Ohio|Tiffin]])
+* [[Stark County, Ohio|Stark]] (largest city: [[Canton, Ohio|Canton]])
+* [[Tuscarawas County, Ohio|Tuscarawas]] (largest city: [[New Philadelphia, Ohio|New Philadelphia]])
+* [[Wayne County, Ohio|Wayne]] (largest city: [[Wooster, Ohio|Wooster]])
+* [[Williams County, Ohio|Williams]] (largest city: [[Bryan, Ohio|Bryan]])
+* [[Wyandot County, Ohio|Wyandot]] (largest city: [[Upper Sandusky, Ohio|Upper Sandusky]])
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://web.archive.org/web/20121022043120/http://www.sos.state.oh.us/elections.aspx Elections & Ballot Issues] at the Ohio Secretary of State
+* [http://www.votesmart.org/election_state.php?state_id=OH Candidates for Ohio State Offices]{{Dead link|date=August 2026 |bot=InternetArchiveBot }} at [[Project Vote Smart]]
+* [http://www.followthemoney.org/database/StateGlance/state_candidates.phtml?s=OH&y=2010&f=G Campaign contributions for 2010 Ohio Governor] from ''Follow the Money''
+* {{Deprecated archive|url=https://archive.today/20130131124326/http://www.pollster.com/polls/oh/10-oh-gov-ge-kvs.php|title=2010 Ohio Gubernatorial General Election: John Kasich (R) vs Ted Strickland (D)|sec=el}} graph of multiple polls from ''Pollster.com''
+* [http://www.rasmussenreports.com/public_content/politics/elections2/election_2010/election_2010_governor_elections/ohio/election_2010_ohio_governor Election 2010: Ohio Governor] from ''[[Rasmussen Reports]]''
+* [http://www.realclearpolitics.com/epolls/2010/governor/oh/ohio_governor_kasich_vs_strickland-1078.html 2010 Ohio Governor – Kasich vs. Strickland] from ''[[Real Clear Politics]]''
+* [https://web.archive.org/web/20100204121624/http://www.cqpolitics.com/wmspage.cfm?docID=governor-2010-OH 2010 Ohio Governor's Race] from ''[[Congressional Quarterly|CQ Politics]]''
+* [http://elections.nytimes.com/2010/governor/ohio Race Profile] in ''[[The New York Times]]''
+'''Debates'''
+* [http://www.c-spanvideo.org/program/295464-1 Ohio Gubernatorial Debate], ''[[C-SPAN]]'', September 14, 2010
+'''Official campaign websites (archived)'''
+* [https://web.archive.org/web/20101028214426/http://www.kasichforohio.com/site/c.hpIJKWOCJqG/b.5199849/k.BFBA/Home.htm John Kasich for Governor]
+* [https://web.archive.org/web/20100516043851/http://mateszforohio.com/ Ken Matesz for Governor]
+* [https://web.archive.org/web/20100531132717/http://www.votespisak.org/governor/ Dennis Spisak for Governor]
+* [https://web.archive.org/web/20091016032147/http://www.tedstrickland.com/ Ted Strickland for Governor] incumbent
+
+{{United States elections, 2010}}
+
+[[Category:2010 elections in Ohio|Gubernatorial]]
+[[Category:Ohio gubernatorial elections|2010]]
+[[Category:2010 United States gubernatorial elections|Ohio]]
+[[Category:November 2010 in the United States]]
+[[Category:John Kasich]]

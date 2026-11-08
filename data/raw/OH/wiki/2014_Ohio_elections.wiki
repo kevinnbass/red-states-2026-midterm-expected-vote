@@ -1,0 +1,603 @@
+{{Short description|none}}
+{{Use American English|date=February 2026}}
+{{Infobox election
+| election_name = Ohio elections, 2014
+| country = Ohio
+| type = presidential
+| ongoing = no
+| next_year = [[2016 Ohio elections|2016]]
+| election_date = 2014
+| previous_year = [[2012 Ohio elections|2012]]
+}}{{Use mdy dates|date=April 2019}}
+{{ElectionsOH}}
+The '''Ohio general elections, 2014''' were held on November 4, 2014, throughout [[Ohio]], with polls opened between 6:30AM and 7:30PM. The close of registration for electors in the primary election was April 7, 2014, and the primary election day took place on May 6, 2014.<ref name=SOSCalendar>{{cite news|title=2014 Ohio Election Calendar|url=http://www.sos.state.oh.us/sos/upload/publications/election/2014ElectionCalendar.pdf|access-date=2013-10-13|newspaper=Ohio Secretary of State|archive-url=https://web.archive.org/web/20131015075009/http://www.sos.state.oh.us/sos/upload/publications/election/2014ElectionCalendar.pdf|archive-date=2013-10-15|url-status=dead}}</ref>
+
+==Early voting==
+During the week of November 18, 2013, Republicans in the state legislature planned to introduce four bills that would restrict voting in the 2014 elections, including shortening the early voting period from 35 to 29 days.<ref>{{cite web |title = Four GOP Anti-Voter Bills Set For Hearings This Week | publisher = Plunderbund.com | date = November 16, 2013 | url = http://www.plunderbund.com/2013/11/16/four-gop-anti-voter-bills-set-for-hearings-this-week/ | access-date = 2013-11-17 }}</ref>
+
+==Federal representatives==
+===United States Senate===
+There was no U.S. Senate election in Ohio in 2014. Republican senator [[Rob Portman]] is a Class III senator who ran for and won re-election in 2016. Democratic senator [[Sherrod Brown]] is a Class I senator who ran for and won re-election in 2018.
+
+===United States House of Representatives===
+{{Main|2014 United States House of Representatives elections in Ohio}}
+All of Ohio's 16 seats in the [[United States House of Representatives]] were up for election in 2014.
+
+==State executive branch==
+===Governor and lieutenant governor===
+{{Main|2014 Ohio gubernatorial election}}
+Incumbent Republican governor [[John Kasich]] and lieutenant governor [[Mary Taylor (Ohio politician)|Mary Taylor]] ran for re-election to a second term in office.
+
+[[Ed FitzGerald]], the [[County Executive of Cuyahoga County, Ohio]], was the Democratic nominee. His running mate was attorney and former Congressional nominee Sharen Neuhardt.<ref>{{cite web|last=Troy|first=Tom|title=Cuyahoga County executive Ed FitzGerald announces bid for Ohio governor|url=http://www.toledoblade.com/State/2013/04/24/Dem-Ed-FitzGerald-announces-bid-for-Ohio-governor.html|work=toledoblade.com|publisher=The (Toledo) Blade|access-date=2013-10-13|date=April 24, 2013}}</ref>
+
+Anita Rios ran as the Green Party candidate. Her running mate was [[Bob Fitrakis]].<ref name=write-in>{{cite web|url=http://www.akron.com/akron-ohio-community-news.asp?aID=22270|title=Write-in candidates file for Primary, state issue added to ballot|date=February 27, 2014|access-date=March 29, 2014|work=Akron Ohio News|first=Kathleen|last=Collins|archive-date=March 9, 2014|archive-url=https://web.archive.org/web/20140309193319/http://www.akron.com/akron-ohio-community-news.asp?aID=22270|url-status=dead}}</ref>
+
+Governor John Kasich and his running mate Lieutenant Governor Mary Taylor were re-elected with 64% of the vote.
+
+===Attorney general===
+{{Main|2014 Ohio Attorney General election}}
+
+Incumbent Republican [[Ohio Attorney General|Attorney General]] [[Mike DeWine]] ran for re-election to a second term in office.
+
+Former [[City Council of Cincinnati elections|Cincinnati City Councilman]] and former [[Hamilton County, Ohio|Hamilton County]] [[County commission|Commissioner]] [[David A. Pepper]] ran for the Democrats.<ref>{{cite web|title=David Pepper announces run for Ohio Attorney General|url=http://www.wcpo.com/news/political/david-pepper-announces-run-for-ohio-attorney-general|publisher=WCPO.com|access-date=2013-10-13|date=Apr 15, 2013|archive-date=March 1, 2014|archive-url=https://web.archive.org/web/20140301062552/https://www.wcpo.com/news/political/david-pepper-announces-run-for-ohio-attorney-general|url-status=dead}}</ref>
+
+===Secretary of state===
+{{main|2014 Ohio Secretary of State election}}
+Incumbent Republican [[Ohio Secretary of State|Secretary of State]] [[Jon Husted]] ran for re-election to a second term in office.
+
+State Senator [[Nina Turner]] ran for the Democrats.<ref>{{cite web|last=Gomez |first=Henry J. |title=Nina Turner announces bid for Ohio secretary of state; Democrat hopes to unseat Jon Husted|url=http://www.cleveland.com/open/index.ssf/2013/07/nina_turner_announces_bid_for.html|access-date=2013-10-13 |work=cleveland.com |publisher=(Cleveland) Plain Dealer|date=July 1, 2013}}</ref>
+
+Libertarian Kevin Knedler also ran.<ref name="LPO">{{cite web |title=Candidates |url=https://www.lpo.org/elections/candidates |access-date=May 3, 2014 |work=lpo.org |publisher=[[Libertarian Party of Ohio]] |archive-url=https://web.archive.org/web/20131105033401/https://www.lpo.org/elections/candidates |archive-date=November 5, 2013 |url-status=dead }}</ref>
+
+===Treasurer===
+{{Infobox election
+| election_name = 2014 Ohio State Treasurer election
+| country = Ohio
+| type = presidential
+| ongoing = no
+| turnout = 
+| previous_election = 2010 Ohio State Treasurer election
+| previous_year = 2010
+| next_election = Ohio elections, 2018#Treasurer
+| next_year = 2018
+| election_date = November 4, 2014
+| image1 = Josh Mandel.jpg
+| nominee1 = '''[[Josh Mandel]]'''
+| party1 = Republican Party (United States)
+| popular_vote1 = '''1,724,060'''
+| percentage1 = '''56.58%'''
+| image2 = File:Connie Pillich 2014-10-30 (cropped).jpg
+| image_size = 150x150px
+| nominee2 = [[Connie Pillich]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 1,323,325
+| percentage2 = 43.42%
+| map_image = 2014 Ohio State Treasurer election results map by county.svg
+| map_size = 210px
+| map_caption = County results<br />'''Mandel:''' {{legend0|#e27f7f|50-60%}} {{legend0|#d75d5d|60-70%}} {{legend0|#d72f30|70-80%}} {{legend0|#C21B18|80-90%}}<br />'''Pillich:''' {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}}
+| title = [[Ohio State Treasurer|State Treasurer]]
+| before_election = [[Josh Mandel]]
+| before_party = Republican Party (United States)
+| after_election = [[Josh Mandel]]
+| after_party = Republican Party (United States)|
+}}
+
+Incumbent Republican [[Ohio State Treasurer|State Treasurer]] [[Josh Mandel]] ran for re-election to a second term in office.
+
+State Representative [[Connie Pillich]] ran for the Democrats.<ref>{{cite web|last=Gomez|first=Henry J.|title=State Rep. Connie Pillich officially launches campaign against Ohio Treasurer Josh Mandel|url=http://www.cleveland.com/open/index.ssf/2013/05/state_rep_connie_pillich_offic.html|work=cleveland.com|publisher=The (Cleveland) Plain Dealer|access-date=2013-10-13|date=May 20, 2013}}</ref>
+
+====General election====
+=====Polling=====
+{| class="wikitable"
+|- valign= bottom
+! style="width:180px;"| Poll source
+! style="width:160px;"| Date(s)<br />administered
+! class=small | Sample<br />size
+! <small>Margin of</small><br />error
+! style="width:100px;"| Josh<br />Mandel (R)
+! style="width:100px;"| Connie<br />Pillich (D)
+! Undecided
+|-
+|[[The Columbus Dispatch]]<ref name="The Columbus Dispatch">[http://www.dispatch.com/content/stories/local/2014/11/01/Kasich_headed_for_epic_victory.html The Columbus Dispatch]</ref>
+| align=center| October 22–31, 2014
+| align=center| 1,009
+| align=center| ± 3.3%
+| {{party shading/Republican}} align=center| '''53%'''
+| align=center| 47%
+| align=center| —
+|-
+|[[The Columbus Dispatch]]<ref name="dispatch.com">[http://www.dispatch.com/content/stories/local/2014/09/15/gop-positioned-to-retain-offices.html The Columbus Dispatch]</ref>
+| align=center| September 3–12, 2014
+| align=center| 1,185
+| align=center| ± 2.7%
+| {{party shading/Republican}} align=center| '''47%''' 
+| align=center| 41%
+| align=center| 11%
+|-
+|[[Buckeye Poll]]<ref name="Buckeye Poll">[http://www.uakron.edu/dotAsset/00662cec-a016-486f-813d-b4788f83b7fe.pdf Buckeye Poll]</ref>
+| align=center| August 31, 2014
+| align=center| 600
+| align=center| ± 4%
+| {{party shading/Republican}} align=center| '''34%''' 
+| align=center| 25%
+| {{party shading/Undecided}} align=center| '''41%''' 
+|-
+|[[Public Policy Polling]]<ref>[https://www.scribd.com/doc/236596547/PPP-Poll-Ohio-Treasurer Public Policy Polling]</ref><ref name=OHDP>Poll commissioned by the Ohio Democratic Party.</ref>
+| align=center| August 8–9, 2014
+| align=center| 801 LV
+| align=center| ± 3.5%
+| align=center| 44%
+| {{party shading/Democratic}} align=center| '''47%'''
+| align=center| 9%
+|-
+|[[Public Policy Polling]]<ref>[https://www.scribd.com/doc/233730276/PPP-Poll-Ohio-Treasurer-s-Race Public Policy Polling]</ref><ref name=OHDP />
+| align=center| July 9–10, 2014
+| align=center| 889 RV
+| align=center| ± 3.3%
+| align=center| 43%
+| {{party shading/Democratic}} align=center| '''46%'''
+| align=center| 11%
+|-
+|[[Public Policy Polling]]<ref>[http://pl.scribd.com/doc/183555634/OH-Gov-PPP-for-Ohio-Democratic-Party-Nov-2013 Public Policy Polling]</ref>
+| align=center| November 5–6, 2013
+| align=center| 595 RV
+| align=center| ± 4%
+| align=center| 43%
+| {{party shading/Democratic}} align=center| '''47%'''
+| align=center| 10%
+|-
+|[[Public Policy Polling]]<ref name="Public Policy Polling">[http://www.publicpolicypolling.com/pdf/2011/PPP_Release_OH_820.pdf Public Policy Polling]</ref>
+| align=center| August 16–19, 2013
+| align=center| 551 RV
+| align=center| ± 4.2%
+| align=center| 35%
+| {{party shading/Democratic}} align=center| '''40%'''
+| align=center| 24%
+|}
+
+=====Results=====
+{{Election box begin no change
+| title = Ohio State Treasurer election, 2014<ref name=results>{{cite web|url=https://www.sos.state.oh.us/SOS/elections/Research/electResultsMain/2014Results.aspx|title=2014 Elections Results|publisher=[[Ohio Secretary of State]]|access-date=March 27, 2017}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Josh Mandel]] (incumbent)
+| party = Republican Party (United States)
+| votes = 1,724,060
+| percentage = 56.58%
+}}
+{{Election box candidate with party link no change
+| candidate = [[Connie Pillich]]
+| party = Democratic Party (United States)
+| votes = 1,323,325
+| percentage = 43.42%
+}}
+{{Election box total no change
+| votes = 3,047,385
+| percentage = 100.00%
+}}
+{{Election box hold with party link without swing
+|winner = Republican Party (United States)
+}}
+{{Election box end}}
+
+===Auditor===
+{{Infobox election
+| election_name      = 2014 Ohio State Auditor election
+| country            = Ohio
+| type               = presidential
+| ongoing            = no
+| turnout            =
+| previous_election  = 2010 Ohio State Auditor election
+| previous_year      = 2010
+| next_election      = 2018 Ohio State Auditor election
+| next_year          = 2018
+| election_date      = November 4, 2014
+| image1             = File:Dave Yost, Sept 15, 2014 (cropped).jpg
+| image_size = 150x150px
+| nominee1           = '''[[Dave Yost]]'''
+| party1             = Republican Party (United States)
+| popular_vote1      = '''1,711,927'''
+| percentage1        = '''56.98%'''
+| image2             = File:John Patrick Carney Sept 15, 2014 (cropped).jpg
+| nominee2           = [[John Patrick Carney]]
+| party2             = Democratic Party (United States)
+| popular_vote2      = 1,149,305
+| percentage2        = 38.25%
+| map_image          = 2014 Ohio State Auditor election results map by county.svg
+| map_size           = 210px
+| map_caption = County results<br />'''Yost:''' {{legend0|#ffb2b2|40-50%}} {{legend0|#e27f7f|50-60%}} {{legend0|#d75d5d|60-70%}} {{legend0|#d72f30|70-80%}}<br />'''Carney:''' {{legend0|#7996e2|50–60%}}
+| title              = [[Ohio State Auditor|State Auditor]]
+| before_election    = [[Dave Yost]]
+| before_party       = Republican Party (United States)
+| after_election     = [[Dave Yost]]
+| after_party        = Republican Party (United States)
+|}}
+
+Incumbent Republican [[Ohio State Auditor|State Auditor]] [[Dave Yost]] ran for re-election to a second term in office.
+
+State Representative [[John Patrick Carney]] ran for the Democrats.<ref>{{cite web|last=Siegel|first=Jim|title=Rep. John Patrick Carney announces state auditor run|url=http://www.dispatch.com/content/stories/public/2013/09/10/John-Patrick-Carney-announces-state-auditor-run.html|work=dispatch.com|publisher=Columbus Dispatch|access-date=2013-10-13|date=September 11, 2013}}</ref>
+
+Libertarian Bob Bridges also ran.<ref name="LPO" />
+
+====General election====
+=====Polling=====
+{| class="wikitable"
+|- valign= bottom
+! style="width:180px;"| Poll source
+! style="width:160px;"| Date(s)<br />administered
+! class=small | Sample<br />size
+! <small>Margin of</small><br />error
+! style="width:100px;"| David<br />Yost (R)
+! style="width:100px;"| John Patrick<br />Carney (D)
+! style="width:100px;"| Bob<br />Bridges (L)
+! Undecided
+|-
+|[[The Columbus Dispatch]]<ref name="The Columbus Dispatch"/>
+| align=center| October 22–31, 2014
+| align=center| 1,009
+| align=center| ± 3.3%
+| {{party shading/Republican}} align=center| '''55%'''
+| align=center| 39%
+| align=center| —
+| align=center| 6%
+|-
+|[[The Columbus Dispatch]]<ref name="dispatch.com"/>
+| align=center| September 3–12, 2014
+| align=center| 1,185
+| align=center| ± 2.7%
+| {{party shading/Republican}} align=center| '''45%''' 
+| align=center| 33%
+| align=center| 5%
+| align=center| 16%
+|-
+|[[Buckeye Poll]]<ref name="Buckeye Poll"/>
+| align=center| August 31, 2014
+| align=center| 600
+| align=center| ± 4%
+| {{party shading/Republican}} align=center| '''26%''' 
+| align=center| 22%
+| align=center| —
+| {{party shading/Undecided}} align=center| '''52%''' 
+|-
+|[[Public Policy Polling]]<ref>[https://www.scribd.com/doc/236596555/PPP-Poll-Ohio-Auditor Public Policy Polling]</ref><ref name=OHDP />
+| align=center| August 8–9, 2014
+| align=center| 801 LV
+| align=center| ± 3.5%
+| {{party shading/Republican}} align=center| '''44%'''
+| align=center| 42%
+| align=center| —
+| align=center| 14%
+|-
+|[[Public Policy Polling]]<ref>[https://www.scribd.com/doc/233730273/PPP-Poll-Ohio-Auditor-s-Race Public Policy Polling]</ref><ref name=OHDP />
+| align=center| July 9–10, 2014
+| align=center| 889 RV
+| align=center| ± 3.3%
+| {{party shading/Republican}} align=center| '''42%'''
+| align=center| 40%
+| align=center| —
+| align=center| 17%
+|}
+
+=====Results=====
+{{Election box begin no change
+| title = Ohio State Auditor election, 2014<ref name=results/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Dave Yost]] (incumbent)
+| party = Republican Party (United States)
+| votes = 1,711,927
+| percentage = 56.98%
+}}
+{{Election box candidate with party link no change
+| candidate = [[John Patrick Carney]]
+| party = Democratic Party (United States)
+| votes = 1,149,305
+| percentage = 38.25%
+}}
+{{Election box candidate with party link no change
+| candidate = Bob Bridges
+| party = Libertarian Party (United States)
+| votes = 143,363
+| percentage = 4.77%
+}}
+{{Election box total no change
+| votes = 3,004,595
+| percentage = 100.00%
+}}
+{{Election box hold with party link without swing
+|winner = Republican Party (United States)
+}}
+{{Election box end}}
+
+==State legislative branch==
+===Ohio Senate===
+{{further|Ohio Senate}}
+The 17 odd-numbered districts out of 33 seats in the [[Ohio Senate]] were up for election in 2014. Ten of these seats were held by Republicans and seven were held by Democrats. Republicans controlled the chamber with a 23 to 10 majority.
+
+===Ohio House of Representatives===
+{{further|Ohio House of Representatives}}
+All 99 seats in the [[Ohio House of Representatives]] were up for election in 2014. Republicans held 59 seats and Democrats held 40 seats.
+
+==Supreme Court of Ohio==
+{{Infobox election
+| election_name      = 2014 Ohio Supreme Court elections
+| country            = Ohio
+| type               = legislative
+| ongoing            = no
+| previous_election  = 2012 Ohio Supreme Court elections
+| previous_year      = 2012
+| next_election      = 2016 Ohio elections#Supreme Court
+| next_year          = 2016
+| seats_for_election = 2 seats of the [[Supreme Court of Ohio]]
+| election_date      = {{Start date|2014|11|4}}
+| party1             = Ohio Republican Party 
+| last_election1     = 6
+| seats1             = '''2'''
+| seat_change1       = {{Steady}}
+| popular_vote1      = 
+| percentage1        =
+| swing1             = 
+| party2             = Ohio Democratic Party
+| last_election2     = 1
+| seats2             = 0
+| seat_change2       = {{Steady}}
+| popular_vote2      = 
+| percentage2        = 
+| swing2             = 
+| map_image          = 
+| map_caption        = 
+}}
+
+{{Main|Supreme Court of Ohio}}
+While judicial races in Ohio are technically non-partisan (party affiliations are not listed on the ballot), candidates run in party primaries. Terms are six years, and justices may run for re-election an unlimited number of times before their 70th birthday. The Supreme Court currently consists of 6 Republicans and 1 Democrat.
+
+===Associate justice (term commencing 01/01/2015)===
+Incumbent justice [[Sharon L. Kennedy]] (R) was eligible to run for another 6-year term.
+
+====Republican primary====
+=====Candidates=====
+*[[Sharon L. Kennedy]], incumbent Associate Justice of the Supreme Court of Ohio<ref name="SC1"/>
+
+=====Results=====
+{{Election box begin no change |title=Republican primary results<ref name="primaryresults">{{cite web |title=2014 ELECTIONS RESULTS |url=https://www.ohiosos.gov/elections/election-results-and-data/2014-elections-results/ |website=Ohio Secretary of State}}</ref>}}
+{{Election box winning candidate with party link no change
+  |party      = Ohio Republican Party
+  |candidate  = [[Sharon L. Kennedy]] (incumbent)
+  |votes      = 466,278
+  |percentage = 100.0%
+}}{{Election box total no change
+  |votes      = 466,278
+  |percentage = 100.0%
+}}{{Election box end}}
+
+====Democratic primary====
+=====Candidates=====
+*[[Tom Letson]], state representative<ref name="SC1">{{cite web |title=Sharon Kennedy, Tom Letson opponents in Supreme Court election but in agreement on issues (Audio) |url=https://www.cleveland.com/open/2014/10/sharon_kennedy_tom_letson_oppo.html |website=[[The Plain Dealer]] |date=October 9, 2014}}</ref>
+
+=====Results=====
+{{Election box begin no change |title=Democratic primary results<ref name="primaryresults"/>}}
+{{Election box winning candidate with party link no change
+  |party      = Ohio Democratic Party
+  |candidate  = [[Tom Letson]]
+  |votes      = 327,590
+  |percentage = 100.0%
+}}{{Election box total no change
+  |votes      = 327,590
+  |percentage = 100.0%
+}}{{Election box end}}
+
+====General election====
+=====Polling=====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size
+! Margin<br />of error
+! style="width:100px;"| Sharon L.<br />Kennedy (R)
+! style="width:100px;"| Tom<br />Letson (D)
+! Undecided
+|-
+| style="text-align:left;"|[[The Columbus Dispatch]]<ref name="The Columbus Dispatch"/>
+| October 22–31, 2014
+| 1,009 (LV)
+| ±&nbsp;3.3%
+| {{party shading/Nonpartisan}}| '''75%'''
+| 25%
+| —
+|-
+| style="text-align:left;"|[[The Columbus Dispatch]]<ref name="dispatch.com"/>
+| September 3–12, 2014
+| 1,185 (LV)
+| ±&nbsp;2.7%
+| {{party shading/Nonpartisan}}| '''32%'''
+| 11%
+|{{Party shading/Undecided}}| '''57%'''
+|}
+
+=====Results=====
+{{Election box begin no change |title=2014 Ohio Supreme Court Associate Justice (Term commencing 01/01/2015) election<ref name="primaryresults"/>}}
+{{Election box winning candidate with party link no change
+  |party      = Nonpartisan politician
+  |candidate  = [[Sharon L. Kennedy]] (incumbent)
+  |votes      = 1,828,156
+  |percentage = 72.54%
+}}
+{{Election box candidate with party link no change
+  |party      = Nonpartisan politician
+  |candidate  = [[Tom Letson]] 
+  |votes      = 692,030
+  |percentage = 27.46%
+}}
+{{Election box total no change
+  |votes      = 2,520,186
+  |percentage = 100.0%
+}}{{Election box hold with party link no swing
+  |winner = Ohio Republican Party
+}}
+{{Election box end}}
+
+===Associate justice (term commencing 01/02/2015)===
+{{Infobox election
+| election_name = 2014 Ohio Supreme Court election (French seat)
+| country = Ohio
+| type = presidential
+| ongoing = no
+| turnout = 
+| previous_election = 2008 Ohio elections
+| previous_year = 2008
+| next_election = 2020 Ohio elections
+| next_year = 2020
+| election_date = November 4, 2014
+| image1 = 
+| nominee1 = '''[[Judith L. French]]'''
+| party1 = Nonpartisan politician
+| alliance1= Republican Party (United States)
+| popular_vote1 = '''1,438,283'''
+| percentage1 = '''55.9%'''
+| image2 = 
+| nominee2 = John O'Donnell
+| party2 = Nonpartisan politician
+| alliance2 = Democratic Party (United States)
+| popular_vote2 = 1,132,759
+| percentage2 = 44.1%
+| map_image = File:2014 Ohio SC Seat 5 election.svg
+| map_size = 200px
+| map_caption = County results <br /> '''French:''' {{legend0|#FF9A50|50–60%}} {{legend0|#EE8E50|60–70%}}<br />
+'''O'Donnell:''' {{legend0|#51C2C2|50–60%}}
+
+| title = [[Supreme Court of Ohio|Justice]]
+| before_election = [[Judith L. French]]
+| before_party = Republican Party (United States)
+| after_election = [[Judith L. French]]
+| after_party = Republican Party (United States)
+}}
+Incumbent justice [[Judith L. French]] (R) was eligible to run for another 6-year term.
+
+====Republican primary====
+=====Candidates=====
+*[[Judith L. French]], incumbent associate justice of the Supreme Court of Ohio
+
+=====Results=====
+{{Election box begin no change |title=Republican primary results<ref name="primaryresults"/>}}
+{{Election box winning candidate with party link no change
+  |party      = Ohio Republican Party
+  |candidate  = [[Judith L. French]] (incumbent)
+  |votes      = 441,733
+  |percentage = 100.0%
+}}{{Election box total no change
+  |votes      = 441,733
+  |percentage = 100.0%
+}}{{Election box end}}
+
+====Democratic primary====
+=====Candidates=====
+*John P. O'Donnell, [[Cuyahoga County]] Court of Common Pleas judge<ref>{{cite web |last1=Castele |first1=Nick |title=Judge John O'Donnell kicks off campaign for Ohio Supreme Court |url=https://archive.wksu.org/news/story/38058 |website=[[WKSU]] |date=January 23, 2014}}</ref>
+
+=====Results=====
+{{Election box begin no change |title=Democratic primary results<ref name="primaryresults"/>}}
+{{Election box winning candidate with party link no change
+  |party      = Ohio Democratic Party
+  |candidate  = John P. O'Donnell 
+  |votes      = 349,909
+  |percentage = 100.0%
+}}{{Election box total no change
+  |votes      = 349,909
+  |percentage = 100.0%
+}}{{Election box end}}
+
+====General election====
+=====Polling=====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size
+! Margin<br />of error
+! style="width:100px;"| Judith L.<br />French (R)
+! style="width:100px;"| John P.<br />O'Donnell (D)
+! Undecided
+|-
+| style="text-align:left;"|[[The Columbus Dispatch]]<ref name="The Columbus Dispatch"/>
+| October 22–31, 2014
+| 1,009 (LV)
+| ±&nbsp;3.3%
+| {{party shading/Nonpartisan}}| '''56%'''
+| 44%
+| —
+|-
+| style="text-align:left;"|[[The Columbus Dispatch]]<ref name="dispatch.com"/>
+| September 3–12, 2014
+| 1,185 (LV)
+| ±&nbsp;2.7%
+| 20% 
+| {{party shading/Nonpartisan}}| '''26%'''
+| align=center {{Party shading/Undecided}}| '''54%'''
+|-
+| style="text-align:left;"|[[Public Policy Polling]]<ref>[https://www.scribd.com/doc/218811616/PPP-Ohio-Supreme-Court-Poll-April-2014 Public Policy Polling]</ref><ref name=OHDP />
+| April 14–15, 2014
+| 1,050 (RV)
+| ±&nbsp;3.0%
+| 22%
+| {{Party shading/Nonpartisan}}| '''29%'''
+| {{Party shading/Undecided}}| '''49%'''
+|}
+
+=====Results=====
+{{Election box begin no change |title=2014 Ohio Supreme Court Associate Justice (Term commencing 01/02/2015) election<ref name="primaryresults"/>}}
+{{Election box winning candidate with party link no change
+  |party      = Nonpartisan politician
+  |candidate  = [[Judith L. French]] (incumbent)
+  |votes      = 1,438,283
+  |percentage = 55.94%
+}}
+{{Election box candidate with party link no change
+  |party      = Nonpartisan politician
+  |candidate  = John P. O'Donnell 
+  |votes      = 1,132,759
+  |percentage = 44.06%
+}}
+{{Election box total no change
+  |votes      = 2,571,042
+  |percentage = 100.0%
+}}{{Election box hold with party link no swing
+  |winner = Ohio Republican Party
+}}
+{{Election box end}}
+
+==Ballot initiatives==
+===May election===
+{{Infobox referendum
+| name = Issue One
+| title = '''TO FUND PUBLIC INFRASTRUCTURE CAPITAL IMPROVEMENTS BY PERMITTING THE ISSUANCE OF GENERAL OBLIGATION BONDS'''
+| yes = 797207
+| no = 427273
+| map = 2014 Referendum Ohio Issue 1.svg
+| mapcaption =
+{{col-begin}}
+{{col-2}}
+'''Yes'''
+{{legend|#47729E|70–80%|border=1px #AAAAAA solid}}
+{{legend|#7D9CBB|60–70%|border=1px #AAAAAA solid}}
+{{legend|#B6C8D9|50–60%|border=1px #AAAAAA solid}}
+{{col-2}}
+'''No'''
+{{legend|#DEDEBD|50–60%|border=1px #AAAAAA solid}}
+{{col-end}}
+| mapdivision =
+| notes =
+}}
+*'''Issue One''': to fund public infrastructure capital improvements by permitting the issuance of general obligation bonds.<ref>{{cite web|url=http://www.sos.state.oh.us/sos/upload/ballotboard/2014/1-language.pdf|title=TO FUND PUBLIC INFRASTRUCTURE CAPITAL IMPROVEMENTS BY PERMITTING THE ISSUANCE OF GENERAL OBLIGATION BONDS|url-status=dead|archive-url=https://web.archive.org/web/20140315072800/http://www.sos.state.oh.us/sos/upload/ballotboard/2014/1-language.pdf|archive-date=2014-03-15|access-date=2014-03-15}}</ref>
+
+===November election===
+No initiatives qualified for the November 2014 ballot.
+{{Clear}}
+
+==References==
+{{Reflist}}
+
+{{2014 United States elections}}
+
+{{DEFAULTSORT:Ohio General Election, 2014}}
+[[Category:2014 elections in Ohio| ]]
+[[Category:2014 elections in the United States by state or territory]]

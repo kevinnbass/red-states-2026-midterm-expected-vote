@@ -1,0 +1,298 @@
+{
+  "results": [
+    {
+      "test": false,
+      "id": "2010",
+      "office": "G",
+      "officeName": "Governor",
+      "resultsType": "live",
+      "tabulationStatus": "Active Tabulation",
+      "eevp": 0.7381,
+      "type": "General",
+      "winThreshold": 50,
+      "rankedChoice": true,
+      "raceCallStatus": "Too Early to Call",
+      "level": "state",
+      "state": "AK",
+      "updated": 1793892466744,
+      "reporting": 297,
+      "precincts": 403,
+      "reportingunitID": "2",
+      "reportingPercent": 0.7369727047146402,
+      "stateName": "Alaska",
+      "stateAP": "Alaska",
+      "rating": "lean-d",
+      "previousParty": "GOP",
+      "keyRace": "yes",
+      "candidates": [
+        {
+          "first": "Jonathan",
+          "last": "Kreiss-Tomkins",
+          "party": "Dem",
+          "id": "101017",
+          "votes": 103837,
+          "percent": 0.4913
+        },
+        {
+          "first": "Bernadette",
+          "last": "Wilson",
+          "party": "GOP",
+          "id": "177707",
+          "votes": 61734,
+          "percent": 0.2921
+        },
+        {
+          "first": "Dave",
+          "last": "Bronson",
+          "party": "GOP",
+          "id": "177699",
+          "votes": 30003,
+          "percent": 0.142
+        },
+        {
+          "first": "Treg",
+          "last": "Taylor",
+          "party": "GOP",
+          "id": "177706",
+          "votes": 15763,
+          "percent": 0.0746
+        },
+        {
+          "first": "",
+          "last": "Other",
+          "party": "Other",
+          "id": "other-2010",
+          "votes": 0,
+          "avotes": 0,
+          "electoral": 0,
+          "count": 0,
+          "percent": 0
+        }
+      ]
+    },
+    {
+      "test": false,
+      "id": "2015",
+      "office": "H",
+      "officeName": "U.S. House",
+      "resultsType": "live",
+      "tabulationStatus": "Active Tabulation",
+      "eevp": 0.7398,
+      "type": "General",
+      "seatNumber": "1",
+      "seat": "District 1",
+      "winThreshold": 50,
+      "rankedChoice": true,
+      "raceCallStatus": "Too Early to Call",
+      "level": "state",
+      "state": "AK",
+      "updated": 1793892486520,
+      "reporting": 298,
+      "precincts": 403,
+      "reportingunitID": "2",
+      "reportingPercent": 0.739454094292804,
+      "stateName": "Alaska",
+      "stateAP": "Alaska",
+      "rating": "lean-r",
+      "previousParty": "GOP",
+      "keyRace": "yes",
+      "name_override": "",
+      "candidates": [
+        {
+          "first": "Nick",
+          "last": "Begich",
+          "party": "GOP",
+          "id": "70724",
+          "votes": 105647,
+          "incumbent": true,
+          "percent": 0.496
+        },
+        {
+          "first": "Bill",
+          "last": "Hill",
+          "party": "NP",
+          "id": "177719",
+          "votes": 86023,
+          "percent": 0.4038
+        },
+        {
+          "first": "Eric",
+          "last": "Hafner",
+          "party": "Dem",
+          "id": "167001",
+          "votes": 15550,
+          "percent": 0.073
+        },
+        {
+          "first": "",
+          "last": "Other",
+          "party": "Other",
+          "id": "other-2015",
+          "votes": 0,
+          "avotes": 0,
+          "electoral": 0,
+          "count": 0,
+          "percent": 0
+        }
+      ]
+    },
+    {
+      "test": false,
+      "id": "3079",
+      "office": "S",
+      "officeName": "U.S. Senate",
+      "resultsType": "live",
+      "tabulationStatus": "Active Tabulation",
+      "eevp": 0.7409,
+      "type": "General",
+      "seatNumber": "2",
+      "seat": "Class II",
+      "winThreshold": 50,
+      "rankedChoice": true,
+      "raceCallStatus": "Too Early to Call",
+      "level": "state",
+      "state": "AK",
+      "updated": 1793892467578,
+      "reporting": 298,
+      "precincts": 403,
+      "reportingunitID": "2",
+      "reportingPercent": 0.739454094292804,
+      "stateName": "Alaska",
+      "stateAP": "Alaska",
+      "rating": "toss-up",
+      "previousParty": "GOP",
+      "keyRace": "yes",
+      "candidates": [
+        {
+          "first": "Mary",
+          "last": "Peltola",
+          "party": "Dem",
+          "id": "70718",
+          "votes": 102962,
+          "percent": 0.4817
+        },
+        {
+          "first": "Dan",
+          "last": "Sullivan",
+          "party": "GOP",
+          "id": "64262",
+          "votes": 102325,
+          "incumbent": true,
+          "percent": 0.4788
+        },
+        {
+          "first": "Gerald",
+          "last": "Heikes",
+          "party": "GOP",
+          "id": "57566",
+          "votes": 4846,
+          "percent": 0.0227
+        },
+        {
+          "first": "Daniel",
+          "last": "Sullivan",
+          "party": "UDC",
+          "id": "177716",
+          "votes": 3600,
+          "percent": 0.0168
+        },
+        {
+          "first": "",
+          "last": "Other",
+          "party": "Other",
+          "id": "other-3079",
+          "votes": 0,
+          "avotes": 0,
+          "electoral": 0,
+          "count": 0,
+          "percent": 0
+        }
+      ]
+    },
+    {
+      "test": false,
+      "id": "85116",
+      "office": "I",
+      "officeName": "Measure",
+      "resultsType": "live",
+      "tabulationStatus": "Active Tabulation",
+      "eevp": 0.7277,
+      "type": "General",
+      "seat": "3 - Require citizenship to vote",
+      "description": "Alaska Measure 3. Prohibits noncitizens from voting.",
+      "raceCallStatus": "Called",
+      "level": "state",
+      "state": "AK",
+      "updated": 1793892460211,
+      "reporting": 293,
+      "precincts": 403,
+      "reportingunitID": "2",
+      "reportingPercent": 0.7270471464019851,
+      "stateName": "Alaska",
+      "stateAP": "Alaska",
+      "rating": "",
+      "theme": "",
+      "called": true,
+      "winnerParty": "Yes",
+      "candidates": [
+        {
+          "last": "Yes",
+          "party": "Yes",
+          "id": "2",
+          "votes": 142991,
+          "winner": "X",
+          "winnerDateTime": "2026-11-04T07:10:18.318Z",
+          "percent": 0.6964
+        },
+        {
+          "last": "No",
+          "party": "No",
+          "id": "3",
+          "votes": 62336,
+          "percent": 0.3036
+        }
+      ]
+    },
+    {
+      "test": false,
+      "id": "85135",
+      "office": "I",
+      "officeName": "Measure",
+      "resultsType": "live",
+      "tabulationStatus": "Active Tabulation",
+      "eevp": 0.727,
+      "type": "General",
+      "seat": "2 - Repeal ranked choice voting",
+      "description": "Alaska Measure 2. Repeals open primaries and ranked choice voting.",
+      "raceCallStatus": "Too Early to Call",
+      "level": "state",
+      "state": "AK",
+      "updated": 1793892487735,
+      "reporting": 292,
+      "precincts": 403,
+      "reportingunitID": "2",
+      "reportingPercent": 0.7245657568238213,
+      "stateName": "Alaska",
+      "stateAP": "Alaska",
+      "rating": "",
+      "theme": "",
+      "candidates": [
+        {
+          "last": "No",
+          "party": "No",
+          "id": "3",
+          "votes": 106040,
+          "percent": 0.5185
+        },
+        {
+          "last": "Yes",
+          "party": "Yes",
+          "id": "2",
+          "votes": 98460,
+          "percent": 0.4815
+        }
+      ]
+    }
+  ],
+  "chatter": "<p>Alaska is home to one of this year’s most competitive U.S. Senate contests. Republican Sen. Dan S. Sullivan is running for reelection against former Rep. Mary Peltola, the last Democrat to win statewide in Alaska. The race has been <a href=\"https://www.npr.org/2026/10/29/nx-s1-6022069/alaskas-all-important-senate-race-is-roiled-by-report-on-alleged-spoiler-candidate\" target=\"_blank\">roiled in recent days</a> by new allegations that another candidate who made the general election ballot, Dan J. Sullivan, is a spoiler recruited to try to siphon votes from the incumbent. A federal judge <a href=\"https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan\" target=\"_blank\">ruled against the Trump administration</a> in a case about the issue.\n<br><br>\nThe <a href=\"https://alaskapublic.org/news/politics/alaska-legislature/2026-10-09/3-takeaways-from-alaskas-gubernatorial-debate-for-the-state\" target=\"_blank\">race for governor</a> also appears close, with three Republican candidates in the general election facing one Democrat who was the top vote getter in the primary.\n<br><br>\nNOTE: Alaska uses <a href=\"https://www.elections.alaska.gov/election-information/#RankedChoice\" target=\"_blank\">ranked choice voting for general elections</a>. The tallies below represent the initial<span class=\"widont\">&nbsp;</span>results.</p>\n"
+}

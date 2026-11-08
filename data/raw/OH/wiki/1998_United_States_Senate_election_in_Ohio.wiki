@@ -1,0 +1,236 @@
+{{Short description|none}}
+{{Use American English|date=March 2026}}
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name       = 1998 United States Senate election in Ohio
+| country             = Ohio
+| type                = presidential
+| ongoing             = no
+| previous_election   = 1992 United States Senate election in Ohio
+| previous_year       = 1992
+| next_election       = 2004 United States Senate election in Ohio
+| next_year           = 2004
+| election_date       = November 3, 1998
+
+| image1              = George Voinovich official portrait (1).jpg
+| nominee1            = '''[[George Voinovich]]'''
+| party1              = Republican Party (United States)
+| popular_vote1       = '''1,922,087'''
+| percentage1         = '''56.46%'''
+
+| image2              = 3x4.svg
+| nominee2            = [[Mary O. Boyle|Mary Boyle]]
+| party2              = Democratic Party (United States)
+| popular_vote2       = 1,482,054
+| percentage2         = 43.54%
+
+| map_image           = 1998 United States Senate election in Ohio results map by county.svg
+| map_size            = 210px
+| map_caption         = County results<br/ >'''Voinovich:'''  {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#d72f30|70–80%}}<br/>'''Boyle:'''  {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}}
+| title               = U.S. Senator
+| before_election     = [[John Glenn]]
+| before_party        = Democratic Party (United States)
+| after_election      = [[George Voinovich]]
+| after_party         = Republican Party (United States)
+| turnout = 49.81% (registered voters) {{decrease}}
+}}
+{{ElectionsOH}}
+The '''1998 United States Senate election in Ohio''' was held November 3, 1998. It was concurrent with elections to the [[United States House of Representatives]]. Incumbent Democratic U.S Senator [[John Glenn]] decided to retire, instead of seeking a fifth term. Republican Governor [[George Voinovich]] won the open seat.<ref>{{cite web|url=https://www.newspapers.com/clip/18250221/the_akron_beacon_journal/|title=Voinovich backs lengthier trial for Clinton|newspaper=The Akron Beacon Journal|date=January 6, 1999|via=[[Newspapers.com]]|page=10}}</ref>
+This was the first open-seat Senate election in Ohio for this seat since [[1920 United States Senate election in Ohio|1920]].
+
+== General election ==
+=== Candidates ===
+* [[Mary O. Boyle|Mary Boyle]], former [[Cuyahoga County, Ohio|Cuyahoga County]] commissioner and candidate for U.S. Senate in [[1994 United States Senate election in Ohio|1994]] (Democratic)
+
+* [[George Voinovich]], incumbent governor of Ohio and nominee in [[1988 United States Senate election in Ohio|1988]] (Republican)
+
+=== Polling ===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)
+! Sample<br>size{{efn|Key:<br>A – all adults<br>RV – registered voters<br>LV – likely voters<br>V – unclear}}
+! Margin<br>of error
+! style="width:100px;"| George<br>Voinovich (R)
+! style="width:100px;"| Mary<br>Boyle (D)
+! scope="col" style="width:110px;" | Other / undecided{{efn|group=polling|Calculated by taking the difference of 100% and all other candidates combined.}}
+|-
+| style="text-align:left" | Harris Insights & Analytics<ref name="FTE">{{cite web |title=FiveThirtyEight's Pollster Ratings Raw Polls File |url=https://raw.githubusercontent.com/fivethirtyeight/data/refs/heads/master/pollster-ratings/2023/raw-polls.csv |access-date=October 15, 2026 |website=GitHub |publisher=FiveThirtyEight}}</ref>
+| October 30, 1998
+| 2,149
+| —
+| {{Party shading/Republican}} | '''58%'''
+| 39%
+| 3%
+|-
+| style="text-align:left" | ''[[Columbus Dispatch]]''<ref name="FTE"/>
+| October 27, 1998
+| 800
+| —
+| {{Party shading/Republican}} | '''51%'''
+| 49%
+| 0%
+|-
+|style="text-align:left;"|Mason-Dixon Polling & Strategy<ref name="FTE"/><ref name=polls>{{cite web |title=CNN AllPolitics Election '98 - Ohio 1998 Polls |url=https://www.cnn.com/ELECTION/1998/states/OH/polls/OH98S.html |publisher=[[CNN]] |access-date=29 June 2025 |archive-url=https://archive.today/20250629035903/https://www.cnn.com/ELECTION/1998/states/OH/polls/OH98S.html |archive-date=29 June 2025 |url-status=live}}</ref>
+|October 25–27, 1998
+|815 (LV)
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''55%'''
+|37%
+|8%
+|-
+| style="text-align:left" |[[University of Cincinnati]]<ref name="FTE"/>
+| October 26, 1998
+| 1,196
+| —
+| {{Party shading/Republican}} | '''62%'''
+| 38%
+| 0%
+|-
+|style="text-align:left;"|[[University of Cincinnati]]<ref name="FTE"/><ref name=polls/>
+|October 22–26, 1998
+|754 (LV)
+|±&nbsp;3.6%
+|{{party shading/Republican}}|'''62%'''
+|34%
+|4%
+|-
+| style="text-align:left" | Harris Insights & Analytics<ref name="FTE"/>
+| October 20, 1998
+| 1,793
+| —
+| {{Party shading/Republican}} | '''55%'''
+| 37%
+| 8%
+|-
+| style="text-align:left" | Gordon S. Black Corp.<ref name="FTE"/>
+| October 18, 1998
+| 1,012
+| —
+| {{Party shading/Republican}} | '''51%'''
+| 28%
+| 21%
+|-
+|style="text-align:left;"|[[University of Cincinnati]]<ref name="FTE"/><ref name=polls/>
+|October 8–18, 1998
+|540 (LV)
+|±&nbsp;4.2%
+|{{party shading/Republican}}|'''62%'''
+|34%
+|4%
+|-
+|style="text-align:left;"|[[University of Cincinnati]]<ref name=polls/>
+|October 2–7, 1998
+|405 (LV)
+|±&nbsp;5.0%
+|{{party shading/Republican}}|'''58%'''
+|35%
+|7%
+|-
+|style="text-align:left;"|Mason-Dixon Polling & Strategy<ref name=polls/>
+|October 2–5, 1998
+|805 (LV)
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''54%'''
+|35%
+|11%
+|-
+|style="text-align:left;"|[[University of Cincinnati]]<ref name=polls/>
+|September 8–20, 1998
+|921 (LV)
+|±&nbsp;4.3%
+|{{party shading/Republican}}|'''62%'''
+|31%
+|7%
+|-
+|style="text-align:left;"|Mason-Dixon Polling & Strategy<ref name=polls/>
+|September 12–14, 1998
+|817 (LV)
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''56%'''
+|28%
+|16%
+|-
+|style="text-align:left;"|Gordon S. Black Corp.<ref name=polls/>
+|September 10–14, 1998
+|1,005 (LV)
+|±&nbsp;3.0%
+|{{party shading/Republican}}|'''46%'''
+|28%
+|26%
+|-
+|style="text-align:left;"|[[University of Cincinnati]]<ref name=polls/>
+|May 13–27, 1998
+|560 (RV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''57%'''
+|34%
+|9%
+|-
+|style="text-align:left;"|Mason-Dixon Polling & Strategy<ref name=polls/>
+|April 26–28, 1998
+|808 (LV)
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''51%'''
+|26%
+|23%
+|-
+|style="text-align:left;"| ''[[Columbus Dispatch]]''<ref name=polls/>{{Efn-ua|Poll sponsored by [[The Columbus Dispatch]], [[Ohio State University]], & [[WBNS-TV]]}}
+|April 12–23, 1998
+|830 (A)
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''52%'''
+|29%
+|19%
+|}
+
+=== Results ===
+{{Election box begin
+ | title      = 1998 United States Senate election in Ohio}}
+{{Election box winning candidate with party link
+ | party      = Republican Party (United States)
+ | candidate  = [[George Voinovich]]
+ | votes      = 1,922,087
+ | percentage = 56.46%
+ | change     = +14.15%
+}}
+{{Election box candidate with party link
+ | party      = Democratic Party (United States)
+ | candidate  = [[Mary O. Boyle|Mary Boyle]]
+ | votes      = 1,482,054
+ | percentage = 43.54%
+ | change     = -7.45%
+}}
+{{Election box majority
+ | votes      = '''440,033'''
+ | percentage = '''12.92%'''
+ | change     = 
+}}
+{{Election box turnout
+ | votes      = '''3,404,141'''
+ | percentage = '''49.81%'''
+ | change     = 
+}}
+{{Election box gain with party link
+  |winner     = Republican Party (United States)
+  |loser      = Democratic Party (United States)
+  |swing      = 
+}}
+{{Election box end}}
+
+== See also ==
+* [[1998 United States Senate elections]]
+
+== Notes ==
+{{notelist}}
+;Partisan clients
+{{notelist-ua}}
+
+== References ==
+{{Reflist}}
+
+{{United States elections, 1998}}
+
+[[Category:1998 elections in Ohio|United States Senate]]
+[[Category:1998 United States Senate elections|Ohio]]
+[[Category:United States Senate elections in Ohio|1998]]

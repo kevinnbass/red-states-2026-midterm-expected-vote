@@ -1,0 +1,9 @@
+race_2026,office,year,rep_nominee,rep_votes,dem_nominee,dem_votes,basis
+Governor (joint ticket with Lieutenant Governor),governor,2018,Dunleavy/Meyer (R),145631,Begich/Call (D),125739,official
+Governor (joint ticket with Lieutenant Governor),governor,2022,Dunleavy/Dahlstrom (R) and other Republicans (first choice),144449,Gara/Cook (D),63851,official
+Governor (joint ticket with Lieutenant Governor),governor,2026,Wilson/Shower (R) and other Republicans (first choice),107500,Kreiss-Tomkins/Johnson (DEM/NON),103837,unofficial
+U.S. House (at-large),us_house,2018,"Young, Don",149779,"Galvin, Alyse S.",131199,official
+U.S. House (at-large),us_house,2022,"Palin, Sarah and other Republicans (first choice)",129379,"Peltola, Mary S.",128553,official
+U.S. House (at-large),us_house,2026,"Begich, Nick",105647,"Hafner, Eric",15550,unofficial
+U.S. Senate,us_senate,2022,"Murkowski, Lisa and other Republicans (first choice)",232532,"Chesbro, Patricia R.",27145,official
+U.S. Senate,us_senate,2026,"Sullivan, Dan S. and other Republicans (first choice)",107171,"Peltola, Mary",102962,unofficial

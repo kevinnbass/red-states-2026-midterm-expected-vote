@@ -1,0 +1,129 @@
+{{Short description|none}}
+{{Use American English|date=October 2025}}
+{{Infobox election
+| election_date = {{Start date|1994|11|08}}
+| election_name = 1994 Ohio Attorney General election
+| country = Ohio
+| type = presidential
+| ongoing = no
+| previous_election = 1990 Ohio Attorney General election
+| previous_year = 1990
+| next_election = 1998 Ohio Attorney General election
+| next_year = 1998
+| image_size = x150px
+| image1 = Betty Montgomery.jpg
+| nominee1 = '''[[Betty Montgomery]]'''
+| party1 = Republican Party (United States)
+| popular_vote1 = '''1,716,451'''
+| percentage1 = '''51.36%'''
+| image2 = File:Lee I. Fisher - 25th District - Ohio Senate 113th General Assembly 1987-1988 - DPLA - 6e2895d536d5909d4a4e5cec2e14ff63 (page 16) (cropped) (cropped).jpg
+
+| nominee2 = [[Lee Fisher]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 1,625,247
+| percentage2 = 48.63%
+| map_image = [[File:1994 Ohio attorney general election results map by county.svg|210px]]
+| map_caption = County results<br />'''Montgomery:''' {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#d72f30|70–80%}}<br />'''Fisher:''' {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}}
+| title = Attorney General
+| before_election = [[Lee Fisher]]
+| before_party = Democratic Party (United States)
+| after_election = [[Betty Montgomery]]
+| after_party = Republican Party (United States)
+}}
+{{ElectionsOH}}
+The '''1994 Ohio Attorney General election''' was held on November 8, 1994, to elect the [[Ohio Attorney General]]. Republican [[Ohio Senate|Ohio State Senator]] [[Betty Montgomery]] narrowly defeated incumbent Democratic Ohio Attorney General [[Lee Fisher]]. With her victory, Betty Montgomery became the first woman to serve as Ohio Attorney General.
+
+== Democratic primary ==
+=== Candidates ===
+*[[Lee Fisher]], incumbent [[Ohio Attorney General]] (1991–1995)
+
+=== Campaign ===
+The Democratic primary was held on May 3, 1994. Fisher won renomination without opposition.
+
+=== Results ===
+{{Election box begin no change
+| title = Democratic primary results<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/1990-1999-official-election-results/democratic-primary-may-3-1994/ |title=Democratic Primary: May 3, 1994 - Ohio Secretary of State |website=Ohio Secretary of State |archive-url=https://web.archive.org/web/20210925040418/https://www.ohiosos.gov/elections/election-results-and-data/1990-1999-official-election-results/democratic-primary-may-3-1994/ |archive-date=September 25, 2021}}</ref>
+}}
+{{Election box winning candidate with party link no change
+ | candidate  = [[Lee Fisher]]
+ | party      = Democratic Party (United States)
+ | votes      = 739,724
+ | percentage = 100%
+}}
+{{Election box total no change
+ | votes      =  739,724
+ | percentage = 100.00%
+}}
+{{Election box end}}
+
+== Republican primary ==
+=== Candidates ===
+*[[Betty Montgomery]], [[Ohio Senate|Ohio State Senator]] (1989–1995)
+
+=== Campaign ===
+The Republican primary was held on May 3, 1994. Montgomery won the Republican nomination unopposed.
+
+=== Results ===
+{{Election box begin no change
+| title = Republican primary results<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/1990-1999-official-election-results/republican-primary-may-3-1994/ |title=Republican Primary: May 3, 1994 - Ohio Secretary of State |website=Ohio Secretary of State |archive-url=https://web.archive.org/web/20210925040418/https://www.ohiosos.gov/elections/election-results-and-data/1990-1999-official-election-results/republican-primary-may-3-1994/ |archive-date=September 25, 2021}}</ref>
+}}
+{{Election box winning candidate with party link no change
+ | candidate  = [[Betty Montgomery]]
+ | party      = Republican Party (United States)
+ | votes      = 620,624
+ | percentage = 100%
+}}
+{{Election box total no change
+ | votes      =  620,624
+ | percentage = 100.00%
+}}
+{{Election box end}}
+
+== General election ==
+=== Candidates ===
+*[[Betty Montgomery]], [[Ohio Senate|Ohio State Senator]] (1989–1995)
+*[[Lee Fisher]], incumbent [[Ohio Attorney General]] (1991–1995)
+
+=== Results ===
+{{Election box begin | title=1994 Ohio Attorney General election results<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/1990-1999-official-election-results/general-election-november-8-1994/ |title=General Election: November 8, 1994 - Ohio Secretary of State |website=Ohio Secretary of State |archive-url=https://web.archive.org/web/20210925040418/https://www.ohiosos.gov/elections/election-results-and-data/1990-1999-official-election-results/general-election-november-8-1994/ |archive-date=September 25, 2021}}</ref>
+}}
+{{Election box winning candidate with party link|
+ |party = Republican Party (United States)
+ |candidate = [[Betty Montgomery]]
+ |votes = 1,716,451
+ |percentage = 51.36%
+ |change = +1.38%
+}}
+{{Election box candidate with party link|
+ |party = Democratic Party (United States)
+ |candidate = [[Lee Fisher]]
+ |votes = 1,625,247
+ |percentage = 48.63%
+ |change = -1.39%
+}}
+{{Election box candidate|
+ |party      = Write-in
+ |candidate  = Guy Templeton Black
+ |votes      = 123
+ |percentage = 0.00%
+ |change     =
+}}
+{{Election box total no change
+ | votes      =  3,341,821
+ | percentage = 100.00%
+}}
+{{Election box gain with party link|
+  |winner     = Republican Party (United States)
+  |loser      = Democratic Party (United States)
+  |swing      =
+}}
+{{Election box end}}
+
+== References ==
+{{reflist}}
+
+{{1994 United States elections}}
+
+[[Category:1994 United States state attorney general elections|Ohio]]
+[[Category:1994 elections in Ohio|Attorney General]]
+[[Category:Ohio Attorney General elections]]

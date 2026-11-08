@@ -1,0 +1,7 @@
+#REDIRECT [[2014 Ohio elections#Treasurer]]
+{{Redirect category shell|
+{{R from subtopic}}
+{{R to section}}
+{{R with possibilities}}
+}}
+[[Category:2014 elections in Ohio|State Treasurer]]

@@ -1,0 +1,192 @@
+{{Short description|none}}
+{{Infobox election
+| election_name = 2014 Ohio State Auditor election
+| country = Ohio
+| type = presidential
+| ongoing = no
+| previous_election = 2010 Ohio State Auditor election
+| previous_year = 2010
+| next_election = 2018 Ohio State Auditor election
+| next_year = 2018
+| title = [[Ohio State Auditor|State Auditor]]
+| before_election = [[Dave Yost]]
+| before_party = Ohio Republican Party
+| after_election = [[Dave Yost]]
+| after_party = Ohio Republican Party
+| image1 = Dave Yost, Sept 15, 2014 (cropped).jpg
+| candidate1 = '''[[Dave Yost]]'''
+| party1 = Ohio Republican Party
+| candidate2 = [[John Patrick Carney]]
+| party2 = Ohio Democratic Party
+| image2 = John Patrick Carney Sept 15, 2014 (cropped).jpg
+| image_size = 150x150px
+| map_size = 210px
+| map_image = 2014 Ohio State Auditor election results map by county.svg
+| map_caption = County results<br />'''Yost:''' {{legend0|#FFB2B2|40–50%}} {{legend0|#E27F7F|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#D72F30|70–80%}} <br />'''Carney:''' {{legend0|#7996e2|50–60%}}
+| popular_vote1 = '''1,711,927'''
+| percentage1 = '''56.98%'''
+| popular_vote2 = 1,149,305
+| percentage2 = 38.25%
+| election_date = {{Start date|2014|11|04}}
+}}
+{{ElectionsOH}}
+
+The '''2014 Ohio State Auditor election''' was held on November 4, 2014, to elect the [[Ohio State Auditor]], concurrently with elections to the [[2014 United States House of Representatives elections in Ohio|U.S. House of Representatives]], [[2014 Ohio gubernatorial election|governor]], and other [[2014 Ohio elections|state]] and [[2014 United States elections#Local elections|local]] elections. Primary elections were held on May 6, 2014.<ref name="results">{{Cite web |title=2014 Elections Results |url=https://www.sos.state.oh.us/elections/election-results-and-data/2014-elections-results/ |access-date=December 3, 2025 |website=Ohio Secretary of State |archive-date=November 29, 2020 |archive-url=https://web.archive.org/web/20201129184843/https://www.sos.state.oh.us/elections/election-results-and-data/2014-elections-results/ |url-status=dead }}</ref> A  debate was held on September 15, 2014, between all three candidates running, being the only debate held for any statewide election in Ohio in 2014.<ref>{{Cite web |last=Gomez |first=Henry |date=September 15, 2014 |title=In Ohio auditor debate, incumbent Dave Yost and challenger John Patrick Carney trip over each other in attempts to claim the political high road |url=https://www.cleveland.com/open/2014/09/in_ohio_auditor_debate_incumbe.html |access-date=December 4, 2025 |website=cleveland.com}}</ref><ref>{{Cite web |last=Rowland |first=Darrel |date=September 17, 2014 |title=Kasich, FitzGerald won't hold debates |url=https://www.dispatch.com/story/news/politics/2014/09/17/kasich-fitzgerald-won-t-hold/23516196007/ |access-date=December 4, 2025 |website=The Columbus Dispatch}}</ref>
+
+Incumbent [[Republican Party (United States)|Republican]] auditor [[Dave Yost]] won re-election to a second term in office against [[Democratic Party (United States)|Democratic]] state representative [[John Patrick Carney]] by a margin much greater than his previous victory in [[2010 Ohio State Auditor election|2010]].<ref>{{Cite web |last=Borchardt |first=Jackie |date=November 5, 2014 |title=Dave Yost defeats John Patrick Carney in Ohio auditor's race |url=https://www.cleveland.com/open/2014/11/dave_yost_defeats_john_patrick.html |access-date=December 4, 2025 |website=cleveland.com}}</ref><ref>{{Cite web |date=November 4, 2014 |title=Republican Yost Defeats Carney In Auditor's Race |url=https://www.wyso.org/news/2014-11-04/republican-yost-defeats-carney-in-auditors-race |access-date=December 4, 2025 |website=Associated Press |via=91.3 WYSO}}</ref>
+
+== Republican primary ==
+=== Candidates ===
+==== Nominee ====
+* [[Dave Yost]], incumbent state auditor (2011–present)<ref>{{Cite web |last=Candisky |first=Catherine |date=September 23, 2014 |title=Yost, Carney followed own paths as they vie for auditor's job |url=https://www.dispatch.com/story/news/politics/2014/09/23/yost-carney-followed-own-paths/23586986007/ |access-date=December 4, 2025 |website=The Columbus Dispatch}}</ref><ref>{{Cite web |last=Candisky |first=Catherine |date=September 3, 2014 |title=Ohio Auditor Dave Yost launches re-election bid |url=https://www.dispatch.com/story/news/politics/2014/09/03/ohio-auditor-dave-yost-launches/23824006007/ |access-date=December 4, 2025 |website=The Columbus Dispatch}}</ref>
+=== Results ===
+{{Election box begin no change
+| title=Republican primary results<ref name="results" />
+}}
+{{Election box winning candidate with party link no change|
+|party = Ohio Republican Party
+|candidate = [[Dave Yost]] (incumbent)
+|votes = 498,760
+|percentage = 100.0%
+}}
+{{Election box total no change
+|votes = 498,760
+|percentage = 100.0%
+}}
+{{Election box end}}
+
+== Democratic primary ==
+=== Candidates ===
+==== Nominee ====
+* [[John Patrick Carney]], state representative from the 22nd district (2009–present)<ref>{{Cite web |date=October 28, 2014 |title=State auditor candidate John Patrick Carney agrees redistricting reform is needed; disagrees on the method |url=https://www.beaconjournal.com/story/news/local/2014/10/28/state-auditor-candidate-john-patrick/10434204007/ |access-date=December 4, 2025 |website=Akron Beacon Journal}}</ref>
+=== Results ===
+{{Election box begin no change
+| title=Democratic primary results<ref name="results" />
+}}
+{{Election box winning candidate with party link no change|
+|party = Ohio Democratic Party
+|candidate = [[John Patrick Carney]]
+|votes = 360,933
+|percentage = 100.0%
+}}
+{{Election box total no change
+|votes = 360,933
+|percentage = 100.0%
+}}
+{{Election box end}}
+
+== Libertarian primary ==
+The [[Libertarian Party (United States)|Libertarian Party]] was not recognized as a major party in 2014 due to newly established rules regarding state recognition of political parties.<ref>{{Cite web |last=Palzer |first=Jeremy |date=November 8, 2013 |title=Libertarians file legal challenge against Ohio's new rules for minor political parties; Greens may follow suit |url=https://www.cleveland.com/open/2013/11/libertarians_file_federal_laws.html |access-date=December 4, 2025 |website=cleveland.com}}</ref><ref>{{Cite web |last=Carr Smyth |first=Julie |date=May 1, 2014 |title=Libertarian loses appeal, remains off May ballot |url=https://www.cincinnati.com/story/news/politics/elections/2014/05/01/libertarian-loses-appeal-remains-may-ballot/8561963/ |access-date=December 4, 2025 |website=The Cincinnati Enquirer}}</ref> Two Libertarians running for [[2014 Ohio gubernatorial election|governor]] and [[2014 Ohio Attorney General election|attorney general]] were removed from the ballot in March 2014, which drew controversy.<ref>{{Cite web |date=March 7, 2014 |title=Ohio: Two Libertarians Removed From Ballot |url=https://www.nytimes.com/2014/03/08/us/ohio-two-libertarians-removed-from-ballot.html |url-access=subscription |access-date=December 4, 2025 |website=Associated Press |via=The New York Times}}</ref><ref>{{Cite web |last=Vardon |first=Joe |date=March 8, 2014 |title=Libertarians angry at GOP while acknowledging faults |url=https://www.dispatch.com/story/news/politics/2014/03/09/libertarians-angry-at-gop-while/23406720007/ |access-date=December 4, 2025 |website=The Columbus Dispatch}}</ref><ref>{{Cite web |date=March 12, 2014 |title=Wiped out, before a ballot is cast |url=https://www.beaconjournal.com/story/opinion/columns/2014/03/12/wiped-out-before-ballot-is/10303803007/ |access-date=December 4, 2025 |website=Akron Beacon Journal |quote=Friday, Earl, his running mate, Sherry Clark, and the Libertarian candidate for attorney general, Steven Linnabary, were bounced from the May 6 primary ballot by Jon Husted, Ohio secretary of state.}}</ref> Bob Bridges, the only Libertarian running for auditor, ran a write-in primary campaign.<ref name="results" /><ref>{{Cite web |title=Official Write-in Candidate Results |url=https://www.co.wood.oh.us/boe/Election_Results/2014/2014_05%20Official%20Write-in%20Candidate%20Results.pdf |access-date=December 4, 2025 |website=Wood County Board of Elections}}</ref>
+=== Candidates ===
+==== Nominee ====
+* Bob Bridges, director of the [[Libertarian Party of Ohio]] and [[tow truck]] driver<ref>{{Cite web |last=Provance |first=Jim |date=October 5, 2014 |title=Libertarian vows to act as watchdog |url=https://www.toledoblade.com/local/politics/2014/10/05/Libertarian-vows-to-act-as-watchdog/stories/20141002181 |access-date=December 4, 2025 |website=The Blade}}</ref>
+=== Results ===
+{{Election box begin no change
+| title=Libertarian primary results<ref name="results" />
+}}
+{{Election box winning candidate with party link no change|
+|party = Libertarian Party (United States)
+|candidate = Bob Bridges ''(write-in)''
+|votes = 797
+|percentage = 100.0%
+}}
+{{Election box total no change
+|votes = 797
+|percentage = 100.0%
+}}
+{{Election box end}}
+== General election ==
+=== Endorsements ===
+{{Endorsements box
+| title = Dave Yost (R)
+| colwidth = 45em
+| list = 
+
+'''Newspapers and other media'''
+* ''[[The Canton Repository]]''<ref>{{Cite web |date=November 2, 2014 |title=Here are The Rep's endorsements for Tuesday's election |url=https://www.cantonrep.com/story/news/politics/elections/2014/11/02/here-are-rep-s-endorsements/36032489007/ |access-date=December 4, 2025 |website=The Repository}}</ref>
+* ''[[The Cincinnati Enquirer]]''<ref>{{Cite web |date=October 17, 2014 |title=Endorsement: Dave Yost for auditor |url=https://www.cincinnati.com/story/opinion/editorials/2014/10/17/yost-auditor-ohio-endorsement/17455569/ |access-date=December 4, 2025 |website=The Cincinnati Enquirer}}</ref>
+* ''[[The Columbus Dispatch]]''<ref>{{Cite web |date=November 2, 2014 |title=Endorsements recapped |url=https://www.dispatch.com/story/opinion/columns/2014/11/02/endorsements-recapped/24118067007/ |access-date=December 4, 2025 |website=The Columbus Dispatch}}</ref>
+* ''[[The Plain Dealer]]''<ref>{{Cite web |date=October 9, 2014 |title=Dave Yost for Ohio auditor: endorsement editorial |url=https://www.cleveland.com/opinion/2014/10/dave_yost_for_ohio_auditor_end.html |access-date=December 4, 2025 |website=cleveland.com}}</ref>
+* ''[[The Times-Reporter]]''<ref>{{Cite web |date=November 2, 2014 |title=A wrapup of T-R election endorsements |url=https://www.timesreporter.com/story/news/politics/elections/2014/11/02/a-wrapup-t-r-election/36032550007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z11xx63d00----v11xx63b00xxxxd11xx65&gca-ft=215&gca-ds=sophi |url-access=subscription |access-date=December 4, 2025 |website=TimesReporter}}</ref>
+}}
+{{Endorsements box
+| title = John Patrick Carney (D)
+| colwidth = 45em
+| list = 
+
+'''Labor unions'''
+* Columbus Education Association<ref>{{Cite web |date=September 2, 2014 |title=CEA endorsements |url=https://www.ceaohio.org/wp-content/uploads/2014/08/Voice140902-03.pdf |access-date=December 4, 2025 |website=Columbus Education Association}}</ref>
+
+'''Organizations'''
+* Ohio [[National Fraternal Order of Police|Fraternal Order of Police]]<ref>{{Cite web |date=July 29, 2014 |title=Police union endorses 4 challengers in Ohio races |url=https://www.beaconjournal.com/story/news/nation-world/2014/07/29/police-union-endorses-4-challengers/10474149007/ |access-date=December 4, 2025 |website=Akron Beacon Journal}}</ref>
+}}
+=== Debate ===
+{| class="wikitable" style="text-align:center;"
+|+ 2014 Ohio State Auditor debate
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Libertarian Party (US)|Libertarian]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Libertarian Party (US)}}"|
+|-
+! scope="col" | [[Dave Yost]] 
+! scope="col" | [[John Patrick Carney]]
+! scope="col" | Bob Bridges
+|-
+!1
+| style="white-space:nowrap;" | September 15, 2014
+| style="white-space:nowrap;" | [[City Club of Cleveland]]
+| style="white-space:nowrap;" | Nick Castele
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=7UMJRg4de5s YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+=== Results ===
+{{Election box begin no change
+| title=2014 Ohio State Auditor election<ref name="results" />
+}}
+{{Election box winning candidate with party link no change|
+|party = Ohio Republican Party
+|candidate = [[Dave Yost]] (incumbent)
+|votes = 1,711,927
+|percentage = 56.98%
+}}
+{{Election box candidate with party link no change|
+|party = Ohio Democratic Party
+|candidate = [[John Patrick Carney]]
+|votes = 1,149,305
+|percentage = 38.25%
+}}
+{{Election box candidate with party link no change
+|candidate = Bob Bridges
+|party = Libertarian Party (United States)
+|votes = 143,363
+|percentage = 4.77%
+}}
+{{Election box total no change
+|votes = 3,004,595
+|percentage = 100.0%
+}}
+{{Election box hold with party link no swing|
+  |winner     = Republican Party (United States)
+  |loser      = Democratic Party (United States)
+}}
+{{Election box end}}
+
+== References ==
+{{Reflist}}
+
+{{2014 United States elections}}
+
+[[Category:2014 elections in Ohio|State Auditor]]
+[[Category:2014 United States state auditor elections|Ohio]]

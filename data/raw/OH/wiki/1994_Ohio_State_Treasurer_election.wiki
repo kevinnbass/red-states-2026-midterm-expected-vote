@@ -1,0 +1,134 @@
+{{Short description|none}}
+{{Use mdy dates|date=February 2026}}
+{{Use American English|date=February 2026}}
+{{infobox election
+| election_name      = 1994 Ohio State Treasurer election
+| country            = Ohio
+| type               = presidential
+| ongoing            = no
+| turnout            =
+| previous_election  = 1990 Ohio State Treasurer election
+| previous_year      = 1990
+| next_election      = 1998 Ohio State Treasurer election
+| next_year          = 1998
+| election_date      = November 8, 1994
+| image1             = Ken Blackwell (12988180853) (cropped).jpg
+| image_size = 150x150px
+| nominee1           = '''[[Ken Blackwell]]'''
+| party1             = Republican Party (United States)
+| popular_vote1      = '''1,740,710'''
+| percentage1        = '''53.74%'''
+| image2             = Barbara Sykes.jpg
+| nominee2           = [[Barbara Sykes (politician)|Barbara Sykes]]	
+| party2             = Democratic Party (United States)
+| popular_vote2      = 1,370,737
+| percentage2        = 42.32%
+| map_image          = 1994 Ohio State Treasurer election results map by County.svg
+| map_size           = 210px
+| map_caption = County results<br />'''Blackwell:''' {{legend0|#ffb2b2|40–50%}} {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#d72f30|70–80%}}<br />'''Sykes:''' {{legend0|#a5b0ff|40–50%}} {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}}
+| title              = [[Ohio State Treasurer]]
+| before_election    = [[Ken Blackwell]]
+| before_party       = Republican Party (United States)
+| after_election     = [[Ken Blackwell]]
+| after_party        = Republican Party (United States)
+|}}
+{{ElectionsOH}}
+The '''1994 Ohio State Treasurer election''' was held on November 8, 1994, to elect the [[Ohio State Treasurer]]. Primaries were held on May 3, 1994.
+
+Republican incumbent Ohio State Treasurer [[Ken Blackwell]], who was appointed following Democrat [[Mary Ellen Withrow]]'s resignation after being nominated to [[Treasurer of the United States]], won election to a full term, defeating the Democratic nominee [[Akron, Ohio|Akron City]] Council member [[Barbara Sykes (politician)|Barbara Sykes]] by eleven percentage points.
+
+== Republican primary ==
+=== Candidates ===
+*[[Ken Blackwell]], incumbent [[Ohio State Treasurer]] (1994–1999)
+=== Campaign ===
+Blackwell won the Republican nomination unopposed.
+=== Results ===
+{{Election box begin no change
+| title = Republican primary results<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/1990-1999-official-election-results/republican-primary-may-3-1994/ |title=Republican Primary: May 3, 1994 - Ohio Secretary of State |website=Ohio Secretary of State |access-date=November 7, 2025}}</ref>
+}}
+{{Election box winning candidate with party link no change
+ | candidate  = [[Ken Blackwell]]
+ | party      = Republican Party (United States)
+ | votes      = 610,594
+ | percentage = 100%
+}}
+{{Election box total no change
+ | votes      =  610,594
+ | percentage = 100.00%
+}}
+{{Election box end}}
+
+== Democratic primary ==
+=== Candidates ===
+*[[Barbara Sykes (politician)|Barbara Sykes]], [[Akron, Ohio|Akron City]] Council member
+*[[George McKelvey (mayor)|George McKelvey]], [[Mahoning County, Ohio|Mahoning County]] Treasurer
+=== Campaign ===
+Sykes easily won the Democratic nomination over McKelvey, winning with 62.74% of the vote.
+=== Results ===
+{{Election box begin no change
+| title = Democratic primary results<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/1990-1999-official-election-results/democratic-primary-may-3-1994/ |title=Democratic Primary: May 3, 1994 - Ohio Secretary of State |website=Ohio Secretary of State |access-date=November 7, 2025}}</ref>
+}}
+{{Election box winning candidate with party link no change
+ | candidate  = [[Barbara Sykes (politician)|Barbara Sykes]]
+ | party      = Democratic Party (United States)
+ | votes      = 495,632
+ | percentage = 62.74%
+}}
+{{Election box candidate with party link no change
+ | candidate  = [[George McKelvey (mayor)|George McKelvey]]
+ | party      = Democratic Party (United States)
+ | votes      = 294,361
+ | percentage = 37.26%
+}}
+{{Election box total no change
+ | votes      = 789,993
+ | percentage = 100.00%
+}}
+{{Election box end}}
+
+== General election ==
+=== Candidates ===
+*[[Ken Blackwell]], incumbent [[Ohio State Treasurer]] (1994–1999) (Republican)
+*[[Barbara Sykes (politician)|Barbara Sykes]], [[Akron, Ohio|Akron City]] Council member (Democratic)
+*Edward Licht (Independent)
+=== Results ===
+{{Election box begin | title=1994 Ohio State Treasurer election results<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/1990-1999-official-election-results/general-election-november-8-1994/ |title=General Election: November 8, 1994 - Ohio Secretary of State |website=Ohio Secretary of State |access-date=November 7, 2025}}</ref>
+}}
+{{Election box winning candidate with party link|
+ |party = Republican Party (United States)
+ |candidate = [[Ken Blackwell]]
+ |votes = 1,740,710
+ |percentage = 53.74%
+ |change = +13.21%
+}}
+{{Election box candidate with party link|
+ |party = Democratic Party (United States)
+ |candidate = [[Barbara Sykes (politician)|Barbara Sykes]]
+ |votes = 1,370,737
+ |percentage = 42.32%
+ |change = -17.15%
+}}
+{{Election box candidate with party link|
+ |party = Independent politician
+ |candidate = Edward Licht
+ |votes = 127,670
+ |percentage = 3.94%
+ |change = N/A
+}}
+{{Election box total no change
+ | votes      = 3,239,117
+ | percentage = 100.00%
+}}
+{{Election box hold with party link no swing
+ | winner = Republican Party (United States)
+}}
+{{Election box end}}
+
+== References ==
+{{reflist}}
+
+{{United States elections, 1994}}
+
+[[Category:1994 elections in Ohio|State Treasurer]]
+[[Category:1994 United States state treasurer elections|Ohio]]
+[[Category:Ohio State Treasurer elections]]

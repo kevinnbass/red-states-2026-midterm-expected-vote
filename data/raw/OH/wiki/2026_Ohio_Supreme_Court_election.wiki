@@ -1,0 +1,260 @@
+{{short description|none}}
+{{use mdy dates|date=March 2026}}
+{{Infobox election
+| election_date = November 3, 2026
+| country = Ohio
+| type = parliamentary
+| ongoing = no
+| previous_election = 2024 Ohio elections#Supreme Court
+| previous_year = 2024
+| next_election = 2028 Ohio Supreme Court election
+| next_year = 2028
+| seats_for_election = 
+| majority_seats = 4
+| party1 = Ohio Republican Party
+| seats_before1 = '''6'''
+| seats_after1 = '''5'''
+| seat_change1 = {{loss}} 1
+| party2 = Ohio Democratic Party
+| seats_before2 = 1
+| seats_after2 = 2
+| seat_change2 = {{gain}} 1
+}}
+{{Elections in Ohio sidebar}}
+The '''2026 Ohio Supreme Court election''' were held on November 3, 2026, to elect two justices to the [[Supreme Court of Ohio]]. Primary elections were held on May 5, 2026.
+
+[[Ohio Democratic Party|Democrats]] won both seats up for election, with district court judge [[Marilyn Zayas]] unseating incumbent justice [[Daniel R. Hawkins]] and incumbent justice [[Jennifer Brunner]] narrowly winning re-election.<ref>{{Cite web |last=Griffin |first=Daniel |last2=Conn |first2=Adam |last3=Benatar |first3=Orri |date=November 3, 2026 |title=Ohio election results: Democrats take most statewide offices, both Supreme Court races |url=https://www.nbc4i.com/news/your-local-election-hq/ohio-election-results-statewide-offices-supreme-court-races/ |access-date=November 4, 2026 |website=nbc4i.com |publisher=WCMH-TV}}</ref>
+
+==Jennifer Brunner's seat==
+{{Infobox election
+| election_name = 2026 Ohio Supreme Court election (Brunner’s seat)
+| country = Ohio
+| type = presidential
+| ongoing = no
+| turnout = 
+| previous_election = 2020 Ohio elections#Supreme Court
+| previous_year = 2020
+| next_election = 2032 Ohio elections#Supreme Court
+| next_year = ''2032''
+| image1 = 20080310 Jennifer Brunner (cropped).jpg
+| party1 = Democratic Party (United States)
+| popular_vote1 = '''2,324,212'''
+| percentage1 = '''51.37%'''
+| image2 = 3x4.svg
+| party2 = Republican Party (United States)
+| popular_vote2 = 2,200,021
+| percentage2 = 48.63%
+| map_image = 2026 Ohio Supreme Court Brunner's seat election results map by county.svg
+| map_caption = County results<br />'''Brunner:''' {{legend0|#7996E2|50–60%}} {{legend0|#6674DE|60–70%}} {{legend0|#584CDE|70–80%}}<br />'''O'Donnell:''' {{legend0|#E27F7F|50–60%}} {{legend0|#D75D5D|60–70%}} {{legend0|#D72F30|70–80%}} {{legend0|#C21B18|80–90%}}
+| title = [[Supreme Court of Ohio|Justice]]
+| before_election = [[Jennifer Brunner]]
+| before_party = Democratic Party (United States)
+| after_election = [[Jennifer Brunner]]
+| after_party = Ohio Democratic Party
+| candidate1 = '''[[Jennifer Brunner]]'''
+| candidate2 = Colleen O’Donnell
+| map_size = 250px
+| election_date = {{Start date|2026|11|03}}
+}}
+===Democratic primary===
+====Candidates====
+=====Nominee=====
+*[[Jennifer Brunner]], incumbent justice<ref name="DemSlate">{{cite web |last1=Durbin |first1=Joe |title=Ohio Democrats set 2026 midterm slate: Amy Acton, congressional incumbents lead the way |url=https://abc6onyourside.com/news/local/ohio-democrats-set-2026-slate-acton-congressional-incumbents-lead-the-way-politics-elections-midterms |website=WSYX |access-date=12 March 2026 |date=February 28, 2026}}</ref>
+
+====Results====
+{{Election box begin no change
+ | title=Democratic primary<ref name="Democratic Primary Results">{{Cite web |title=May 5, 2026 Primary/Special Election Official Canvass|url= https://publicfiles.ohiosos.gov/election-results/past-elections/2026/Primary+Special%20Election%20-%20May%205,%202026/group1/summary-level-official-results-2026-primary---democratic.xlsx |website=Ohio Secretary of State |access-date=June 5, 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+ | party=Ohio Democratic Party
+ | candidate=[[Jennifer Brunner]] (incumbent)
+ | votes=687,294
+ | percentage=100.00}}
+{{Election box total no change
+ | votes=687,294
+ | percentage=100.00}}
+{{Election box end}}
+
+===Republican primary===
+====Candidates====
+=====Nominee=====
+*Colleen O'Donnell, former judge of Franklin County Common Pleas Court<ref>{{cite web |last1=Heisig |first1=Eric |title=Ohio High Court Candidate Hit With Grievance for Online Post |url=https://news.bloomberglaw.com/litigation/ex-immigration-judge-faces-grievance-in-ohio-supreme-court-race |website=Bloomberg Law |access-date=24 March 2026 |date=April 10, 2026}}</ref>
+
+=====Eliminated in primary=====
+*Andrew King, judge of the Fifth [[Ohio District Courts of Appeals]] (2023–present)<ref>{{cite web |last1=Prince |first1=Conner |title=Allen County GOP luncheon spotlights Republican Ohio Supreme Court candidates |url=https://www.hometownstations.com/news/allen_county/allen-county-gop-luncheon-spotlights-republican-ohio-supreme-court-candidates/article_1e7ce944-e79a-4b59-a96d-52fe5496ce9d.html |website=Hometown Stations |access-date=12 March 2026 |date=March 6, 2026}}</ref>
+*Jill Flagg Lanzinger, judge of the Ninth Ohio District Courts of Appeals (2023–present)<ref>{{cite web |last1=Pelzer |first1=Jeremy |title=GOP judge from Summit County eyes Ohio Supreme Court’s lone Democratic seat |url=https://www.cleveland.com/news/2025/09/gop-judge-from-summit-county-eyes-ohio-supreme-courts-lone-democratic-seat.html |website=Cleveland.com |access-date=12 March 2026 |date=September 11, 2025}}</ref>
+*Ronald Lewis, judge of the Second Ohio District Courts of Appeals (2022–present)<ref>{{cite web |last1=Tobias |first1=Andrew |title=Ohio Supreme Court candidate no longer seeking GOP endorsement, despite winning ‘pre-vote’ |url=https://signalohio.org/ron-lewis-withdraws-from-seeking-gop-endorsement-in-ohio-supreme-court-election/ |website=Signal Ohio |access-date=12 March 2026 |date=August 26, 2025}}</ref>
+
+====Results====
+[[File:2026 Ohio Supreme Court Brunner's seat Republican primary election results map by county.svg|thumb|center|200px|Primary results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|O'Donnell}}
+|{{legend|#FFE0EA|20–30%}}
+|{{legend|#FFC8CD|30–40%}}
+|{{legend|#FFB2B2|40–50%}}
+|{{legend|#E27F7F|50–60%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|King}}
+|{{legend|#FFDAC1|20–30%}}
+|{{legend|#FFCCA9|30–40%}}
+|{{legend|#FFB580|40–50%}}
+|{{legend|#FF9A50|50–60%}}
+}}
+{{collapsible list
+| title = {{legend|#C88FE4|Lanzinger}}
+|{{legend|#F2DFFC|30–40%}}
+|{{legend|#DCB7EF|40–50%}}
+|{{legend|#C88FE4|50–60%}}
+}}
+{{collapsible list
+| title = {{legend|#47CC9D|Lewis}}
+|{{legend|#CBFFED|20–30%}}
+}}
+]]
+{{Election box begin no change
+ | title=Republican primary<ref name="Republican Primary Results">{{Cite web |title=May 5, 2026 Primary/Special Election Official Canvass|url= https://publicfiles.ohiosos.gov/election-results/past-elections/2026/Primary+Special%20Election%20-%20May%205,%202026/group1/summary-level-official-results-2026-primary---republican.xlsx |website=Ohio Secretary of State |access-date=June 5, 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+ | party=Ohio Republican Party
+ | candidate=Colleen O'Donnell
+ | votes=237,040
+ | percentage=32.14}}
+{{Election box candidate with party link no change
+ | party=Ohio Republican Party
+ | candidate=Andrew King
+ | votes=219,277
+ | percentage=29.73}}
+{{Election box candidate with party link no change
+ | party=Ohio Republican Party
+ | candidate=Jill Flagg Lanzinger
+ | votes=147,771
+ | percentage=20.04}}
+{{Election box candidate with party link no change
+ | party=Ohio Republican Party
+ | candidate=Ronald Lewis
+ | votes=133,430
+ | percentage=18.09}}
+{{Election box total no change
+ | votes=737,518
+ | percentage=100.00}}
+{{Election box end}}
+
+===General election===
+====Results====
+{{Election box begin no change
+ | title=2026 Ohio Supreme Court election, Jennifer Brunner's seat<ref name="sosresult">{{Cite web |title=Ohio Decides - Election Night Reporting - Justice of the Supreme Court |url=https://liveresults.ohiosos.gov/ |access-date=November 4, 2026 |website=Ohio Secretary of State}}</ref>
+}}
+{{Election box winning candidate with party link no change
+ | party=Ohio Democratic Party
+ | candidate=[[Jennifer Brunner]] (incumbent)
+ | votes=2,324,212
+ | percentage=51.37}}
+{{Election box candidate with party link no change
+ | party=Ohio Republican Party
+ | candidate=Colleen O'Donnell
+ | votes=2,200,021
+ | percentage=48.63}}
+{{Election box total no change
+ | votes=4,524,233
+ | percentage=100.00}}
+{{Election box hold with party link no swing
+| winner = Ohio Democratic Party
+}}
+{{Election box end}}
+==Dan Hawkins' seat==
+{{Infobox election
+| election_name = 2026 Ohio Supreme Court election (Hawkins's seat)
+| country = Ohio
+| type = presidential
+| ongoing = no
+| turnout = 
+| previous_election = 2024 Ohio elections#Supreme Court
+| previous_year = 2024
+| next_election = 2032 Ohio elections#Supreme Court
+| next_year = ''2032''
+| election_date = <!--Is not needed on this Infobox-->
+| image1 = Judge Marilyn Zayas.jpg
+| party1 = Democratic Party (United States)
+| popular_vote1 = '''2,307,346'''
+| percentage1 = '''51.01%'''
+| image2 = 3x4.svg
+| party2 = Republican Party (United States)
+| popular_vote2 = 2,215,728
+| percentage2 = 48.99%
+| map_image = 2026 Ohio Supreme Court election Hawkins' seat results map by county.svg
+| map_caption = County results<br />'''Zayas:''' {{legend0|#7996E2|50–60%}} {{legend0|#6674DE|60–70%}} {{legend0|#584CDE|70–80%}}<br />'''Hawkins:''' {{legend0|#E27F7F|50–60%}} {{legend0|#D75D5D|60–70%}} {{legend0|#D72F30|70–80%}} {{legend0|#C21B18|80–90%}}
+| title = [[Supreme Court of Ohio|Justice]]
+| before_election = [[Daniel R. Hawkins|Dan Hawkins]]
+| before_party = Republican Party (United States)
+| after_election = [[Marilyn Zayas]]
+| after_party = Ohio Democratic Party
+| candidate2 = [[Daniel R. Hawkins|Dan Hawkins]]
+| candidate1 = '''[[Marilyn Zayas]]'''
+| map_size = 250px
+}}
+===Republican primary===
+====Candidates====
+=====Nominee=====
+*[[Daniel R. Hawkins|Dan Hawkins]], incumbent justice<ref>{{cite web |last1=Henry |first1=Megan |title=Here are the candidates running for Ohio statewide office in 2026 |url=https://ohiocapitaljournal.com/2026/02/06/here-are-the-candidates-running-for-ohio-statewide-office-in-2026/ |website=Ohio Capital Journal |access-date=12 March 2026 |date=February 6, 2026}}</ref>
+
+====Results====
+{{Election box begin no change
+ | title=Republican primary<ref name="Republican Primary Results"/>}}
+{{Election box winning candidate with party link no change
+ | party=Ohio Republican Party
+ | candidate=[[Daniel R. Hawkins|Dan Hawkins]] (incumbent)
+ | votes=674,078
+ | percentage=100.00}}
+{{Election box total no change
+ | votes=674,078
+ | percentage=100.00}}
+{{Election box end}}
+
+===Democratic primary===
+====Candidates====
+=====Nominee=====
+*[[Marilyn Zayas]], judge of the First Ohio District Courts of Appeals (2016–present)<ref>{{cite web |last1=Skolnick |first1=David |title=Appeals court judge declares for Ohio Supreme Court |url=https://www.heraldstaronline.com/news/local-news/2025/12/appeals-court-judge-declares-for-ohio-supreme-court/ |website=Herald-Star |access-date=12 March 2026 |date=December 18, 2025}}</ref>
+
+====Results====
+{{Election box begin no change
+ | title=Democratic primary<ref name="Democratic Primary Results"/>}}
+{{Election box winning candidate with party link no change
+ | party=Ohio Democratic Party
+ | candidate=[[Marilyn Zayas]]
+ | votes=671,293
+ | percentage=100.00}}
+{{Election box total no change
+ | votes=671,293
+ | percentage=100.00}}
+{{Election box end}}
+
+===General election===
+====Results====
+{{Election box begin no change
+ | title=2026 Ohio Supreme Court election, Dan Hawkins' seat<ref name="sosresult" />
+}}
+{{Election box winning candidate with party link no change
+ | party=Ohio Democratic Party
+ | candidate=[[Marilyn Zayas]]
+ | votes=2,307,346
+ | percentage=51.01}}
+{{Election box candidate with party link no change
+ | party=Ohio Republican Party
+ | candidate=[[Daniel R. Hawkins|Dan Hawkins]] (incumbent)
+ | votes=2,215,728
+ | percentage=48.99}}
+{{Election box total no change
+ | votes=4,523,074
+ | percentage=100.00}}
+{{Election box gain with party link no swing
+| winner = Ohio Democratic Party
+| loser = Ohio Republican Party
+}}
+{{Election box end}}
+
+==References==
+{{Reflist}}
+
+{{2026 United States elections}}
+
+[[Category:2026 United States judicial elections|Ohio]]
+[[Category:2026 elections in Ohio|Supreme Court]]

@@ -1,0 +1,142 @@
+{{Short description|none}}
+{{Use mdy dates|date=February 2026}}
+{{Use American English|date=February 2026}}
+{{Infobox election
+| election_date = {{Start date|2010|11|02}}
+| election_name = 2010 Ohio State Treasurer election
+| country = Ohio
+| type = presidential
+| ongoing = no
+| previous_election = 2006 Ohio State Treasurer election
+| previous_year = 2006
+| next_election = 2014 Ohio elections#Treasurer
+| next_year = 2014
+| candidate1 = '''[[Josh Mandel]]'''
+| party1 = Republican Party (United States)
+| popular_vote1 = '''2,050,142'''
+| percentage1 = '''54.52%'''
+| popular_vote2 = 1,525,992
+| percentage2 = 40.58%
+| candidate2 = [[Kevin Boyce]]
+| party2 = Democratic Party (United States)
+| image2 = RootsCamp Ohio 2009 (cropped).jpg
+| image1 = Josh Mandel.jpg
+| map_image = 2010 Ohio State Treasurer election results map by county.svg
+| map_size = 210px
+| map_caption = County results<br />'''Mandel:''' {{legend0|#ffb2b2|40-50%}} {{legend0|#e27f7f|50-60%}} {{legend0|#d75d5d|60-70%}} {{legend0|#d72f30|70-80%}}<br />'''Boyce:''' {{legend0|#a5b0ff|40-50%}} {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}}
+| turnout = 49.22%
+| registered = 8,037,806
+| title = [[Ohio State Auditor|State Auditor]]
+| before_election = [[Kevin Boyce]]
+| before_party = Democratic Party (United States)
+| after_election = [[Josh Mandel]]
+| after_party = Republican Party (United States)
+}}
+{{ElectionsOH}}
+The '''2010 Ohio State Treasurer election''' was held on November 2, 2010, to elect the [[Ohio State Treasurer]], concurrently with elections to the [[2010 United States Senate election in Ohio|United States Senate]], [[2010 United States House of Representatives elections in Ohio|U.S. House of Representatives]], [[2010 Ohio gubernatorial election|governor]], and other [[2010 Ohio elections|state]] and [[2010 United States elections#Local elections|local]] elections. Primary elections were held on May 4, 2010.<ref>{{Cite web |title=2010 Elections Results |url=https://www.ohiosos.gov/elections/election-results-and-data/2010-elections-results/ |access-date=November 3, 2025 |website=Ohio Secretary of State}}</ref>
+
+Incumbent [[Democratic Party (United States)|Democratic]] treasurer [[Richard Cordray]] resigned as state treasurer following his election as the [[Ohio Attorney General]] in a [[2008 Ohio Attorney General special election|2008 special election]].<ref>{{Cite web |last=Majors |first=Stephen |date=January 7, 2009 |title=New Ohio attorney general, treasurer take office |url=https://www.cantonrep.com/story/news/state/2009/01/08/new-ohio-attorney-general-treasurer/42552351007/ |access-date=November 3, 2025 |website=The Canton Repository}}</ref> Governor [[Ted Strickland]] appointed [[Columbus City Council]] member [[Kevin Boyce]] to serve as state treasurer.<ref name="guillen1" />
+
+[[Republican Party (United States)|Republican]] state representative [[Josh Mandel]] defeated Boyce in the general election.<ref name=":0">{{Cite web |date=November 3, 2010 |title=Josh Mandel claims Ohio treasurer for GOP |url=https://www.toledoblade.com/local/politics/2010/11/02/Josh-Mandel-claims-Ohio-treasurer-for-GOP/stories/201011020018 |access-date=November 3, 2025 |website=The Toledo Blade}}</ref> Mandel led in fundraising throughout much of the campaign.<ref name=":0" /><ref>{{Cite web |last=Marshall |first=Aaron |date=January 29, 2010 |title=Mandel raising big bucks in state treasurer's race |url=https://www.cleveland.com/open/2010/01/mandel_raising_big_bucks_in_st.html |access-date=November 3, 2025 |website=The Plain Dealer}}</ref>
+
+== Democratic primary ==
+=== Candidates ===
+==== Nominee ====
+* [[Kevin Boyce]], incumbent state treasurer (2009–present) and former member of the [[Columbus City Council]] (2000–2009)<ref name="guillen1">{{Cite web |last=Guillen |first=Joe |date=October 19, 2010 |title=Struggles growing up helped shape Ohio Treasurer Kevin Boyce's vision |url=https://www.cleveland.com/open/2010/10/his_struggles_growing_up_helpe.html |access-date=November 3, 2025 |website=The Plain Dealer}}</ref>
+=== Results ===
+{{Election box begin no change
+| title = Democratic primary results<ref>{{Cite web |title=Treasurer of State - Democratic: May 4, 2010 |url=https://www.ohiosos.gov/elections/election-results-and-data/2010-elections-results/treasurer-of-state---democratic-may-4-2010/ |access-date=November 3, 2025 |website=Ohio Secretary of State}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Kevin Boyce]] (incumbent)
+| party = Ohio Democratic Party 
+| votes = 518,138
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 518,138
+| percentage = 100.0
+}}
+{{Election box end}}
+
+== Republican primary ==
+=== Candidates ===
+==== Nominee ====
+* [[Josh Mandel]], state representative from the 17th district (2007–present) and former [[Lyndhurst, Ohio|Lyndhurst]] city councilman<ref>{{Cite web |last=Guillen |first=Joe |date=October 19, 2010 |title=Experience as a Marine frames Josh Mandel's candidacy for Ohio treasurer |url=https://www.cleveland.com/open/2010/10/experience_as_a_marine_frames.html |access-date=November 3, 2025 |website=The Plain Dealer}}</ref>
+=== Results ===
+{{Election box begin no change
+| title = Republican primary results<ref>{{Cite web |title=Treasurer of State - Republican: May 4, 2010 |url=https://www.ohiosos.gov/elections/election-results-and-data/2010-elections-results/treasurer-of-state---republican-may-4-2010/ |access-date=November 3, 2025 |website=Ohio Secretary of State}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Josh Mandel]]
+| party = Ohio Republican Party 
+| votes = 644,207
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 644,207
+| percentage = 100.0
+}}
+{{Election box end}}
+
+== Libertarian primary ==
+=== Candidates ===
+==== Nominee ====
+* Matthew Cantrell, financial professional<ref>{{Cite web |date=October 10, 2010 |title=The Plain Dealer endorses Matthew P. Cantrell for Ohio treasurer: editorial |url=https://www.cleveland.com/opinion/2010/10/the_plain_dealer_endorses_matt.html |access-date=November 3, 2025 |website=The Plain Dealer}}</ref>
+=== Results ===
+{{Election box begin no change
+| title = Libertarian primary results<ref>{{Cite web |title=Treasurer of State - Libertarian: May 4, 2010 |url=https://www.ohiosos.gov/elections/election-results-and-data/2010-elections-results/treasurer-of-state---libertarian-may-4-2010/ |access-date=November 3, 2025 |website=Ohio Secretary of State}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Matthew Cantrell
+| party = Libertarian Party (United States)
+| votes = 4,276
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 4,276
+| percentage = 100.0
+}}
+{{Election box end}}
+
+== General election ==
+=== Results ===
+{{Election box begin no change
+| title = 2010 Ohio State Treasurer election<ref name="genresults">{{Cite web |title=Treasurer of State: November 2, 2010 |url=https://www.ohiosos.gov/elections/election-results-and-data/2010-elections-results/treasurer-of-state-november-2-2010/ |access-date=November 3, 2025 |website=Ohio Secretary of State}}</ref>
+}}
+{{Election box winning candidate with party link no change|
+|party = Ohio Republican Party
+|candidate = [[Josh Mandel]]
+|votes = 2,050,142
+|percentage = 54.52%
+}}
+{{Election box candidate with party link no change|
+|party = Ohio Democratic Party
+|candidate = [[Kevin Boyce]] (incumbent)
+|votes = 1,525,992
+|percentage = 40.58%
+}}
+{{Election box candidate with party link no change
+|candidate = Matthew Cantrell
+|party = Libertarian Party (United States)
+|votes = 184,478
+|percentage = 4.90%
+}}
+{{Election box total no change
+|votes = 3,760,612
+|percentage = 100.0%
+}}
+{{Election box gain with party link no swing|
+  |winner     = Republican Party (United States)
+  |loser      = Democratic Party (United States)
+}}
+{{Election box end}}
+
+== References ==
+{{Reflist}}
+
+{{2010 United States elections}}
+
+[[Category:2010 elections in Ohio|State Treasurer]]
+[[Category:2010 United States state treasurer elections|Ohio]]
+[[Category:Ohio State Treasurer elections]]

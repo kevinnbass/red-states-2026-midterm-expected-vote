@@ -1,0 +1,73 @@
+state,year,rep_candidate,rep_votes,dem_candidate,dem_votes,source_file,source_sha256
+AK,1992,"BUSH, GEORGE H.W.",102000,"CLINTON, BILL",78294,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+AK,1996,"DOLE, ROBERT",122746,"CLINTON, BILL",80380,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+AK,2000,"BUSH, GEORGE W.",167398,"GORE, AL",79004,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+AK,2004,"BUSH, GEORGE W.",190889,"KERRY, JOHN",111025,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+AK,2008,"MCCAIN, JOHN",193841,"OBAMA, BARACK H.",123594,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+AK,2012,"ROMNEY, MITT",164676,"OBAMA, BARACK H.",122640,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+AK,2016,"TRUMP, DONALD J.",163387,"CLINTON, HILLARY",116454,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+AK,2020,"TRUMP, DONALD J.",189951,"BIDEN, JOSEPH R. JR",153778,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+AK,2024,"TRUMP, DONALD J.",184458,"HARRIS, KAMALA D.",140026,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+IA,1992,"BUSH, GEORGE H.W.",504891,"CLINTON, BILL",586353,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+IA,1996,"DOLE, ROBERT",492644,"CLINTON, BILL",620258,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+IA,2000,"BUSH, GEORGE W.",634373,"GORE, AL",638517,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+IA,2004,"BUSH, GEORGE W.",751957,"KERRY, JOHN",741898,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+IA,2008,"MCCAIN, JOHN",682379,"OBAMA, BARACK H.",828940,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+IA,2012,"ROMNEY, MITT",730617,"OBAMA, BARACK H.",822544,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+IA,2016,"TRUMP, DONALD J.",800983,"CLINTON, HILLARY",653669,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+IA,2020,"TRUMP, DONALD J.",897672,"BIDEN, JOSEPH R. JR",759061,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+IA,2024,"TRUMP, DONALD J.",927019,"HARRIS, KAMALA D.",707278,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+IN,1992,"BUSH, GEORGE H.W.",989375,"CLINTON, BILL",848420,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+IN,1996,"DOLE, ROBERT",1006693,"CLINTON, BILL",887424,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+IN,2000,"BUSH, GEORGE W.",1245836,"GORE, AL",901980,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+IN,2004,"BUSH, GEORGE W.",1479438,"KERRY, JOHN",969011,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+IN,2008,"MCCAIN, JOHN",1345648,"OBAMA, BARACK H.",1374039,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+IN,2012,"ROMNEY, MITT",1420543,"OBAMA, BARACK H.",1152887,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+IN,2016,"TRUMP, DONALD J.",1557286,"CLINTON, HILLARY",1033126,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+IN,2020,"TRUMP, DONALD J.",1729519,"BIDEN, JOSEPH R. JR",1242416,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+IN,2024,"TRUMP, DONALD J.",1720347,"HARRIS, KAMALA D.",1163603,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+KS,1992,"BUSH, GEORGE H.W.",449951,"CLINTON, BILL",390434,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+KS,1996,"DOLE, ROBERT",583245,"CLINTON, BILL",387659,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+KS,2000,"BUSH, GEORGE W.",622332,"GORE, AL",399276,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+KS,2004,"BUSH, GEORGE W.",736456,"KERRY, JOHN",434993,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+KS,2008,"MCCAIN, JOHN",699655,"OBAMA, BARACK H.",514765,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+KS,2012,"ROMNEY, MITT",692634,"OBAMA, BARACK H.",440726,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+KS,2016,"TRUMP, DONALD J.",671018,"CLINTON, HILLARY",427005,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+KS,2020,"TRUMP, DONALD J.",771406,"BIDEN, JOSEPH R. JR",570323,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+KS,2024,"TRUMP, DONALD J.",758802,"HARRIS, KAMALA D.",544853,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+MS,1992,"BUSH, GEORGE H.W.",487793,"CLINTON, BILL",400258,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+MS,1996,"DOLE, ROBERT",439838,"CLINTON, BILL",394022,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+MS,2000,"BUSH, GEORGE W.",572844,"GORE, AL",404614,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+MS,2004,"BUSH, GEORGE W.",672660,"KERRY, JOHN",457766,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+MS,2008,"MCCAIN, JOHN",724597,"OBAMA, BARACK H.",554662,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+MS,2012,"ROMNEY, MITT",710746,"OBAMA, BARACK H.",562949,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+MS,2016,"TRUMP, DONALD J.",700714,"CLINTON, HILLARY",485131,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+MS,2020,"TRUMP, DONALD J.",756764,"BIDEN, JOSEPH R. JR",539398,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+MS,2024,"TRUMP, DONALD J.",747744,"HARRIS, KAMALA D.",466668,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+OH,1992,"BUSH, GEORGE H.W.",1894310,"CLINTON, BILL",1984942,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+OH,1996,"DOLE, ROBERT",1859883,"CLINTON, BILL",2148222,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+OH,2000,"BUSH, GEORGE W.",2350363,"GORE, AL",2183628,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+OH,2004,"BUSH, GEORGE W.",2859764,"KERRY, JOHN",2741165,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+OH,2008,"MCCAIN, JOHN",2677820,"OBAMA, BARACK H.",2940044,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+OH,2012,"ROMNEY, MITT",2661407,"OBAMA, BARACK H.",2827621,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+OH,2016,"TRUMP, DONALD J.",2841005,"CLINTON, HILLARY",2394164,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+OH,2020,"TRUMP, DONALD J.",3154834,"BIDEN, JOSEPH R. JR",2679165,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+OH,2024,"TRUMP, DONALD J.",3180116,"HARRIS, KAMALA D.",2533699,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+SC,1992,"BUSH, GEORGE H.W.",577507,"CLINTON, BILL",525514,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+SC,1996,"DOLE, ROBERT",573339,"CLINTON, BILL",506152,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+SC,2000,"BUSH, GEORGE W.",786892,"GORE, AL",566037,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+SC,2004,"BUSH, GEORGE W.",937974,"KERRY, JOHN",661669,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+SC,2008,"MCCAIN, JOHN",1034896,"OBAMA, BARACK H.",862449,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+SC,2012,"ROMNEY, MITT",1071645,"OBAMA, BARACK H.",865941,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+SC,2016,"TRUMP, DONALD J.",1155389,"CLINTON, HILLARY",855373,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+SC,2020,"TRUMP, DONALD J.",1385103,"BIDEN, JOSEPH R. JR",1091541,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+SC,2024,"TRUMP, DONALD J.",1483747,"HARRIS, KAMALA D.",1028452,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+TX,1992,"BUSH, GEORGE H.W.",2496071,"CLINTON, BILL",2281815,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+TX,1996,"DOLE, ROBERT",2736167,"CLINTON, BILL",2459683,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+TX,2000,"BUSH, GEORGE W.",3799639,"GORE, AL",2433746,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+TX,2004,"BUSH, GEORGE W.",4526917,"KERRY, JOHN",2832704,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+TX,2008,"MCCAIN, JOHN",4479328,"OBAMA, BARACK H.",3528633,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+TX,2012,"ROMNEY, MITT",4569843,"OBAMA, BARACK H.",3308124,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+TX,2016,"TRUMP, DONALD J.",4685047,"CLINTON, HILLARY",3877868,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+TX,2020,"TRUMP, DONALD J.",5890347,"BIDEN, JOSEPH R. JR",5259126,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7
+TX,2024,"TRUMP, DONALD J.",6393597,"HARRIS, KAMALA D.",4835250,/mnt/data/projects/election/raw/results/president/1976-2024-president.csv,9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7

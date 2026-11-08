@@ -1,0 +1,140 @@
+{{Short description|none}}
+{{for|related races|2026 United States state auditor elections}}
+<!-- "none" is preferred when the title alone is adequate; see [[WP:SDNONE]] -->
+{{use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 2026 Ohio State Auditor election
+| country = Ohio
+| type = presidential
+| ongoing = no
+| reporting = 98
+| last_update = 2:35 PM
+| time_zone = [[Eastern Standard Time|EST]]
+| previous_election = 2022_Ohio_elections#Auditor
+| previous_year = 2022
+| next_election = 2030 Ohio State Auditor election
+| next_year = 2030
+| election_date = November 3, 2026
+| image1 = Frank_LaRose_by_Gage_Skidmore.jpg
+| nominee1 = '''[[Frank LaRose]]'''
+| party1 = Republican Party (United States)
+| popular_vote1 = '''2,310,105'''
+| percentage1 = '''50.79%'''
+| image2 = AnnetteBlackwell2026.jpg
+| nominee2 = Annette Blackwell
+| party2 = Democratic Party (United States)
+| popular_vote2 = 2,237,955
+| percentage2 = 49.21%
+| map_image = 2026 Ohio State Auditor election results map by county.svg
+| map_size = 210px
+| map_caption = County results<br />'''LaRose:''' {{legend0|#E27F7F|50–60%}} {{legend0|#D75D5D|60–70%}} {{legend0|#D72F30|70–80%}} {{legend0|#C21B18|80–90%}}<br />'''Blackwell:''' {{legend0|#7996E2|50–60%}} {{legend0|#6674DE|60–70%}}
+| title = [[Ohio State Auditor|State Auditor]]
+| before_election = [[Keith Faber]]
+| before_party = Republican Party (United States)
+| after_election = [[Frank LaRose]]
+| after_party = Republican Party (United States)
+}}
+{{ElectionsOH}}
+The '''2026 Ohio state auditor election''' took place on November 3, 2026, to elect the [[State Auditor of Ohio|state auditor of Ohio]]. Incumbent [[Republican Party of Ohio|Republican]] [[Keith Faber]] was term-limited and ineligible to run for re-election. He was [[2026 Ohio Attorney General election|running]] for [[Ohio Attorney General|attorney general of Ohio]]. Primary elections were held on May 5.
+
+[[Frank LaRose]], the incumbent [[Ohio Secretary of State]], narrowly defeated [[Democratic Party (United States)|Democratic]] nominee Annette Blackwell. This was the only statewide office won by a Republican in Ohio in the [[2026 Ohio elections|2026 elections]].
+{{toclimit|3}}
+
+==Republican primary==
+===Candidates===
+==== Nominee ====
+*[[Frank LaRose]], secretary of state (2019–present)<ref>{{Cite web |title=Ohio Secretary of State Frank LaRose announces bid for state auditor |url=https://spectrumnews1.com/oh/columbus/news/2025/02/10/frank-larose-auditor-election |access-date=2025-03-17 |website=spectrumnews1.com |language=en}}</ref>
+
+===Results===
+{{Election box begin no change
+ | title=Republican primary results<ref name="Republican Primary Results">{{Cite web |title=May 5, 2026 Primary/Special Election Official Canvass|url= https://publicfiles.ohiosos.gov/election-results/past-elections/2026/Primary+Special%20Election%20-%20May%205,%202026/group1/summary-level-official-results-2026-primary---republican.xlsx |website=Ohio Secretary of State |access-date=June 5, 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+ | party=Ohio Republican Party
+ | candidate=[[Frank LaRose]]
+ | votes=723,968
+ | percentage=100.0}}
+{{Election box total no change
+ | votes=723,968
+ | percentage=100.0}}
+{{Election box end}}
+
+== Democratic primary ==
+=== Candidates ===
+
+====Nominee====
+*Annette Blackwell, mayor of [[Maple Heights]] (2016–present)<ref>{{cite web |last1=Skolnick |first1=David |title=Ohio Democrats choose Mayor Annette Blackwell to run for auditor |url=https://www.reviewonline.com/news/local-news/2026/01/ohio-democrats-choose-mayor-annette-blackwell-to-run-for-auditor/ |access-date=January 18, 2026 |work=[[The Review (East Liverpool)|The Review]] |date=January 15, 2026}}</ref>
+
+===Results===
+{{Election box begin no change
+ | title=Democratic primary results<ref name="Democratic Primary Results">{{Cite web |title=May 5, 2026 Primary/Special Election Official Canvass|url= https://publicfiles.ohiosos.gov/election-results/past-elections/2026/Primary+Special%20Election%20-%20May%205,%202026/group1/summary-level-official-results-2026-primary---democratic.xlsx |website=Ohio Secretary of State |access-date=June 5, 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+ | party=Ohio Democratic Party
+ | candidate=Annette Blackwell
+ | votes=687,318
+ | percentage=100.0}}
+{{Election box total no change
+ | votes=687,318
+ | percentage=100.0}}
+{{Election box end}}
+
+== Libertarian primary ==
+Jeffery did not advance to the general election, after failing to receive the minimum 500 votes in the primary.<ref>{{Cite web |title=Section 3513.23 - Ohio Revised Code {{!}} Ohio Laws |url=https://codes.ohio.gov/ohio-revised-code/section-3513.23 |access-date=2026-05-02 |website=codes.ohio.gov}}</ref><ref>{{Cite web |title=Section 3513.05 - Ohio Revised Code {{!}} Ohio Laws |url=https://codes.ohio.gov/ohio-revised-code/section-3513.05 |access-date=2026-05-02 |website=codes.ohio.gov}}</ref>
+
+=== Candidates ===
+
+==== Eliminated in primary ====
+* Aidan Jeffery (write-in)<ref>{{Cite web |title=Ohio Auditor election, 2026 |url=https://ballotpedia.org/Ohio_Auditor_election,_2026 |access-date=2026-05-02 |website=Ballotpedia |language=en}}</ref>
+
+=== Results ===
+{{Election box begin no change
+ | title=Libertarian primary results<ref name="Libertarian Primary Results">{{Cite web |title=May 5, 2026 Primary/Special Election Official Canvass|url= https://publicfiles.ohiosos.gov/election-results/past-elections/2026/Primary+Special%20Election%20-%20May%205,%202026/group1/summary-level-official-results-2026-primary---libertarian.xlsx |website=Ohio Secretary of State |access-date=June 5, 2026}}</ref>}}
+{{Election box candidate with party link no change
+ | party=Libertarian Party of Ohio
+ | candidate=Aidan Jeffery (write-in)
+ | votes=441
+ | percentage=100.0}}
+{{Election box total no change
+ | votes=441
+ | percentage=100.0}}
+{{Election box end}}
+
+==General election==
+===Results===
+{{Election box begin
+ | title=2026 Ohio state auditor election (est. 98% in)}}
+{{Election box winning candidate with party link
+ | party=Ohio Republican Party 
+ | candidate= [[Frank LaRose]]
+ | votes=2,310,105
+ | percentage=50.79
+ | change=-7.96
+}}
+{{Election box candidate with party link
+ | party=Ohio Democratic Party 
+ | candidate= Annette Blackwell
+ | votes=2,237,955 
+ | percentage=49.21
+ | change=+7.96
+}}
+{{Election box total 
+ | votes=4,548,060
+ | percentage=100.0
+ | change=
+}}
+{{Election box hold with party link no swing
+ | winner=Republican Party (United States)
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+==External links==
+'''Official campaign websites'''
+*[https://blackwellforohio.com/ Annette Blackwell (D) for State Auditor]
+*[https://www.franklarose.com/ Frank LaRose (R) for State Auditor]
+
+{{2026 United States elections}}
+
+[[Category:2026 elections in Ohio|State Auditor]]
+[[Category:2026 United States state auditor elections|Ohio]]

@@ -1,0 +1,247 @@
+{{Short description|none}}
+{{Use American English|date=January 2025}}
+<!-- "none" is preferred when the title is sufficiently descriptive; see [[WP:SDNONE]] -->
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name      = 1994 South Carolina gubernatorial election
+| country            = South Carolina
+| type               = presidential
+| ongoing            = no
+| previous_election  = 1990 South Carolina gubernatorial election
+| previous_year      = 1990
+| next_election      = 1998 South Carolina gubernatorial election
+| next_year          = 1998
+| election_date      = November 8, 1994
+| image1             = Image:GovernorBeasley.JPG
+| image_size = 150x150px
+| nominee1           = '''[[David Beasley]]'''
+| party1             = Republican Party (United States)
+| popular_vote1      = '''470,756'''
+| percentage1        = '''50.41%'''
+| image2             = Image:Lt. Gov. Nick Theodore of SC.jpg
+| nominee2           = [[Nick Theodore]]
+| party2             = Democratic Party (United States)
+| popular_vote2      = 447,002
+| percentage2        = 47.87%
+| map_image = 1994 South Carolina gubernatorial election results map by county.svg
+| map_size = 230px
+| map_caption = County results<br />'''Beasley''': {{legend0|#ffb2b2|40–50%}} {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}}<br />'''Theodore''': {{legend0|#a5b0ff|40–50%}} {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} 
+| title              = Governor
+| before_election    = [[Carroll A. Campbell Jr.]]
+| before_party       = Republican Party (United States)
+| after_election     = [[David Beasley]]
+| after_party        = Republican Party (United States)
+}}
+{{ElectionsSC}}
+The '''1994 South Carolina gubernatorial election''' was held on November 8, 1994, to select the [[Governor of South Carolina|governor]] of the state of [[South Carolina]]. The contest featured two politicians from [[the Upstate]] and [[David Beasley]] narrowly defeated [[Nick Theodore]] to become the [[List of governors of South Carolina|113th governor]] of South Carolina.
+
+==Democratic primary==
+The [[South Carolina Democratic Party]] held their [[Partisan primary|primary]] for governor on August 9, 1994. [[Lieutenant Governor of South Carolina|Lieutenant Governor]] [[Nick Theodore]], from [[the Upstate]], emerged as the winner of the runoff election on August 23 against popular [[Charleston, South Carolina|Charleston]] mayor [[Joseph P. Riley Jr.|Joseph P. (Joe) Riley Jr.]] and the three-term [[Attorney General of South Carolina]], [[Thomas T. Medlock]].
+
+=== Candidates ===
+* William Holler
+* [[Thomas T. Medlock]], Attorney General of South Carolina
+* [[Joseph P. Riley Jr.]], mayor of Charleston
+* [[Nick Theodore]], Lieutenant Governor of South Carolina
+
+=== Results ===
+{{Election box begin no change|title=1994 Democratic gubernatorial primary}}
+{{Election box candidate with party link no change
+  |candidate = [[Nick Theodore]]
+  |party = Democratic Party (US)
+  |votes = 129,572
+  |percentage = 49.56%
+}}
+{{Election box candidate with party link no change
+  |candidate = [[Joseph P. Riley Jr.]]
+  |party = Democratic Party (US)
+  |votes = 99,967
+  |percentage = 38.24%
+}}
+{{Election box candidate with party link no change
+  |candidate = [[Thomas T. Medlock]]
+  |party = Democratic Party (US)
+  |votes = 22,468
+  |percentage = 8.59%
+}}
+{{Election box candidate with party link no change
+  |candidate = William Holler
+  |party = Democratic Party (US)
+  |votes = 9,439
+  |percentage = 3.61%
+}}
+{{Election box total no change
+| votes = 261,446
+| percentage = 100.00%
+}}
+{{Election box end}}
+=== Runoff results ===
+{{Election box begin |title=1994 Democratic gubernatorial runoff}}
+{{Election box winning candidate with party link 
+  |candidate = [[Nick Theodore]]
+  |party = Democratic Party (US)
+  |votes = 113,127
+  |percentage = 50.36%
+  | change = {{increase}} 0.80
+}}
+{{Election box candidate with party link 
+  |candidate = [[Joseph P. Riley Jr.]]
+  |party = Democratic Party (US)
+  |votes = 111,517
+  |percentage = 49.64%
+  | change = {{increase}}11.20
+}}
+{{Election box total
+  | votes = 224,644
+  | percentage = 100.00% 
+  }}
+{{Election box end}}
+
+==Republican primary==
+The [[South Carolina Republican Party]] held their [[Partisan primary|primary]] on August 9, 1994, and the contest featured [[South Carolina House of Representatives|state representative]] [[David Beasley]] from [[the Upstate]] against two [[South Carolina Low Country|Lowcountry]] politicians. Beasley cruised to victory and benefited from the campaign of popular [[Charleston, South Carolina|Charleston]] mayor [[Joseph P. Riley Jr.|Joe Riley]] for the Democratic nomination by drawing Lowcountry voters away from the Republican primary and towards the Democratic primary.
+===Candidates===
+* [[David Beasley]], state representative from [[Society Hill, South Carolina|Society Hill]]
+* [[Thomas Hartnett]], former U.S. representative from Charleston
+* [[Arthur Ravenel Jr.]], U.S. representative from Charleston
+
+=== Results ===
+{{Election box begin no change|title=1994 Republican gubernatorial primary}}
+{{Election box candidate with party link no change
+  |candidate = [[David Beasley]]
+  |party = Republican Party (US)
+  |votes = 119,724
+  |percentage = 47.19%
+}}
+{{Election box candidate with party link no change
+  |candidate = [[Arthur Ravenel Jr.]]
+  |party = Republican Party (US)
+  |votes = 81,129
+  |percentage = 31.98%
+}}
+{{Election box candidate with party link no change
+  |candidate = [[Thomas Hartnett]]
+  |party = Republican Party (US)
+  |votes = 52,866
+  |percentage = 20.84%
+}}
+{{Election box total no change
+| votes = 253,719
+| percentage = 100.00%
+}}
+{{Election box end}}
+=== Runoff results ===
+{{Election box begin |title=1994 Republican gubernatorial runoff}}
+{{Election box winning candidate with party link 
+  |candidate = [[David Beasley]]
+  |party = Republican Party (US)
+  |votes = 134,297
+  |percentage = 57.59%
+  | change = {{increase}}10.40
+}}
+{{Election box candidate with party link 
+  |candidate = [[Arthur Ravenel Jr.]]
+  |party = Republican Party (US)
+  |votes = 98,915
+  |percentage = 42.41%
+  | change = {{increase}}10.43
+}}
+{{Election box total
+  | votes = 233,212
+  | percentage = 100.00% 
+  }}
+{{Election box end}}
+
+
+==General election==
+
+===Polling===
+{| class="wikitable"
+! width="150px" | Source
+! width="100px" | Date
+! width="100px" | Beasley (R)
+! width="100px" | Theodore (D)
+|-
+| [[The Greenville News]]
+| Nov. 3, 1994
+| {{Party shading/Republican}} |'''38%'''
+| 34%
+|}
+
+===Results===
+The general election was held on November 8, 1994, and David Beasley was elected as the next [[governor of South Carolina]] in the closest election percentage wise since the disputed [[South Carolina gubernatorial election, 1876|election of 1876]]. [[Voter turnout|Turnout]] was higher than the previous gubernatorial election because of the competitive nature of the race between the two parties.
+
+{{Election box begin | title=South Carolina Gubernatorial Election, 1994}}
+ {{Election box winning candidate with party link|
+   |party      = Republican Party (United States)
+   |candidate  = [[David Beasley]]
+   |votes      = 470,756
+   |percentage = 50.41
+   |change     = -19.1
+ }}
+ {{Election box candidate with party link|
+   |party      = Democratic Party (United States)
+   |candidate  = [[Nick Theodore]]
+   |votes      = 447,002
+   |percentage = 47.87
+   |change     = +20.1
+ }}
+{{Election box candidate|
+  |party      = [[Constitution Party (United States)|U.S. Taxpayers Party]]
+  |candidate  = John R. Peeples, Jr.
+  |votes      = 8,003
+  |percentage = 0.9
+  |change     = +0.9
+}}
+{{Election box candidate|
+  |party      = [[New Alliance Party]]
+  |candidate  = Wayne B. Griffin
+  |votes      = 5,875
+  |percentage = 0.6
+  |change     = +0.6
+}}
+{{Election box candidate|
+  |party      = ''No party''
+  |candidate  = [[Write-in candidate|Write-Ins]]
+  |votes      = 2,214
+  |percentage = 0.2
+  |change     = -0.2
+}}
+{{Election box majority|
+  |votes      = 23,754
+  |percentage = 2.5
+  |change     = -39.2
+}}
+{{Election box turnout|
+  |votes      = 933,850
+  |percentage = 62.3 <!--1,499,589 registered voters-->
+  |change     = +6.3
+}}
+|-
+| {{party color cell|Republican Party (United States)}}
+| colspan=5 |[[Republican Party (United States)|Republican]] '''hold'''
+|-
+{{Election box end}}
+
+==See also==
+*[[Governor of South Carolina]]
+*[[List of governors of South Carolina]]
+*[[South Carolina gubernatorial elections]]
+
+==References==
+*{{cite book | last = State Election Commission | title = South Carolina Election Report 1994–1995 | year = 1995 | publisher = The Commission | location = Columbia, South Carolina | page = 26}}
+
+==External links==
+*[http://www.sciway.net/hist/governors/beasley.html SCIway Biography of Governor David Muldrow Beasley]
+
+{{sequence|
+ prev=[[South Carolina gubernatorial election, 1990|1990]]|
+ list=[[South Carolina gubernatorial elections]]|
+ next=[[South Carolina gubernatorial election, 1998|1998]]
+}}
+{{United States elections, 1994}}
+{{SCGovElections}}
+
+{{DEFAULTSORT:South Carolina Gubernatorial Election, 1994}}
+[[Category:South Carolina gubernatorial elections|1994]]
+[[Category:1994 United States gubernatorial elections]]
+[[Category:1994 elections in South Carolina|Gubernatorial]]

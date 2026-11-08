@@ -1,0 +1,356 @@
+{{Short description|none}}
+{{Use American English|date=February 2026}}
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name     = 2010 Ohio elections
+| country           = Ohio
+| type              = presidential
+| ongoing           = no
+| previous_election = 2008 Ohio elections
+| previous_year     = 2008
+| election_date     = 2010
+| next_election     = 2012 Ohio elections
+| next_year         = 2012
+}}
+{{ElectionsOH}}
+The 2010 '''Ohio general elections''' were held on November 2, 2010. Primary elections took place on May 4, 2010.  In the 2010 general election in Ohio, Republican candidates won all statewide executive offices, the U.S. Senate seat up for election, majorities in both state legislative chambers, and 13 out of 18 U.S. House seats.
+
+==Federal representatives==
+===United States Senate===
+{{main|United States Senate election in Ohio, 2010}}
+
+In the Democratic primary on May 4, 2010, current Lieutenant Governor [[Lee Fisher]] defeated current Secretary of State [[Jennifer Brunner]]. On November 2, Republican [[Rob Portman]], who has served in two [[United States cabinet|federal cabinet]] positions and as a member of the [[United States House of Representatives|U. S. House of Representatives]] defeated Fisher as well as Eric W. Deaton of the Constitution Party and [[Dan La Botz]] of the Socialist Party.<ref name="CertifiedPrimaryCandidates">{{cite web |url=http://www.sos.state.oh.us/SOS/PressReleases/2010/2010-03-05.aspx |title=Statewide Candidates Certified for May Primary Ballot |author=Ohio Secretary of State |date=March 5, 2010 |access-date=April 1, 2010 |archive-url=https://web.archive.org/web/20100506033154/http://www.sos.state.oh.us/SOS/PressReleases/2010/2010-03-05.aspx |archive-date=May 6, 2010 |url-status=dead }}</ref>
+
+Portman replaced Republican Senator [[George Voinovich]], who retired from office after his second term expired.<ref name="retire">{{cite web |url=http://blog.cleveland.com/openers/2009/01/its_official_voinovich_to_reti.html |title=It's official: Voinovich to retire from Senate after 2010 |author=Dubail, Jean |date=January 12, 2009 |work=Cleveland Plain Dealer |access-date=November 10, 2009 }}</ref>
+
+===United States House of Representatives===
+{{main|United States House of Representatives elections in Ohio, 2010}}
+
+All of Ohio's eighteen seats in the United States House of Representatives were up for election in 2010.
+
+==State executive branch==
+===Governor and Lieutenant Governor===
+{{main|2010 Ohio gubernatorial election}}
+
+Incumbent Democratic Governor [[Ted Strickland]] ran for reelection to a second term in office. His running mate was [[Yvette McGee Brown]], the founding president of the Center for Child and Family Advocacy at [[Nationwide Children's Hospital]], and former Judge of the [[Franklin County, Ohio|Franklin County]] [[Ohio Courts of Common Pleas|Court of Common Pleas]].
+
+[[John Kasich]], former U.S. Representative and former Chair of the [[United States House Committee on the Budget|House Budget Committee]], was the Republican nominee. His running mate was [[Ohio State Auditor]] [[Mary Taylor (Ohio politician)|Mary Taylor]].
+
+Ken Matesz was the Libertarian nominee. His running mate was Ann Leech.<ref name="CertifiedPrimaryCandidates" />
+
+Dennis Spisak was the Green nominee. His running mate was Anita Rios.<ref name="CertifiedPrimaryCandidates" />
+
+Kasich narrowly defeated Strickland with 49% of the vote.
+{{Clear}}
+
+===Attorney General===
+{{main|2010 Ohio Attorney General election}}
+
+In the [[Ohio Attorney General|Attorney General]] race, Democratic incumbent [[Richard Cordray]] was defeated by Republican [[Mike DeWine]], a former two-term United States Senator from Ohio and member of the Senate Judiciary Committee as well as a former county prosecutor. DeWine would go on to defeat Cordray once again in the 2018 race for governor with running mate Jon Husted, the former Secretary of State.
+
+===Secretary of State===
+{{Infobox election
+| election_name = 2010 Ohio Secretary of State election
+| country = Ohio
+| type = presidential
+| ongoing = no
+| turnout = 
+| previous_election = 2006 Ohio Secretary of State election
+| previous_year = 2006
+| next_election = 2014 Ohio Secretary of State election
+| next_year = 2014
+| election_date = November 2, 2010
+| image1 = File:Jon Husted 2016-05-12 (cropped).jpg
+| image_size = 150x150px
+| nominee1 = '''[[Jon Husted]]'''
+| party1 = Republican Party (United States)
+| popular_vote1 = '''2,013,674'''
+| percentage1 = '''53.66%'''
+| image2 = File:Maryellen O'Shaughnessy files for Secretary of State (cropped).jpg
+| nominee2 = [[Maryellen O'Shaughnessy]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 1,555,705
+| percentage2 = 41.46%
+| map_image = 2010 Ohio Secretary of State election results map by county.svg
+| map_size = 210px
+| map_caption = County results<br />'''Husted:''' {{legend0|#ffb2b2|40-50%}} {{legend0|#e27f7f|50-60%}} {{legend0|#d75d5d|60-70%}} {{legend0|#d72f30|70-80%}}<br />'''O'Shaughnessy:''' {{legend0|#a5b0ff|40-50%}} {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}}
+| title = [[Ohio Secretary of State|Secretary of State]]
+| before_election = [[Jennifer Brunner]]
+| before_party = Democratic Party (United States)
+| after_election = [[Jon Husted]]
+| after_party = Republican Party (United States)|
+}}
+
+Ohio's [[Secretary of state (U.S. state government)|Secretary of State]] race featured a contested Republican primary on May 4, 2010, between [[Jon Husted]], an Ohio State Senator and former Speaker of the Ohio House of Representatives, who defeated Sandra O'Brien, a former county auditor in Ashtabula County who secured the support of the [[Tea Party movement]].  In the general election, Husted defeated Democrat Maryellen O'Shaughnessy, the Clerk of Franklin County Court of Common Pleas, and [[Charlie Earl]], a Libertarian.<ref name="CertifiedPrimaryCandidates" />
+
+Incumbent [[Jennifer Brunner]] sought the Democratic nomination for United States Senator instead of running for re-election, but lost to incumbent Lt. Governor [[Lee Fisher]].
+
+Husted would later go on to run for Lieutenant Governor on Mike DeWine's ticket which defeated Richard Cordray in the 2018 election.
+
+====Polling====
+{| class="wikitable"
+|- valign=bottom
+! style="width:180px;"| Poll source
+! style="width:200px;"| Dates administered
+! style="width:100px;"| Maryellen<br />O'Shaughnessy (D)
+! style="width:100px;"| Jon<br />Husted (R)
+|-
+|[[The Columbus Dispatch]]<ref name="The Columbus Dispatch">[https://web.archive.org/web/20100909132250/http://www.dispatchpolitics.com/live/content/local_news/stories/2010/09/05/copy/gop-resurgent.html?adsec=politics&sid=101 The Columbus Dispatch]</ref>
+| align=center| August 25 – September 3, 2010
+| align=center| 39%
+| align=center {{Party shading/Republican}} | '''42%'''
+|}
+
+====Results====
+{{Election box begin no change
+| title = 2010 Ohio Secretary of State election<ref>{{cite news | title = 2010 Secretary of State Election Results | url = https://publicfiles.ohiosos.gov/election-results/past-elections/2010/General%20Election:%20November%202,%202010/2010_secretary_of_state_november_2.xlsx | work = Ohio Secretary of State | accessdate = May 22, 2026 }}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Jon Husted]]
+| party = Republican Party (United States)
+| votes	= 2,013,674
+| percentage = 53.66
+}}
+{{Election box candidate with party link no change
+|candidate = [[Maryellen O'Shaughnessy]]
+|party	= Democratic Party (United States)
+|votes	= 1,555,705
+|percentage = 41.46
+}}
+{{Election box candidate with party link no change
+|candidate= [[Charlie Earl]]
+|party	= Libertarian Party (United States)
+| votes	= 182,977
+| percentage = 4.88
+}}
+{{Election box total no change
+|votes	= 3,752,356
+|percentage = 100.00
+}}
+{{Election box gain with party link no change
+| winner = Republican Party (US)
+| loser = Democratic Party (US)
+}}
+{{Election box end}}
+{{Clear}}
+
+===Treasurer===
+{{Infobox election
+| election_name = Ohio State Treasurer election, 2010
+| country = Ohio
+| type = presidential
+| ongoing = no
+| turnout = 
+| previous_election = 2006 Ohio State Treasurer election
+| previous_year = 2006
+| next_election = Ohio elections, 2014#Treasurer
+| next_year = 2014
+| election_date = November 2, 2010
+| image1 = File:Josh Mandel.jpg
+| image_size = 150x150px
+| nominee1 = '''[[Josh Mandel]]'''
+| party1 = Republican Party (United States)
+| popular_vote1 = '''2,050,142'''
+| percentage1 = '''54.52%'''
+| image2 = File:RootsCamp Ohio 2009 (cropped).jpg
+| nominee2 = [[Kevin Boyce]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 1,525,992
+| percentage2 = 40.58%
+| map_image = 2010 Ohio State Treasurer election results map by county.svg
+| map_size = 210px
+| map_caption = County results<br />'''Mandel:''' {{legend0|#ffb2b2|40-50%}} {{legend0|#e27f7f|50-60%}} {{legend0|#d75d5d|60-70%}} {{legend0|#d72f30|70-80%}}<br />'''Boyce:''' {{legend0|#a5b0ff|40-50%}} {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}}
+| title = [[Ohio State Treasurer|State Treasurer]]
+| before_election = [[Kevin Boyce]]
+| before_party = Democratic Party (United States)
+| after_election = [[Josh Mandel]]
+| after_party = Republican Party (United States)|
+}}
+{{main|2010 Ohio State Treasurer election}}
+
+In the Treasurer race, Democratic incumbent [[Kevin Boyce]] was defeated by Republican [[Josh Mandel (politician)|Josh Mandel]], a member of the Ohio State House of Representatives and a two tour veteran of the Iraq War.  Matthew Cantrell, a Libertarian candidate, received less than 5% of the vote.<ref name="CertifiedPrimaryCandidates" />
+
+====Polling====
+{| class="wikitable"
+|- valign=bottom
+! style="width:180px;"| Poll Source
+! style="width:200px;"| Dates administered
+! style="width:100px;"| Kevin<br />Boyce (D)
+! style="width:100px;"| Josh<br />Mandel (R)
+|-
+|[[The Columbus Dispatch]]<ref name="The Columbus Dispatch"/>
+| align=center| August 25 – September 3, 2010
+| align=center| 36%
+| align=center {{Party shading/Republican}} | '''40%'''
+|}
+
+====Results====
+{{Election box begin no change
+| title = 2010 Ohio State Treasurer election <ref>{{cite news | title = 2010 Treasurer of State Election Results | url = https://publicfiles.ohiosos.gov/election-results/past-elections/2010/General%20Election:%20November%202,%202010/2010_treasurer_of_state_november_2.xlsx | work = Ohio Secretary of State | accessdate = May 22, 2026 }}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Josh Mandel]]
+| party = Republican Party (United States)
+| votes	= 2,050,142
+| percentage = 54.52
+}}
+{{Election box candidate with party link no change
+|candidate = [[Kevin Boyce]] (incumbent)
+|party	= Democratic Party (United States)
+|votes	= 1,525,992
+|percentage = 40.58
+}}
+{{Election box candidate with party link no change
+|candidate= Matthew Cantrell
+|party	= Libertarian Party (United States)
+| votes	= 184,478
+| percentage = 4.91
+}}
+{{Election box total no change
+|votes	= 3,760,612
+|percentage = 100.00
+}}
+{{Election box gain with party link no change
+| winner = Republican Party (US)
+| loser = Democratic Party (US)
+}}
+{{Election box end}}
+{{Clear}}
+
+===Auditor===
+{{Infobox election
+| election_name = Ohio State Auditor election, 2010
+| country = Ohio
+| type = presidential
+| ongoing = no
+| turnout = 
+| previous_election = 2006 Ohio State Auditor election
+| previous_year = 2006
+| next_election = Ohio elections, 2014#Auditor
+| next_year = 2014
+| election_date = November 2, 2010
+| image1 = File:Dave Yost, Sept 15, 2014 (cropped).jpg
+| image_size = 150x150px
+| nominee1 = '''[[Dave Yost]]'''
+| party1 = Republican Party (United States)
+| popular_vote1 = '''1,882,010'''
+| percentage1 = '''50.22%'''
+| image2 = File:David A Pepper (City Club of Cleveland) (cropped).jpg
+| nominee2 = [[David Pepper (politician)|David Pepper]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 1,683,330
+| percentage2 = 44.91%
+| map_image = 2010 Ohio State Auditor election results map by county.svg
+| map_size = 210px
+| map_caption = County results<br />'''Yost:''' {{legend0|#ffb2b2|40-50%}} {{legend0|#e27f7f|50-60%}} {{legend0|#d75d5d|60-70%}} {{legend0|#d72f30|70-80%}}<br />'''Pepper:''' {{legend0|#a5b0ff|40-50%}} {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}}
+| title = [[Ohio State Auditor|State Auditor]]
+| before_election = [[Mary Taylor (Ohio politician)|Mary Taylor]]
+| before_party = Republican Party (United States)
+| after_election = [[Dave Yost]]
+| after_party = Republican Party (United States)|
+}}
+{{main|2010 Ohio State Auditor election}}
+
+Ohio's Auditor race also featured a contested Republican primary on May 4, 2010, between [[Seth Morgan (politician)|Seth Morgan]], a member of the Ohio House of Representatives, and Dave Yost, the Prosecuting Attorney for Delaware County, Ohio and former Delaware County Auditor.  Yost beat [[Democratic Party (United States)|Democrat]] [[David A. Pepper]], a Commissioner for the [[Hamilton County, Ohio]] Board of Commissioners, and L. Michael Howard, a [[Libertarian Party (United States)|Libertarian]].<ref name="CertifiedPrimaryCandidates" />
+
+Republican incumbent [[Mary Taylor (Ohio politician)|Mary Taylor]] decided to run for Lieutenant Governor as [[John Kasich]]'s running-mate, instead of running for re-election.
+
+====Polling====
+{| class="wikitable"
+|- valign=bottom
+! style="width:180px;"| Poll source
+! style="width:200px;"| Dates administered
+! style="width:100px;"| David<br />Pepper (D)
+! style="width:100px;"| Dave<br />Yost (R)
+|-
+|[[The Columbus Dispatch]]<ref name="The Columbus Dispatch"/>
+| align=center| August 25 – September 3, 2010
+| align=center| 33%
+| align=center {{Party shading/Republican}} | '''42%'''
+|}
+
+====Results====
+{{Election box begin no change
+| title = 2010 Ohio State Auditor election&nbsp;<ref>{{cite news | title = 2010 Auditor of State Election Results | url = https://publicfiles.ohiosos.gov/election-results/past-elections/2010/General%20Election:%20November%202,%202010/2010_auditor_of_state_november_2.xlsx | work = Ohio Secretary of State | accessdate = May 22, 2026 }}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Dave Yost]]
+| party = Republican Party (United States)
+| votes	= 1,882,010
+| percentage = 50.22
+}}
+{{Election box candidate with party link no change
+|candidate = [[David Pepper (politician)|David Pepper]]
+|party	= Democratic Party (United States)
+|votes	= 1,683,330
+|percentage = 44.91
+}}
+{{Election box candidate with party link no change
+|candidate= L. Michael Howard
+|party	= Libertarian Party (United States)
+| votes	= 182,534
+| percentage = 4.87
+}}
+{{Election box total no change
+|votes	= 3,747,874
+|percentage = 100.00
+}}
+{{Election box hold with party link without swing|
+  |winner     = Republican Party (US)
+}}
+{{Election box end}}
+{{Clear}}
+
+==State legislative branch==
+===State Senate===
+The 17 odd-numbered districts out of 33 seats in the [[Ohio Senate]] were up for election in 2010.
+
+===State House of Representatives===
+All 99 seats in the [[Ohio House of Representatives]] were up for election in 2010.
+
+==State judicial branch==
+Three seats in the [[Supreme Court of Ohio]] are up for election, including the office of Chief Justice. The Supreme Court is a non-partisan office and will not appear on primary ballots. Although the Democratic and Republic parties customarily endorse candidates in the general election, those endorsements are not noted on the general election ballots either. Justices Judith Lanziger and Paul Peiffer are running for re-election. Justice Maureen O'Connor is running for Chief Justice. Judges for Ohio District Courts of Appeal and Ohio Courts of Common Pleas will also appear on the ballot.
+
+===Chief Justice===
+{| class="wikitable"
+|- valign=bottom
+! style="width:180px;"| Poll source
+! style="width:200px;"| Dates administered
+! style="width:100px;"| Eric<br />Brown (D)
+! style="width:100px;"| Maureen<br />O'Connor (R)
+! style="width:100px;"| Undecided
+|-
+|[[The Columbus Dispatch]]<ref name="The Columbus Dispatch"/>
+| align=center| August 25 – September 3, 2010
+| align=center| 18%
+| align=center {{Party shading/Republican}} | '''46%'''
+| align=center| 36%
+|}
+
+===Associate Justice===
+{| class="wikitable"
+|- valign=bottom
+! style="width:180px;"| Poll source
+! style="width:200px;"| Dates administered
+! style="width:100px;"| Mary Jane<br />Trapp (D) 
+! style="width:100px;"| Judith Ann<br />Lanzinger (R)
+! style="width:100px;"| Undecided
+|-
+|[[The Columbus Dispatch]]<ref name="The Columbus Dispatch"/>
+| align=center| August 25 – September 3, 2010
+| align=center| 18%
+| align=center {{Party shading/Republican}} | '''19%'''
+| align=center {{Party shading/Independent}} | '''62%'''
+|}
+
+==Ballot initiatives==
+Two measures were approved in the May 4 election. No ballot measures were approved for the general election.
+
+==References==
+<references/>
+
+{{United States elections, 2010}}
+
+{{DEFAULTSORT:Ohio Elections, 2010}}
+[[Category:2010 elections in Ohio| ]]
+[[Category:2010 elections in the United States by state or territory]]

@@ -1,0 +1,181 @@
+{{short description|none}}<!-- "none" is preferred when the title alone is adequate; see [[WP:SDNONE]] -->
+{{for|related races|2026 United States state treasurer elections}}
+{{Use American English|date=February 2026}}
+{{use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 2026 Ohio State Treasurer election
+| country = Ohio
+| type = presidential
+| ongoing = no
+| reporting = 98
+| last_update = 2:37 PM
+| time_zone = [[Eastern Standard Time|EST]]
+| previous_election = 2022 Ohio State Treasurer election
+| previous_year = 2022
+| next_election = 2030 Ohio Secretary of State election
+| next_year = 2030
+| election_date = November 3, 2026
+| image1 = SethWalsh (cropped).jpg
+| nominee1 = '''[[Seth Walsh]]'''
+| party1 = Democratic Party (United States)
+| popular_vote1 = '''2,282,546'''
+| percentage1 = '''50.55%'''
+| image2 = 3x4.svg
+| nominee2 = [[Jay Edwards (politician)|Jay Edwards]]
+| party2 = Republican Party (United States)
+| popular_vote2 = 2,232,761
+| percentage2 = 49.45%
+| map_image = 2026 Ohio State Treasurer election results map by county.svg
+| map_size = 250px
+| map_caption = County results<br />'''Walsh:''' {{legend0|#7996E2|50–60%}} {{legend0|#6674DE|60–70%}} {{legend0|#584CDE|70–80%}}<br />'''Edwards:''' {{legend0|#E27F7F|50–60%}} {{legend0|#D75D5D|60–70%}} {{legend0|#D72F30|70–80%}} {{legend0|#C21B18|80–90%}}
+| title = [[Ohio State Treasurer|State Treasurer]]
+| before_election = [[Robert Sprague]]
+| before_party = Republican Party (United States)
+| after_election = [[Seth Walsh]]
+| after_party = Democratic Party (United States)
+}}
+{{ElectionsOH}}
+The '''2026 Ohio state treasurer election''' is scheduled to take place on November 3, 2026, to elect the [[State Treasurer of Ohio|state treasurer of Ohio]]. Incumbent [[Republican Party of Ohio|Republican]] State Treasurer [[Robert Sprague]] is term-limited and ineligible to run for re-election, and is running for [[2026 Ohio Secretary of State election|secretary of state]].<ref>{{cite web |title=Republican Ohio Treasurer Robert Sprague enters 2026 GOP primary for Secretary of State |url=https://ohiocapitaljournal.com/briefs/ohio-republican-treasurer-robert-sprague-enters-2026-gop-primary-for-secretary-of-state/ |publisher=[[Ohio Capital Journal]] |access-date=20 July 2025 |date=5 February 2025}}</ref> Primary elections were held on May 5.
+
+{{toclimit|3}}
+
+==Republican primary==
+===Candidates===
+====Nominee====
+*[[Jay Edwards (politician)|Jay Edwards]], former state representative (2017–2025)<ref>{{cite web |last1=Pelzer |first1=Jeremy |title=Ex-lawmaker Jay Edwards enters crowded GOP primary for Ohio treasurer in 2026 |url=https://www.cleveland.com/news/2025/04/ex-lawmaker-jay-edwards-enters-crowded-gop-primary-for-ohio-treasurer-in-2026.html?outputType=amp |publisher=[[Cleveland.com]] |access-date=20 July 2025 |archive-url=https://archive.today/20250412110427/https://www.cleveland.com/news/2025/04/ex-lawmaker-jay-edwards-enters-crowded-gop-primary-for-ohio-treasurer-in-2026.html?outputType=amp |archive-date=12 April 2025 |date=11 April 2025 |url-status=live |url-access=subscription}}</ref>
+
+====Eliminated in primary====
+*[[Kristina Roegner]], [[Ohio Senate|state senator]] from the 27th district (2019–present)<ref>{{Cite web |last=Smyth |first=Julie |date=2025-02-13 |title=Veteran state lawmaker Kristina Roegner launches 2026 bid for Ohio treasurer |url=https://apnews.com/article/election-2026-ohio-treasurer-niraj-antani-de23b8a66ecfbd7cd4a22704feb26ccc |access-date=2025-02-15 |website=[[AP News]] |language=en}}</ref>
+
+====Withdrawn====
+*[[Niraj Antani]], former [[Ohio Senate|state senator]] (2021–2024) and candidate for [[Ohio's 2nd congressional district]] in [[2024 United States House of Representatives elections in Ohio#District 2|2024]] ''(previously ran for [[2026 Ohio Secretary of State election|secretary of state]])''<ref>{{Cite web |last= |date=February 4, 2026 |title= Former state senator suspends campaign for treasurer |url= https://www.whio.com/news/local/former-state-senator-suspends-campaign-treasurer/WM5RLNCGXZBUHLL5FYX5EXBVAY/?outputType=amp |access-date=6 February 2026 |website=[[WHIO-TV]]}}</ref>
+*Michael Zuren, [[Lake County, Ohio|Lake County]] treasurer<ref>{{cite web |last1=Walsh |first1=Molly |title=Lake County Treasurer Michael Zuren withdraws from Ohio treasurer race |url=https://www.cleveland.com/news/2026/01/lake-county-treasurer-michael-zuren-withdraws-from-ohio-treasurer-race.html |website=Cleveland |access-date=9 February 2026 |language=en |date=7 January 2026}}</ref>
+
+===Endorsements===
+{{Endorsements box
+|title=Jay Edwards
+|list=
+'''Executive branch officials'''
+*[[JD Vance]], [[vice president of the United States]] (2025–present)<ref>{{cite web |title=JD Vance endorses Son of Appalachia over Ivy League woman in Ohio GOP Primary |url=https://www.msn.com/en-us/news/politics/jd-vance-endorses-son-of-appalachia-over-ivy-league-woman-in-ohio-gop-primary/ar-AA1VPP99 |website=MSN News |access-date=2 February 2026 |language=en}}</ref>
+
+'''U.S. senators'''
+*[[Bernie Moreno]], [[Ohio]] (2025–present)<ref>{{cite web |title=Week in review: September 28, 2025 |url=https://ohiocpa.com/get-involved/news/2025/09/27/week-in-review--september-28--2025 |website=The Ohio Society of CPAs |access-date=10 November 2025 |language=en}}</ref>
+}}
+{{Endorsements box
+|title=Kristina Roegner
+|list=
+'''State legislators'''
+*[[Matt Huffman]], [[List of speakers of the Ohio House of Representatives|speaker of the Ohio House of Representatives]] from the 78th district (2025–present){{efn|Huffman previously represented the [[Ohio's 12th senatorial district|12th district]] in the Senate from 2017 to 2025, and was [[President of the Ohio Senate|Senate president]] from 2019 to 2025. He also represented the 4th district in the state House from 2007 to 2014.}}<ref>{{cite web |title=State treasurer race: Ohio leaders split endorsements |url=https://pro.stateaffairs.com/oh/politics/endorsements-ohio-governor-candidates |website=State Affairs |language=en}}</ref>
+
+'''Individuals'''
+*[[Vivek Ramaswamy]], founder of [[Roivant Sciences]] and [[2026 Ohio gubernatorial election|2026 gubernatorial candidate]]<ref>{{cite web |last1=Eldredge |first1=Danny |title=Vance, Ramaswamy on opposite sides of Ohio treasurer's race |url=https://www.toledoblade.com/local/politics/2026/02/06/ohio-treasurer-race-vance-ramaswamy-edwards-roegner/stories/20260206100 |website=[[The Blade (Toledo, Ohio)|The Blade]] |date=February 6, 2026 |access-date=February 9, 2026}}</ref>
+
+'''Labor unions'''
+*[[Associated Builders and Contractors]] of [[Central Ohio]]<ref>{{cite web |title=ABC of Ohio Endorses Senator Kristina Roegner for Ohio Treasurer of State |url=https://www.instagram.com/p/DRAuH3JE3DH/ |website=Central Ohio ABC on Instagram |access-date=26 November 2025}}</ref>
+
+'''Newspapers'''
+*''[[The Plain Dealer]]''<ref>{{cite news |title=Endorsement roundup for the May 5, 2026, primary election|url=https://www.cleveland.com/opinion/2026/04/endorsement-roundup-for-the-may-5-2026-primary-election.html|date=April 7, 2026|access-date=April 26, 2026 |work=[[The Plain Dealer]]}}</ref>
+}}
+{{Endorsements box
+|title=Declined to endorse
+|list=
+'''Political parties'''
+*[[Ohio Republican Party]]<ref>{{cite web |last1=Wendler |first1=Jacob |title=A low-profile Ohio race becomes a test of Trump allies' clout |url=https://www.politico.com/news/2026/03/22/jd-vance-vivek-ramaswamy-ohio-elections-2026-00838345 |website=Politico |access-date=23 March 2026}}</ref>
+}}
+
+===Results===
+[[File:2026 Ohio state treasurer Republican primary election results map by county.svg|thumb|210px|Primary results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|Edwards}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+|{{legend|#C21B18|80–90%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|Roegner}}
+|{{legend|#FF9A50|50–60%}}
+|{{legend|#EE8E50|60–70%}}
+}}
+]]
+{{Election box begin no change
+ | title=Republican primary results<ref name="Republican Primary Results">{{Cite web |title=May 5, 2026 Primary/Special Election Official Canvass|url= https://publicfiles.ohiosos.gov/election-results/past-elections/2026/Primary+Special%20Election%20-%20May%205,%202026/group1/summary-level-official-results-2026-primary---republican.xlsx |website=Ohio Secretary of State |access-date=June 5, 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+ | party=Ohio Republican Party
+ | candidate=[[Jay Edwards (politician)|Jay Edwards]]
+ | votes=412,114
+ | percentage=53.1}}
+{{Election box candidate with party link no change
+ | party=Ohio Republican Party
+ | candidate=[[Kristina Roegner]]
+ | votes=364,556
+ | percentage=46.9}}
+{{Election box total no change
+ | votes=776,670
+ | percentage=100.0}}
+{{Election box end}}
+
+== Democratic primary ==
+
+===Candidates===
+====Nominee====
+*[[Seth Walsh]], [[Cincinnati City Council|Cincinnati city councilman]] (2022–present)<ref>{{cite web |last1=Jordan |first1=Felicia |title=Cincinnati Council member Seth Walsh announces run for state treasurer |url=https://www.wcpo.com/news/local-news/cincinnati-council-member-seth-walsh-announces-run-for-state-treasurer |access-date=January 8, 2026 |work=[[WCPO]] |date=January 8, 2026}}</ref>
+
+===Results===
+{{Election box begin no change
+ | title=Democratic primary results<ref name="Democratic Primary Results">{{Cite web |title=May 5, 2026 Primary/Special Election Official Canvass|url= https://publicfiles.ohiosos.gov/election-results/past-elections/2026/Primary+Special%20Election%20-%20May%205,%202026/group1/summary-level-official-results-2026-primary---democratic.xlsx |website=Ohio Secretary of State |access-date=June 5, 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+ | party=Ohio Democratic Party
+ | candidate=[[Seth Walsh]]
+ | votes=677,424
+ | percentage=100.0}}
+{{Election box total no change
+ | votes=677,424
+ | percentage=100.0}}
+{{Election box end}}
+
+==General election==
+===Results===
+{{Election box begin
+ | title=2026 Ohio state treasurer election}}
+{{Election box winning candidate with party link
+ | party=Ohio Democratic Party 
+ | candidate=[[Seth Walsh]]
+ | votes= 
+ | percentage=
+ | change=
+}}
+{{Election box candidate with party link
+ | party=Ohio Republican Party 
+ | candidate= [[Jay Edwards (politician)|Jay Edwards]]
+ | votes=
+ | percentage=
+ | change=
+}}
+{{Election box total 
+ | votes= 
+ | percentage=100.0
+ | change=
+}}
+{{Election box gain with party link no swing
+| winner = Democratic Party (United States)
+| loser = Republican Party (United States)
+}}
+{{Election box end}}
+
+==Notes==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+==External links==
+'''Official campaign websites'''
+*[https://www.edwardsforohio.com/ Jay Edwards (R) for State Treasurer]
+*[https://sethwalshforohio.com/ Seth Walsh (D) for State Treasurer]
+
+{{2026 United States elections}}
+
+[[Category:2026 elections in Ohio|State Treasurer]]
+[[Category:2026 United States state treasurer elections|Ohio]]
+[[Category:Ohio State Treasurer elections]]

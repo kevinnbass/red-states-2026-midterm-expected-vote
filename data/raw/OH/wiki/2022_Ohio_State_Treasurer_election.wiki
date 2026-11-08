@@ -1,0 +1,227 @@
+{{Short description|none}}
+{{Use mdy dates|date=February 2026}}
+{{Use American English|date=February 2026}}
+{{Infobox election
+| election_date = {{Start date|2022|11|08}}
+| election_name = 2022 Ohio State Treasurer election
+| country = Ohio
+| type = presidential
+| ongoing = no
+| previous_election = 2018 Ohio elections#Treasurer
+| previous_year = 2018
+| next_election = 2026 Ohio State Treasurer election
+| next_year = 2026
+| party1 = Ohio Republican Party
+| candidate1 = '''[[Robert Sprague]]'''
+| image1 = Rob Portman and Robert Sprague (cropped).jpg
+| candidate2 = Scott Schertzer
+| party2 = Ohio Democratic Party
+| image2 = 3x4.svg
+| map_image = {{switcher |[[File:2022 Ohio state treasurer election results map by county.svg|210px]] |County results |<!-- Please do not remove this map as it shows the correct congressional district results for this election in addition to the concurrent secretary of state election -->[[File:2022 Ohio secretary of state election results map by congressional district.svg|210px]] |Congressional district results}}
+| map_caption = '''Sprague:''' {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#d72f30|70–80%}} {{legend0|#c21b18|80–90%}}
+'''Schertzer:''' {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584cde|70–80%}}
+| title = [[Ohio State Treasurer|State Treasurer]]
+| before_election = [[Robert Sprague]]
+| before_party = Ohio Republican Party
+| after_election = [[Robert Sprague]]
+| after_party = Ohio Republican Party
+| popular_vote1 = '''2,390,542'''
+| percentage1 = '''58.55%'''
+| popular_vote2 = 1,692,160
+| percentage2 = 41.45%
+}}
+{{ElectionsOH}}
+The '''2022 Ohio State Treasurer election''' was held on November 8, 2022, to elect the [[Ohio State Treasurer]], concurrently with elections to the [[2022 United States Senate election in Ohio|United States Senate]], [[2022 United States House of Representatives elections in Ohio|U.S. House of Representatives]], [[2022 Ohio gubernatorial election|governor]], and other [[2022 Ohio elections|state]] and [[2022 United States elections#Local elections|local]] elections. Primary elections were held on May 3, 2022.<ref>{{Cite web |date=June 30, 2022 |title=2022 State Primary Election Dates and Filing Deadlines |url=https://www.ncsl.org/elections-and-campaigns/2022-state-primary-election-dates-and-filing-deadlines |access-date=November 20, 2025 |website=National Conference of State Legislatures}}</ref>
+
+Incumbent [[Republican Party (United States)|Republican]] treasurer [[Robert Sprague]] ran for re-election to a second term in office against [[Marion, Ohio|Marion]] mayor Scott Schertzer.<ref>{{Cite web |last=Kasler |first=Karen |date=October 19, 2022 |title=Ohio Election 2022: Robert Sprague and Scott Schertzer run for Ohio Treasurer |url=https://www.statenews.org/government-politics/2022-10-19/ohio-election-2022-robert-sprague-and-scott-schertzer-run-for-ohio-treasurer |access-date=November 20, 2025 |website=The Statehouse News Bureau}}</ref><ref>{{Cite web |last=Staver |first=Anna |date=October 10, 2022 |title=Election 2022: Who is running for state treasurer in Ohio? |url=https://www.dispatch.com/story/news/politics/elections/2022/10/11/who-is-running-for-state-treasurer-in-ohio/69528530007/ |access-date=November 20, 2025 |website=The Columbus Dispatch}}</ref> Sprague comfortably won re-election, expanding on his 2018 margin of victory.<ref>{{Cite web |last=Staver |first=Anna |date=November 8, 2022 |title=Ohio Treasurer Robert Sprague wins race for reelection |url=https://www.dispatch.com/story/news/politics/elections/2022/11/09/robert-sprague-wins-race-for-reelection-as-state-treasurer/69606194007/ |access-date=November 20, 2025 |website=The Columbus Dispatch}}</ref><ref>{{Cite web |last=Exner |first=Rich |date=December 7, 2018 |title=Final Ohio 2018 election results: Mike DeWine beat Richard Cordray, 50.4% to 46.7% with largest turnout in Ohio history for a governor’s race |url=https://www.cleveland.com/datacentral/2018/12/final-ohio-2018-election-results-mike-dewine-beat-richard-cordray-504-to-467-with-largest-turnout-in-ohio-history-for-a-governors-race.html |access-date=November 20, 2025 |website=cleveland.com}}</ref> During the campaign, Sprague led in fundraising against Schertzer.<ref>{{Cite web |last=Provance |first=Jim |date=October 8, 2022 |title=Marion mayor seeks to unseat state treasurer |url=https://www.toledoblade.com/local/politics/2022/10/08/schertzer-state-treasurer-marion-mayor/stories/20221006147 |access-date=November 20, 2025 |website=The Toledo Blade}}</ref>
+
+== Republican primary ==
+=== Candidates ===
+==== Nominee ====
+* [[Robert Sprague]], incumbent state treasurer (2019-present)<ref name="ohgop">{{Cite web |last=Pelzer |first=Jeremy |date=February 18, 2022 |title=Ohio Republican Party endorses Gov. Mike DeWine in GOP primary |url=https://www.cleveland.com/news/2022/02/ohio-republican-party-endorses-gov-mike-dewine-in-gop-primary.html |access-date=November 20, 2025 |website=cleveland.com}}</ref>
+{{Election box begin no change
+|title=Republican primary results<ref name="genresults" />
+}}
+{{Election box winning candidate with party link no change
+   |candidate  = [[Robert Sprague]] (incumbent)
+   |party      = Ohio Republican Party
+   |votes      = 810,487
+   |percentage = 100.0%
+}}
+{{Election box total no change
+| votes = 810,487
+| percentage = 100.0%
+}}
+{{Election box end}}
+
+== Democratic primary ==
+=== Candidates ===
+==== Nominee ====
+* Scott Schertzer, mayor of [[Marion, Ohio|Marion]]<ref>{{Cite web |last=Chow |first=Andy |date=February 10, 2022 |title=Marion Mayor Scott Schertzer officially announces run for state treasurer |url=https://www.wosu.org/politics-government/2022-02-10/marion-mayor-scott-schertzer-officially-announces-run-for-state-treasurer |access-date=November 20, 2025 |website=WOSU |publisher=The Statehouse News Bureau}}</ref>
+=== Results ===
+{{Election box begin no change
+|title=Democratic primary results<ref name="genresults" />
+}}
+{{Election box winning candidate with party link no change
+   |candidate  = Scott Schertzer
+   |party      = Ohio Democratic Party
+   |votes      = 421,827
+   |percentage = 100.0%
+ }}
+{{Election box total no change
+| votes = 421,827
+| percentage = 100.0%
+}}
+{{Election box end}}
+
+== General election ==
+=== Endorsements ===
+{{Endorsements box
+| title = Robert Sprague (R)
+| colwidth = 45em
+| list =
+
+'''Executive branch officials'''
+*[[Donald Trump]], 45th [[President of the United States]] (2017-2021)<ref>{{Cite web |last=Martinez |first=Marissa |date=May 4, 2022 |title=Here are the Trump-backed candidates who won Tuesday's primaries |url=https://www.politico.com/news/2022/05/04/trump-backed-candidates-that-won-ohio-indiana-primaries-00029645 |access-date=November 20, 2025 |website=POLITICO}}</ref>
+
+'''Organizations'''
+*[[Ohio Republican Party]]<ref name="ohgop" />
+}}
+{{Endorsements box
+| title = Scott Schertzer (D)
+| colwidth = 45em
+| list =
+
+'''Newspapers and other media'''
+*''[[The Plain Dealer]]''<ref>{{Cite web |date=October 19, 2022 |title=Robert Sprague for Ohio treasurer: endorsement editorial |url=https://www.cleveland.com/opinion/2022/10/robert-sprague-for-ohio-treasurer-endorsement-editorial.html |access-date=November 20, 2025 |website=cleveland.com}}</ref>
+
+'''Labor unions'''
+*[[Ohio Education Association]]<ref>{{Cite web |date=June 16, 2022 |title=Ohio Education Association endorses Schertzer for state Treasurer |url=https://chroniclet.com/news/306425/ohio-education-association-endorses-schertzer-for-state-treasurer/ |access-date=November 20, 2025 |website=The Chronicle-Telegram}}</ref>
+
+'''Organizations'''
+*[[National Fraternal Order of Police|Fraternal Order of Police of Ohio]]<ref>{{Cite web |last=Weinman |first=Mike |title=2022 FOP of Ohio Endorsed Candidates |url=https://www.fopohio.org/Documents/Legislation/2022%20FOP%20of%20Ohio%20Endorsed%20Candidates.pdf |access-date=November 20, 2025 |website=Fraternal Order of Police of Ohio}}</ref>
+*[[Ohio Democratic Party]]<ref>{{Cite web |date=March 16, 2022 |title=Ohio Democratic Party Executive Committee Votes to Endorse Candidates in Statewide Races |url=https://ohiodems.org/ohio-democratic-party-executive-committee-votes-to-endorse-candidates-in-statewide-races/ |access-date=November 20, 2025 |website=Ohio Democrats}}</ref>
+}}
+=== Results ===
+{{Election box begin no change
+|title=2022 Ohio State Treasurer election<ref name="genresults">{{Cite web |title=2022 Official Election Results |url=https://www.ohiosos.gov/elections/election-results-and-data/2022-official-election-results/ |access-date=November 20, 2025 |website=Ohio Secretary of State}}</ref>
+}}
+{{Election box winning candidate with party link no change
+   |candidate  = [[Robert Sprague]] (incumbent)
+   |party      = Ohio Republican Party
+   |votes      = 2,390,542
+   |percentage = 58.55%
+ }}
+{{Election box candidate with party link no change
+   |candidate  = Scott Schertzer
+   |party      = Ohio Democratic Party
+   |votes      = 1,692,160
+   |percentage = 41.45%
+ }}
+{{Election box total no change
+| votes = 4,082,702
+| percentage = 100.00%
+}}
+{{Election box hold with party link no change|
+  |winner     = Ohio Republican Party
+}}
+{{Election box end}}
+==== By congressional district ====
+Sprague won 13 of 15 congressional districts, three of which elected Democrats.<ref>{{Cite web |title=OH 2022 Congressional (March 2, 2022) |url=https://davesredistricting.org/maps#stats::64d56870-70ea-4f4d-b667-9a4fd60ac511 |access-date=November 20, 2025 |website=Dave's Redistricting}}</ref>
+{| class=wikitable
+! District
+! Sprague
+! Schertzer
+! Representative
+|- align=center
+! rowspan=2 {{party shading/Republican}}|{{ushr|Ohio|1|1st}}
+| rowspan=2 |'''52%'''
+| rowspan=2 |48%
+| {{party shading/Republican}}|[[Steve Chabot]] ([[117th United States Congress|117th Congress]])
+|- align=center
+| {{party shading/Democratic}}|[[Greg Landsman]] ([[118th United States Congress|118th Congress]])
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|2|2nd}}
+| '''75%'''
+| 25%
+| {{party shading/Republican}}|[[Brad Wenstrup]]
+|- align=center
+! {{party shading/Democratic}}|{{ushr|Ohio|3|3rd}}
+| 34%
+| '''66%'''
+| {{party shading/Democratic}}|[[Joyce Beatty]]
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|4|4th}}
+| '''71%'''
+| 29%
+| {{party shading/Republican}}|[[Jim Jordan]]
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|5|5th}}
+| '''68%'''
+| 32%
+| {{party shading/Republican}}|[[Bob Latta]]
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|6|6th}}
+| '''67%'''
+| 33%
+| {{party shading/Republican}}|[[Bill Johnson (Ohio politician)|Bill Johnson]]
+|- align=center
+! rowspan=2 {{party shading/Republican}}|{{ushr|Ohio|7|7th}}
+| rowspan=2 |'''59%'''
+| rowspan=2 |41%
+| {{party shading/Republican}}|[[Bob Gibbs]] ([[117th United States Congress|117th Congress]])
+|- align=center
+| {{party shading/Republican}}|[[Max Miller (politician)|Max Miller]] ([[118th United States Congress|118th Congress]])
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|8|8th}}
+| '''66%'''
+| 34%
+| {{party shading/Republican}}|[[Warren Davidson]]
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|9|9th}}
+| '''56%'''
+| 44%
+| {{party shading/Democratic}}|[[Marcy Kaptur]]
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|10|10th}}
+| '''57%'''
+| 43%
+| {{party shading/Republican}}|[[Mike Turner]]
+|- align=center
+! {{party shading/Democratic}}|{{ushr|Ohio|11|11th}}
+| 25%
+| '''75%'''
+| {{party shading/Democratic}}|[[Shontel Brown]]
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|12|12th}}
+| '''69%'''
+| 31%
+| {{party shading/Republican}}|[[Troy Balderson]]
+|- align=center
+! rowspan=2 {{party shading/Republican}}|{{ushr|Ohio|13|13th}}
+| rowspan=2 |'''53%'''
+| rowspan=2 |47%
+| {{party shading/Democratic}}|[[Tim Ryan (Ohio politician)|Tim Ryan]] ([[117th United States Congress|117th Congress]])
+|- align=center
+| {{party shading/Democratic}}|[[Emilia Sykes]] ([[118th United States Congress|118th Congress]])
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|14|14th}}
+| '''61%'''
+| 39%
+| {{party shading/Republican}}|[[David Joyce (politician)|David Joyce]]
+|- align=center
+! {{party shading/Republican}}|{{ushr|Ohio|15|15th}}
+| '''58%'''
+| 42%
+| {{party shading/Republican}}|[[Mike Carey (politician)|Mike Carey]]
+|}
+
+== References ==
+{{Reflist}}
+
+{{2022 United States elections}}
+
+[[Category:2022 elections in Ohio|Treasurer]]
+[[Category:2022 United States state treasurer elections|Ohio]]
+[[Category:Ohio State Treasurer elections]]
+[[Category:November 2022 elections in the United States]]

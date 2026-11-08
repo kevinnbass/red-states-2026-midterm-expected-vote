@@ -1,0 +1,116 @@
+{{Short description|none}}
+{{Use American English|date=October 2025}}
+{{Infobox election
+| election_date = {{Start date|1998|11|03}}
+| election_name = 1998 Ohio Attorney General election
+| country = Ohio
+| type = presidential
+| ongoing = no
+| previous_election = 1994 Ohio Attorney General election
+| previous_year = 1994
+| next_election = 2002 Ohio Attorney General election
+| next_year = 2002
+| image_size = x150px
+| image1 = Betty Montgomery.jpg
+| nominee1 = '''[[Betty Montgomery]]'''
+| party1 = Republican Party (United States)
+| popular_vote1 = '''2,037,864'''
+| percentage1 = '''62.17%'''
+| image2 = Richard Cordray.jpg
+| nominee2 = [[Richard Cordray]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 1,240,102
+| percentage2 = 37.83%
+| map_image = [[File:1998 Ohio attorney general election results map by county.svg|200px]]
+| map_caption = County results<br/>'''Montgomery:''' {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}} {{legend0|#d72f30|70–80%}}<br/>'''Cordray:''' {{legend0|#7996e2|50–60%}}
+| title = Attorney General
+| before_election = [[Betty Montgomery]]
+| before_party = Republican Party (United States)
+| after_election = [[Betty Montgomery]]
+| after_party = Republican Party (United States)
+}}
+{{ElectionsOH}}
+The '''1998 Ohio Attorney General election''' was held on November 3, 1998, to elect the [[Ohio Attorney General]]. Republican incumbent Ohio Attorney General [[Betty Montgomery]] defeated Democratic challenger [[Solicitor General of Ohio]] [[Richard Cordray]] in a landslide, securing 62.17% of the vote.
+
+== Republican primary ==
+=== Candidates ===
+*[[Betty Montgomery]], incumbent [[Ohio Attorney General]] (1995–2003)
+=== Campaign ===
+The Republican primary was held on May 3, 1998. Montgomery won renomination without opposition.
+=== Results ===
+{{Election box begin no change
+| title = Republican primary results<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/1990-1999-official-election-results/republican-overview-may-3-1998/ |title=Republican Overview: May 3, 1998 - Ohio Secretary of State |website=Ohio Secretary of State |archive-url=https://web.archive.org/web/20210925040418/https://www.ohiosos.gov/elections/election-results-and-data/1990-1999-official-election-results/republican-overview-may-3-1998/ |archive-date=September 25, 2021}}</ref>
+}}
+{{Election box winning candidate with party link no change
+ | candidate  = [[Betty Montgomery]]
+ | party      = Republican Party (United States)
+ | votes      = 650,176
+ | percentage = 100%
+}}
+{{Election box total no change
+ | votes      =  650,176
+ | percentage = 100.00%
+}}
+{{Election box end}}
+
+== Democratic primary ==
+=== Candidates ===
+*[[Richard Cordray]], [[Solicitor General of Ohio]] (1993–1995)
+=== Campaign ===
+The Democratic primary was held on May 3, 1998. Cordray won the Democratic nomination unopposed.
+=== Results ===
+{{Election box begin no change
+| title = Democratic primary results<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/1990-1999-official-election-results/democratic-overview-may-3-1998/ |title=Democratic Overview: May 3, 1998 - Ohio Secretary of State |website=Ohio Secretary of State |archive-url=https://web.archive.org/web/20210925040418/https://www.ohiosos.gov/elections/election-results-and-data/1990-1999-official-election-results/democratic-overview-may-3-1998/ |archive-date=September 25, 2021}}</ref>
+}}
+{{Election box winning candidate with party link no change
+ | candidate  = [[Richard Cordray]]
+ | party      = Democratic Party (United States)
+ | votes      = 596,239
+ | percentage = 100%
+}}
+{{Election box total no change
+ | votes      =  596,239
+ | percentage = 100.00%
+}}
+{{Election box end}}
+
+== General election ==
+=== Candidates ===
+*[[Betty Montgomery]], incumbent [[Ohio Attorney General]] (1995–2003) (Republican)
+*[[Richard Cordray]], [[Solicitor General of Ohio]] (1993–1995) (Democratic)
+=== Results ===
+{{Election box begin | title=1998 Ohio Attorney General election results<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/1990-1999-official-election-results/attorney-general-and-state-auditor-november-3-1998/ |title=Attorney General and State Auditor: November 3, 1998 - Ohio Secretary of State |date= |website=Ohio Secretary of State |access-date=October 15, 2025 |archive-date=September 25, 2021 |archive-url=https://web.archive.org/web/20210925031215/https://www.ohiosos.gov/elections/election-results-and-data/1990-1999-official-election-results/attorney-general-and-state-auditor-november-3-1998/ |url-status=live}}</ref>
+}}
+{{Election box winning candidate with party link|
+ |party = Republican Party (United States)
+ |candidate = [[Betty Montgomery]]
+ |votes = 2,037,864
+ |percentage = 62.17%
+ |change = +10.81%
+}}
+{{Election box candidate with party link|
+ |party = Democratic Party (United States)
+ |candidate = [[Richard Cordray]]
+ |votes = 1,240,102
+ |percentage = 37.83%
+ |change = -10.8%
+}}
+{{Election box total no change
+ | votes      =  3,277,966
+ | percentage = 100.00%
+}}
+{{Election box hold with party link|
+  |winner     = Republican Party (United States)
+  |loser      = Democratic Party (United States)
+  |swing      =
+}}
+{{Election box end}}
+
+== References ==
+{{reflist}}
+
+{{1998 United States elections}}
+
+[[Category:1998 United States state attorney general elections|Ohio]]
+[[Category:1998 elections in Ohio|Attorney General]]
+[[Category:Ohio Attorney General elections]]

@@ -1,0 +1,203 @@
+{{Short description|none}}
+{{Use American English|date=February 2026}}
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name      = 2010 Ohio Attorney General election
+| country            = Ohio
+| type               = presidential
+| ongoing            = no
+| turnout            = 46.3% {{decrease}}
+| previous_election  = 2008 Ohio Attorney General special election
+| previous_year      = 2008 (special)
+| next_election      = 2014 Ohio Attorney General election
+| next_year          = 2014
+| election_date      = November 2, 2010
+| image1             = File:2011MikeDewineHiResWeb (cropped).jpg
+| image_size = 150x150px
+| nominee1           = '''[[Mike DeWine]]'''
+| party1             = Republican Party (United States)
+| popular_vote1      = '''1,821,414'''
+| percentage1        = '''47.54%'''
+| image2             = File:Richard Cordray.jpg
+| nominee2           = [[Richard Cordray]]
+| party2             = Democratic Party (United States)
+| popular_vote2      = 1,772,728
+| percentage2        = 46.26%
+| map_image          = {{switcher
+|[[File:2010 Ohio Attorney General election results map by county.svg|210px]]
+|County results
+|[[File:2010 Ohio attorney general election results map by congressional District.svg|210px]]
+|Congressional district results
+|default=1
+}}
+| map_size           = 200px
+| map_caption        =
+'''DeWine:''' {{legend0|#ffb2b2|40–50%}} {{legend0|#e27f7f|50–60%}} {{legend0|#d75d5d|60–70%}}<br />
+'''Cordray:'''  {{legend0|#a5b0ff|40-50%}} {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584cde|70–80%}}
+| title              = [[Ohio Attorney General|Attorney General]]
+| before_election    = [[Richard Cordray]]
+| before_party       = Democratic Party (United States)
+| after_election     = [[Mike DeWine]]
+| after_party        = Republican Party (United States)
+}}
+{{ElectionsOH}}
+The '''2010 Ohio Attorney General election''' was held on November 2, 2010, concurrently with other statewide offices including a [[2010 United States Senate election in Ohio|Class 1 Senate election]] as well as the [[2010 Ohio gubernatorial election|Governor election]]. Incumbent Democratic Attorney General [[Richard Cordray]] was first elected in a 2008 special election, and ran for a full 4-year term, losing to Republican challenger and former 2-term U.S. senator [[Mike DeWine]]. Being decided by 1.2%, this was the closest statewide election in Ohio. DeWine was later elected Governor of Ohio in  [[2018 Ohio gubernatorial election|2018]] in a rematch with Cordray.
+
+==Background==
+In 2008, then Ohio State Treasurer Richard Cordray ascended to the office of Attorney General following his victory in a [[2008 Ohio Attorney General special election|2008 special election]] triggered by the resignation of [[Marc Dann]]. Cordray won his election in a landslide winning by 18 percentage points, being held concurrently with the presidential election when [[Barack Obama]] [[2008 United States presidential election in Ohio|carried the state]] by a bit under 5 percentage points. During Cordray's tenure, he got involved in cases against the [[Bank of America Corporation]] as well as the [[American International Group]].
+
+In 2009, former United States Senator Mike DeWine announced he would seek the office of Attorney General, 3 years after [[Sherrod Brown]] defeated him in the [[2006 United States Senate election in Ohio|2006]] election.<ref>{{cite web | url=https://www.cleveland.com/open/2009/07/mike_dewine_will_run_for_ohio.html | title=Mike DeWine will run for Ohio attorney general | date=22 July 2009 }}</ref> Due to the growing unpopularity of the Obama administration, many political observers predicted 2010 would be a tough year for Democrats. As such, polling predicted that DeWine had a narrow edge over Cordray.<ref>{{cite web | url=https://www.surveyusa.com/client/PollReport.aspx?g=63f7766d-2465-4015-ab25-e62ddc7e6722 | title=Results of SurveyUSA Election Poll #17045 | date=13 September 2010 }}</ref>
+
+==Democratic primary==
+===Candidates===
+====Declared====
+* [[Richard Cordray]], incumbent [[Ohio Attorney General|Attorney General]],  former [[Ohio State Treasurer]], former [[Ohio House of Representatives]] member from the 33rd district, former Treasurer of [[Franklin County, Ohio|Franklin County]], former [[Solicitor General of Ohio]], nominee for [[Ohio's 15th congressional district|OH-15]] in [[1992 United States House of Representatives elections#Ohio|1992]], nominee for [[Ohio Attorney General|Attorney General]] in [[Ohio Attorney General#Elections|1998]], and candidate for U.S. Senate in [[2000 United States Senate election in Ohio|2000]].<ref>{{cite web | url=https://news.wosu.org/news/2010-02-16/ohio-attorney-general-richard-cordray-has-announced-hell-run-for-re-election | title=Ohio Attorney General Richard Cordray Has Announced He'll Run for Re-election | date=16 February 2010 }}</ref>
+
+===Results===
+{{Election box begin no change
+| title = Democratic primary<ref>{{cite web | url=https://www.ourcampaigns.com/RaceDetail.html?RaceID=553280 | title=Our Campaigns - OH Attorney General - R Primary Race - May 04, 2010 }}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate  = Richard Cordray (Incumbent)
+| party      = Democratic Party (United States)
+| votes      = 558,810
+| percentage = 100.00%
+}}
+{{Election box total no change
+| votes      = 558,810
+| percentage = 100.00%
+}}
+{{Election box end}}
+
+==Republican primary==
+===Candidates===
+====Declared====
+* [[Mike DeWine]], former [[U.S. Senator]], former [[lieutenant governor of Ohio]], and  former [[U.S. Representative]].<ref>{{cite web | url=https://www.cleveland.com/open/2009/07/mike_dewine_will_run_for_ohio.html | title=Mike DeWine will run for Ohio attorney general | date=22 July 2009 }}</ref>
+
+===Results===
+{{Election box begin no change
+| title = Republican primary<ref>{{cite web | url=https://www.ourcampaigns.com/RaceDetail.html?RaceID=553280 | title=Our Campaigns - OH Attorney General - R Primary Race - May 04, 2010 }}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate  = Mike DeWine
+| party      = Republican Party (United States)
+| votes      = 687,507
+| percentage = 100.00%
+}}
+{{Election box total no change
+| votes      = 687,507
+| percentage = 100.00%
+}}
+{{Election box end}}
+
+== General election ==
+=== Polling ===
+{| class="wikitable"
+|- valign=bottom
+! style="width:180px;"| Poll source
+! style="width:200px;"| Dates administered
+! style="width:100px;"| Richard<br />Cordray (D)
+! style="width:100px;"| Mike<br />DeWine (R)
+|-
+|[[Survey USA]]<ref>[http://www.surveyusa.com/client/PollReport.aspx?g=63f7766d-2465-4015-ab25-e62ddc7e6722 Survey USA]</ref>
+| align=center| September 10–13, 2010
+| align=center| 40%
+| align=center {{Party shading/Republican}} | '''47%'''
+|-
+|[[The Columbus Dispatch]]<ref>[https://web.archive.org/web/20100909132250/http://www.dispatchpolitics.com/live/content/local_news/stories/2010/09/05/copy/gop-resurgent.html?adsec=politics&sid=101 The Columbus Dispatch]</ref>
+| align=center| August 25 – September 3, 2010
+| align=center| 42%
+| align=center {{Party shading/Republican}} | '''44%'''
+|-
+|[[Public Policy Polling]]<ref>[http://www.publicpolicypolling.com/pdf/PPP_Release_OH_903.pdf Public Policy Polling]</ref>
+| align=center| August 27–29, 2010
+| align=center| 40%
+| {{party shading/Republican}} align=center| '''44%'''
+|-
+|[[Public Policy Polling]]<ref>[http://www.publicpolicypolling.com/pdf/hodgepodgetoplines.pdf Public Policy Polling]</ref>
+| align=center| June 26–27, 2010
+| align=center| 41%
+| {{party shading/Republican}} align=center| '''44%'''
+|}
+
+===Endorsements===
+{{Endorsements box
+| title = Richard Cordray
+| list =
+'''Newspapers'''
+* ''[[The Cincinnati Enquirer]]''<ref>{{cite web |url=http://www.ohiodailyblog.com/content/cincy-enquirer-endorses-cordray-pepper-boyce |title=Cincy Enquirer Endorses Cordray, Pepper, Boyce &#124; OhioDaily |website=www.ohiodailyblog.com |access-date=30 June 2022 |archive-url=https://web.archive.org/web/20160206162508/http://www.ohiodailyblog.com/content/cincy-enquirer-endorses-cordray-pepper-boyce |archive-date=6 February 2016 |url-status=usurped}}</ref>
+* ''[[Columbus Dispatch]]''<ref>{{cite web |url=https://www.dispatch.com/live/content/editorials/stories/2010/10/13/for-attorney-general.html?sid=101 |title=Endorsement: Cordray for attorney general &#124; the Columbus Dispatch |website=www.dispatch.com |access-date=30 June 2022 |archive-url=https://web.archive.org/web/20101115080529/https://www.dispatch.com/live/content/editorials/stories/2010/10/13/for-attorney-general.html?sid=101 |archive-date=15 November 2010 |url-status=dead}}</ref>
+* ''[[Cleveland Plain Dealer]]''<ref>{{cite web |url=https://www.cleveland.com/opinion/2010/10/the_plain_dealer_endorses_rich.html |title=The Plain Dealer endorses Richard Cordray for attorney general of Ohio: Editorial |date=6 October 2010}}</ref>
+'''Organizations'''
+* Buckeye Firearms Association<ref>{{cite web |url=https://www.buckeyefirearms.org/node/7360 |title=Buckeye Firearms Association endorses Richard Cordray for Ohio Attorney General &#124; Buckeye Firearms Association}}</ref>
+* Canton Police Patrolman's Association<ref>{{cite web |url=https://glasscityjungle.com/2010/08/every-law-enforcement-group-in-state-has-endorsed-cordray/ |title=Every law enforcement group in State has endorsed Cordray &#124; Glass City Jungle |website=glasscityjungle.com |access-date=30 June 2022 |archive-url=https://web.archive.org/web/20101126185421/https://glasscityjungle.com/2010/08/every-law-enforcement-group-in-state-has-endorsed-cordray/ |archive-date=26 November 2010 |url-status=dead}}</ref>
+* Cleveland Police Patrolmen's Association<ref>{{cite web |url=https://glasscityjungle.com/2010/08/every-law-enforcement-group-in-state-has-endorsed-cordray/ |title=Every law enforcement group in State has endorsed Cordray &#124; Glass City Jungle |website=glasscityjungle.com |access-date=30 June 2022 |archive-url=https://web.archive.org/web/20101126185421/https://glasscityjungle.com/2010/08/every-law-enforcement-group-in-state-has-endorsed-cordray/ |archive-date=26 November 2010 |url-status=dead}}</ref>
+* Toledo Police Command Officers Association<ref>{{cite web |url=https://glasscityjungle.com/2010/08/every-law-enforcement-group-in-state-has-endorsed-cordray/ |title=Every law enforcement group in State has endorsed Cordray &#124; Glass City Jungle |website=glasscityjungle.com |access-date=30 June 2022 |archive-url=https://web.archive.org/web/20101126185421/https://glasscityjungle.com/2010/08/every-law-enforcement-group-in-state-has-endorsed-cordray/ |archive-date=26 November 2010 |url-status=dead}}</ref>
+* Toledo Police Patrolmen's Association<ref>{{cite web |url=https://glasscityjungle.com/2010/08/every-law-enforcement-group-in-state-has-endorsed-cordray/ |title=Every law enforcement group in State has endorsed Cordray &#124; Glass City Jungle |website=glasscityjungle.com |access-date=30 June 2022 |archive-url=https://web.archive.org/web/20101126185421/https://glasscityjungle.com/2010/08/every-law-enforcement-group-in-state-has-endorsed-cordray/ |archive-date=26 November 2010 |url-status=dead}}</ref>
+* Troopers for a Safer Ohio<ref>{{cite web |url=https://glasscityjungle.com/2010/08/every-law-enforcement-group-in-state-has-endorsed-cordray/ |title=Every law enforcement group in State has endorsed Cordray &#124; Glass City Jungle |website=glasscityjungle.com |access-date=30 June 2022 |archive-url=https://web.archive.org/web/20101126185421/https://glasscityjungle.com/2010/08/every-law-enforcement-group-in-state-has-endorsed-cordray/ |archive-date=26 November 2010 |url-status=dead}}</ref>
+* Ohio Patrolmen's Benevolent Association<ref>{{cite web |url=https://glasscityjungle.com/2010/08/every-law-enforcement-group-in-state-has-endorsed-cordray/ |title=Every law enforcement group in State has endorsed Cordray &#124; Glass City Jungle |website=glasscityjungle.com |access-date=30 June 2022 |archive-url=https://web.archive.org/web/20101126185421/https://glasscityjungle.com/2010/08/every-law-enforcement-group-in-state-has-endorsed-cordray/ |archive-date=26 November 2010 |url-status=dead}}</ref>
+* NARAL Pro-Choice Ohio
+'''Unions'''
+* Ohio [[AFL–CIO]]
+* [[Communications Workers of America]]
+}}
+{{Endorsements box
+| title = Mike DeWine
+| list =
+'''Organizations'''
+* Ohio Right to Life
+* Ohio Veterans United
+}}
+
+===Results===
+In the end, DeWine defeated Cordary by exactly 1.28 percentage points. Cordray held his own in his home county of Franklin and various other suburbs but, his loss can be mainly attributed to his loss of ground in Appalachian Ohio as well as the overwhelmingly Republican national environment. DeWine similarly did well in his home county of Greene and narrowly carried the ancestrally Republican [[Hamilton County, Ohio|Hamilton County]].{{Election box begin
+| title = 2010 Ohio Attorney General election<ref>{{cite web |url=https://www.ohiosos.gov/elections/election-results-and-data/2010-elections-results/attorney-general-november-2-2010/ |title=ATTORNEY GENERAL: NOVEMBER 2, 2010. Amended Official Results |date= |website=[[Ohio Secretary of State]]}}</ref>
+}}
+{{Election box winning candidate with party link
+| candidate = [[Mike DeWine]]
+| party = Republican Party (United States)
+| votes = 1,821,414
+| percentage = 47.54
+| change     = +9.13%
+}}
+{{Election box candidate with party link
+| candidate = [[Richard Cordray]] (incumbent)
+| party = Democratic Party (United States)
+| votes = 1,772,728
+| percentage = 46.26
+| change     = -10.46%
+}}
+{{Election box candidate with party link
+| candidate = Robert Owens 
+| party = Constitution Party (United States)
+| votes = 130,065
+| percentage = 3.39
+| change     = N/A
+}}
+{{Election box candidate with party link
+| candidate = Marc Allan Feldman
+| party = Libertarian Party (United States)
+| votes = 107,521
+| percentage = 2.81
+| change     = N/A
+}}
+{{Election box total
+| votes = 3,729,428
+| percentage = 100.00
+| change     = N/A
+}}
+{{Election box gain with party link no change
+| winner = Republican Party (United States)
+| loser = Democratic Party (United States)
+}}
+{{Election box end}}
+
+==Notes==
+{{Reflist}}
+
+{{United States general elections, 2010}}
+
+{{DEFAULTSORT:Ohio Attorney General Election, 2010}}
+[[Category:2010 elections in Ohio]]
+[[Category:Ohio Attorney General elections|2010]]
+[[Category:2010 United States state attorney general elections]]
