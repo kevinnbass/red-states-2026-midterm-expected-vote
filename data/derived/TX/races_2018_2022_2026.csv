@@ -1,0 +1,45 @@
+race_2026,office,year,rep_nominee,rep_votes,dem_nominee,dem_votes,basis
+U.S. Senate,us_senate,2018,Ted Cruz(I),4260553,Beto O'Rourke,4045632,official
+U.S. Senate,us_senate,2026,KEN PAXTON,4249373,JAMES TALARICO,5444982,unofficial
+Governor,governor,2018,Greg Abbott(I),4656196,Lupe Valdez,3546615,official
+Governor,governor,2022,GREG ABBOTT (I),4437099,BETO O'ROURKE,3553656,official
+Governor,governor,2026,GREG ABBOTT (I),4524527,GINA HINOJOSA,5230789,unofficial
+Lieutenant Governor,lieutenant_governor,2018,Dan Patrick(I),4260990,Mike Collier,3860865,official
+Lieutenant Governor,lieutenant_governor,2022,DAN PATRICK (I),4317692,MIKE COLLIER,3492544,official
+Lieutenant Governor,lieutenant_governor,2026,DAN PATRICK (I),4484652,VIKKI GOODWIN,5083581,unofficial
+Attorney General,attorney_general,2018,Ken Paxton(I),4193207,Justin Nelson,3898098,official
+Attorney General,attorney_general,2022,KEN PAXTON (I),4278986,ROCHELLE MERCEDES GARZA,3497267,official
+Attorney General,attorney_general,2026,MAYES MIDDLETON,4502442,NATHAN JOHNSON,5133629,unofficial
+Comptroller,comptroller,2018,Glenn Hegar(I),4376828,Joi Chevalier,3570693,official
+Comptroller,comptroller,2022,GLENN HEGAR (I),4496319,JANET T. DUDDING,3265069,official
+Comptroller,comptroller,2026,DON HUFFINES,4511185,SARAH ECKHARDT,5014496,unofficial
+Land Commissioner,land_commissioner,2018,George P. Bush(I),4435202,Miguel Suazo,3567927,official
+Land Commissioner,land_commissioner,2022,DAWN BUCKINGHAM,4463452,JAY KLEBERG,3350291,official
+Land Commissioner,land_commissioner,2026,DAWN BUCKINGHAM (I),4576883,BENJAMIN FLORES,5014714,unofficial
+Agriculture Commissioner,agriculture_commissioner,2018,Sid Miller(I),4221527,Kim Olson,3822137,official
+Agriculture Commissioner,agriculture_commissioner,2022,SID MILLER (I),4480186,SUSAN HAYS,3473603,official
+Agriculture Commissioner,agriculture_commissioner,2026,NATE SHEETS,4538736,CLAYTON TUCKER,4991896,unofficial
+Railroad Commissioner,railroad_commissioner,2018,Christi Craddick(I),4376729,Roman McAllen,3612130,official
+Railroad Commissioner,railroad_commissioner,2022,WAYNE CHRISTIAN (I),4401187,LUKE WARFORD,3222305,official
+Railroad Commissioner,railroad_commissioner,2026,BO FRENCH,4426141,JON ROSENTHAL,5103177,unofficial
+"CHIEF JUSTICE, SUPREME COURT",supreme_court,2018,,4387749,,3808852,"average of Justice, Supreme Court, Place 2, Justice, Supreme Court, Place 4, Justice, Supreme Court, Place 6"
+"CHIEF JUSTICE, SUPREME COURT",supreme_court,2022,,4493568,,3398229,"average of JUSTICE, SUPREME COURT, PLACE 3, JUSTICE, SUPREME COURT, PLACE 5, JUSTICE, SUPREME COURT, PLACE 9"
+"CHIEF JUSTICE, SUPREME COURT",supreme_court,2026,JIMMY BLACKLOCK (I),4625886,MAGGIE ELLIS,5102288,unofficial
+"JUSTICE, SUPREME COURT, PLACE 2 - UNEXPIRED TERM",supreme_court,2018,,4387749,,3808852,"average of Justice, Supreme Court, Place 2, Justice, Supreme Court, Place 4, Justice, Supreme Court, Place 6"
+"JUSTICE, SUPREME COURT, PLACE 2 - UNEXPIRED TERM",supreme_court,2022,,4493568,,3398229,"average of JUSTICE, SUPREME COURT, PLACE 3, JUSTICE, SUPREME COURT, PLACE 5, JUSTICE, SUPREME COURT, PLACE 9"
+"JUSTICE, SUPREME COURT, PLACE 2 - UNEXPIRED TERM",supreme_court,2026,JAMES P. SULLIVAN (I),4631182,CHARI KELLY,5068047,unofficial
+"JUSTICE, SUPREME COURT, PLACE 7",supreme_court,2018,,4387749,,3808852,"average of Justice, Supreme Court, Place 2, Justice, Supreme Court, Place 4, Justice, Supreme Court, Place 6"
+"JUSTICE, SUPREME COURT, PLACE 7",supreme_court,2022,,4493568,,3398229,"average of JUSTICE, SUPREME COURT, PLACE 3, JUSTICE, SUPREME COURT, PLACE 5, JUSTICE, SUPREME COURT, PLACE 9"
+"JUSTICE, SUPREME COURT, PLACE 7",supreme_court,2026,KYLE HAWKINS (I),4572758,KRISTEN HAWKINS,5112073,unofficial
+"JUSTICE, SUPREME COURT, PLACE 8",supreme_court,2018,,4387749,,3808852,"average of Justice, Supreme Court, Place 2, Justice, Supreme Court, Place 4, Justice, Supreme Court, Place 6"
+"JUSTICE, SUPREME COURT, PLACE 8",supreme_court,2022,,4493568,,3398229,"average of JUSTICE, SUPREME COURT, PLACE 3, JUSTICE, SUPREME COURT, PLACE 5, JUSTICE, SUPREME COURT, PLACE 9"
+"JUSTICE, SUPREME COURT, PLACE 8",supreme_court,2026,BRETT BUSBY (I),4643375,GISELA D. TRIANA,5033586,unofficial
+"JUDGE, COURT OF CRIMINAL APPEALS, PLACE 3",cca,2018,,4359013,,3742146,"average of Presiding Judge, Court of Criminal Appeals, Judge, Court of Criminal Appeals Place 7"
+"JUDGE, COURT OF CRIMINAL APPEALS, PLACE 3",cca,2022,,4519904,,3398388,"average of JUDGE, COURT OF CRIMINAL APPEALS PLACE 5, JUDGE, COURT OF CRIMINAL APPEALS PLACE 6"
+"JUDGE, COURT OF CRIMINAL APPEALS, PLACE 3",cca,2026,THOMAS SMITH,4601878,OKEY ANYIAM,4839230,unofficial
+"JUDGE, COURT OF CRIMINAL APPEALS, PLACE 4",cca,2018,,4359013,,3742146,"average of Presiding Judge, Court of Criminal Appeals, Judge, Court of Criminal Appeals Place 7"
+"JUDGE, COURT OF CRIMINAL APPEALS, PLACE 4",cca,2022,,4519904,,3398388,"average of JUDGE, COURT OF CRIMINAL APPEALS PLACE 5, JUDGE, COURT OF CRIMINAL APPEALS PLACE 6"
+"JUDGE, COURT OF CRIMINAL APPEALS, PLACE 4",cca,2026,KEVIN PATRICK YEARY (I),4659299,AUDRA RILEY,4996898,unofficial
+"JUDGE, COURT OF CRIMINAL APPEALS, PLACE 9",cca,2018,,4359013,,3742146,"average of Presiding Judge, Court of Criminal Appeals, Judge, Court of Criminal Appeals Place 7"
+"JUDGE, COURT OF CRIMINAL APPEALS, PLACE 9",cca,2022,,4519904,,3398388,"average of JUDGE, COURT OF CRIMINAL APPEALS PLACE 5, JUDGE, COURT OF CRIMINAL APPEALS PLACE 6"
+"JUDGE, COURT OF CRIMINAL APPEALS, PLACE 9",cca,2026,JOHN MESSINGER,4602681,HOLLY TAYLOR,5043094,unofficial

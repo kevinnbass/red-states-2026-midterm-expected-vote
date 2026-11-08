@@ -8,7 +8,7 @@ LINKS = json.load(open(sys.argv[sys.argv.index("--links") + 1])) if "--links" in
 CFG = json.load(open(os.path.join(ROOT, "states.json")))
 POOL = json.load(open(os.path.join(ROOT, "data", "derived", "pool.json")))
 NAMES = {"TX": "Texas", "OH": "Ohio", "KS": "Kansas", "IA": "Iowa", "AK": "Alaska", "MS": "Mississippi", "SC": "South Carolina", "IN": "Indiana"}
-ORDER = [s for s in ("OH", "KS", "IA", "AK", "MS", "SC", "IN") if os.path.exists(os.path.join(ROOT, "data", "derived", s, "expected.csv"))]
+ORDER = [s for s in CFG["states"] if os.path.exists(os.path.join(ROOT, "data", "derived", s, "expected.csv"))]
 M = "−"
 k = lambda x: f"{x / 1e3:+,.0f}K".replace("-", M)
 
@@ -57,7 +57,7 @@ PL = [("own", "This state only"), ("published", "First version (8 states)"), ("s
 ptab = ["", "### How much the pool for the president's-party effect matters", "",
         "Main race, actual minus adjusted expected votes (R / D), and the effect b used for 2026 (points of the presidential vote):", "",
         "| State | " + " | ".join(l for _, l in PL) + " |", "|---|" + "---|" * len(PL)]
-for st in ORDER + ["TX"]:
+for st in ORDER + [x for x in ("TX",) if x not in ORDER]:
     cells = []
     for kp, _ in PL:
         r = cmp[(st, kp)]
@@ -74,8 +74,9 @@ out += ["## Rebuild", "", "```", "pip install -r requirements.txt", "./build.sh 
         "- `data/raw/` — the downloaded source files (10 MB or less); `data/SOURCES.csv` lists every source with URL and sha256,",
         "  including larger files that are not copied.", "- `data/derived/` — the computed tables; `figures/` — the figures; `site/` — the web page builder.",
         "- `src/expected.py` (the computation), `src/figs.py` (figures), `src/build_states.py` (all states), `src/verify.py`.", "",
-        "Texas inputs are included because Texas is part of the pooled president's-party estimate; the Texas figures and raw files are in",
-        "[texas-2026-midterm-expected-vote](https://github.com/kevinnbass/texas-2026-midterm-expected-vote).", ""]
+        "Indiana's inputs stay in `data/inputs/IN/` as part of the pooled president's-party estimate, without figures of its own. Texas's raw",
+        "files and its full write-up are in [texas-2026-midterm-expected-vote](https://github.com/kevinnbass/texas-2026-midterm-expected-vote),",
+        "which uses this same pool (`tools/export_pool_rows.py`), so both repositories give the same Texas numbers.", ""]
 open(os.path.join(ROOT, "README.md"), "w").write("\n".join(out))
 
 meth = f"""# Methodology

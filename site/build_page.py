@@ -18,7 +18,7 @@ RUN, INPUTS, OUT = sys.argv[1], sys.argv[2], sys.argv[3]
 LINKS = json.load(open(sys.argv[sys.argv.index("--links") + 1])) if "--links" in sys.argv else {}
 CFG = json.load(open(os.path.join(ROOT, "states.json")))
 POOL = json.load(open(os.path.join(RUN, "pool.json")))
-ORDER = [s for s in ("OH", "KS", "IA", "AK", "MS", "SC", "IN") if s in CFG["states"] and os.path.exists(os.path.join(RUN, s, "expected.csv"))]
+ORDER = [s for s in CFG["states"] if os.path.exists(os.path.join(RUN, s, "expected.csv"))]
 NAMES = {"TX": "Texas", "OH": "Ohio", "KS": "Kansas", "IA": "Iowa", "AK": "Alaska", "MS": "Mississippi", "SC": "South Carolina", "IN": "Indiana"}
 e = html.escape
 
@@ -129,7 +129,7 @@ OFFN = {"governor": "Governor", "us_senate": "Senate", "secretary_of_state": "Se
 if CMP:
     head = "".join(f"<th>{e(l)}</th>" for _, l in PLAB)
     body = []
-    for st in ORDER + ["TX"]:
+    for st in ORDER + [x for x in ("TX",) if x not in ORDER]:
         cells = []
         for k, _ in PLAB:
             r = CMP[(st, k)]
