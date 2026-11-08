@@ -44,3 +44,14 @@ The helper's file is kept as statewide_results_helper.csv; statewide_results.csv
   expected vote). AP's feed has no Treasurer or Insurance Commissioner race, so those offices have no 2026 row.
 Still missing: everything 1994-2010 for state offices, 2014 Governor, and 2018/2022 Treasurer and Insurance Commissioner. Those need the
 Secretary of State's canvass files (Kevin's decision).
+
+## Official Secretary of State files (main session, 2026-11-08, tools/ks_official.py)
+sos.ks.gov refuses the home address at CloudFront; Kevin added its CloudFront blocks (108.157.150.0/24, 18.154.219.0/24) to the
+ProtonWG split tunnel, and the official general-election vote totals were then downloaded one at a time (provenance.csv):
+2006, 2014, 2018, 2022 (PDF text layers) and 2010 (scanned PDF, page 1 read from a rendered image; every value checked against its
+printed percentage, which the report truncates). These replace the secondary rows for 2010-2022 and add 2006 and 2010 state offices,
+2014 Governor and 2018/2022 Insurance Commissioner and 2022 Treasurer. The secondary values they replace matched within 20 votes.
+statewide_results_pre_official.csv keeps the file as it was before this step; ks_2010_from_images.csv holds the 2010 rows.
+Not available: the online index starts in 2004; 1994, 1998 and 2002 general-election files are not posted (requests redirect), and the
+Douglas County copy of the 2002 totals has been taken down (the saved file is its home page, marked _NOT_PDF.html). U.S. Senate 1998
+stays on the MIT Election Lab file.

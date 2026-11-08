@@ -52,33 +52,26 @@
   },
   "KS": {
    "name": "Kansas",
-   "source": "MIT Election Data and Science Lab (U.S. Senate; 2022 state offices); OpenElections (2014 and 2018 state offices); AP via NPR (2026)",
+   "source": "Kansas Secretary of State official vote totals (2006–2022 state offices and 2010–2022 U.S. Senate); MIT Election Data and Science Lab (U.S. Senate 1998); AP via NPR (2026)",
    "asof": "AP count fetched Nov. 8, 2026, about 99% of the expected vote",
    "notes": [
-    "The Kansas Secretary of State's canvass files could not be fetched automatically, so the state offices rest on secondary sources and have only 2014–2022 history (Governor: 2018 and 2022). Treasurer and Insurance Commissioner are left out (no 2026 count in the AP feed). U.S. Senate 2002 and 2014: no Democratic nominee."
+    "The Secretary of State's results files online start in 2004, so the state offices have 2006–2022 history only (1994–2002 not available). Treasurer and Insurance Commissioner have no 2026 count in the AP feed and are left out. U.S. Senate 2002 and 2014: no Democratic nominee."
    ],
    "no_data": {
     "governor": [
      1994,
      1998,
-     2002,
-     2006,
-     2010,
-     2014
+     2002
     ],
     "attorney_general": [
      1994,
      1998,
-     2002,
-     2006,
-     2010
+     2002
     ],
     "secretary_of_state": [
      1994,
      1998,
-     2002,
-     2006,
-     2010
+     2002
     ]
    }
   },
