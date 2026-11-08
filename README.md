@@ -4,6 +4,8 @@ For every statewide race on these states' 2026 ballots, the vote each party woul
 midterm pattern, set against the unofficial 2026 count, with the full 1994–2026 history behind it. Same method as
 [texas-2026-midterm-expected-vote](https://github.com/kevinnbass/texas-2026-midterm-expected-vote).
 
+Web page with all figures: https://claude.ai/artifact/P9vUFZhAxmd5hYCTHubMUd
+
 **2026 counts are unofficial** and come from different sources and dates by state (see each state below). Rebuild with
 `./build.sh` after certified results are added to `data/inputs/`.
 
@@ -40,6 +42,7 @@ Adjusted = the expectation including the usual midterm effect of holding the Whi
 - Sources: Ohio Secretary of State (results pages 1994–2002 and 2010, workbooks 2014–2022, from Internet Archive captures); OpenElections (2006, the Secretary of State's precinct file); AP via NPR (2026); Wikipedia (2026 Auditor and Supreme Court).
 - The 2026 Treasurer race has no published vote count yet and is left out. Supreme Court races had no party labels on the ballot before 2022, so that office's baseline is 2022 only; the two 2026 seats are averaged. The 2026 U.S. Senate race is a special election for the rest of the term.
 - Inputs: [`data/inputs/OH/`](data/inputs/OH/) (its README lists every source and check); panels: [`figures/oh/panels/`](figures/oh/panels/).
+- Write-up: [What moved the Ohio vote in 2026](https://claude.ai/artifact/TxTiFtkTipZ7qrnZkY5Dod)
 
 ## Kansas
 
@@ -58,6 +61,7 @@ Adjusted = the expectation including the usual midterm effect of holding the Whi
 - Sources: MIT Election Data and Science Lab (U.S. Senate; 2022 state offices); OpenElections (2014 and 2018 state offices); AP via NPR (2026).
 - The Kansas Secretary of State's canvass files could not be fetched automatically, so the state offices rest on secondary sources and have only 2014–2022 history (Governor: 2018 and 2022). Treasurer and Insurance Commissioner are left out (no 2026 count in the AP feed). U.S. Senate 2002 and 2014: no Democratic nominee.
 - Inputs: [`data/inputs/KS/`](data/inputs/KS/) (its README lists every source and check); panels: [`figures/ks/panels/`](figures/ks/panels/).
+- Write-up: [What moved the Kansas vote in 2026](https://claude.ai/artifact/XmjgDi7jHMVqSthtag5cwZ)
 
 ## Iowa
 
@@ -79,6 +83,7 @@ Adjusted = the expectation including the usual midterm effect of holding the Whi
 - Sources: Iowa Secretary of State canvass (1994, 2014, 2022); OpenElections (1998 Senate, 2002–2018, secondary); Wikipedia (some Governor rows, secondary); AP via NPR and the state's results site (2026).
 - The Iowa Secretary of State's site refuses automated requests, so some years rest on secondary sources until archived copies of the canvass arrive; 1998 down-ballot offices are not yet filled.
 - Inputs: [`data/inputs/IA/`](data/inputs/IA/) (its README lists every source and check); panels: [`figures/ia/panels/`](figures/ia/panels/).
+- Write-up: [What moved the Iowa vote in 2026](https://claude.ai/artifact/XshXMj9obj9VhsfrsGJF3N)
 
 ## Alaska
 
@@ -97,6 +102,7 @@ Adjusted = the expectation including the usual midterm effect of holding the Whi
 - From 2022 Alaska uses a top-four primary and a ranked-choice general election, with no party nominees: each party's vote for 2022 and 2026 is the combined first-choice vote of its candidates (ranked-choice tabulation for 2026 is set for Nov. 18). A + after a name marks that combined vote.
 - 2026 U.S. House: independent Bill Hill (86,023) is not counted as Democratic. 2010 U.S. Senate: Lisa Murkowski's write-in votes (101,091) are not counted as Republican. 2014 Governor: no Democratic nominee (the Walker/Mallott independent ticket is not counted). 2022 Governor: independent Bill Walker (54,668) is not counted as Democratic. 2026 U.S. Senate: Daniel J. Sullivan Jr. (no party, 3,600) is not counted as Republican.
 - Inputs: [`data/inputs/AK/`](data/inputs/AK/) (its README lists every source and check); panels: [`figures/ak/panels/`](figures/ak/panels/).
+- Write-up: [What moved the Alaska vote in 2026](https://claude.ai/artifact/EYRgFH2onscg5JJcSncTgY)
 
 ## Mississippi
 
@@ -112,6 +118,7 @@ Adjusted = the expectation including the usual midterm effect of holding the Whi
 - Sources: MIT Election Data and Science Lab (U.S. Senate 1994–2022); AP via NPR (2026).
 - Only the U.S. Senate is on Mississippi's 2026 statewide ballot. The 2018 special Senate election (decided in a Nov. 27 runoff) is left out; 2002 had no Democratic nominee.
 - Inputs: [`data/inputs/MS/`](data/inputs/MS/) (its README lists every source and check); panels: [`figures/ms/panels/`](figures/ms/panels/).
+- Write-up: [What moved the Mississippi vote in 2026](https://claude.ai/artifact/4V6xZVmCcHVQhwD1fDFpKd)
 
 ## South Carolina
 
@@ -134,6 +141,7 @@ Adjusted = the expectation including the usual midterm effect of holding the Whi
 - Sources: South Carolina State Election Commission (Election Reports 1994–2006, election-night reporting files 2010–2026).
 - Governor and Lieutenant Governor run as one ticket from 2018. Some offices had no Democratic nominee in some years; those years are left out of that office's baseline.
 - Inputs: [`data/inputs/SC/`](data/inputs/SC/) (its README lists every source and check); panels: [`figures/sc/panels/`](figures/sc/panels/).
+- Write-up: [What moved the South Carolina vote in 2026](https://claude.ai/artifact/QR3PRnaGkL9an8j9cXzMbf)
 
 ## Indiana
 
@@ -151,6 +159,7 @@ Adjusted = the expectation including the usual midterm effect of holding the Whi
 - Sources: Indiana Election Division (2002–2022 and 2026); Capitol & Washington (state offices 1994–1998, secondary); MIT Election Data and Science Lab (U.S. Senate 1994–1998).
 - The Auditor of State is titled State Comptroller from 2026.
 - Inputs: [`data/inputs/IN/`](data/inputs/IN/) (its README lists every source and check); panels: [`figures/in/panels/`](figures/in/panels/).
+- Write-up: [What moved the Indiana vote in 2026](https://claude.ai/artifact/4VcgQGmKS1dT6We2xXuTpm)
 
 ## Rebuild
 

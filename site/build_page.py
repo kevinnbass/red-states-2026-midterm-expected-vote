@@ -47,17 +47,23 @@ for i, st in enumerate(ORDER):
     g26 = {r["race_2026"]: r for r in G if r["year"] == "2026"}
     ex = {r["office"]: r for r in E}
     races, rows = [], []
+    offices = []
     for race in order:
-        x = ex[off[race]]
+        if off[race] not in offices:
+            offices.append(off[race])
+    for o in offices:  # several seats of one office are averaged by the method: one row per office
+        x = ex[o]
+        seats = [r for r in order if off[r] == o]
+        race = x["title"] if len(seats) > 1 else seats[0]
         f = lambda k: float(x[k])
         ra, da = f("rep"), f("dem")
-        rec = {"race": re.sub(r"\s*\(.*\)$", "", race), "ra": ra, "da": da,
+        rec = {"race": re.sub(r"\s*\(.*\)$", "", race) + (f" ({len(seats)} seats, average)" if len(seats) > 1 else ""), "ra": ra, "da": da,
                "plain": {"r": 100 * (ra / f("expected_rep") - 1), "d": 100 * (da / f("expected_dem") - 1), "re": f("expected_rep"), "de": f("expected_dem")},
                "inc": {"r": 100 * (ra / f("expected_inc_rep") - 1), "d": 100 * (da / f("expected_inc_dem") - 1),
                        "re": f("expected_inc_rep"), "de": f("expected_inc_dem")}}
         races.append(rec)
-        g = g26[race]
-        rows.append(f"<tr><td class='l'><span class='rn'>{e(rec['race'])}</span><span class='who'>{e(g['rep_nominee'])} (R) · {e(g['dem_nominee'])} (D)</span></td>"
+        who = "; ".join(f"{g26[r]['rep_nominee']} (R) · {g26[r]['dem_nominee']} (D)" for r in seats)
+        rows.append(f"<tr><td class='l'><span class='rn'>{e(rec['race'])}</span><span class='who'>{e(who)}</span></td>"
                     f"<td>{int(ra):,}</td><td>{int(f('expected_rep')):,}</td><td class='dv'>{kk(ra - f('expected_rep'))}</td><td class='dv'>{kk(ra - f('expected_inc_rep'))}</td>"
                     f"<td class='sep'>{int(da):,}</td><td>{int(f('expected_dem')):,}</td><td class='dv'>{kk(da - f('expected_dem'))}</td><td class='dv'>{kk(da - f('expected_inc_dem'))}</td></tr>")
     DATA["overview"].append({"name": name, "races": races})

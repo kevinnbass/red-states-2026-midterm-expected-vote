@@ -1,0 +1,15 @@
+{
+ "repo": "https://github.com/kevinnbass/red-states-2026-midterm-expected-vote",
+ "figures": "https://claude.ai/artifact/P9vUFZhAxmd5hYCTHubMUd",
+ "texas_figures": "https://claude.ai/artifact/49rXF9aoDH3va3ccv23MvF",
+ "texas": "https://claude.ai/artifact/5iGWftZx4ogxPTsZx6G6Db",
+ "writeups": {
+  "OH": "https://claude.ai/artifact/TxTiFtkTipZ7qrnZkY5Dod",
+  "KS": "https://claude.ai/artifact/XmjgDi7jHMVqSthtag5cwZ",
+  "IA": "https://claude.ai/artifact/XshXMj9obj9VhsfrsGJF3N",
+  "AK": "https://claude.ai/artifact/EYRgFH2onscg5JJcSncTgY",
+  "MS": "https://claude.ai/artifact/4V6xZVmCcHVQhwD1fDFpKd",
+  "SC": "https://claude.ai/artifact/QR3PRnaGkL9an8j9cXzMbf",
+  "IN": "https://claude.ai/artifact/4VcgQGmKS1dT6We2xXuTpm"
+ }
+}
